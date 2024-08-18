@@ -1,0 +1,137 @@
+90 U.S. 283
+THOMAS & CO.
+v.
+WOOLDRIDGE.
+October Term, 1874
+1
+It is first objected that this motion cannot be entertained now because the appellants had until the next term to file the record. In Ex parte Russell,8 we decided that 'unless some unforeseen inconvenience should arise from the practice, we would not refuse to hear a motion to dismiss before the term in which, in regular order, the record ought to be returned,' if the record was actually brought here and printed. We think now, as we did then, that such a practice will 'be likely to prevent great delays and expense and further the ends of justice.'
+1
+2
+It is next objected that the notice of the motion is insufficient, because it was not accompanied by a copy of the brief or argument to be used in its support, as required by the amendment to Rule 6, adopted at the December Term, This might have been a good cause for postponing the hearing to give time for further preparation, if application therefor had been made. Instead of that a full argument has been filed upon the merits of the motion. No more could be done if the hearing should be now postponed. Under these circumstances we are inclined to treat the filing of the argument as a waiver of the notice required by the rule.
+2
+3
+It is next objected that all the parties defendant in the lower court are not parties to this motion to dismiss. The motion is made by the appellees and is signed by the attorney of the only defendant in the court below who had any real interest in the litigation, and the only one who filed an answer.
+3
+4
+This brings us to the merits of the motion. We have many times decided that an appeal will not lie from a decree dissolving an injunction without dismissing the bill.9
+4
+5
+In this case the bill was not dismissed. It may have been the intention of the court to dispose of the whole case by the entry as made, but that intention is certainly not expressed. A motion was made to dissolve the injunction upon the bill and answer filed. It does not appear that the case was heard except upon this motion, and there is nothing in the record to show that it will not be still within the power of the Circuit Court upon the dismissal of the appeal to grant the complainants all the relief they ask. The case is still open on its merits. It is only the interlocutory order that has been disposed of.
+5
+6
+APPEAL DISMISSED.
+6
+
+1
+
+2
+
+3
+
+4
+
+5
+
+6
+
+7
+
+8
+
+9
+
+1
+Young v. Grundy, 6 Cranch, 51; Moses v. The Mayor. 
+
+1
+
+2
+Gibbons v. Ogden, Wheaton, 448; United States v. Clarke. 
+
+2
+
+Wallace, 342; and see Railroad v. Bradleys, Ib. Stovall v. Bank. Wells v. McGregor, Insurance Co. v. Barton, Ib. St. Clair Co. v. Lovingston. 
+
+3
+
+4
+Williams v. Bank of the United States. 
+
+4
+
+5
+Titus v. Mabee, 25 Illinois. 
+
+5
+
+6
+Thompson v. Dean, Wallace, 342; Railroad Co. v. Bradley, Ib. Stoval v. Bank. 
+
+6
+
+.
+
+7
+
+.
+
+8
+
+9
+Young v. Grundy, 6 Cranch, 51; McCollum v. Eager, 2 Howard, 61; Hiriart v. Ballon, Moses v. The Mayor. 
+
+9
+
+
+set()
+=======================================================
+
+88 U.S. 284
+BAILEY, COLLECTOR,
+v.
+CLARK ET AL.
+October Term, 1874
+1
+As appears from the statement of the case the only question for determination relates to the meaning to be given to the term capital in the one hundred and tenth section of the Revenue Act. The term is not there used in any technical sense, but in its natural and ordinary signification. And it is capital not merely of individuals, but of corporations and associations, which is subject to the tax in question. When used with respect to the property of a corporation or association the term has a settled meaning; it applies only to the property or means contributed by the stockholders as the fund or basis for the business or enterprise for which the corporation or association was formed. As to them the term does not embrace temporary loans, though the moneys borrowed be directly appropriated in their business or undertakings. And when used with respect to the property of individuals in any particular business, the term has substantially the same import; it then means the property taken from other investments or uses and set apart for and invested in the special business, and in the increase, proceeds or earnings of which property beyond expenditures incurred in its use consist the profits made in the business. It does not, any more than when used with respect to corporations, embrace temporary loans made in the regular course of business. As very justly observed by the circuit judge, 'It would not satisfy the demands of common honesty, if a man engaged in business of any kind, being asked the amount of capital employed in his business, should include in his reply all the sums which, in the conduct of his business, he had borrowed and had not yet repaid.'
+1
+2
+There is no difference in the business of banking as conducted by individuals from the business as conducted by corporations, which would warrant any different meaning to be given to the term capital in the two cases. Nor can any good reason be stated why a distinction should be made between banking corporations and individual bankers in this respect.
+2
+3
+Independently of these considerations there would be great practical difficulty in administering the law upon the theory that moneys temporarily borrowed are to be treated as capital and taxable as such. The amounts borrowed from time to time must necessarily vary, and, if they are treated as additions to the capital, the aggregate amount of the capital must be constantly changing. It would, therefore, be necessary for the assessors of the government, in order to determine the capital to be taxed every month, to average the sums borrowed, and in adopting any such course they would be obliged to interpolate into the statute the word average, which was stricken out by the amendment of .
+3
+4
+We are satisfied that the term as used in the statute was intended to embrace only the fixed capital employed in the business of banking, as distinguished from deposits and temporary loans made in the regular course of business, and that no distinction is to be made in this respect between the capital of individual bankers and that of banking corporations.
+4
+5
+It is undoubtedly true, as stated by the Attorney-General, that capital used in the business of banking is none the less so because it is borrowed. The mere fact that the money permanently invested in the business is borrowed does not alter its character as capital. The question here is whether money not thus permanently invested, but borrowed temporarily in the ordinary course of business to meet an emergency, is capital; and we are clear that the term does not, either in common acceptation or within the meaning of the statute, embrace loans of that character.
+5
+6
+After controversies had arisen as to the interpretation to be given to the statute, upon the question at issue in this case, between bankers and the government, Congress passed the act of defining the meaning of the terms 'capital employed,' in the one hundred and tenth section, and enacted that they 'shall not include money borrowed or received from day to day in the usual course of business from any person not a partner of, or interested in, the said bank, association, or firm.'3 This enactment was evidently intended to remove any doubt previously existing as to the meaning of the statute and declare its true construction and meaning. Had it been intended to apply only to cases subsequently arising it would undoubtedly have so provided in terms.
+6
+7
+JUDGMENT AFFIRMED.
+7
+
+1
+
+2
+
+3
+
+Stat. at Large. 
+
+1
+
+.
+
+2
+
+Stat. at Large. 
+
+3
+
+
+set()
+=======================================================
+

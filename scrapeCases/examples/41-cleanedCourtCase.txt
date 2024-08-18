@@ -1,0 +1,695 @@
+300 U.S. 139
+ISBRANDTSEN-MOLLER CO., Inc.,
+v.
+UNITED STATES et al.
+Argued Jan. 15, 1937.
+1
+This is an appeal from the final decree of a specially constituted District Court of three judges for the Southern District of New York denying an interlocutory injunction and dismissing the appellant's bill for failure to state facts sufficient to constitute a cause of action.1 The suit was brought to restrain enforcement of an order issued November 18, 1935, by the Secretary of Commerce pursuant to section 21 of the Shipping Act requiring the appellant to file with the Secretary on December 16, 1935, a copy or summary of its books and records for the period September 1 to November 12, 1935, which should show each commodity carried from the United States to a foreign country, with point of shipment, point of destination, and rate charged or collected, the effective date of the rate, and transshipment and terminal charges and rules affecting rates or value of the service rendered. The order recites that it appears full information as to rates in connection with transportation of certain property from the United States to foreign countries by carriers by water in foreign commerce subject to the Shipping Act is necessary to the proper administration of the regulatory provisions of the act and that the appellant is engaged in such transportation.
+1
+2
+The complaint sets forth five causes of action. The first is that the order is invalid because Congress did not intend by the Legislative Appropriation Act of to authorize the President to abolish the Shipping Board and transfer its functions to an executive officer such as the Secretary of Commerce and that if Congress did so intend the act is unconstitutional as attempting to make the head of an executive department also a judicial officer and a legislative officer of the United States and in failing to set up an adequate declaration of policy or standard of action, and, further, that the President promulgated the order of transfer without adequate hearings or findings of fact on which to base it.
+2
+3
+The second cause of action is that the Secretary's order is invalid as in substance the attempt of a competitor to regulate or stabilize the appellant's rates and to compel it to charge rates fixed by a shipping monopoly of which appellant's competitor is a member. The charge is that before the order was issued the Secretary had transferred all his Shipping Board functions to one Peacock, who was president of a private shipping corporation (the United States Merchant Fleet Corporation) which was actively operating vessels in competition with those of appellant and was a member of a conference or shipping combination whose interests were opposed to those of appellant, which is an independent or nonconference operator; and that the order had been issued for the financial benefit of the competitor. The further allegation is that the constitutional separation of powers between legislative, judicial, and executive branches and the Fifth Amendment of the Constitution forbid the exercise of regulatory or quasi judicial functions such as were entrusted to the United States Shipping Board by persons or agencies having the interests described and require that the Secretary's order be held for naught.
+3
+4
+The third cause of action is that the order was issued not for a public purpose authorized by Congress but in furtherance of a concerted plan to compel the appellant, an independent nonconference carrier, either to join a conference or shipping monopoly, or else suffer damage by disclosure to competitors of current business records showing rates charged and commodities transported. The Secretary's order is alleged to have been issued to promote and foster a monopoly of appellant's competitors.
+4
+5
+The fourth cause of action is that the order is an unjust discrimination against appellant which is forbidden by the Fifth Amendment because it requires appellant to file a record of actual transactions whereas the Secretary requires appellant's competitors, the conference lines or members of the shipping combination, merely to file general rate schedules for the future which are not always observed and need not be observed. Further, that the order issued under section entails penalties for disobedience whereas orders issued by the Secretary to appellant's competitors were not issued under section 21 or any other section of the act, carried no penalties for nonobservance, and called only for information which those competitors were already required by law to file under section 15 of the Shipping Act of because of their having joined in a conference or shipping combination.
+5
+6
+The fifth cause of action is that the order should be enjoined because the Secretary rejected appellant's offer to file records on condition that they would not be communicated to appellant's competitors to the damage of appellant and because the Secretary stated his purpose was to turn the records over to the public which would result in fostering unfair competition and ruin appellant's business. It is charged that appellant cannot comply with the order without prejudice or losing its equitable, legal, and constitutional rights.
+6
+7
+An injunction affidavit was filed by the appellant and two reply affidavits by the United States. We find it unnecessary to consider them, as we are of opinion that the decree dismissing the bill must be affirmed.
+7
+8
+The grounds of complaint fall into two general classes. Upon the assumption that the powers and duties of the Shipping Board were effectively transferred to the Secretary of Commerce the claim is that the order was beyond the statutory authority conferred by the Shipping Act, amounted to an illegal search and seizure, and was invalid because arbitrary and unreasonable. But, in addition, it is asserted that transfer of the Board's powers and duties to the Secretary was unauthorized by action of Congress and, if so authorized, was in violation of the Constitution.
+8
+9
+First. The order is plainly within the terms of section 21 of the Shipping Act , which provides: 'The board may require any common carrier by water, or other person subject to this chapter, or any officer, receiver, trustee, lessee, agent, or employee thereof, to file with it any periodical or special report, or any account, record, rate, or charge, or any memorandum of any facts and transactions appertaining to the business of such carrier or other person subject to this chapter. Such report, account, record, rate, charge, or memorandum shall be under oath whenever the board so requires, and shall be furnished in the form and within the time prescribed by the board. Whoever fails to file any report, account, record, rates, charge, or memorandum as required by this section shall forfeit to the United States the sum of $for each day of such default.'
+9
+10
+The appellant suggests that the section grants power merely to subpoena records, reports, and information, to be exercised only in hearings upon complaints of violation of the act. This view ignores the fact that section 27 explicitly authorizes the issuance of subpoenas,5 including subpoenas duces tecum, for hearings upon alleged violations. It is inconceivable that this is mere tautology. The purpose of section 21 is not far to seek. Other sections forbid allowance of rebates, require the filing of agreements fixing or regulating rates, granting special rates, accommodations or privileges, which may be disapproved, canceled, or modified if the Board finds them unjustly discriminatory or violative of the act, prohibit undue or unreasonable preferences or the cutting of established rates and unjust discrimination between shippers or ports.6 To enable it to perform its functions the Board may well need such information as that which the section gives it power to demand. Indeed the order recites that in this instance such information is so required.
+10
+11
+Despite its recitals of legitimate purpose, the order, so the complaint alleges, sprang from illegal motives, namely, to regulate and stabilize freight rates for the benefit of carriers belonging to steamship conferences, to compel appellant to join a conference, and to create a monopoly in transoceanic shipping.
+11
+12
+Aside from the principle that if the order is justified by a lawful purpose, it is not rendered illegal by some other motive in the mind of the officer issuing it,7 the allegations of the complaint are mere conclusions unsupported by any facts pleaded and are, therefore, insufficient.8
+12
+13
+The argument that the order amounts to an unreasonable search and seizure, forbidden by the Fourth Amendment, is answered by the fact that it does not call for the production or inspection of any of appellant's books or papers.9
+13
+14
+The complaint asserts the appellant is the only carrier which has been required, pursuant to section 21, to file a record of rates actually charged. The section, however, plainly authorizes the making of such an order directed to a single carrier. Nevertheless, the appellant charges such action is unreasonable and arbitrary and violates the Fifth Amendment. The bill itself discloses the conference carriers have filed schedules of their rates and the act requires that if any contract for a change of those rates is made the new rates may be charged only after the Board has approved the agreement.10 The gravamen of the complaint does not appear to be that the appellant is required to supply information not furnished by the conference lines or different information from that which the conference lines file with the Secretary, but that the conference lines are not compelled to adhere to the rates named in their schedules. There is, however, no showing that this circumstance injures the appellant. The data called for related to rates charged in the past—rates fixed by the appellant without constraint; and the bill makes no charge that compliance with the order will in anywise restrict the appellant's freedom to deviate from those past rates in the future. The case made by the bill fails to exhibit discrimination in fact as between appellant and its competitors, much less arbitrary and unjustifiable discrimination.
+14
+15
+Second. It is earnestly contended that title 4 of the legislative appropriation act of June 30, 1932, as amended,11 did not authorize the abolition of the Shipping Board and the transfer of its functions to the Department of Commerce by executive order. Title 3 of the act (section reorganized the Shipping Board and it is said that Congress would not have taken this action had it intended to include the Shipping Board within the scope of section of the act, which defines executive agencies the President may abolish or whose functions he may transfer as 'any commission, * * * board, bureau, division, service, or office in the executive branch of the Government.' That this is true is attested by the fact that section withheld from the President the authority to abolish or transfer the functions of the Shipping Board. But when the act was amended March 3, 1933,12 the prohibition was omitted and the phrase 'independent establishment' was added to the enumeration of executive agencies in section After these changes were made the President, by Executive Order No. dated June 10, 1933, made the transfer. As required by the act of June 30, 1932, he transmitted a copy of the order to the Congress which adjourned a few days after its receipt. Whatever doubt may be entertained as to the intent of Congress that the Shipping Board should be subject to transfer by the President, and, if so, whether the order lay before Congress the requisite number of days to satisfy the statutory mandate, Congress appears to have recognized the validity of the transfer and ratified the President's action by the appropriation Acts of April 7, 1934,13 March 22, 1935,14 and May 15, 1936,15 all of which make appropriations to the Department of Commerce for salaries and expenses to carry out the provisions of the Shipping Act as amended and refer to the executive order. The appellant insists that these references were casual and are not to be taken as ratifying the President's action. We need not shop to consider the argument since, by the Merchant Marine Act of section a), the functions of the former Shipping Board are referred to as 'now vested in the Department of Commerce pursuant to section 12 of the President's Executive order (No. )'
+15
+16
+It remains to deal with the contentions that Congress lacked the power either to transfer or to ratify the transfer of the duties of the Shipping Board to the Secretary of Commerce by delegating to the President authority so to do by executive order, subject to the approval of Congress, and that the President, in exercising the power delegated to him, exceeded his authority because he acted without notice and hearing and failed in the order adequately to specify the grounds for his action. We find it unnecessary to decide the questions sought to be raised in this connection. On June 29, Congress adopted the Merchant Marine Act. By section a) of that statute (46 C.A. § a) it was provided: 'All the functions, powers and duties vested in the former United States Shipping Board by the Shipping Act, * * * and amendments, * * * and now vested in the Department of Commerce pursuant to section 12 of the President's Executive order of June 10, 1933, are hereby transferred to the United States Maritime Commission.' The Commission is created by the act. By section b), 46 C.A. § b) it is authorized to adopt all necessary rules and regulations to carry out the powers, duties, and functions vested in it by the act. October 21, after organization, the Commission promulgated an order (General Order No. in which it declared: '* * * all orders, * * * which have been issued or authorized by * * * the Department of Commerce, in the exercise of the functions, powers, and duties transferred to this Commission by the Merchant Marine Act, and which are in effect at the time of such transfer, shall continue in effect, insofar as not in conflict with said Act, until modified, terminated, superseded, or repealed by this Commission or by operation of law; * * *'
+16
+17
+We are of opinion that the act of and the Commission's order render moot the constitutional questions sought to be raised by the appellant even though we assume, without deciding, that the Secretary of Commerce had no power to issue the order of November 18, 1935. That order was administrative in character. It determined no rights and prescribed no duties of the appellant as an ocean carrier. It demanded the filing of data. No notice or hearing was prerequisite to its issue. It was still in fieri when the United States Maritime Commission came into existence. By virtue of the action of that Commission it is continued in force and the appellant is commanded to obey it. The appellant concedes that if the order was within the constitutional and statutory powers of the Shipping Board, and had been made by that Board, there could be no question of its validity. As it has become an outstanding administrative order of a Commission having the powers and duties formerly vested in the Shipping Board the appellant is in no position to contend that, as it now affects the appellant, the order is void because issued in the alleged unconstitutional exercise of the powers of the Shipping Board by the Secretary of Commerce.
+17
+18
+The decree is affirmed.
+18
+
+1
+
+2
+
+3
+
+4
+
+5
+
+6
+
+7
+
+8
+
+9
+
+10
+
+11
+
+12
+
+13
+
+14
+
+15
+
+16
+
+17
+
+.
+
+1
+
+2
+Act of Sept. C.A. § . The suit was instituted under section 31 of the Shipping Act, C.A. § , whereby the venue and procedure in suits to restrain enforcement of an order of the Shipping Board is made the same as in similar suits respecting orders of the Interstate Commerce Commission. Judicial Code, § C.A. § 46), and the Act of October C. §§ , whereby the venue of a suit brought to set aside an order of the Interstate Commerce Commission is the judicial district in which the petitioner has its principal office. The complainant named and attempted to serve as defendants, in addition to the United States, the Department of Commerce, the Shipping Board Bureau of the Department of Commerce, Daniel C. Roper, individually and as Secretary of Commerce, James C. Peacock, individually and as Director of the Shipping Board Bureau, and Lamar Hardy, United States Attorney for the Southern District of New York. The suit was dismissed as to many of these defendants for want of service or for want of proper joinder as defendants but the action was maintainable as the United States is, by the statutes, made the proper party defendant in such cases. No point is here made as to the action below dismissing defendants from the cause.
+
+2
+
+3
+Act of June .
+
+3
+
+4
+Act of September C.A. § 814).
+
+4
+
+C.A. § .
+
+5
+
+.
+
+6
+
+7
+Dakota Central Telephone Co. v. South Dakota, Philadelphia v. Trenton R.R. Co. v. Stimpson, United States v. Chemical Foundation. 
+
+7
+
+8
+Moore v. Greene, St. Louis Ry. Co. v. Johnston, Garrett v. Louisville & N.R. Co., Nortz v. United States, Einstein v. Schnebly (C.C. 
+
+8
+
+9
+Interstate Commerce Commission v. Baird, Compare Olmstead v. United States, Baltimore & Ohio R.R. Co. v. Interstate Commerce Commission. 
+
+9
+
+.
+
+10
+
+et seq.. 
+
+11
+
+.
+
+12
+
+13
+Chapter Stat. 
+
+13
+
+14
+Chapter Stat. 67, 99.
+
+14
+
+15
+Chapter .
+
+15
+
+Stat. 1985 (46 C.A. § et seq.).
+
+16
+
+17
+The Federal Register, No. 
+
+17
+
+
+{'250 U.S. 163', '277 U.S. 438', '46 U.S.C.A. §§ 812', '28 U.S.C.A. § 46', '46 U.S.C.A. § 1101', '46 U.S.C. § 814', '46 U.S.C.A. § 1114', '46 U.S.C.A. § 826', '28 U.S.C. §§ 43', '46 U.S.C. § 830', '46 U.S.C.A. § 814', '221 U.S. 612', '46 U.S.C. § 820', '28 U.S.C. § 46', '46 U.S.C.A. § 830', '272 U.S. 1, 14', '46 U.S.C. § 826', '294 U.S. 317', '46 U.S.C. §§ 812', '194 U.S. 25', '133 U.S. 566', '235 U.S. 308', '46 U.S.C.A. § 820', '28 U.S.C.A. §§ 43'}
+=======================================================
+
+300 U.S. 297
+SWAYNE & HOYT, Limited, et al.
+v.
+UNITED STATES.
+Argued Feb. 11, 12, 1937.
+1
+Appellants are steamship corporations engaged in the transportation of freight through the Panama Canal between United States ports on the Gulf of Mexico and on the Pacific Coast. They constitute the Gulf Intercoastal Conference, which operates under an agreement, approved March 28, 1934, by the United States Shipping Board Bureau of the Department of Commerce, as provided by section 15 of the Shipping Act of C.A. § the Conference, in conformity to the Intercoastal Shipping Act of section C.A. § , filed with the United States Shipping Board Bureau a new tariff, effective June 2, publishing certain rates for the transportation of freight, westbound from coast to coast.
+1
+2
+The tariff, continuing the contract system in use by the Conference, provided for 'contract rates' for specified commodities, to be enjoyed by shippers who agree with the Conference, by written contract, to make all their shipments of those commodities by vessel of the Conference members for a specified period. The tariff rates on the same commodities for shippers not entering into contracts were $2 per ton higher than the contract rates. In the Secretary of Commerce ordered an investigation by the Shipping Board Bureau of the lawfulness of the contract rate system (see section 22 of the Shipping Act, C.A. § , and section 3 of the Intercoastal Shipping Act of C. § C.A. § ). The ensuing report condemned the discrimination, and on July 3, 1935, the Secretary ordered the appellants to cease charging the higher rates to shippers who had not entered into contracts.
+2
+3
+In September of that year appellants filed new rate schedules, effective October 3, 1935, which continued the contract rate system. Thereupon the Secretary vacated his order of July 3d and made an order suspending the schedules and directing a second hearing concerning the lawfulness of the contract rate system. On this hearing new evidence was introduced, and relevant portions of the evidence adduced on the previous hearing were spread upon the record. In a report reviewing this record, the Secretary found that the 'real purpose of the suspended rates * * * is to prevent shippers from using the lines of other carriers and to discourage all others from attempting to engage in intercoastal transportation from and to the Gulf.' He accordingly found the rates unduly prejudicial and ordered their cancellation.
+3
+4
+The present suit was brought in the District Court for the District of Columbia, three judges sitting, to set aside the order of the Secretary as without his statutory authority and because not supported by substantial evidence. From the decree of the district court sustaining the Secretary's order, 18 25, the case comes here on appeal under section 31 of the Shipping Act, C.A. § , and the Act of October . Appellants here, as in the court below, have assigned as error that the Secretary was without authority to make the order under review because the Executive Order of June which abolished the United States Shipping Board and transferred its functions to the Department of Commerce, was without constitutional and legislative authority, and because the findings and order of the Secretary were without support in the evidence.
+4
+5
+First. Since the appeal was taken, the contention that the transfer to the Secretary, by Executive Order (No. , of powers conferred by the Shipping Act on the United States Shipping Board, was unauthorized by the terms of Title 4 of the Legislative Appropriation Act of June as amended, has been put at rest by the decision of this Court in Isbrandtsen-Moller Co., Inc., v. United States et al., February 1, 1937. There we held that the failure of Congress, if any, to express its will in the earlier act had been remedied by various later acts mentioning the Executive Order, and making appropriations to the Department of Commerce for payment of the expenses of carrying out the provisions of the Shipping Act,1 and by section a) of the Merchant Marine Act of June C.A. § 1114), which referred to functions of the former Shipping Board as 'now vested in the Department of Commerce pursuant to section 12 of the President's Executive Order No. ' and transferred them to the newly-constituted United States Maritime Commission.
+5
+6
+To dispose of further contentions also urged here, that Congress was without constitutional power to delegate to the President authority to determine whether the transfer should be effected, and that he did not exercise it in a constitutional manner, the Court found it enough that the order of the Secretary, which the Maritime Commission had continued in effect, had 'determined no rights and prescribed no duties' of the carrier. The rate order here is of a different sort and we face the question previously reserved. It is unnecessary now to pass on the efficacy of the transfer by Executive Order, for we are of opinion that as Congress itself had power to abolish the Shipping Board and to require its functions to be performed by the Secretary, it had power to recognize and validate his performance of those functions even though their attempted transfer by Executive Order was ineffectual.
+6
+7
+It is well settled that Congress may, by enactment not otherwise inappropriate, 'ratify * * * acts which it might have authorized,' see Mattingly v. District of Columbia, and give the force of law to official action unauthorized when taken. Wilson v. Shaw, United States v. Heinszen & Co., Ann.Cas. Hamilton v. Dillin, 528; Chuoco Tiaco v. Forbes, Rafferty v. Smith, Bell & Co., Charlotte Harbor R. Co. v. Welles, Hodges v. Snyder, And we think that Congress, irrespective of any doctrine of ratification, has, by the enactment of the statutes mentioned, in effect confirmed and approved the exercise by the Secretary of powers originally conferred on the Shipping Board.
+7
+8
+The mere fact that the validation is retroactive in its operation is not enough, in the circumstances of this case, to render it ineffective. In Graham & Foster v. Goodcell, this Court recognized that a distinction must be taken 'between a bare attempt of the Legislature retroactively to create liabilities for transactions * * * fully consummated in the past * * * and the case of a curative statute aptly designed to remedy mistakes and defects in the administration of government where the remedy can be applied without injustice.' And see Hecht v. Malley, Here the retroactive application of the curative act impairs no substantial right or equity of appellants; their rights to an administrative hearing and determination, and to a judicial review, have been as fully preserved as if the act had been adopted at the date of the Executive Order. The proceedings were conducted by the Secretary in the name of the United States, cf. United States v. Heinszen & Co., supra, at page by virtue of the Act and the Executive Order. The consequences of the validating statute are free of the elements of novelty and surprise which have led to condemnation, as unreasonable and arbitrary, of other retroactive legislation. See Milliken v. United States, United States v. Hudson, decided January 11, 1937. We conclude that the Secretary's exercise of the powers conferred on the Shipping Board has been sanctioned by Congress.
+8
+9
+Second. Section 16 of the Shipping Act ( declares that 'it shall be unlawful for any common carrier by water,' subject to the Act, 'to make or give any undue or unreasonable preference or advantage to any particular person, locality, or description of traffic in any respect whatsoever, or to subject any particular person, locality, or description of traffic to any undue or unreasonable prejudice or disadvantage in any respect whatsoever.'2 The differential between appellants' rates on commodities transported under contract and the rates on the same commodities for non-contract shippers was prima facie discriminatory since the two rates were charged for identical services and facilities, and the narrow issue presented to the Secretary for decision was whether, in the conditions affecting the traffic involved, the discrimination was undue or unreasonable.
+9
+10
+As pointed out by this Court in United States Navigation Co. v. Cunard S.S. Co., Ltd., the provisions of the Shipping Act which confer upon the Shipping Board authority over rates and practices of carriers by water, and prescribe the mode of its exercise, closely parallel those of the Interstate Commerce Act (49 C.A. § 1 et seq.) establishing the corresponding relations of the Interstate Commerce Commission to carriers by rail. Both have set up an administrative agency to whose informed judgment and discretion Congress has committed the determination of questions of fact, on the basis of which it is authorized to make administrative orders.
+10
+11
+Such determinations will not be set aside by courts if there is evidence to support them. Even though, upon a consideration of all the evidence, a court might reach a different conclusion, it is not authorized to substitute its own for the administrative judgment. See Manufacturers' R. Co. v. United States, Pennsylvania Co. v. United States, cf. United States Navigation Co. v. Cunard S.S. Co., Ltd., supra, Whether a discrimination in rates or services of a carrier is undue or unreasonable has always been regarded as peculiarly a question committed to the judgment of the administrative body, based upon an appreciation of all the facts and circumstances affecting the traffic. Manufacturers' R. Co. v. United States, supra; Pennsylvania Co. v. United States, supra, Seaboard Air Line R. Co. v. United States, Pennsylvania R. Co. v. International Coal Co., Nashville Ry. v. Tennessee. 
+11
+12
+In determining whether the present discrimination was undue or unreasonable the Secretary was called upon to ascertain whether its effect was to exclude other carriers from the traffic, and if so, whether, as appellants urge, it operated to secure stability of rates with consequent stability of service, and, so far as either effect was found to ensue, to weigh the disadvantages of the former against the advantages of the latter. This was clearly recognized in the report upon which the present order is based. It states that the danger of cut-throat competition was lessened by section 3 of the Intercoastal Shipping Act of , and that the contract system tends to create a monopoly. In view of the assurance of reasonable rate stability afforded by the Act of the Secretary concluded that this was the real purpose of the contract rate.
+12
+13
+Before the enactment of the Shipping Act in 1916, there was no Congressional regulation of rates and practices of water carriers. By section of the Act (46 C.A. § 817), the carriers were required to file only their maximum rates, which left them free to indulge in rate wars. Under sections 2 and 3 of the Intercoastal Shipping Act of , they are required to file schedules specifying their rates, which are subject to change only on thirty days' notice, and to examination by the Board as to their lawfulness, with power in it to suspend the rate pending investigation. We cannot say that cut-rates for 'tramp' and 'distressed' tonnage, which, according to appellants' witnesses, are the principal menace to rate stability, would not be substantially deterred by these requirements. The chairman of the Conference admitted that the statute 'has to a certain extent eliminated the condition necessitating the contract rate system.' In addition may be mentioned the testimony of shippers who favored the contract rate system, but admitted that they had had no difficulty with the stability of the service in their shipments from Atlantic ports, where the conferences have not adopted a contract system. We think there was evidence from which the Secretary could reasonably conclude that there was little need for a contract rate system to assure stability of service.
+13
+14
+On the other hand, there was substantial evidence from which the Secretary could infer that the contract rate system would tend to give to the Conference carriers a monopoly by excluding competition from new lines. The secretary of the Conference testified that approximately 64 per cent. of the westbound port to port tonnage moved under the contract rate. Representatives of lines not members of the Conference stated that the tonnage left was not enough to make the operation of a new line profitable, and that the contract system precluded the employment of their idle steamers in the Gulf trade. The Conference chairman admitted that it would 'not be easy' for a new line to enter the Gulf service because it 'is now adequately tonnaged,' and that the contract system restricted the amount of available tonnage. He suggested that a competing line might be able to get tonnage if it offered as much as a 10 per cent. rate reduction, but admitted that it probably could not operate successfully at such a rate.
+14
+15
+It also appeared, contrary to the assertion of appellants, that competing lines were not free to enter the Conference. By the provisions of the Conference agreement, it is prerequisite to admission that the applicant shall be engaged in the general cargo trade from the Gulf to the Pacific. There was testimony that the Conference had denied admission to a line because it did not have an established service in the Gulf, although at the time when it applied for membership it had idle vessels and 'offices and facilities' for conducting the business. It is an admissible inference from the evidence that a new line, to secure admission to the Conference, must either be able successfully to compete with the Conference lines at the start, notwithstanding the restriction of the contract rate, or must subject itself to a loss before it can qualify for admission.
+15
+16
+There was thus evidence before the Secretary which tended to show that the contract rate system, by reason of the conditions prevailing in the traffic, had established a practical monopoly of cargoes moving from the Gulf ports to ports on the Pacific coast, from which competing carriers were excluded by the provisions of the Conference agreement, except on terms which were practically prohibitive, and that, since the adoption of the Intercoastal Shipping Act of stability of service, which appellants urge as justification for the system, could be secured without a contract rate. As the Secretary has interpreted the evidence, the operation of the contract system, in the circumstances of this case, does not differ substantially from that of 'deferred rebates' outlawed in both foreign and coastwise shipping by section 14 of the Shipping Act, C.A. § 3
+16
+17
+Even though, as appellants seem to argue, the evidence may lend itself to support a different inference, we are without authority to substitute our judgment for that of the Secretary that the discrimination was unreasonable.
+17
+18
+Affirmed.
+18
+19
+Mr. Justice SUTHERLAND dissents.
+19
+
+1
+
+2
+
+3
+
+1
+Act April Act March Act May .
+
+1
+
+2
+See also Shipping Act, § C.A. § (the Shipping Board may cancel or modify any agreement between a carrier and another carrier or person subject to the act, which it finds to be unjustly discriminatory); section C.A. § (the Board may order discontinuance of discriminatory rates charged by carriers in foreign commerce); section C.A. § (whenever the Board finds that any classification is unjust or unreasonable, it may order a just and reasonable one enforced).
+
+2
+
+3
+Section 14 of the Shipping Act defines the term 'deferred rebate' as 'a return of any portion of the freight money by a carrier to any shipper as a consideration for the giving of all or any portion of his shipments to the same or any other carrier, or for any other purpose, the payment of which is deferred beyond the completion of the service for which it is paid, and is made only if, during both the period for which computed and the period of deferment, the shipper has complied with the terms of the rebate agreement or arrangement.'
+The report of the House Committee on Merchant Marine & Fisheries, H.R. Doc. Sess. (, recommended (p. the prohibition of deferred rebates, adopted in section 14 of the Shipping Act, because it operated to tie shippers to a group of lines for successive periods, and because the system 'is unnecessary to secure excellence and regularity of service, a considerable number of conferences being operated today without this feature.' See, e.g., pp. The Committee recognized that the exclusive contract system does not necessarily tie up the shipper as completely as 'deferred rebates', since it does not place him in 'continual dependence' on the carrier by forcing his exclusive patronage for one contract period under threats of forfeit of differentials accumulated during a previous contract period. Accordingly the Committee did not condemn the contract system completely. Cf. W. T. Rawleigh Co. v. Stoomvaart et al., S.B. 285. The policy of the statute may properly be applied where, as in the circumstances of this case, the contract system must be taken as actually operating to effect a monopoly. Cf. Eden Mining Co. v. Bluefields Fruit & S.S. Co., S.B. 41.
+
+3
+
+
+{'265 U.S. 144', '46 U.S.C. § 817', '1 U.S.S.B. 41', '46 U.S.C.A. § 821', '46 U.S.C. § 812', '206 U.S. 370', '300 U.S. 139', '46 U.S.C. § 814', '46 U.S.C.A. § 1114', '262 U.S. 318', '246 U.S. 457', '228 U.S. 549', '230 U.S. 184', '257 U.S. 226', '254 U.S. 57', '261 U.S. 600', '46 U.S.C. § 830', '46 U.S.C.A. § 814', '46 U.S.C. § 816', '46 U.S.C.A. § 816', '1 U.S.S.B. 285', '46 U.S.C. § 821', '46 U.S.C. § 844', '236 U.S. 351', '46 U.S.C.A. § 812', '28 U.S.C.A. § 47', '260 U.S. 8, 11', '46 U.S.C.A. § 817', '283 U.S. 15', '46 U.S.C.A. § 815', '46 U.S.C.A. § 830', '28 U.S.C. § 47', '46 U.S.C.A. § 845', '299 U.S. 498', '284 U.S. 474', '49 U.S.C.A. § 1', '97 U.S. 687', '46 U.S.C.A. § 844', '204 U.S. 24', '46 U.S.C.A. §§ 844', '46 U.S.C. § 845', '282 U.S. 409'}
+=======================================================
+
+300 U.S. 342
+VAN BEECK
+v.
+SABINE TOWING CO., Inc., et al.
+Argued Feb. 5, 8, 1937.
+1
+The Merchant Marine Act of Stat. C.A. § gives a cause of action for damages to the personal representative of a seaman who has suffered death in the course of his employment by reason of his employer's negligence. The question is whether the liability abates where the beneficiary of the cause of action, in this case the mother of the seaman, dies during the pendency of a suit in her behalf.
+1
+2
+The steam towboat, Edgar F. Coney, sank on January 28, 1930, with the loss of all on board. The respondent Sabine Towing Company, Inc., the owner of the boat, filed a libel in a United States District Court in Texas for the limitation of liability. In that proceeding claims for damages were filed by the personal representatives of several members of the crew. Among such claims was one for the pecuniary damage suffered through the death of the second mate of the vessel, Edward C. Van Beeck. He died unmarried, leaving a mother and several brothers. There being neither wife nor child nor father, the mother was the sole beneficiary of the statutory cause of action. This results from the provisions of the Employers' Liability Act (), governing injuries to railway employees, which is made applicable by the Merchant Marine Act in case of injuries to seamen. Cf. Cortes v. Baltimore Insular Line, The mother was appointed administratrix of her son's estate, and acting as such administratrix filed her claim for damages. She died in July, 1931, and thereupon the petitioner, a brother of the dead seaman, succeeded to her office by appointment duly made, and was substituted as claimant in the pending suit. In that suit a Commissioner reported that the mother had suffered loss up to the time of her death in the sum of $ and that there should be an award of that amount for the use of her estate. The District Court dismissed the claim on the ground that at her death the liability abated, and the Court of Appeals for the Fifth Circuit affirmed the dismissal. To settle the meaning of an important act of Congress, we granted certiorari.
+2
+3
+The statutory cause of action to recover damages for death ushered in a new policy and broke with old traditions. Its meaning is likely to be misread if shreds of the discarded policy are treated as still clinging to it and narrowing its scope. The case of Higgins v. Butcher, Noy 18; Yelv. 89, which arose in the King's Bench in 1606, is the starting point of the rule, long accepted in our law, though at times with mutterings of disapproval,1 that in an action of tort damages are not recoverable by any one for the death of a human being.2 The rule is often viewed as a derivative of the formula 'actio personalis moritur cum persona,' a maxim which 'is one of some antiquity,' though 'its origin is obscure and post-classical.'3 Even in classical times, however, the Roman law enforced the principle that 'no action of an essentially penal character could be commenced after the death of the person responsible for the injury.'4 Vengeance, though permissible during life, was not to 'reach beyond the grave.'5 There was also an accepted doctrine that no money value could be put on the life of a freeman.6 The post-classical maxim, taken up by Coke and his successors,7 gave a new currency to these teachings of the Digest, and, it seems, a new extension.8 But the denial of a cause of action for wrongs producing death has been ascribed to other sources also. The explanation has been found at times in the common-law notion that trespass as a civil wrong is drowned in a felony.9 As to the adequacy of this explanation, grave doubt has been expressed.10 None the less, the rule as to felony merger seems to have coalesced, even if in a confused way, with the rule as to abatement,11 and the effect of the two in combination was to fasten upon the law a doctrine which it took a series of statutes to dislodge.
+3
+4
+The adoption of Lord Campbell's Act in 1846 (9 & 10 Vict. c. 93), giving an action to the executor for the use of wife, husband, parent, or child, marks the dawn of a new era. In this country, statutes substantially the same in tenor followed in quick succession in one state after another, till today there is not a state of the union in which a remedy is lacking.12 Congress joined in the procession, first with the Employers' Liability Act for railway employees (), next with the Merchant Marine Act of for seamen and their survivors (C.A. § 688)), and again with an act of the same year (March C. §§ ), not limited to seamen, which states the legal consequences of death upon the high seas.
+4
+5
+As already pointed out, the personal representative of a seaman laying claim to damages under the Merchant Marine Act is to have the benefit of 'all statutes of the United States conferring or regulating the right of action for death in the case of railway employees.' C.A. § 688). The statutes thus referred to as a standard display a double aspect. One of these is visible in the Employers' Liability Act as it stood when first enacted in 1908. Under the law as then in force (April ), the personal representative does not step into the shoes of the employee, recovering the damages that would have been his if he had lived. On the contrary, by section 1 of the statute a new cause of action is created for the benefit of survivors or dependents of designated classes, the recovery being limited to the losses sustained by them as contrasted with any losses sustained by the decedent.13 However, with the adoption of an amendment in Stat. C.A. § 59)), a new aspect of the statute emerges into view. Section 2 as then enacted continues any cause of action belonging to the decedent, without abrogating or diminishing the then existing cause of action for the use of his survivors.14 'Although originating in the same wrongful act or neglect, the two claims are quite distinct, no part of either being embraced in the other. One is for the wrong to the injured person, and is confined to his personal loss and suffering before he died, while the other is for the wrong to the beneficiaries, and is confined to their pecuniary loss through his death.'15 It is loss of this last order, and no other, that is the subject of the present suit. So far as the record shows, the seaman died at once upon the sinking of the vessel. In any event, there is no claim that his injuries were not immediately fatal.16 To what extent the present problem would be altered, if intermediate loss and suffering had been made the basis of a recovery, we have no occasion to consider. Our decision must be limited to the necessities of the case before us.
+5
+6
+Viewing the cause of action as one to compensate a mother for the pecuniary loss caused to her by the negligent killing of her son, we think the mother's death does not abate the suit, but that the administrator may continue it, for the recovery of her loss up to the moment of her death, though not for anything thereafter,17 the damages when collected to be paid to her estate. Such is the rule in many of the state courts in which like statutes are in force. It is the rule in New York, in Pennsylvania, in New Jersey, in Oklahoma, in Georgia, in Kentucky, in North Carolina, and under statutes somewhat different in Connecticut and Massachusetts.18 It is also the rule in the lower federal courts, applying the statute of Illinois as well as the Act of Congress in respect of death upon the high seas.19 These cases take the ground that 'the damages awarded for the negligent act are such as result to the property rights of the person or persons for whose benefit the cause of action was created.'20 Indeed, even at common law, since statutes adopted in the reign of Edward III (4 Edw. III, c. Edw. III, Stat. 5, c. 5), which were extended beyond their letter by an equitable construction, an administrator might recover where the wrong was an injury to property and not an injury to the person.21 The general rule was said to be that 'executors and administrators are the representatives of the temporal property, that is, the debts and goods of the deceased, but not of their wrongs, except where those wrongs operate to the temporal injury of their personal estate'22 When we re member that under the death statutes an independent cause of action is created in favor of the beneficiaries for their pecuniary damages, the conclusion is not difficult that the cause of action once accrued is not divested or extinguished by the death of one or more of the beneficiaries thereafter, but survives, like a cause of action for injury to a property right or interest, to the extent that the estate of the deceased beneficiary is proved to be impaired. To that extent, if no farther, a new property right or interest, or one analogous thereto, has been brought into being through legislative action. True, there are decisions under the death statutes, of some states that teach a different doctrine, refusing to permit a recovery by the administrator after the beneficiary has died,23 though the ruling has been made at times with scant discussion of the problem. Indeed, the problem now before us was not always presented to the attention of the court, for at times the death of the beneficiary followed hard upon the death of the person negligently killed or the claim was not urged that there had been damage in the interval. We think the cases favoring survival within the limits already indicated are supported by preponderant authority and also by the better reason.
+6
+7
+Nothing at war with that conclusion will be found in our opinion in Chicago, Burlington & Quincy Railroad Co. v. Wells-Dickey Trust Co., on which the court below leaned heavily in deciding as it did. The suit was under the Employers' Liability Act which gives a cause of action (a) to the widow or children; (b) to the parents if no widow or children survive; or (c) to dependent next of kin, if there be no surviving widow, child, or parent. A mother survived the employee, but died before an administrator was appointed. The holding was that the beneficial interest did not shift upon her death to members of class (c). 'The failure to bring the action in the mother's lifetime did not result in creating a new cause of action after her death for the benefit of the sister.' at page The question was not raised whether the damages, if any, suffered by the mother between the son's death and her own would have been recoverable, if proved.
+7
+8
+Nor is the case at hand affected by statutes, invoked by the respondent, which regulate the continuance of a proceeding in a court of the United States by the substitution of the executor or administrator of a party dying while the suit is pending. The present claimant is not the administrator of the deceased beneficiary, but an administrator de bonis non, who has succeeded to the office of the original administrator.25 The order substituting him as a party was made without objection, and he continued in the suit thereafter as if he had filed a claim anew.
+8
+9
+Death statutes have their roots in dissatisfaction with the archaisms of the law which have been traced to their origin in the course of this opinion. It would be a misfortune if a narrow or grudging process of construction were to exemplify and perpetuate the very evils to be remedied.26 There are times when uncertain words are to be wrought into consistency and unity with a legislative policy which is itself a source of law, a new generative impulse transmitted to the legal system. 'The Legislature has the power to decide what the policy of the law shall be, and if it has intimated its will, however indirectly, that will should be recognized and obeyed.'27 Its intimation is clear enough in the statutes now before us that their effects shall not be stifled, without the warrant of clear necessity, by the perpetuation of a policy which now has had its day.28
+9
+10
+The decree should be reversed and the cause remanded for further proceedings in accord with this opinion.
+10
+11
+Reversed.
+11
+
+1
+
+2
+
+3
+
+4
+
+5
+
+6
+
+7
+
+8
+
+9
+
+10
+
+11
+
+12
+
+13
+
+14
+
+15
+
+16
+
+17
+
+18
+
+19
+
+20
+
+21
+
+22
+
+23
+
+24
+
+25
+
+26
+
+27
+
+28
+
+1
+Tiffany, Death by Wrongful Act, §§ Pollock, Torts (.
+
+1
+
+2
+Baker v. Bolton, Mobile Life Insurance Co. v. Brame, Lindgren v. United States, Cortes v. Baltimore Insular Line, Pollock, Torts, supra; Tiffany, supra.
+
+2
+
+3
+Bowen and Fry, L.J.J., Finlay v. Chirney ( Pollock, supra; Goudy, Two Ancient Brocards, in Essays in Legal History, ed. by Vinogradoff, p. Radin, Anglo-American Legal History, p. 
+
+3
+
+4
+Fifoot, English Law and Its Background, pp. Cf. Buckland, A Text-Book of Roman Law ( Buckland & McNair, Roman Law and Common Law, p. Allen, Law in the Making (.
+
+4
+
+5
+Fifoot, supra; Goudy, supra, p. 
+
+5
+
+6
+Fifoot, supra; Goudy, supra, p. citing Dig. IX, 'Liberum corpus nullam recipit aestimationem.'
+
+6
+
+7
+Pinchon's Case, 9 Rep. 86b; Goudy, supra, p. Allen, supra.
+
+7
+
+8
+Holdsworth, A History of English Law, Vol. 
+
+8
+
+9
+Admiralty Commissioners v. S. S. Amerika, (.
+
+9
+
+10
+Holdsworth, supra, Vol. 3, Appendix VIII; also Vol. Cf. Pollock, supra; Osborn v. Gillett, L.R. Carey v. Berkshire R.R. Co., 1 Cush.(Mass.) Shields v. Yonge, Hyatt v. Adams, Grosso v. D.L. & W.R.R. Co.. 
+
+10
+
+11
+Higgins v. Butcher, supra; Admiralty Commissioners v. S. S. Amerika, supra; Tiffany, supra; Holdsworth, supra, Vol. 
+
+11
+
+12
+Tiffany, supra, pp. xviii to xliii; cf. 980.
+
+12
+
+13
+Michigan Central R.R. Co. v. Vreeland, Ann.Cas. Gulf, Colorado & Santa Fe Ry. Co. v. McGinnis, North Carolina R.R. Co. v. Zachary, Chesapeake & Ohio Ry. Co. v. Kelly, L.R.A..
+
+13
+
+14
+St. Louis, Iron Mt. & S. Ry. Co. v. Craft, Great Northern Ry. Co. v. Capital Trust Co.. 
+
+14
+
+15
+St Louis, Iron Mt. & S. Ry. Co. v. Craft, supra, at page .
+
+15
+
+16
+Cf. Great Northern Ry. Co. v. Capital Trust Co., supra.
+
+16
+
+17
+Cooper v. Shore Electric Co., Sider v. General Electric Co.. 
+
+17
+
+18
+Matter of Meekin v. B.H.R.R. Co., Am.St.Rep. Sider v. General Electric Co., supra; Fitzgerald v. Edison Electric Iluminating Co., Cooper v. Shore Electric Co., supra; City of Shawnee v. Cheek, Ann.Cas. Frazier v. Georgia R.R. & Banking Co., (semble); Kentucky Utilities Co. v. McCarty's Adm'r, Neill v. Wilson, Waldo v. Goodsell, Johnston v. Bay State St. Ry. Co., N.E. De Marco v. Pease, N.E. 
+
+18
+
+19
+Union Steamboat Co. v. Chaffin's Adm'rs (C.C.A.) The City of Rome (D.C.) .
+
+19
+
+20
+Matter of Meekin v. B.H.R.R. Co., supra, at page L.R.A. Am.St.Rep. 
+
+20
+
+21
+Williams, Executors and Administrators (7th Am.Ed.) Vol. 2, pp. 4, 5; Chamberlain v. Williamson, Leggott v. Great Northern Ry. Co. ( Pulling v. Great Eastern Ry. Co. (.
+
+21
+
+22
+Chamberlain v. Williamson, supra, p. M. & S.; Whitford v. Panama R.R. Co.. 
+
+22
+
+23
+Schmidt v. Menasha Woodenware Co., Gilkeson v. Missouri Pac. Ry. Co., L.R.A.(N.S.) Ann.Cas. Railroad v. Bean, Harvey v. Baltimore & Ohio R.R. Co., Doyle v. Railroad Co., N.E. Huberwald v. Orleans R. Co., So. 474; Taylor v. Western Pac. R.R. Co., Wabash R.R. Co. v. Gretzinger N.E. 69 (semble). Cf. Sanders' Adm'x v. Louisville & N.B. Co. (C.C.A.) McHugh v. Grand Trunk Ry. Co., (Ont.L.Rep. 
+At times state decisions have drawn a distinction between the death of a beneficiary before and during suit. See, e.g., Frazier v. Georgia R.R. & Banking Co., supra. The validity of that distinction is irrelevant to the case at hand. Cf. however, Chicago, Burlington & Quincy R.R. Co. v. Wells-Dickey Trust Co., Reading Co. v. Koons. 
+
+23
+
+24
+Cf. Wilcox v. Bierd, N.E. Rogers v. Fort Worth & D.C. Ry. Co. (Tex.Civ.App.) .
+
+24
+
+25
+Cf. Thompson v. United States ex rel. Cambria Iron Co.. 
+
+25
+
+26
+Cf. The Arizona v. Anelich, Beadle v. Spencer. 
+
+26
+
+27
+Per Holmes, Circuit Justice, in Johnson v. United States (C.C.A.) L.R.A.(N.S.) cf. Gooch v. Oregon Short Line R.R. Co., S. & C.A. Commercial Co. v. Panama R.R. Co.. 
+
+27
+
+28
+The Arizona v. Anelich, supra; Cortes v. Baltimore Insular Line, supra; Warner v. Goltra. 
+
+28
+
+
+{'45 U.S.C. § 51', '45 U.S.C. § 59', '232 U.S. 248', '46 U.S.C.A. § 688', '275 U.S. 161', '103 U.S. 480', '45 U.S.C.A. § 59', '45 U.S.C. §§ 51', '258 U.S. 22', '281 U.S. 38', '237 U.S. 648', '242 U.S. 144', '287 U.S. 367', '46 U.S.C. §§ 761', '46 U.S.C.A. §§ 761', '241 U.S. 485', '46 U.S.C. § 688', '45 U.S.C.A. §§ 51', '293 U.S. 155', '298 U.S. 110', '45 U.S.C.A. § 51', '228 U.S. 173', '28 U.S.C.A. § 778', '95 U.S. 754', '298 U.S. 124', '271 U.S. 58', '227 U.S. 59'}
+=======================================================
+
+301 U.S. 389
+AETNA INS. CO. .v KENNEDY, 3d, to Use of BOGASH. SPRINGFIELD FIRE & MARINE INS. CO.
+v.
+SAME. LIVERPOOL & LONDON & GLOBE INS. CO., LIMITED, v. SAME.
+Argued April 30, 1937.
+1
+Kennedy had a first mortgage and a bank a second mortgage on old brewery property in Pennsylvania owned by a distilling company. The bank procured from petitioners fire insurance policies covering the building. Each policy states it is understood that the insured building is under foreclosure by the bank; the premium being paid by the bank, it is agreed that in event of loss, same will be adjusted with the bank and paid to it and Kennedy, mortgagee, as interest may appear. Each provides for cancellation upon request of the insured and that the company may cancel by giving insured five days' written notice. It includes the standard mortgagee clause which provides: Loss or damage shall be payable to Kennedy as mortgagee as interest may appear; insurance as to the interest of the mortgagee shall not be invalidated by any act of the mortgagor or owner; in case the mortgagor or owner shall neglect to pay premium the mortgagee shall, on demand, pay the same. The company reserves the right to cancel the policy at any time as provided by its terms, but in such case the policy is to continue in force for the benefit of the mortgagee for ten days after notice to him.
+1
+2
+After the bid at sheriff's sale in the foreclosure proceedings, the bank abandoned its interest in the property as worthless, notified Kennedy that it intended to cancel the policies, and suggested that he buy them. He declined to do so or to pay the bank any part of the premiums and expressed intention not to advance any money in respect of the insured building. The bank surrendered the policies for cancellation; petitioners paid it the unearned premiums. Later, and within the period for which petitioners had insured it, the building burned. Bogash acquired Kennedy's interest and, to recover on the policies, brought these suits. Upon the statements of claim and affidavits of defense, there arose questions whether Kennedy consented to or acquiesced in the surrender and cancellation of the policies and whether they were in force when the loss occurred or had been surrendered and canceled before that time.
+2
+3
+The parties, having introduced their evidence and agreed that the amount of the loss was $ submitted their points for charge to the jury. Plaintiff requested the court to instruct the jury in respect of notice to Kennedy of cancellation and surrender of the policies, consent by him that they be canceled, and to direct verdicts in favor of plaintiff for the agreed amount. Defendants requested the court to instruct the jury in respect of the right of cancellation under the policies; that, if the jury should find facts specified in the proposed instructions, its verdicts should be for defendants, and to direct the jury that, upon the pleadings and evidence, the verdicts must be for defendants. The court refused to direct for plaintiff or defendants and, without reserving for later consideration the requests for directed verdicts or any question of law, submitted the cases to the jury. It found for defendants. Plaintiff filed motions for new trial, but did not move for judgments non obstante veredicto. The court denied the motions and entered judgments for defendants.
+3
+4
+Plaintiff appealed; the Circuit Court of Appeals held the trial court erred in refusing to charge on points concerning notice of cancellation to Kennedy, reversed the judgments of the District Court and ordered new trials. Kennedy to Use of Bogash v. AEtna Ins. Co., But on plaintiff's application for rehearing it held that, by their requests for peremptory instructions, plaintiff and defendants assumed the facts to be undisputed and submitted to the trial judge the determination of the inferences to be drawn from the evidence and so took the cases from the jury. The court also held that the evidence was not sufficient to sustain verdicts for defendants, denied the petition for rehearing, and remanded the cases to the District Court with directions to give plaintiff judgments for the agreed amount of the loss. 
+4
+5
+Questions presented are: Whether, by their request for directed verdicts, the parties waived their right to trial by jury; whether, by reversing the judgments for defendants and directing judgments for plaintiff, the Circuit Court of Appeals deprived defendants of that right; and, whether the evidence was sufficient to sustain a finding that Kennedy consented to the cancellation of the policies.
+5
+6
+1. The Circuit Court of Appeals erred in holding that, by their requests for peremptory instructions, the parties took the cases from the jury and applied to the judge for decision of the issues of fact as well as of law. The established rule is that where plaintiff and defendant respectively request peremptory instructions, and do nothing more, they thereby assume the facts to be undisputed and in effect submit to the trial judge the determination of the inferences properly to be drawn from them. And upon review a finding of fact by the trial court under such circumstances must stand if the record discloses substantial evidence to support it.1 But, as the right of jury trial is fundamental, courts indulge every reasonable presumption against waiver.2 And unquestionably the parties respectively may request a peremptory instruction and, upon refusal of the court to direct a verdict, have submitted to the jury all issues as to which opposing inferences may be drawn from the evidence.3 Here neither the plaintiff nor the defendants applied for directed verdicts without more. With their requests for peremptory instructions they submitted other requests that reason ably may be held to amount to applications that, if a peremptory instruction is not given, the cases be submitted to the jury. Indeed, we find nothing in the record to support the view that the parties waived their right of trial by jury or authorized the judge to decide any issue of fact.
+6
+7
+2. The verdicts were taken unconditionally. Plaintiff moved for new trials, but not for judgments. The court denied her motions and entered judgments for defendants. The Circuit Court of Appeals had jurisdiction to reverse and remand for new trials but was without power, consistently with the Seventh Amendment, to direct the trial court to give judgments for plaintiff. And, as before submission of the case to the jury the trial court denied plaintiff's motion for directed verdicts without reserving any question of law, neither that court nor the Circuit Court of Appeals had jurisdiction to find or adjudge that notwithstanding the verdicts plaintiff was entitled to recover. Slocum v. New York Life Ins. Co., Ann.Cas. Our decision in Baltimore & C. Line v. Redman, is not applicable.
+7
+8
+There is another reason why the direction of judgments for plaintiff cannot stand. Under the Conformity Act, C.A. § 724), federal courts follow the practice authorized by state statutes if there be nothing in them that is incongruous with their organization or their fundamental procedure or in conflict with congressional enactment.4 The applicable Pennsylvania statute provides that whenever, upon the trial of any cause, a point requiresting binding instructions has been reserved or declined, the party presenting the point may move the court for judgment non obstante veredicto; whereupon it shall be the duty of the court, if it does not grant a new trial, to enter such judgment as should have been entered upon the evidence. From the judgment thus entered, either party may appeal to the supreme or superior court which shall review the action of the court below, and enter such judgment as shall be warranted by the evidence taken in that court.5 As plaintiff failed to make appropriate motions in accordance with Pennsylvania practice, the District Court did not err in failing to give plaintiff judgment notwithstanding the verdicts.6 The Conformity Act does not extend to the Circuit Court of Appeals.7 In the absence of motions for judgments notwithstanding the verdict in the lower court, the appellate court was without authority to direct entry of judgments for plaintiff.
+8
+9
+3. Was the evidence sufficient to sustain a finding that, as to Kennedy's interest, the insurance terminated before the fire? As the period for which the policies were written had not expired when the loss occurred, defendants had the burden to show that the insurance was not in force at that time. Kennedy was not merely a designated beneficiary to whom was payable, as specified, insurance obtained by the bank. The mortgagee clause created a contract of insurance between him and the company and effected separate insurance upon his interest.8 Defendants do not claim that they gave Kennedy any notice of intention to cancel his insurance or that the policies had been surrendered by the bank in accordance with their terms or otherwise.
+9
+10
+The evidence shows: After bids were received at foreclosure sale, the bank's attorney asked Kennedy to take over the policies and, upon his refusal so to do or to pay the bank anything on account of unearned premiums, informed him that the bank intended to surrender the policies. He expressed no objection, authorization, or consent. There is no evidence that before the fire Kennedy had been notified by the bank or by the defendants, or knew, that the bank had surrendered the policies or received return premiums or that defendants attempted to cancel his insurance. The evidence is not enough to support a finding that he intended the building to become or remain uninsured or authorized the bank to act for him in respect of his insurance, or that he consented to, acquiesced in, or ratified the surrender or cancellation of the policies. Defendants do not claim that they canceled Kennedy's insurance by giving him notice in accordance with the policies. The Circuit Court of Appeals rightly reversed the judgments of the District Court, but erroneously directed judgments for plaintiff.
+10
+11
+The judgments of the Circuit Court of Appeals are accordingly modified by eliminating the directions to enter judgments for plaintiff and by substituting orders for new trials. It is so ordered.
+11
+12
+Modified.
+12
+
+1
+
+2
+
+3
+
+4
+
+5
+
+6
+
+7
+
+8
+
+1
+Beutell v. Magone, Sena v. America Turquoise Co., American Nat'l Bank of Nashville v. Miller, Williams v. Vreeland, Oppenheimer v. Harriman Nat'l Bank & Trust Co., —-.
+
+1
+
+2
+Hodges v. Easton, Slocum v. New York Life Ins. Co., Ann.Cas. Patton v. United States, Dimick v. Schiedt, Foust v. Munson S. S. Line. 
+
+2
+
+3
+Empire State Cattle Co. v. Atchison, etc., Ry. Co., Ann.Cas. 70; Sampliner v. Motion Picture Patents Co.. 
+
+3
+
+4
+Henderson v. Louisville, etc., Railroad, 92; Amy v. Watertown, No. Barrett v. Virginian Ry. Co., Baltimore & C. Line v. Redman, Cf. Nudd v. Burrows, Indianapolis, etc., R.R. Co. v. Horst. 
+
+4
+
+5
+Act of April as amended by Act April Purdon's Penna. Statutes Annotated, § Quoted in Slocum v. New York Life Ins. Co.. 
+
+5
+
+6
+West v. Manatawny Mut. F. & S. Ins. Co., Cox v. Roehler. 
+
+6
+
+7
+Camp v. Gress. 
+
+7
+
+8
+Syndicate Ins. Co. v. Bohn (C.C.A.) Insurance Co. of North America v. International Trust Co. (C.C.A.) Newark Fire Ins. Co. v. Truck (C.C.A.) 496; Westchester Fire Ins. Co. v. Norfolk Building & Loan Ass'n (C.C.A.) Queen Ins. Co. v. People's Union Sav. Bank (C.C.A.) Kimberley & Carpenter v. Fireman's Fund Ins. Co. (C.C.A.) Joyce, Law of Insurance ( Richards, Law of Insurance ( Vance on Insurance (.
+
+8
+
+
+{'130 U.S. 301', '299 U.S. 77', '210 U.S. 1, 8', '220 U.S. 497', '250 U.S. 473', '293 U.S. 474', '28 U.S.C. § 724', '281 U.S. 276', '295 U.S. 654', '106 U.S. 408', '123 U.S. 61', '250 U.S. 308', '157 U.S. 154', '301 U.S. 206', '254 U.S. 233', '28 U.S.C.A. § 724', '91 U.S. 426', '93 U.S. 291', '229 U.S. 517', '228 U.S. 364', '250 U.S. 295'}
+=======================================================
+
+301 U.S. 646
+GREAT LAKES TRANSIT CORPORATION
+v.
+INTERSTATE S.S. CO. et al.
+Argued April 28, 29, 1937.
+1
+A collision occurred in the St. Clair river between the vessel George D. Dixon owned by the petitioner, Great Lakes Transit Corporation, and the vessel Willis L. King owned by the Interstate Steamship Company. Each owner brought a libel in admiralty against the other. The suits were consolidated. The Atlantic Mutual Insurance Company and other underwriters having paid to the petitioner, under insurance policies procured by it, the amount of cargo damage and loss which petitioner had paid to owners of the cargo carried by the Dixon, intervened and claimed the right through subrogation to recover the amount thus paid from the Interstate Steamship Company and its vessel, the King.1
+1
+2
+The District Court entered a decree adjudging both vessels at fault and that the intervening underwriters should recover from each of the vessels and their respective owners a moiety of the amounts paid and payable under the policies. The decree was affirmed by the Circuit Court of Appeals. In view of the importance of the issue, certiorari was granted, limited to the question of the correctness of the decree in directing recovery from the petitioner. March —-.
+2
+3
+Petitioner's contention is that the insurance policies were contracts between the underwriters and the petitioner under which the latter was entitled to be indemnified for the liability it had assumed under its bill of lading and its tariff provisions; that the underwriters were not entitled to recover back from petitioner what they had paid it in discharge of their obligation. The underwriters insist that their policies insured cargo and that their pay ments were made for cargo's benefit; that, the cargo damage and loss having been paid, they were entitled by subrogation to a decree for the full damage against the King; that as both vessels were at fault the King was entitled to contribution from the Dixon; and that the decree in avoidance of circuity had fixed the ultimate liabilities by requiring each vessel to pay a moiety.
+3
+4
+The cargo on the Dixon was carried under uniform bills of lading, approved by the Interstate Commerce Commission, which after referring in section 9(a) to the exemptions contained in the Harter Act (C.A. § 190, et seq.), provided in section 9(e) as follows:
+4
+5
+'If the property is being carried under a tariff which provides that any carrier or carriers party thereto shall be liable for loss from perils of the sea, then as to such carrier or carriers the provisions of this section shall be modified in accordance with the tariff provisions, which shall be regarded as incorporated into the conditions of this bill of lading.'
+5
+6
+The court below concluded, and we think rightly, that by the applicable tariffs the petitioner waived the saving clauses of the Harter Act and assumed full liability to the cargo owners for loss or damage caused by marine perils.2 While these tariffs were not uniform, they also either stated or fairly imported that the specified rates should include marine insurance.
+6
+7
+The policies of insurance had the following rider, by which the underwriters agreed to insure the Great Lakes Transit Corporation, for account of whom it may concern, loss, if any, to be payable to the Great Lakes Transit Corporation or order,—
+7
+8
+'On cargo of any kind owned by the Assured and on the assured's liability to others in respect to cargo of any kind covering same from time said Great Lakes Transit Corporation becomes responsible therefor and until its responsibility ceases, wheresoever the same may be, including risks while on docks, in and/or on cars on docks, piers, wharves, lighters and/or craft, transfers, and all land conveyances, and also to cover upon any advances made by and payment of back charges made by or due from said Assured, and upon any charges of said Assured upon any and all cargo or any portion thereof; from the time the Assured becomes responsible for such cargo including risks of trans-shipment, and under and/or on deck on board of the Assured's steamers: * * *
+8
+9
+'Also to cover through to destination goods delivered by the Assured to other water transportation companies for shipment to destination.'
+9
+10
+The policies further provided that, the assured taking 'all the risks, perils and liabilities which by law a common carrier by land or water assumes, and also the insurance of said cargo against perils of the seas and lakes,' etc., the assurers agreed 'to indemnify and hold harmless' the assured against any loss or damage to cargo from all such risks, perils, etc., 'to the extent which the Assured may be held by the owners thereof, under any liability the Assured shall have assumed as common carriers, insurers or otherwise.'3
+10
+11
+We are unable to accept the view that the provisions we have quoted cannot avail petitioner 'because it did not take upon itself the insurance of cargo or assume any liability with reference thereto as an insurer'; that 'its obligation as to insurance went no further than to require it to procure policies of insurance from others.' Petitioner did more than agree to obtain marine insurance. Petitioner by its tariffs waived the provisions of the Harter Act and became itself an insurer of the cargo against marine perils. The agreement to obtain marine insurance did not detract from that undertaking. Had the underwriters been unable to respond to their contracts, petitioner would still have been liable to the cargo owners upon its own engagement. Having assumed that liability, petitioner was undoubtedly entitled to take out policies for its own protection. See Wyman, Partridge & Co. v. Boston & Maine R.R., I.C.C. I.C.C. It is a familiar rule that a common carrier 'whether liable by law or custom to the same extent as an insurer, or only for his own negligence, may, in order to protect himself against his own responsibility, as well as to secure his lien, cause the goods in his custody to be insured to their full value.' Phoenix Insurance Co. v. Erie Transportation Co., and cases there cited. 'I see nothing remarkable,' said Lord Chief Justice Russell in Hill v. Scott, L.R. ( 'in the shipowner insuring himself. In a case where there was a bill of lading with widely sweeping exceptions, no doubt it would be unnecessary; but where, as here, there is no bill of lading, the shipowner frequently effects an insurance in order to protect himself against liability.' See, also, the same case, on appeal, Id., pp. 
+11
+12
+The policies issued to petitioner explicitly afforded the protection which the petitioner was entitled to seek by virtue of the risks it had assumed. The petitioner was the 'Assured' named in the policies. Their terms contemplated that the assured as a common carrier would take upon itself full liability to the cargo owners for all damage and loss due to perils of the sea and the underwriters expressly agreed to indemnify the assured against that liability. There is no admissible construction of the policies which can eliminate or frustrate that undertaking. In its presence, if ambiguities are raised by other clauses, they must be resolved so as still to give effect to the dominant purpose which the policies clearly reveal.
+12
+13
+The fact that the policies insured the petitioner, Great Lakes Transit Corporation, 'for account of whom it may concern' and that the loss was payable to the Great Lakes Transit Corporation 'or order' did not alter the fact that the Great Lakes Transit Corporation was itself directly concerned or detract from the stipulation running to that corporation as a carrier and affording it the specified indemnity. Nor does the fact that the cost of the insurance was included in the carrier's rate affect the question. The rate would properly cover all the reasonable expenses incident to the transportation, and when the carrier assumed liability to the cargo owners for damages and losses caused by marine perils, there was nothing unreasonable in the carrier's protecting itself against that risk by procuring insurance and covering the cost in its rate. Compare Wyman, Patridge & Co. v. Boston & Maine R. Co., supra. And if it be assumed, as we do assume, that the insurance would inure to the benefit of the cargo owners, that would be a protection to those owners additional to that afforded by the carrier's own engagement which still remained effective and covered by the stipulation in the policies for the benefit of the carrier. By reason of that coverage the underwriters were bound to pay, and did pay, to the petitioner, the amounts which the latter became liable to pay and had paid to the cargo owners under the contracts of carriage.
+13
+14
+These payments having been made, the underwriters now seek to recover back from the petitioner a moiety of what they have paid to it. It is said that this results from the admiralty rule for a division of damages in case of fault on the part of both vessels involved in the collision, and that the decree for a recovery by the underwriters from the petitioner is for the purpose of avoiding circuity of action. The effect none the less is to enable the underwriters to get back one-half of the amounts they had expressly agreed to pay to petitioner for its indemnity.
+14
+15
+The underwriters seek to sustain the decree by invoking the doctrine of subrogation, but the equity of subrogation invests the underwriters with the rights of the assured against third persons (Phoenix Insurance Co. v. Erie Transportation Co., supra; Wager v. Providence Insurance Co., Standard Marine Insurance Co. v. Scottish Assur. Co., not with a right to override its own obligation to the assured. Thus, when a bill of lading provides that in case of loss the carrier, if liable therefor, shall have the full benefit of any insurance effected upon the goods, the provision limits the right of subrogation of the insurer, upon payment to the shipper, to recover over against the carrier. Phoenix Insurance Co. v. Erie Transportation Co., supra; Wager v. Providence Insurance Co., supra. Such a clause giving the carrier the benefit of insurance effected by the shipper is valid 'because the carrier might himself have insured against the loss, even though occasioned by his own negligence; and if a shipper under a bill of lading containing this provision effects insurance and is paid the full amount of his loss, neither he nor the insurer can recover against the carrier.' Luckenbach v. W. J. McCahan Sugar Co., Following the same reasoning, we have said that 'If a valid claim by the underwriter to be subrogated to the rights of the owner will not arise where the carrier has contracted with the owner that he (the carrier) shall have the benefit of any insurance, it would seem to be clear that, where the carrier is actually and in terms the party insured, the underwriter can have no right to recover over against the carrier, even if the amount of the policy has been paid by the insurance company to the owner on the order of the carrier.' Wager v. Providence Insurance Co., supra, at pages See, also, The John Russell (C.C.A.) .
+15
+16
+Construing the policies in this instance as indemnifying the carrier against the liability which it had assumed by its bills of lading and tariffs to the cargo owners, the payments by the underwriters operated as a discharge of their obligation to the carrier and while, as the cargo owners had the benefit of the insurance, the underwriters could be subrogated to the right of the cargo owners against the King, they could not use that right to recover over against the carrier in defiance of their own stipulation. They could recover against the King the moiety for which the King was liable, but could not recover against the petitioner. The procedure in admiralty did not affect the substantive rights established by the policies.
+16
+17
+The decree of the Circuit Court of Appeals is reversed and the cause is remanded for further proceedings in conformity with this opinion. It is so ordered.
+17
+18
+Reversed and remanded.
+18
+
+1
+
+2
+
+3
+
+1
+The underwriters' claim also covered such additional amounts as they would be called upon to pay as further damages and losses to cargo were ascertained and were paid by petitioner.
+
+1
+
+2
+It is sufficient, for the present purpose, to quote the following from one of these tariffs filed by the petitioner:
+'Rule No. 15.—Marine Insurance.—Rates Named Herein Include Marine Insurance.—While shipments subject to rates named herein as including Marine Insurance are water-borne at and between lake ports, on the vessels of the Great Lakes Transit Corporation, said corporation assumes liability for loss or damage to said shipments caused by marine perils, to wit: Of the seas and lakes, fire, collision, stranding, jettisons, pirates, assailing thieves, barratry of the master or mariners and all other perils or misfortunes that have or shall come to the hurt or damage of said property, or any part thereof, including general average charges and expenses for which the owner may, under the Maritime Law, be chargeable, but excluding the risks of riots, war or insurrections; any loss from said marine perils for which said Corporation is liable hereunder, to be paid sixty days after proof of loss and proof of interest in said property have been furnished.'
+
+2
+
+3
+The text of the provision referred to is as follows:
+'It is agreed between the parties hereto that said steamers are to be employed in carrying cargo, or cargo and passengers, in and on said steamers as aforesaid, the Assured taking upon themselves as to said cargo, or parts thereof, all the risks, perils and liabilities which by law a common carrier by land or water assumes, and also the insurance of said cargo against perils of the seas and lakes, fire, jettisons, barratry, negligence of master or mariners, loss or damage arising through explosions howsoever or wheresoever occurring, bursting of boilers, breakage of shafts or through any latent defect in the machinery or hull, and all other acts, perils or misfortunes that have or shall come to the hurt, detriment, damage to or loss of the said cargo or any part thereof, and the said Assurers agree and undertake to indemnify and hold harmless the said Assured against hurt, detriment, damage to or loss of such cargo from any and all such risks, perils, acts or misfortunes, to the extent which the Assured may be held by the owners thereof, under any liability the Assured shall have assumed as common carriers, insurers, or otherwise, and for any and all claims which said cargo may be called upon to contribute in General Average, and/or for salvage, landing, warehousing and/or special charges, and to cover in like manner duties and any cargo owned by the Assured, and also all advances made by and payment of back charges made by or due from said Assured and/or charges of said Assured upon any and all cargo or any portion thereof. * * *
+'In case of loss, such loss to be paid thirty days after proof of loss and proof of interest are furnished to this company. There shall, however, be deducted from the aggregate of all claims on each east bound or west bound passage, the sum of $'
+
+3
+
+
+{'283 U.S. 284', '248 U.S. 139', '46 U.S.C. § 190', '300 U.S. 650', '117 U.S. 312', '150 U.S. 99', '46 U.S.C.A. § 190'}
+=======================================================
+

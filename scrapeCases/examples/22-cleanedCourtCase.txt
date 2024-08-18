@@ -1,0 +1,1442 @@
+90 U.S. 405
+RAILROAD COMPANY
+v.
+SWASEY.
+October Term, 1874
+1
+An appeal may be taken from a decree of foreclosure and sale when the rights of the parties have all been settled and nothing remains to be done by the court but to make the sale and pay out the proceeds. This has long been settled.5 The sale in such a case is the execution of the decree. By means of it the rights of the parties, as settled, are enforced.
+1
+2
+But to justify such a sale, without consent, the amount due upon the debt must be determined and the property to be sold ascertained and defined. Until this is done the rights of the parties are not all settled. Final process for the collection of money cannot issue until the amount to be paid or collected by the process, if not paid, has been adjudged. So, too, process for the sale of specific property cannot issue until the property to be sold has been judic ally identified. Such adjudications require the action of the court. A reference to a master to ascertain and report the facts is not sufficient. A master's report settles no rights. Its office is to present the case to the court in such a manner that intelligent action may be there had, and it is this action by the court, not the report, that finally determines the rights of the parties.
+2
+3
+With these well-settled principles as our guide, it is easy to see that the decree here appealed from is not final. The amount of the debt which the State must pay in order to stop the sale has not been determined, neither has it been determined what amount of stock may be sold if the debt is not paid. In each of these questions the State has a direct interest, and through its representatives in court has the right to be heard. They must be settled before the litigation can be said to be at an end.
+3
+4
+The amount of the debt and the proportion of stock applicable to its payment are, therefore, still open for future adjudication between the parties. Thus far the court has done no more than declare that for the security of the payment of so much as is due, the plaintiff and those he represents have a lien upon their equitable proportion of the stock, and that the lien may be enforced by sale, if payment of the debt is not made. It has also declared its determination to order a sale, if payment of the debt is not made or satisfactorily provided for by April In order that proper action may be had when this time arrives, the master has been directed to state the account of the indebtedness to the plaintiff and those he represents, and of their proportion of securities pledged by the State. In this, as it seems to us, the court has acted upon the suggestion in Forgay v. Conrad,6 and by an interlocutory order announced the opinion it had formed as to the rights of the parties and the principles of the decree it would finally render, leaving the entry of the final decree in form to be made when the amount due has been ascertained and an apportionment of the stock made. In this way the right of all parties can be protected and no injustice done.
+4
+5
+In this connection it may not be improper to call the attention of the Circuit Courts to what was said by Chief Justice Taney in Forgay v. Conrad, as to the care which ought to be exercised in the preparation of decrees of this character. Much time of this court and expense of litigants will be saved if more attention is given to the form of decrees when entered.
+5
+6
+APPEAL DISMISSED.
+6
+
+1
+
+2
+
+3
+
+4
+
+5
+
+6
+
+1
+Daniells's Chancery Practice, American edition of and notes.
+
+1
+
+.
+
+2
+
+ and see, to the same effect, Ray v. Law, Whiting v. Bank of United States, 13 Peters, 11; The Palmyra, Wabash and Erie Canal v. Beers, 1 Black, 54.
+
+3
+
+.
+
+4
+
+5
+Ray v. Law, Whiting v. Bank of the United States, 13 Peters, 15.
+
+5
+
+.
+
+6
+
+
+set()
+=======================================================
+
+90 U.S. 420
+CROSBY
+v.
+BUCHANAN.
+October Term, 1874
+1
+[Syllabus from pages intentionally omitted]
+1
+2
+APPEAL from the Circuit Court for the Western District of Virginia. The case was thus:
+2
+3
+William King, of Abingdon, a village of Washington County, in the southwest courner of Virginia—a man possessed of valuable brine springs, at Saltiville, close by it, and of other large estate—died in 1808 childless, leaving a wife and eight brothers and sisters; among the brothers one named Samuel, and among the sisters one named Hannah, married to John Allen. He left also a nephew, William King, Jr.
+3
+4
+By his will he devised the bulk of his estate, valued at about $ to his nephew (the said William King, Jr.), on a condition which, as things turned out, proved impossible. The fact of the impossibility of the condition led at once to litigation, and in the will in two different suits was the subject of construction in this court.
+4
+5
+It was held in the first suit,1 that the whole estate was devised to William King, Jr. (the nephew), subject to the life estate of the widow, but as it belonged to a court of chancery to determine whether he took the estate to his own use or in trust for the heirs of the testator, that question was left undecided. Accordingly, a bill in chancery was filed to test that question, and in that case, the second one, this court decided that he did take in trust for the heirs.2
+5
+6
+Samuel King, and Mrs. Hannah Allen, the wife of John Allen, thus each became entitled to an eighth part of the estate. Samuel King lived at Somerset, a place in Pulaski County, in the southeast corner of Kentucky; Allen and his wife at Saltville. The two places were, perhaps, two hundred miles apart.
+6
+7
+Independently of any general interest acquired as just mentioned by Samuel King in his brother William's estate, the brother by his will had made a special provision for him thus:
+7
+8
+'I leave to the said Samuel, in case of personal application to the manager at Saltville, or to my executors at Abingdon, on the 1st day of January annually, $ If not called for on that day to be void for that year. Receipt to be personally given.'
+8
+9
+The testimony of different witnesses thus described Samuel King.
+9
+10
+'He was notoriously and incorrigibly intemperate; though not often in such a condition that he could not go about.'
+10
+11
+'I do not recollect that I ever saw him where spirituous liquors were to be had that he did not drink to excess.'
+11
+12
+'He was generally intoxicated; that is to say, generally speaking, when I saw him he was so.'
+12
+13
+'If I ever saw him sober, I have no recollection of the fact. He was in the habit of constantly drinking.'
+13
+14
+This Samuel King, as the testimony further showed, was not only intemperate but was always considered very poor. One witness, Mr. Fox, of Somerset, clerk of the County Court of Pulaski, Kentucky, thus testified:
+14
+15
+'To the best of my recollection he was at all times in a manner destitute of any property or credit. I well recollect that he applied to me as often as three times to borrow the sum of $5, each time, as he said, to defray his expenses to Abingdon, Virginia, where he was going to draw his legacy coming to him from the estate of his brother William King, which sums I lent him, he promising to refund the amounts upon his return, which, however, he never refunded.'
+15
+16
+Mr. Benjamin Estill, a lawyer, long resident in Abingdon, Virginia, said:
+16
+17
+'He was believed to be totally insolvent for three years before his death, which event took place in 1812. I have seen him several times in Abingdon applying for his annuity, and understood that he came on foot from Somerset in Kentucky, where he lived.'Besides being poor and given to drinking spirituous liquor in excess, there was testimony about him thus, and there was no testimony to contradict it.
+17
+18
+'I always considered him as a very wild and visionary man, incapable of making bargains to any amount, when he had been drinking, and especially when there was any intricacy in the transaction.'
+18
+19
+'I never saw him at any time in a condition when he could contract or trade to any advantage to himself or his family.'
+19
+20
+Additional witnesses confirmed this account of him; one saying:
+20
+21
+'I never saw him after the death of his brother, that I thought him capable of transacting business of any kind. He ought to have had a guardian, and if he had been in the North would have had one.'
+21
+22
+We have mentioned that one of the heirs of William King, of Abingdon, was his sister Hannah, married to John Allen.
+22
+23
+Allen's character was thus testified to.
+23
+24
+'John Allen's general character as to correctness of dealing in money matters was bad. I am not able to say whether Samuel King was an easy subject for fraud. But Allen's general character was such that he would take advantage of any man if an opportunity offered, and he would do it so smoothly that the person imposed on would consider him a friend.'
+24
+25
+'I was well acquainted with John Allen, and knew no good of him. I though him capable of committing frauds of any enormity.'
+25
+26
+In addition to these two persons, connected, as we have said, by marriage with one another, and by their common right to participate in the large estate of William King, there appear d a third person, a principal actor in the controversies, the subject of this report. His name was John Vint, and he was entitled 'of Washington City in the District of Columbia.'
+26
+27
+Vint was an Englishman, who came to the United States in 1800. His relation to the parties connected with this suit begins about the year when he is found in intimate relations with Allen; but the mode of origin of his said relation was nowhere distinctly shown, nor with any detail. His name was connected, in the present case, with large transactions. How far property was traced with distinctness as being really his, so as to enable him to purchase in the way, as it will be seen in the sequel, that he alleged he truly did purchase in this case, will appear by the testimony which follows.
+27
+28
+'I never saw him till he and John Allen came to purchase a negro girl I owned. I knew nothing of his pecuniary condition. I was acquainted with Allen before. I sold them the girl. They never paid me.'
+28
+29
+'In November, 1810, Mr. Vint had a store in the house of Mr. John Allen, and had there a considerable quantity of goods, which were said to be Vint's; but I do not recollect that I ever heard either Allen or Vint say that they belonged to Vint. I was frequently at the store. The shelves were pretty well filled with a good display. I heard it spoken of about that time, that Vint had sold out to Allen. Previous to that time Allen was frequently embarrassed, but as respects the condition of property I am not informed.'
+29
+30
+A third witness, Francis Smith, an attorney at law, who had married the widow of William King in 1811, but who testified that he had no interest whatever in the result of the suit, confirmed the view of these two witnesses:
+30
+31
+'Previous to September there were placed in my hands for collection large claims on Allen. I know that he was hard pressed long before in his pecuniary affairs, and that he was never able to purchase and pay $for any property. He had nothing, and was able to purchase nothing. About this time I frequently saw both Allen and Vint. They were sometimes in jail and sometimes out. I thought both of them without property or means.'
+31
+32
+A fourth witness, one Stout, however, testified in rather an opposite way. He said:
+32
+33
+'I recollect the sale by John Allen to John Vint of his interest in the estate of William King, for the sum of about $ I understood from John Allen that at the time of the sale he owed to him, Vint, a small sum, about $ and that the balance of the purchase-money was paid by Vint in goods, which Allen afterwards told me he had received. I farther know of my own knowledge that Allen did receive a great many goods from Vint.'
+33
+34
+However, as stated, infra (see p. , by Vint himself, this sum of $was not a true consideration.
+34
+35
+We now return to Samuel King, already mentioned as intemperate, poor, and visionary. We have stated that he lived in Kentucky and was obliged to come in the beginning of each year, in person, to Saltville or Abingdon, to give his personal receipt for the $left to him by his brother's will. He came for the last time in January, 1812, when he claimed payment for two years.
+35
+36
+A witness, resident at Abingdon, thus testified:
+36
+37
+'When he came to Abingdon, he came to Allen's; Allen kept a public house. He came there drunk, riding a little chunk of a pony, and dressed in a common dress. He was almost always drunk during the time that he was there. When he got to Abingdon he was asked by Allen's family how he had paid his expenses from Kentucky, and whether he had put up at private houses or at taverns? He said that he had put up at any place that he could get in at, and told the persons with whom he put up that he would pay them on his return; for that he would get this year two years' payment. Allen told him that he could get but one, for that he had not come for the last year's payment at the right time, and that under the terms of the will it was go e. Allen's family told me that he was a poor man; and Mrs. Allen, his sister, told him in my presence to return to his family, for that they would suffer in his absence. I thought him to be deranged from intemperance, and this opinion was entertained by the family of Allen generally.'
+37
+38
+Having got payment for either one or for two years, King set off on his pony to go back to his home, in Kentucky. He arrived at the house of a man named Pridemore, about sixty miles from Abingdon, to stay all night, and 'while there,' according to the language of a person who saw him, appeared 'during the evening to be very uneasy, going frequently to the door in a state of alarm, and saying that he feared a man by the name of John Allen, and other persons who were following him from Abingdon, and that he would be assassinated.' In the morning his hat and boots, pocket-book and saddle-bags were in his room, but the himself could not be found, and was never again seen or heard of. For some time grave suspicions of murder rested both upon Pridemore and upon Allen. But it finally rather appeared that King had gone out of the house in the middle of the night under the influence of mania a pot u, and wandering through the forests thereabouts had fallen into a rapid stream, swollen by recent rains, and was lost among the gorges of the mountains which rise in that region. The whole matter, however, remained much a mystery.
+38
+39
+His pony, saddle-bags, pocket-book, hat, and boots were sent back to his brother-in-law, Allen, by whose wife the saddle-bags and pocket-book were opened and examined. They contained papers but no money.
+39
+40
+The unfortunate man himself left, at the time of his death, three children, aged respectively about one, three, and five years.
+40
+41
+Allen died not long after, also leaving several children, all young.
+41
+42
+We come now more particularly to certain facts of this case.
+42
+43
+It seemed plain enough that on the 16th of November, 1810, Allen and wife executed a deed by which, for the professed 'consideration of $ current money, to them in hand paid,' they conveyed to Vint all the right and interest which the said Allen, in right of his wife, and also which his said wife had in the estate of the said William King, that is to say one-eighth part of that estate; and also a certain fifth part of the eighth of the estate which came to Samuel King as one of the heirs, which fifth the deed recited that the said Samuel had conveyed to Allen, who was to reserve it as a compensation to counsel, for services in the suits already mentioned at the beginning of the report of this case (page , brought to establish in effect an intestacy, and the rights of the heirs.
+43
+44
+This deed had apparently been witnessed on the day of its date, November in the ordinary way, by three witnesses; but was not then acknowledged, proved, or recorded. On the 27th of April, 1812, fifteen months after the date of its execution, and as was specified on it, 'at the request of Allen,' its execution was attested de novo by two other witnesses. On the 7th of May following, it was proved for record in the way required by the laws of Virginia.
+44
+45
+The scrivener who drew the deed testified that he drew it carefully; the transaction being large; but that he knew nothing about the true considerating of it.
+45
+46
+It seemed further, plain enough, that on the 1st of January, 1811, Samuel King had executed a deed by which, for the professed 'consideration of the sum of $to them in hand paid,' he and his wife had transferred to this same Vint four-fifths of their interest in the estate of William King, brother of the said Samuel; the remaining fifth having, as the deed declared, been conveyed by them to Allen, in the way already mentioned, as compensation to counsel, in attending to the suits to establish the rights of the heirs.
+46
+47
+The wife's execution of this deed, as it was produced, was by a mark. The execution of this deed was not witnessed, nor did the deed itself state where it had been executed, that is to say, whether in Virginia (at Abingdon or Saltville), where Allen lived, or at Somerset, in Kentucky, where King and his wife, the grantors, lived. But it appeared that on the 29th of January, 1811, that is to say twenty-eight days after the day stated in the instrument as the date of its execution, the instrument had been acknowledged by King and his wife in Somerset, Kentucky, where King and his wife lived, and by King then given to the recorder there for record, and afterward by the recorder returned to King; Vint not anywhere appearing in this transaction.
+47
+48
+Pulaski County, in Kentucky, in which State the lands conveyed by this deed did not lie, was not the proper place for the record of the deed of King and wife to Vint. The deed was not proved in Washington County, Virginia, where the lands did lie, till the 25th of September, 1837.
+48
+49
+With this statement by way of proscoenium, we will now state the pleadings and further developments in the case:
+49
+50
+In January, A.D. during the pendency of the litigation in some of its forms, about the estate of the original owner of it, William King, who, as we have already said, died in 1808, a bill was filed in the Circuit Court of the United States by some of the heirs to obtain a partition of the lands not incumbered by the widow's life estate, and on the 25th of April, 1836, after the last of the decisions in this court, an order was entered appointing commissioners to make this partition. These commissioners afterwards made a report, and, among other things, assigned to the children and heirs of Samuel King, and the children and heirs of Hannah Allen, the wife of John Allen, one-fourth the property divided.
+50
+51
+On the 24th of September, 1838, Vint filed an original bill against the heirs of Samuel King and the heirs of Allen and wife, in which he set forth substantially that each had become owners of one-eighth of the estate of William King, of Abingdon, and then alleged that he was the owner in fee of their interest in the estate. He stated that his title to the Allen interest and one-fifth of the King interest was obtained by the already mentioned deed from Allen and wife, dated November in which, for the consideration of $ they conveyed the same to him; and that his title to four-fifths of the King interest was by the already-mentioned deed from King and wife, dated January in consideration of $ executed and recorded in Kentucky. Of both these deeds, their tests, probates, &c., he appended copies to his bill. But he appended nothing else; nor did he state or intimate in the bill, or by anything appended to it, that the transactions were in reality in the least other or different than what a reader would infer from reading the two instruments themselves. He stated rather, on the contrary, that he did not desire a suspension of the proceedings in partition any further than was necessary to protect his rights, and that he was willing to accept the lands set off to the heirs as and for his share. And the prayer of the bill was to the effect that he might be substituted for these heirs in the partition proceedings, and that whatever was assigned to them might be adjudged to him.
+51
+52
+In September, 1839, all the defendants answered the bill, and in substance stated that they were every young when the transactions referred to occurred, and that they had no personal knowledge as to the matters in controversy. They denied generally all the allegations in the bill adverse to their interests, and suggesting many serious grounds of suspicion against the validity of the claim of Vint, demanded from him full and express proof of all the material averments of his bill, and expecially for proof of the fairness of the deeds, and of the full payment of the consideration thereof, and of the circumstances of the execution of the deeds and the alleged payments. The death of the widow of William King, the original owner, was also suggested, and the heirs of Samuel King stated that they ad conveyed their interest to a certain Findlay.
+52
+53
+On the 19th of September, 1839, Vint filed his supplemental bill, making Findlay a party, and also alleging the death of the widow, and asserting his right to the interest of Samuel King and Hannah and John Allen in the property devised to her for life and assigned to her for dower. In this supplemental bill he stated as follows:
+53
+54
+'Your orator cannot suppose that it will be necessary for him to allege or prove the payment of the consideration, acknowledged in solemn form by the parties to said deeds, until the fairness of the transaction and fulness of consideration are impugned by proof; but your orator asserts the payment of a full and fair consideration for their interests, which were then wholly contingent. Indeed, your orator was reduced from affluence to poverty by this very consideration paid for said interests. The deed from Allen and wife was duly admitted to record in the Circuit Court for Washington County, Virginia, on the 7th day of May, 1812, and the deed from Samuel King was duly admitted to record in the County Court of Pulaski County, Kentucky, where said Samuel King resided, on the 29th day of January, 1811, and on the 25th day of September, 1837, upon proof of the genuineness of said King's signature, the said deed was admitted to record in the County Court of Washington County, Virginia. . Your orator did not deem it necessary to prosecute his claim by suits until the suits should be determined in which the question was made whether William King, son of James King, took under the will of William King as devisee of his real estate, or whether it descended and passed to his heirs at law. It was, moreover, useless, and would have been premature to have asserted your orator's claim in the salt works and dower property until the life estate should be determined. Your orator is advised that he has been guilty of no laches from lapse of time, since he is in full time for the partition, which has not yet been made of any part of the estate.'
+54
+55
+To this supplemental bill Findlay answered, setting up his title under the conveyance from the heirs of Samuel King, and insisting upon several defences not now material to be stated.
+55
+56
+After the filing of the supplemental bill much testimony was taken. On the 7th of February, 1840, Francis Smith, who married the widow of William King, the original owner, gave his deposition, and in it furnished a copy of a contract, as follows:
+56
+57
+'This agreement, entered into this 6th of April, in the year of our Lord between John Allen, of the county of Washington, in the State of Virginia, of the one part, and John Vint, of the city of Washington, in the District of Columbia, of the other part, witnesses that the said John Vint, for and in consideration of the sum of $ to be paid the said John Allen in the manner hereinafter mentioned, the said John Vint doth covenant and agree to transfer, make over, and convey to the children which the said John Allen now has and to such other children as he may have with his present wife Hannah, one-half of all the interest which he, the said John Vint, may have in the estate of William King, deceased, by a conveyance from John Allen and Hannah, his wife, bearing date the 16th of November, 1810, and also by another conveyance from Samuel King and his wife, bearing date the first day of January, 1811, reference thereto being had will more fully appear. It is further agreed that the said John Allen and the said John Vint shall contribute equal portions of the expenses which may necessarily be incurred in the prosecution of suits for the recovery of the estate aforesaid; but until the payment by the said John Allen to the said John Vint of the sum of $ the said John Vint shall not be compelled to convey one moiety of his interest in the estate aforesaid to the children of the said John Allen by his present wife Hannah; and should the said John Allen fail to make the payment to the said John Vint of the sum aforesaid, for and during the term of five years from this date, then, and in that case, it is further agreed between the parties that this agreement shall be void and of no more effect than if it had not been entered into. Whereunto we have set our hands and fixed our seals the day and year above specified, in the presence of——
+57
+58
+'JOHN ALLEN. [SEAL.]
+58
+59
+'JOHN VINT. [SEAL.]
+59
+60
+'M. SHUGART.
+60
+61
+'DAVID STOUT.'
+61
+62
+And afterwards a receipt as follows was discovered:
+62
+63
+'Received of John Allen the sum of $ it being in part pay of a contract entered into, it bearing date the 6th day of April, 1812, it being on account of the estate of the deceased William King. It being for the benefit of the said Allen's heirs, the 7th April, 1812.
+63
+.
+64
+65
+'JOHN VINT.'
+65
+66
+This same witness, Francis Smith, testified further that having heard from Vint that John Allen, with whom he, Smith, had a quarrel, was about to perpetrate through forgery a fraud upon him, he got Vint to make a certain affidavit. This affidavit was annexed to Smith's deposition, and, in the part material to this case, was thus:
+66
+67
+'This day came John Vint before me, John Gibson, a justice of the peace for Washington County, Virginia, and made oath, that on the 16th November, 1810, he purchased from John Allen all his interest in the estate of William King, deceased, and after that purchased from said Allen all the interest of Samuel King in said estate, for which he was to have given, and did give, said Allen credit on a debt due from him to his affiant for $ but that said Allen then stating that he wished the receipt executed by this affiant to be for a larger sum than the sum really given in order to promote his credit to the northward by the largeness of the payment he was making his creditors, this affiant agreed thereto, and executed his receipt for about $more than the sum he was to give. Thus the business stood until April, 1812, when this affiant entered into another contract with said Allen in writing of that date, by which contract he sold and agreed to convey to the children of John Allen, by his wife Hannah, one-half of all his interest in William King's estate upon the payment by John Allen to this affiant of $.
+67
+68
+'JOHN VINT.
+68
+69
+'Subscribed and sworn to before me this 5th September, 1812.
+69
+70
+'JOHN GIBSON.'
+70
+71
+Other testimony was from time to time taken in the cause, and finally, in December, 1842, the heirs of Hannah and John Allen filed their cross-bill, in which they stated, that since the filing of their answers they had learned other facts most material in their character, and having an important bearing upon their rights and interests. They averred that these facts, 'though necessarily well known to complainant (Vint), since he was an actor, and is the only surviving actor in the transaction, he has thought fit, from motives which cannot easily be misunderstood, to suppress.' After referring to their extreme youth at the time the transactions occurred, and other circumstances likely to prevent their becoming acquainted with the facts, they set forth the foregoing contract and receipt, which had then recently been discovered in their search after the truth of the case. They then charged that the failure of Vint to bring these matters to the knowledge of the court was such a fraud on them as must deprive him of the aid of a court of conscience in the premises, and claimed that under the circumstances of this case the payment of the balance of the purchase-money due upon the contract should be presumed. They prayed:
+71
+t. For a cancellation of the deed from Allen and wife to Vint; or,
+72
+. If that could not be granted, a specific performance of the contract; or,
+73
+. A return of the purchase-money shown by the receipt to have been paid.
+74
+75
+To this cross-bill Vint answered in September, 1843. He denied all charges of fraud and improper suppression of truth, and then said:
+75
+76
+'The respondent fairly purchased and paid for the interest of John Allen and Hannah, his wife, and of Samuel King, in the estate of W lliam King, deceased, and by deeds duly executed the said parties regularly conveyed their interest to him. For these deeds reference is here made to the exhibits filed by this respondent to his original bill. Some time after these purchases and the execution of said conveyances, it is true that this respondent did make with John Allen the contract of the 6th of April, 1812 (given, supra, pp. , but Allen did not pay him the purchase-money within five years, or at any time, and having failed to do so, the contract became void. He admits the execution of the receipt, and alleges that beyond this there could be no pretence of any payment. He denies that he received all the money mentioned in that. He recollects distinctly that as part of the sum embraced in the receipt, a draft on John Jelf for $was included, and that it was protested and never paid. A part of the sum also was made up of debts of Vint, which Allen assumed to pay for him but never did pay.'
+76
+77
+'The contract on which the $aforesaid purports to have been paid and the receipt for that sum, were not retained by this respondent in his hands, as the complainants would seem to indicate, but were handed over to John Allen; and as the said Allen and his heirs are interested in the said papers, this respondent supposed that they would take care of them, and at all times have them at their command. This respondent has certainly never had the said papers under his control, and this having been the case, it seems extraordinary to him that the complainants should gravely charge him with improperly concealing contracts and papers which they must have known were never in his possession.'
+77
+78
+On the 17th of April, 1844, Findlay filed his cross-bill against Vint, in which he asked that the deed from Samuel King to Vint might be set aside for fraud. In this bill he charged that the deed was obtained by the fraudulent combination of Vint and John Allen to divest King of his interest in the estate, and stated that proof had already been made in the case that Vint had said he purchased this interest from Allen. He then stated that the actual consideration for the deed was $ payable in ten equal annual instalments, for each of which a note was given. That none of these notes had been paid, and that Vint had nine of them in his possession. He charged that they were unfairly obtained by Vint, and probably in consequence of his dealings and combination with Allen. He called for an answer under oath.
+78
+79
+To this cross-bill Vint filed an answer on the 8th of April, 1845, in which he adopted as part of it the answer which he had before filed to the cross-bill of Allen's heirs. He denied that the deed to him was obtained by fraud. He said that he could not undertake to say with certainty whether or not John Allen exerted any material agency in bringing about the sale by King, but denied all fraudulent combination for that purpose. He admitted that no money had been paid by him to King, and that the consideration was as stated in the cross-bill, and he appended copies of the ten notes. All of them were payable in negroes, in Abingdon, at cash price. The three first falling due were payable to King, or his order. The others to the children of King by Patsey, his wife. The execution of all was witnessed by John Allen. A receipt as follows was produced and made part of his answer:'January Received of John Vint three notes, each $ and seven notes to my heirs, each of them $ and likewise a conveyance of all my right and title to the estate of my deceased brother, William King. Now, let it be understood, that I am to forward to John Allen, of Abingdon, said conveyance to said Vint, all my right and title to said estate, legally and completely done by me and my wife, or else said notes, in number, ten, amounting to $ payable by instalments, as the said notes will show, all of them and each of them to be void and of no effect if the conveyance is not forwarded in three months. If so the n tes to be good.
+79
+80
+'SAM. KING.
+80
+81
+'Attest: JOHN ALLEN, HANNAH ALLEN.'
+81
+82
+He then said that in pursuance of this agreement King did execute the deed in Kentucky, and that under it he claimed title. He then said that Allen procured from King nine of the ten notes and delivered them to him, and that the amount of these notes was included in the receipt for $ stated on p. as part pay of the contract between himself and Allen, of the 6th of April, 1812; and that he received the notes in good faith from Allen, supposing that Allen had obtained them fairly from King. The notes were yet unindorsed by any one.
+82
+83
+One of them—one of the three payable to King, and the one that first fell due—was assigned by indorsement made on it by King, and dated January to Allen, and by him to one Sheffey, who had been counsel for the heirs in their suits about the property of William King.
+83
+84
+He appended to his answer three exhibits intended to show the state of accounts between him and Allen, April They are not necessary to understand the case as relied on by the court, which rests its judgment, as will be seen hereafter, on the leading facts of the case already disclosed. But they are specially adverted to in the argument of counsel for the defendants—the heirs of Mrs. Allen—who relied not only on the leading facts of the case but on the details of it, which, as they conceived, explain and heighten the effect of the leading facts. They are, therefore, here inserted:
+84
+85
+ABINGDON, April .
+85
+86
+JOHN ALLEN TO JOHN VINT, DR.
+86
+87
+To my note given to Francis West, for.... $0
+87
+88
+Interest up till this date. .............. 0
+88
+89
+Do. three notes: one to J. Harper, one to R. Preston, and one
+89
+90
+to J. McCrab, amounting to $ which I lent my
+90
+91
+name for. At that time Mr. Allen had the money in his
+91
+92
+own hand. .............................. 4
+92
+93
+Interest on the above. ................... 0
+93
+94
+Do. one note of mine which gave to Mr. Allen in favor of Samuel
+94
+King for $600, which I paid Mr. Allen, 1st June, 1811; the
+95
+96
+said note was due the 1st day of January, 1812. 600 00
+96
+97
+Interest on the above note. .............. 0
+97
+98
+Do. I paid Mr. Allen the sum of.......... 0
+98
+
+1
+
+2
+
+$JOHN VINT.
+I acknowledge the above accounts to be just and true.
+JOHN ALLEN.
+EXHIBIT No. 2.
+'This agreement, made June between John Allen and John Vint, witnesseth, that the said Allen and Vint did agree on a settlement on the 12th of June, 1811, that the said John Vint did pay John Allen in full for notes, mentioned. [The four notes to West, Harper, Preston, and McCrab, mentioned in the Exhibit No. 1, were here specified]; and one note drawn by the said Vint in favor of Samuel King, for $t day of January, The above notes, amounting to $ which I, John Allen, received pay in full for the above in full, from John Vint, on the 12th June, 1811.
+'Now, if the said Allen pay and discharge the within debts, with all costs and interest accruing thereon, it will be good; if not, the said Allen doth agree that if the said Vint have to pay any of the within moneys, then it is further agreed that the said Vint is to be paid out of the estate of William King, deceased, the first that is recovered by law.
+'JOHN ALLEN,
+'JOHN VINT.'
+EXHIBIT No. t, This is to certify that I received of John Vint one mare, for $h of October, 1811; also, ditto, at error in calculating interest, to the amount of $ the above sums amounting to $ which sum is to be discounted out of the said Vint's receipt which he gave to my heirs on the account of the estate of William King, deceased.
+'JOHN ALLEN.'
+Vint died in 1847, and the cause was afterwards duly revived; one Buchanan, his executor, being made a party in his stead.
+The testimony being closed the cause was heard, and on the 24th September, 1853, a decree rendered:
+1st. Annulling the deed from King to Vint and ordering a reconv yance; declaring that no conveyance was ever made by King to Allen of the one-fifth of his interest; adjudging costs in favor of Findlay and the heirs of King against Vint's representative.
+2d. Denying the prayer of the cross-bill of Allen's heirs for a rescission of the deed from Hannah and John Allen to Vint; denying the prayer for a specific performance of the contract of April . And ordering that the personal representative of John Allen be made a party, with a view to the determination of the question presented by the further prayer of the cross-bill for a return of the purchase-money paid upon this contract. The ground of this last order was that the court did not have before it all the parties necessary for the purpose of making a final disposition of the whole cause.
+On the 21st of November, the cause was again heard and the cross-bill of Allen's heirs finally dismissed. From that decree this appeal was taken, by Crosby and others, Allen's heirs; the heirs and representatives of King being satisfied, of course, with what had been done in respect to them, and neither they nor the representative of Vint making an appeal.
+Messrs. J. A. Johnson and J. A. Meredith, for the appellant:
+I. The court below as a court of equity, in which capacity it acted, had no jurisdiction.
+The bill of Vint does not ask partition, but refers to a suit for partition pending in the same court, in which a division had already been made, and declares that the complainant is willing to abide by that division, and that the subject of controversy in the suit is the part of the estate of William King, of Abingdon, claimed by the descendants of Samuel King and Hannah Allen, &c. The bill, then, is an application on the part of Vint to a court of equity, to say whether he or the heirs of Samuel King and Hannah Allen had the better title to the real estate assigned to the said King and Allen in another suit. Vint was not and had not been in possession; his claim was not recognized as valid, but rejected as invalid by all the persons with whom he pretended to be tenant in common. Now, a bill which does not ask partition—which says it has been made in another suit—which asks the court to decide a question of right to a particular parcel of land—which prays that possession be given of what is held adversely by others—is in fact an action of ejectment and not a bill for partition. That must relate to an undivided estate, and must ask that the interests of each be separated from the others.
+II. But concede that jurisdiction exists, the decree below was wrong.
+1. All Vint's bills should have been dismissed for laches.
+He obtained from King and wife their deed in January, 1811, and the deed from Allen and wife in April, but he did not institute this suit until September, 1838. In the meantime a suit was pending for the construction of the will of William King, upon which depended the value of the shares conveyed by these two deeds. He did not make himself a party to these suits, claiming the shares of Samuel King and Hannah Allen, but he remained passive and silent until Hannah Allen and Samuel King, and every living party to these transactions was dead but himself; and then, for the first time, asserts his claim.
+2. As to the merits.
+The only question is as to the Allen share; that is to say, as to Mrs. Allen's eighth part in her brother's estate. The deed of King conveying his eighth, has been decreed to be fraudulent and null; and from this decree Vint's representative makes no appeal. The fraud of Vint as to that part, therefore, stands confessed.
+Our allegation, however, is that the two deeds, and the contract of April to reconvey on payment of $ and the receipt of April (supra, page , form parts of one transaction, and that the deed from King having been decreed to have been obtained by fraud, the other deed and papers fall as fraudulent also.
+On this account only d we advert to the now effete and worthless deed from King and wife to Vint.
+Our allegation further is that Vint asserting a large, and probably grossly excessive claim ($ on Allen, for the sale of store-goods to him, and Allen being insolvent or nearly so, and meaning to put his own life estate in his wife's eighth of her brother's property beyond the reach of creditors other than Vint, these two persons—Vint and Allen—entered into a fraudulent conspiracy by which,
+1st. Vint should get, through Allen's efforts, King's eighth, and cancel the debt of $which he alleged that Allen owed him, and by which,
+2d. Allen's life estate, under the devise of a provision for his children, should be withdrawn from his creditors other than Vint; and by which,
+3d. Under the same device the interest of Mrs. Allen, the owner in fee—an interest which neither Vint nor any other creditors of Allen could touch—should pass to Vint as security for the payment of a balance due to him by Allen on other accounts, and shown by the exhibits Nos. 1, 2, and 
+We assert that the deed of King to Vint, dated January was procured by Allen's influence; that it was executed at Allen's house in Abingdon; that Vint's notes for $ the consideration for it were left with Allen, until the deed should be taken by King to Kentucky, be executed and acknowledged there by Mrs. King, and be returned to Allen; that Allen kept Vint's notes till January that he then gave them to King; that King had them in his saddlebags when he was murdered or disappeared soon afterwards; that Allen then became repossessed of them and surrendered them, all except one (against which Vint was subsequently indemnified, in the way mentioned in Exhibit No. , to Vint, and that Vint thereupon cancelled his claim on Allen for store-goods; Vint thus getting King's eighth of the estate of the original owner, his brother, for nothing but his (Vint's) surrender of a claim of $on Allen, a man quite insolvent; a claim, therefore, which was good for nothing.
+Now to prove our position.
+The deed from King and wife to Vint bears date January on which day King was doubtless at Abingdon to get his annuity. All Vint's notes, the consideration for the deed, are witnessed by Allen, who resided there, but who is not shown to have ever been in Kentucky. One is transferred to Allen on the next day, January The deed is not witnessed, because it purported to be by King and his wife, and the wife was not there to execute it. It was acknowledged by King and his wife in Kentucky on the 29th of January, 1811, when obviously King had just returned home; and by King was then given to the recorder for record, and by the recorder after record returned to King; Vint nowhere appearing to have had possession or control of the instrument at all. King in his receipt (supra, p. promises to forward the deed when 'legally and completely done' by him and his wife, to Allen; and Vint in his affidavit given to Francis Smith (supra, p. says in terms, that 'he purchased from Allen all the interest of Samuel King, for which he was to have given and did give said Allen credit on a debt due this affiant (Vint) for $'
+It is apparent, therefore, that Allen was the person who brought this conveyance and so-called sale about; that he did it by means of a deed made directly from King and wife to Vint, executed under pretence that King was about to get Vint's notes for $ which notes were doubtless left in Allen's hands under a promise that they should become King's when the deed should come back or be brought back from Kentucky properly executed by the wife, and properly acknowledged; it having, however, been understood between Allen and Vint, that Allen would indemnify Vint against any liability on these notes, and that the true consideration was the surrender of the claim of $on Allen for store-goods sold in 1810 or thereabouts. There was no risk in this to Vint, for if he ever should be made to pay the notes, he had acquired an estate far above the amount of them; while as to his claim of $on Allen it remained where it was.
+But the understanding between Vint and Allen was carried out. Vint did in a subsequent transaction with him, and where he paid really nothing for them, get back from Allen all the notes but one, and against that one he was indemnified, as appears by the Exhibit No. 
+It may indeed be that, the original purpose as to King was but to get his one-eighth of an estate worth $ for the grossly inadequate consideration of the ten notes payable through a term of ten years in negroes, and that the more shocking scheme which in April, was actually accomplished, was not devised until after Allen had got repossessed of Vint's notes after King's death. The exact time when the fraud actually perpetrated was concocted is not important.
+We assert now further, that Allen after King's death became possessed of these nine notes of Vint by fraud.
+Our theory is that the notes of Vint never left Allen's hands till January, It is not likely that Allen would have parted with the notes before the deed came back from Kentucky. Possibly the deed never did come back till King came back himself on the 1st of January, to get his annuity, and that he then brought it back himself. If King had received the notes prior to leaving Abingdon for his home in his family would have had them. He would not have brought them back to Abingdon January But the notes are found April in Allen's possession. How did Allen have them then? There is but one way of accounting for his possession of them. King, we know, disappeared—was murdered or destroyed himself—just after leaving Allen's house, in the beginning of Whether Allen murdered him or whether he destroyed himself will never be known with certainty, until that dreadful day when the secrets of all hearts shall be disclosed. But this we know now—that King's last utterances were that he 'was afraid of a man named John Allen and other persons who were pursuing him.' And if drink had made him mad it does not follow that in his idea there was not a truth 'that often madness hits on which reason and sanity could not so prosperously be delivered of.'
+But whether Allen murdered King or not, we know that King's saddlebags, containing papers, were sent, not to his own family in Kentucky, to whom they ought to have been sent, but to Allen's family at Abingdon. What papers were these? As King is shown to have possessed no other property than Vint's notes, and as these notes never came to the possession of King's family, and as on the 7th of April, they are found in Allen's possession, the presumption is violent that the papers were nine of Vint's notes given for the purchase of King's eighth. The tenth one Allen had already by King's indorsement.
+We now come to the 6th of April, and more particularly to the Allen eighth. Possessed of these notes of Vint, in the spring of and King's deed to Vint having been duly executed and acknowledged, Allen is ready to carry out with Vint a full scheme; whether one devised originally to the full extent in which it was now executed, or in that full extent now first conceived and carried out, is unimportant.
+And here it is to be noted that the deed of Allen and wife to Vint, though executed November does not appear to have left Allen's possession at that time. It was not acknowledged at that time, nor then recorded. On the contrary, on the 27th of April, eighteen months after its execution, two new witnesses attest it at the request of Allen; and it is not proved for record until the 7th of May, 
+At this time Allen was not indebted to Vint except in a small amount shown by the Exhibits Nos. 1, 2, and 3. Vint admits in his affidavit made for Francis Smith, that his claim of $had been paid y Allen's sale to him of King's eighth.
+The parties, therefore, except as to a small debt from Allen to Vint, as shown by Exhibits Nos. 1, 2, and 3, were unindebted to each other; each with one-eighth of the original estate, but Allen holding in his own hands a deed by which he conveyed his and his wife's eighth to Vint. The parties were confederates, and dependent on each other. Each knew the fraud of the other. They now fell upon this device. Allen delivers to Vint the deed from himself and wife, conveying their interest to Vint, in consideration whereof Vint executes the contract of the 6th of April, by which Vint agrees to convey to the children of John Allen and Hannah his wife 'one-half of all the interest which he, the said John Vint, may have in the estate of William King, deceased, by a conveyance from John Allen and Hannah his wife, bearing date the 16th day of November, 1810; and also by another conveyance from Samuel King and wife, bearing date the 1st day of January, 1811.'
+Vint did not stipulate to reconvey to Allen's children the same interest that had been conveyed to him by Allen and wife. If he had done so, the fraud would be apparent upon the face of the two papers. But as this contract bore date two years subsequent to the date of the deeds, it had the appearance of a new contract, one distinct from that of the deeds; and as this appearance would be strengthened by the conveyance of a different interest, they fell upon the device of conveying to the children a moiety of each of the interests conveyed to Vint by each of the two deeds. They sought to strengthen further this appearance of fairness by the nominal consideration of this contract. It will be observed that the consideration to be paid Vint by Allen is $ which is precisely the half of the two sums mentioned in the two deeds as their respective considerations.3 The contract contained a clause that there should be a forfeiture of the contract if this sum was not paid in five years.
+If the arrangement had stopped here Allen would not have got anything. Before he could have demanded the reconveyance, he would have had to pay $ the estimated value of the interest. It would have been better for him, instead of doing this, to have permitted his life-interest to be taken by his creditors; since the fee simple would have still remained to his children through their mother. It became necessary then to resort to another device to relieve Allen of this dilemma; and the device resorted to was this. Vint on the 7th of April, 1812—one day after the date of the contract—gives a receipt to Allen for nearly the whole amount of the nominal consideration; acknowledging the receipt of $ in part pay of the contract entered into on the preceding 6th, and declaring it to be on account of the estate of William King, deceased, and for the benefit of John Allen's heirs.
+It is admitted by Vint that the amount of nine of the notes given by him to King and now surrendered by Allen, was included in the $ and that he supposed that Allen came by them honestly. That this is false is plain. The notes were unindorsed by any one. As to those payable to King's children, as the children were infants, they could be assigned only by order of court. When Vint received the notes he must have known them to have been stolen. Allen was the thief and Vint was the receiver of the goods.
+But to resume our history. After deducting the amount of the receipt from the nominal consideration expressed in this contract, there then remained a balance due from Allen, which he would have to pay before he could demand a conveyance from Vint of the interest stipulated for in the contract of 6th of April, The reason why the receipt did not cover the who e nominal consideration, but left this balance due, is explained by the circumstance that Allen was indebted to Vint on other transactions, which amounted to nearly this balance, and which were produced by Vint on that day in an account rendered, and dated the 6th of April, the date of this contract, with the interest calculated on the several items down to that day, which amount was acknowledged by Allen to be due. See the Exhibit No. The amount due on this account added to the amount due on another account settled between the same parties, amounted to about $(as appears by the Exhibit No. , leaving a difference between this sum and the balance due as aforesaid on the nominal consideration of the contract of 6th April, of about $ This difference was made by Vint, doubtless, with the intention to cover the interest that would accrue on the sum actually due between this day and the time when he would receive enough from William King's estate to pay it. By thus retaining this balance on the nominal consideration of this contract, it furnished Vint security for the amount really due him from Allen on these other transactions, and forced Allen to pay it before he or his children could get anything from the estate of William King under the contract of 6th April, This debt of Allen to Vint is again acknowledged by Allen on the 20th June, in Exhibit No. and a lien given on his interest in William King's estate. He then had no interest except that secured by the contract of 6th April, 
+The case establishes, we submit, the following conclusions:
+That the deed of Allen and wife was not delivered to Vint until the contract of the 6th of April, and the receipt dated on the next day, were signed and delivered by Vint to Allen, and Allen delivered to Vint the notes which Vint had given to King; that the interchange of these papers was contemporaneous, and consequently that the said contract and receipt and the delivery of said bonds constitute the real consideration of the deed from Allen and wife to Vint; the consideration consisting in part of King's interest, procured by the combined fraud of Vint and Allen, which renders the deed from Allen and wife to Vint fraudulent and void. The extent to which this interest of King formed a part of the consideration, is not to be measured by the moneyed value of that interest at the time. It was the controlling inducement which led to the delivery of Allen's deed and the execution and delivery by Vint of this contract and receipt.
+That no moneyed consideration passed between two such men as Allen and Vint is palpable, and is admitted by Vint in his answers to the cross-bills, though in his original bill he avers that the deed from Allen and wife was 'for the consideration of $' and the deed from King and wife was 'for the consideration of $' He thus proves his own averments to be false. Vint has, in fact, offered no explanation as to the true consideration of that deed, but has contented himself with a vague and general averment in his answer, that he fairly paid for the interest of John Allen and Hannah his wife; and this averment is made in response to special and searching interrogatories, calling on him to state the true consideration of this deed. This evasive answer, this ominous silence, should condemn the whole transaction, and stamp it with the fraud charged in the cross-bill, and not explained by a party cognizant of every circumstance, and the only party to these transactions then alive, and alone able to give the explanations called for. This, in a court of equity, is an admission of the fraud charged. To this should be added the facts that he suppressed the contract of the 6th of April, and the receipt of the 7th of that month, and claimed the whole of these two interests in his original and supplemental bills; and that every living party to these transactions, except Vint, was dead, when he filed his bill, twenty-seven years after the transactions occurred, asserting claim under the deed from Allen and wife and King and wife.
+Messrs. H. H. Wells and L. H. Chandler, contra:
+I. As to jurisdiction. Vint's title at the outset depended upon the construction of a trust exclusively within the jurisdiction of a court of equity. The relief which he asked was a partition and a restraining order or injunction against the assignment of any portion of this estate to the heirs-at-law of King and Allen. The established rule is that it is not enough that the party has a possible remedy at law, or even a convenient remedy, but that to divest the equitable jurisdiction of the court, the legal remedy must be an adequate one, and it must be as convenient as the remedy that a court of equity affords.4 In fact, as Vint's title was but equitable—the legal estate having been decided by this court to have been in the nephew5—he could not have maintained ejectment.
+In addition, the case does not stand upon the original and supplemental bill, but the defendants have filed cross-bills, impeaching for alleged fraud the conveyances under which the complainant claims. The complainant has answered. Issues peculiarly appropriate for chancery have thus been raised by the families of Samuel King and Mrs. Allen.
+II. Assuming that jurisdiction to review exists, how much of the case below is to be reviewed? No part, we suppose, but that relating to the purchase-money paid upon the contract of April the question whether it was paid. The decree made in was final. It decreed that the deed from Allen and wife to Vint, dated November was valid; that the deed from King and wife to Vint, dated January was void, and denied the prayer of the cross-bills for specific performance of the contract between Allen and Vint dated April 6th, Those were the only questions which the pleadings, as they then stood, did, or could in fact raise. No other question touched in any manner the title to the property, nor has any question since been presented affecting that title. In short, the decree of decided the right of property in contest, and no appeal having been taken from that decree for nineteen years, this court is now without jurisdiction to review it.6 The complainant was entitled to have that decree immediately carried into effect.
+III. If, however, the decree of was not final, and the same, so far as respects the Allen part, is now subject to review, we say that there was no error in the decree.
+1. There were no unexplained laches.
+Until the determination of the question, whether Samuel King and Hannah Allen took any estate under the will of their brother, there was no necessity, nor any propriety, in fact, in Vint's instituting a suit to recover the property.
+In the ascertainment of that question there was no delay, because a suit was pending and not decided, in this court, until Vint did not make himself a party to that suit, and could not, because it was an action of ejectment to recover possession of a definite portion of the estate which had not been apportioned or divided, and in which Vint had no right to any particular part; nor was there any necessity that he should do so, because the suit being between parties from whom Vint, Allen, and King's heirs alike claimed title, they were all privies, and would be bound by the judgment of the court therein.
+2. As to merits. The whole of the opposite case rests on the assumption that King was at Abingdon January under Allen's influence, and that Allen by fraud and duress coerced him to make the deed to Vint. But——
+1st. When King came, in to claim his annuity, he claimed annuity for two years; one due January and the oth r due now, January and Allen told him that under his brother's will he could not get the one for January because he had not then claimed it. The fact that he did not claim it on the 1st of January, 1811, tends to show that he was not at Abingdon at that date.
+2d. The deed made January is by Samuel King and his wife. It is not shown nor alleged that she then or ever left her home in Kentucky.
+The case of the opposite side assumes, in addition, an enormous scheme of fraud. When such a scheme is relied on—a gigantic scheme, involving an immense mechanism, carried on by two parties through two or three years—plain proof should be made, at least of the leading facts. Such proof is not made. Because such a scheme is imaginable by an active fancy and is actually imagined by the opposite counsel, it does not follow that Vint and Allen imagined it, still less that they carried it out.
+Reliance is placed in the argument of opposite counsel upon the fact that Vint 'suppressed'—that is to say, that he did not produce and set forth in his bill—the contract of the 6th of April, and the receipt of the 7th, and that he claimed the whole of the two-eighths.
+The argument assumes that those two papers not only were really, but also that they were known and felt by Vint to be, at the time that he filed his bill, still operative and obligatory papers; assumes, in other words, that he meant in filing his bill to commit a fraud. But is not that a matter to be proved? By the terms of the contract the rights of Allen's children under it ceased, unless the contract on their side was carried out within five years; that is to say, unless it was carried out by the year Was it, in truth, A.D. an obligatory paper? The question raised one of the nicest points in scientific equity; that is to say, how far time is of the essence of a contract? The general rule is that a party who comes into equity to enforce a contract must not have been guilty of laches, and that on the contrary he must have shown himself 'ready, desirous, prompt, and eager.' There was raised, in addition, and independent of the matter of time, the difficult question of mutual and dependent covenants; and how far the failure of Jelf to pay his note for $ which had been received at the time as cash, and how far the failure of Allen to pay certain debts of Vint's which he had promised to pay for him, reduced the receipt of April 7th to nothing. These things, according to Vint's answer to the cross-bill of Allen's heirs, largely made up the receipt. Was Allen, in filing a bill A.D. plainly and necessarily bound to know and to feel that the paper still bound him? If he was not, he was not bound to say anything about it. A pleader is expected to state his own case, and to state it as strongly as he can. He is not bound to anticipate all objections to it and then to show those objections to be unfounded. Suppose that in fact the contract did not, owing to lapse of time, bind him when he filed his bill. What would have been thought of a bill which, after setting out the deed to Vint, then added: 'It is true indeed that there was a contract? &c.;' . . and, after setting out the contract in extenso, then went on to show perhaps in extensiori, for each severally, a hundred and one reasons why it had no longer any force? Who ever heard of such pleading, either at law or in equity? It would have been in plain violation of the fundamental rules of pleading; rules as ancient as the common law itself,7 and taught in elementary text-books.8 When treating 'Of the Principal Rules of Pleading,' Serjeant Stephen gives one thus:
+'3. It is not necessary to state matter which would come more properly from the other side.'
+And, commenting on it, says:
+'The meaning is, that it is not necessary to anticipate the answer of the adversary; which, according to Hale, C. J., is 'like leaping before one comes to the stile.'9 It is sufficient that each pleading should in itself contain a good prim a facie case, without reference to possible objections not yet urged.'
+The transactions to be passed on are very ancient, complicated, and obscure. Matters may have got mixed up. The consideration of one deed may have been mistaken for that of another. Vint's notes were perhaps not the consideration for the deed from King. Proofs cannot be given as of recent things. It is plain, however, that Vint did have property in 1810; a large assortment of store goods. The witnesses, Russell and Stout, both prove this by their testimony, supra, pp. Allen was reported to have bought these goods. No doubt he did. It is plain, too, that they had other transactions. The exhibits, Nos. 1, 2, and show this. Suppose that Vint was at one time in jail. Does that prove that he may not have previously had control over a large amount of goods and sold them to Allen? He may have been imprisoned for the price of those very goods. And how does the fact that Allen was in jail with him bear on the case? it being confessed that Allen owned a life estate in his wife's eighth of her brother's estate, and that she owned the fee, and both having conveyed to Vint?
+Even if Vint had wanted candor in not standing the fact of the contract and receipt, of April 6th and 7th, how does that show that the deed of the 6th was without consideration?
+The CHIEF JUSTICE delivered the opinion of the court.
+The first question we are to determine is as to the extent of our power over the several orders and decrees of the court below. The appellees claim that it is confined to an examination of the question of the return of the purchase-money paid upon the contract of April while the appellants insist that the appeal reaches back and includes the decree of September so far as it relates to that part of the case in which they are interested. All agree that our inquiries are limited to the Allen title. The King title was disposed of adversely to the appellees in 1853, and they have not appealed.
+In the court determined that it would not decree a cancellation of the Allen deed, and would not order a specific performance by Vint of his contract. This determination it caused to be recorded, but at the same time declared that it could not then make a final disposition of the whole cause, because it did not have before it all the parties necessary for that purpose. In when the cause was ready for final hearing, the court accepted this recorded opinion as settling the rights of the parties, so far as it went, and then proceeded to consider the question which had not been determined. Upon this hearing that question was decided against the complainants in the cross-bill, and then a final decree was entered denying the relief asked by the defendants. This ended the case in the court below.
+Cases cannot be brought to this court upon appeal in parcels. We must have the whole of a case or none. The court below must settle all the merits before we can accept jurisdiction. Appeals will lie, as has been frequently held, when nothing remains to be done except to enforce and give effect to what has been decreed, but until all the rights of the parties have been finally passed upon and settled this cannot be the condition of a cause. Nothing must be left below when an appeal is taken but to execute the decree.
+That was not the condition of this case in 1853. An appeal then would have left the question of the return of the purchase-money undetermined. The rights of the parties as presented by the pleadings were not all settled. The powers of the court below were not all exhausted. If the remaining question had been settled in accordance with the prayer of the cross-bill the present appellants might have b en satisfied and the appeal saved.
+We are, therefore, of the opinion that the decree of was not final so far as it respects the Allen title, and that the appeal brings up the whole of that part of the case for our consideration.
+It is first insisted by the appellants that a court of equity has no jurisdiction of the case, and that for this reason the bill should now be dismissed.
+So far as we can discover from the record, this objection is raised here for the first time. The transactions out of which this case arises occurred sixty-five years ago, or thereabouts. The estate of William King has been the subject of litigation in some form or other during all that time. This particular suit was commenced thirty-six years ago and more. It is high time it was ended. At any rate, we are not inclined to add to its length of years by looking after mere form in order to avoid substance.
+This brings us to the case upon its facts. The record is voluminous, but to our minds the controlling facts are few. In a court of conscience deliberate concealment is equivalent to deliberate falsehood. When a living man speaks in such a court to enforce a dead man's contract with himself against parties who he knows are ignorant of the facts, he must be frank in his statements, unless he is willing to take the risk of presumptions against him.
+In this case Vint waited until both Allen and his wife were dead before he attempted in any manner to assert his claim. This he had the legal right to do. His laches is not a bar, but it is still a fact, and when it is remembered that some of the parties he is now pursuing were not born until after his rights, if any he has, accrued, this silent fact has all the effect of positive statement.
+The rights of Samuel King's heirs are not before us for adjudication, but the facts upon which their rights depend cannot easily be separated from those we must consider.
+Allen and Vint seem to have been almost inseparable when the transactions we are to pass upon occurred. King was a man of intemperate habits. His brother, William King, from whom the property in controversy came, made provision in his will for the payment to him of the sum of $annually, so long as he lived, in case he applied for it personally to the manager of the salt-works at Saltville, or the executor of the will at Abingdon, on the first day of January in each year. His personal receipt was required, and the payment for the year was to be forfeited if not called for on the day.
+He lived in Kentucky, and Allen and Vint at Abingdon. His contract to sell to Vint bears date January That was the day he was required to be at Saltville or Abingdon to receive his annuity. The contract was witnessed by Allen and wife, and the notes given for the purchase-money, all bearing that date, were witnessed by Allen. The note first falling due was assigned by him to Allen on the 2d of January, 1811, the day after its date. From these admitted facts the conclusion is irresistible that King was in Virginia when the contract was made, and that Allen must have been cognizant of it, if not active in bringing it about.
+In January, King was again at Abingdon. While there he staid at Allen's house. In the month of February, or the forepart of March, he started for his home in Kentucky. He stopped for the night at a house about sixty miles from Abingdon, and was never afterwards seen. He left his saddle-bags at the house where he stopped, and these were afterwards taken to Allen's house and opened by Allen's wife. When opened they were found to contain his clothing and a pocket-book. In the pocket-book were papers, but no money.
+The deed from the Allens to Vint bears date November and was executed by Mrs. Allen on that day. It was not proved for record until May 7th, Its execution appears first to have been attested by three witnesses, and then, on the 27th April, at the request of Allen, by two more. The presumption is, therefore, that it had not been delivered efore that time.
+On the 6th April, Vint made his contract for the conveyance to Allen's children of one-half of the property covered by the two deeds. On the next day Vint executed his receipt for the payment of $ part of the purchase-money. Part of this payment consisted of nine out of the ten notes given by Vint for the purchase of the King interest. It cannot for a moment be doubted that Allen had no title to these notes, and that Vint knew it. So far as appears by the testimony none of them were indorsed when surrendered, and seven out of the nine were payable to the children of King. The disappearance of King caused much excitement at the time, and was extensively known. The persons at whose house he stopped for the night had been suspected of his murder. Allen was poor, and in the summer following he and Vint were in jail together for debt. In the face of all these circumstances it is impossible to believe that Vint told the truth when in his answer to the cross-bill of Findlay he stated that he received the notes 'as he believed from one who had a right to their possession, and whose right to transfer them to him was unquestionable.'
+As has been seen, Allen's deed could not have been delivered until after the 27th April, The presumption is, therefore, that payment for the property had not been made previous to that time. Allen was not a man to be trusted, even by Vint, with so large a payment as the nominal consideration required without a delivery of the deed. The deed had been drawn with great care, as the scrivener testifies, because the transaction was important. If the contract had been fully consummated in good faith at its date, there can scarcely be a doubt that the deed would have been at once perfected and proved for record. This, as we think, disposes of the theory that the property had been paid for by Vint with his stock of goods in 1810. Vint did not set up any such claim in any of his answers, and most assuredly he would have done so if it had been true. Besides that, no satisfactory testimony has been adduced in support of the claim. The only witnesses who testify upon the subject speak very indefinitely, and one of them makes some statements which are directly contradicted by well-established facts. In September, Vint himself stated, in an affidavit, 'that on or about the 16th November, 1810, he purchased from Allen all his interest in the estate of William King, deceased, and after that, purchased from Allen all of the interest of Samuel King in said estate, for which he was to give and did give credit on a debt due from him to affiant for $' There is nothing here about a payment in goods, and besides, according to the affidavit, the King purchase entered as much into the credit as did that of the Allen interest.
+But still more important is the absolute refusal of Vint to disclose the facts in his answers when directly called upon to do so. It is true that he need not make the statements unless he chose. The law under the form of pleadings in this case did not compel him to be more specific, but it can raise presumptions against him if he is not. He may, if he pleases, rest his case upon the acknowledgment of payment expressed in his deeds, but if he does he must take the chances of being overcome by other facts and circumstances which repel the presumption arising from such evidence. In this case the circumstances are emphatic. He slept upon his rights for a quarter of a century; he waited for every actor in the premises except himself to die; in all the litigation affecting his interests he never appeared so long as there was one alive who could speak against him from actual knowledge of the facts, and during all the time he permitted his adversaries to assume and represent his title.
+But we are not inclined to pursue this inquiry further. To our minds it is clear that in April, when the transaction upon which the rights of the parties depend, were completed, it was well understood by all that the original interes of Mrs. Allen in the estate of her brother had been in some form secured to her children. It is quite possible it may also have been understood that Vint was to have a lien upon it by way of security for the payment of some debt owing to him; but it is certain, as we think, that it was never intended he should hold it as owner.
+When, therefore, Vint came into court and asserted his absolute title as against the ignorant heirs of these deceased contracting parties, and wilfully concealed his contract for a reconveyance and the receipt which belonged to it, he came with unclean hands and must suffer the consequences. He does not excuse himself for this attempted fraud by pleading defect of memory, but claims boldly that he was not required to tell all he knew; that his duty was at an end when, selecting his own facts, he presented his own case. It is true he had the right to select that way of coming into court, but having deliberately made his selection he ought not to be surprised if he finds that he is received with suspicion. Honesty of purpose prompts frankness of statement. Concealment is indicative of fraud.
+If Allen and Vint were the only parties interested in this controversy the case would be different. They have been partners in fraud and neither can claim a preference over the other on account of honesty of purpose or fairness in dealing. But Allen's interest in the property was only that of a tenant for life. The real owner was his wife, and upon her death her children succeeded to her rights. It is the title of these children that Vint now attempts to defeat. By his own admissions in commencing his proceedings against them he concealed the truth. He thus in effect confesses that he relied to some extent for his success upon their ignorance. After years of groping in the dark, they were able to confront him with the facts and, as we think, to defeat the case he has attempted to make against them.
+DECREE REVERSED, and the cause remanded with instructions to enter a decree DISMISSING THE BILL of the complainants and GRANTING THE PRAYER OF THE CROSS-BILL for a cancellation of the deed from Allen and wife to Vint.
+
+3
+
+4
+
+5
+
+6
+
+7
+
+8
+
+9
+
+1
+Finlay and Mitchell v. K ng's Lessee. 
+
+1
+
+2
+King v. Mitchell. 
+
+2
+
+3
+In the deed from King to Vint, the consideration is the sum of $ In the deed from Allen to Vint, the consideration is the sum of $ the one-half of which is $ the consideration named in the contract of the 6th of April, 1812.
+
+3
+
+4
+Oehlricks v. Spain, Boyce v. Grundy. 
+
+4
+
+5
+See supra, p. 
+
+5
+
+6
+Thompson v. Dean, Wallace, 342; Railway Co. v. Bradley, Ib. Stovall v. Banks. 
+
+6
+
+7
+See Stowell v. Lord Zouch, Plowden, St. John v. St. John, Hobart, 78; Holham v. East India Company. 
+
+7
+
+8
+Stephen on Pleading, Tyler's edition, Washington. 
+
+8
+
+9
+Sir Ralph Bovey's Case, Ventris, 217.
+
+9
+
+
+set()
+=======================================================
+
+88 U.S. 636
+MOORE
+v.
+MISSISSIPPI.
+October Term, 1874
+1
+The only error relied upon in the argument here relates to the action of the Circuit Court of the State in sustaining the demurrer to the plea.
+1
+2
+We are not required to re-examine the judgment of a State court simply because a Federal question may have been decided. To give us jurisdiction it must appear that such a question 'was necessarily involved in the decision.'3 The old rule, established by early cases, restricted our inquiries as to the existence and decision of the question 'to the face of the record.' Previous to the act of it was uniformly held, except as to the State of Louisiana, where a peculiar practice prevails, that we would not look into the opinions of the courts to ascertain what had been decided.5 Since that act, however, in Murdock v. Memphis,6 we intimated that we might, under some circumstances, examine those opinions, when properly authenticated, as far as might be useful for the purpose of ascertaining that fact, but at the same time were careful to say that, 'after all, the record of the case, its pleadings, bills of exceptions, judgments, evidence, in short, its record, whether it be a case in law or equity, must be the chief foundation of inquiry; and while we are not prepared to fix any absolute limit to the sources of inquiry under the new act, we feel quite sure it was not intended to open the scope of it to any loose range of investigation.' We are not now called upon to fix this limit. It is sufficient for all the purposes of this case to hold as we do, that if the record shows upon its face that a Federal question was not necessarily involved and does not show that one was raised, we will not go outside of it, to the opinion or elsewhere, to ascertain whether one was in fact decided.
+2
+3
+In this case the record shows clearly upon its face that the decision of such a question was not required. The indictment was for selling lottery tickets and keeping a gaming table. The plea, although to the whole indictment, met only part of it. The charge of keeping a gaming table was left entirely unanswered.
+3
+4
+A plea to be good as a bar to the whole indictment must meet the whole case. If it does not it will be held bad upon demurrer.
+4
+5
+The demurrer to this plea was, therefore, properly sustained upon this ground. Such being the case it is a matter of no consequence to us that the court may have gone further and decided a Federal question. The decision of such a question was not necessarily involved in the determination of the cause.
+5
+6
+DISMISSED.
+6
+
+1
+
+2
+
+3
+
+4
+
+5
+
+6
+
+1
+See the section, in the Appendix.
+
+1
+
+.
+
+2
+
+3
+Armstrong v. Treasurer of Athens Co.. 
+
+3
+
+4
+Revised Statutes, § .
+
+4
+
+5
+Gibson v. Chouteau, Wallace, 317; Rector v. Ashley, Williams v. Norris, Railroad Company v. Marshall, Cousin v. Blanc. 
+
+5
+
+.
+
+6
+
+
+set()
+=======================================================
+
+89 U.S. 215
+BAILEY
+v.
+MAGWIRE, COLLECTOR.
+October Term, 1874
+1
+APPEAL from the Circuit Court for the Eastern District of Missouri.
+1
+2
+Bailey and others, foreign stockholders, in the Pacific Railroad Company, a corporation existing and organized under different special acts of the State of Missouri, filed a bill in the court below against a certain Magwire, collector of State, county, school, and city taxes for the county and city of St. Louis, Missouri, to enjoin his collection of such taxes assessed for the year on the said railroad company under the general tax law of the State; the ground of the application being that by acts of the Missouri legislature governing the said railroad company, and which acts, as the company asserted, made a contract with it, the company——
+2
+3
+1st. Was not liable for any county, school, or city taxes at all.
+3
+4
+2d. Was not liable for State taxes under the act in virtue of which they had been assessed, but was liable for them only under another act; a special act relating to itself, and prescribing a manner for assessment, &c., different from the manner which had here been followed.
+4
+5
+The charter of the Pacific Railroad Company was granted in 1849, and counties, cities, and towns along its line were authorized to subscribe to it; but it contained no provision exempting its property from taxation.1
+5
+6
+By an act of amendatory of the charter,2 it was enacted that the capital stock, together with all their works and other property, and all profits which should arise from the same should be vested in the respective shareholders of the company forever, in proportion to their respective shares, and that the same should be deemed personal estate and be exempt from all public charge or tax whatsoever, for the term of five years from the passage of the act. This exemption, of course, would have expired in 1856.
+6
+7
+At the time of the passage of this act, as before and since, there existed in Missouri, under its public statutes, a general scheme of taxation of all property in the State; this scheme embracing all property of corporations over and above their capital stock, as well as the property of citizens in the counties where it was situated.
+7
+8
+In this state of things, the exemption given by the act of not having yet expired, the legislature of Missouri, on the 25th of December, 1852, passed another act amendatory of the charter. This act lent its credit to the company by issuing to it State bonds to the amount of $ to be used after the expenditure of a like sum raised from other sources; and it gave to the company a large body of lands which Congress had given to the State.
+8
+9
+By a twelfth section it made the following enactment as to taxation:
+9
+10
+'SECTION 12. The said Pacific Railroad shall be exempt from taxation until the same shall be completed, opened, and in operation, and shall declare a dividend, when the road-bed, buildings, machinery, engines, cars, and other property of such completed road, at the actual cash value thereof, shall be subject to taxation at the rate assessed by the State on other real and personal property of like value.
+10
+11
+'And for the purpose of ascertaining the value of the same, it shall be the duty of the president of said company, on the first day of February in each year, after such road is completed, opened, and put in operation, and declares a dividend, to furnish to the auditor of the State a statement under his oath, of the actual value of the road-bed, buildings, machinery, engines, cars, and other property appertaining to such completed road; and from said statement, the auditor shall charge said company with the amount appearing to be due to the State, according to the statement furnished by the president of the company.
+11
+12
+'And in case said company shall fail to pay into the State treasury, within thirty days after the first day of December in each year, the amount charged against said company as aforesaid, said company shall forfeit and pay to the State of Missouri, in addition to the sum with which said company may stand charged by the auditor, ten per cent. per month, after the expiration of said thirty days, on the amount charged to said company; which sum charged against said company, together with the ten per cent. per month hereinbefore specified, may be recovered in the name of the State of Missouri, by civil action, in any court of competent jurisdiction; and should the president of said company fail to make out and furnish to the auditor of the State a statement as herein required, said company shall forfeit and pay to the State $for such failure, which may be recovered in the name of the State of Missouri, in any court of competent jurisdiction.
+12
+13
+'Provided, That if said company shall fail for the period of two years after said roads respectively shall be completed and put in operation to declare a dividend, then the said company shall no longer be exempt from the payment of the said tax, nor from the forfeitures and penalties in this section imposed.'
+13
+14
+This act of was accepted by the company, and the rights given by the act of were thus surrendered.
+14
+15
+The road was completed in April, 1866; and after April, 1868, and in each year since that time—the company not having yet made any dividend—the president of the company made returns of its taxable property in the manner required by the twelfth section of the act of but not in any other manner.
+15
+16
+At the time when the road was completed $of stock had been subscribed; of which $had been subscribed by the counties and towns along the line of it.
+16
+the legislature of Missouri passed an act relating to the collection of revenue generally throughout the State. The mode prescribed for ascertaining the value of property of corporations generally, was different from that prescribed by the twelfth section of the act of for ascertaining the value of the property of the Pacific Railroad. But the act of did not in terms nor by any plain implication repeal the twelfth section of the act of Whether it did so by any kind of implication was a question that came before the Supreme Court of Missouri, A.D. in The Pacific Railroad Company v. Cass County,3 in which case the court decided that the act of did not repeal the said twelfth section in any way.
+17
+18
+In August, 1871, this decision not then having been made by the said Supreme Court, the assessors for St. Louis County, acting under the provisions of the act of assessed a tax for State, county, school, and city purposes on the property of the Pacific Railroad Company, and seized upon its property, advertising it for sale. Thereupon the present bill was filed; by which various foreign stockholders in the company—the company itself declining to act, and remaining passive—sought to enjoin the collection of the tax.
+18
+t. That the twelfth section of the act of respecting the taxation of the road, was and remained a contract between the State of Missouri and the railroad company; that it specifically provided for the whole subject of the taxation of the road, and that in virtue of it the general revenue laws of the State were not intended to and did not apply to this particular company.
+19
+. That the said section accordingly exempted the company from taxation for county, school, and all other purposes except those mentioned in it.
+20
+. That if this were not all so, thus broadly stated, and if the section were not a contract as to all taxes, and did not, as such contract, furnish the only authority and rule by which this particular company was to be taxed, yet that until repealed it was the law governing the subject of taxation for State purposes; that, as was shown by the decision in the Pacific Railroad Company v. Cass County, it had never yet been repealed, and therefore that certainly, as to the taxes for State purposes, the collector was to be enjoined.
+21
+22
+The positions of the collector, on the other hand, were——
+22
+t. That after the time limited in the twelfth section—that is to say, as things turned out, after April, 1868—the property of the railroad company became subject to taxation, as any other property in the State, to State, county, municipal, and school taxation, and through any mode which the legislature of the State might see fit to prescribe.
+23
+. That the provisions of the said twelfth section constituted no contract in favor of the company as against the right of the State (after the time had elapsed during which the company was to be exempt from taxation) to provide by law for the taxation of the property of the company in any manner it should see fit, and for the general purposes for which any other property in the State was subjected to taxation; and finally,
+24
+. That in point of fact the said twelfth section had been repealed, impliedly, by the general purpose of the act of so that even as to taxation for State purposes, it no longer applied.
+25
+26
+The court below sustained the defendant in everything excepting as to city taxes (which, for reasons not necessary here to be stated, it deemed illegally laid); decreeing, of course, that the defendant might lawfully collect not only the county and school taxes, as he proposed to do, but also, in the same way, the State taxes. The bill to enjoin him from so doing was accordingly dismissed, and from the decree dismissing it this appeal was taken.
+26
+27
+It may be well enough to mention that in a case which was in effect one between these same parties, and lately before this court, it had been decided that the twelfth section of the act of created a contract between the parties, exempting the railroad from taxation until it was completed, and for two years afterwards, if it did not pay a dividend before the expiration of these two years.4
+27
+28
+Messrs. James Baker and G. F. Edmunds, for the stockholders, appellants:
+28
+29
+I. It has been already decided by this court that the twelfth section, under consideration, makes a 'contract' between the State of Missouri and the railroad company, that the company should be exempt by it from all taxation, until the road was completed and a dividend paid, or until two years after its completion. The two years having passed, the only question now to be considered, under the first of the points raised by the case, is as to the extent to which the road may be taxed, and the manner of taxation. What is the extent of that contract?
+29
+30
+The language of the act, leaving out such words as do not affect the meaning, so far as this question is concerned, is:
+30
+31
+'The Pacific Railroad shall be exempt from taxation until the same shall be completed and in operation, and shall declare a dividend, when it shall be subject to taxation at the RATE assessed by the State on other property of like value.'
+31
+32
+The taxation to which the road is to be subject, after the happening of the events mentioned, is to be at a certain rate, that is, at the rate assessed by the State on other real and personal property of like value. No other or greater rate is authorized, nor is any other taxation than that provided by the act, contemplated. It is not a mere declaration, that after the payment of a dividend the property shall be subject to taxation in the manner and at the rate specified. The language employed is different. The property is first declared to be exempt from all taxation. This is to continue until the road is completed and declares a dividend, after which it is to be subject to a specified kind and amount of taxation. Does not this sentence, taken together, preclude the idea of any other or greater taxation? Is it not plain that the exemption is to continue as to all taxations except that particularly specified? It is not said that after these things take place it shall be no longer exempt. There are no negative words used. Were it not for the language which restores it, the total exemption would still continue. The limitation of the time of the total exemption and of the amount of the subsequent taxation are obviously one sentence, and must be taken together. The clause should not be divided into separate and distinct subjects, so that it may be argued that the exemption granted is to cease when a dividend is declared, and by the process of division and argument, a new subject of the remainder of the sentence made, which shall provide what shall take place afterwards. The whole must be taken together, the latter part as limiting or qualifying the former. The extent and manner of subsequent taxation provided for is as much a limitation of the exempting words as is the completion of the road and the payment of a dividend.
+32
+33
+That the whole subject of the future taxation of this road was intended to be provided for, appears by an examination of the whole section. The mode of assessing and collecting the tax mentioned is specifically provided with great particularity. A return of the property is to be made. The character of the return, the kinds of property to be returned, the person by whom, and the officer to whom, and the duties of the officer in charging the taxes, and of the officer who is to collect the same, and many other particulars are specifically set out. The tax is to be paid to the State treasurer. No mention is made anywhere in the act of any other taxation for county or other purposes. In the proviso, at the close of the section, it is declared 'that if said company shall fail, for the period of two years after said roads respectively shall be completed and put in operation, to declare a dividend, that then said company shall no longer be exempt from the payment of said tax,' &c. What tax? Clearly the tax specifically provided for after the total exemption ceased. It is not taxes but tax. The total exemption is from taxes for all purposes, while that authorized is a tax only, and is to be paid to the treasurer of the State, and that is plainly the tax from which the company is no longer to be exempt. Both the obvious meaning and the well-known rule, that the last antecedent should be referred to when the meaning is obscure, indicate that it is the tax provided for. If it was the purpose of the act to leave the property subject to other taxation than that provided for, its authors would have employed language in this proviso that would embrace all taxation. The word 'said,' preceding and limiting the word 'tax,' points to the fact that the tax provided for is the one from which the company is no longer to be exempt.
+33
+34
+The case of the Raleigh and Gaston Railroad Company v. Reid,5 in this court—a case from North Carolina—is much in point. There an act had been passed by the legislature of North Carolina in these words:
+34
+35
+'The said railroad, and all engines, cars, and machinery, and all the works of said company, together with all profits which shall accrue from the same, and all the property thereof, of every description, shall be exempt from any public charge or tax whatsoever, for the term of fifteen years, and thereafter the legislature may impose a tax not exceeding twenty-five cents per annum, on each share of the capital stock held by individuals, whenever the annual profits shall exceed eight per cent.'
+35
+36
+Subsequently to this act being passed—within the fifteen years, and the annual profits not yet exceeding eight per cent—the legislature of the State passed an act taxing the franchise of the road.
+36
+37
+'The only way in which the property of this company could be reached for taxation at all, was after the limitation of the fifteen years had expired. The legislature was then at liberty to tax the individual shares of the stockholders, whenever their annual profits exceeded eight per cent. When a statute limits a thing to be done in a particular mode, it includes a negative of any other mode. It was the manifest object of the legislature which incorporated this company to invite the investment of capital in the enterprise of building this road, and no means better adapted for the purpose could have been devised short of total immunity from taxation. As long as the capital was unproductive it contributed nothing to the support of the government, and even after it became remunerative its contribution was fixed by the terms of the charter, and could not, in any event, exceed twenty-five cents on the share of stock. The impolicy of this legislation is apparent, but there is no relief to the State, for the rights secured by the contract are protected from invasion by the Constitution of the United States.'
+37
+38
+The North Carolina act and the one we are considering are similar in principle. Neither in direct words negatives the right to impose a greater or different rate of taxation.
+38
+39
+A similar doctrine is laid down in the New York and Erie Railroad v. Sabine,6 in the Supreme Court of Pennsylvania.
+39
+40
+These cases do but afford modern application of old law; law perfectly settled in the days of Hobart and Plowden. The former declares that affirmatives in statutes that introduce a new rule imply a negative of all else;7 as the latter had declared before him,8 that when a statute limits a thing to be done in a particular mode it includes a negative of any other mode.
+40
+41
+II. The objection to which acts giving exemption from taxation by States are ordinarily and justly subject—the objection, namely, that by such exemptions the legislature of a State might render the State government powerless to carry on the affairs of the State, by taking away all power to raise funds for that purpose—does not apply here. The State is at liberty to tax the property in question at the same rate, and, consequently, to as great an extent as it does other property. The exemption contended for is from county and other local taxation. The State may appropriate all the tax it is at liberty to impose to its own uses. Counties, cities, and other municipalities, possess no power of taxation, except what is granted to them by the legislature of the State, and it may, if it sees fit, withhold such power to any extent. They are frequently not permitted to tax all the property the State does.
+41
+42
+III. In the history of the Pacific Railroad, we find a support to our interpretation of the twelfth section under consideration.
+42
+43
+By the charter of the road counties, cities, and towns along the line of the road were authorized to subscribe to the capital stock of the company. The legislature was anxious to secure the construction of the road; a matter of plain importance to the State and to the public. By loans of its bonds, conditioned on subscription, by gifts of lands and otherwise, the State stimulated and encouraged subscriptions by counties and towns along the road. In view of this earnest desire to secure the construction of the road thus manifested by the State and by the municipalities, and the people along the line of the road; and of the fact that the counties and incorporated towns were themselves the principal stockholders, and consequently the proprietors of the road, and hence would have to pay the taxes themselves, who can question that an exemption from local taxation was proper, and was intended? The State might well claim and reserve to itself the right to tax the road after its completion, after it was able to pay dividends on its stock, and at the same time grant an immunity from municipal taxation.
+43
+44
+IV. Finally. If the act in question is not a contract, and is subject to repeal, it has in fact not been repealed. This is adjudged in the case of The Pacific Railroad Company v. Cass County,9 by the tribunal most to be respected in a decision on the meaning of the statute. The assessment, therefore, as to State taxes, at least, is made in a wrong way.
+44
+45
+Messrs. B. A. Hill and H. A. Clover, contra.
+45
+46
+Mr. Justice DAVIS delivered the opinion of the court. It is contended on behalf of the appellants that the twelfth section of the act of provides for the whole subject of the taxation of the road, that it exempts the road from all taxes except State taxes, and furnishes the only rule and authority by which these taxes can be ascertained and collected.
+46
+47
+It was held by this court, in the case of The Pacific Railroad v. Magwire,10 that this section created a contract between the State and the railroad company, exempting the road from taxation until it was completed, and for two years thereafter if it did not pay a dividend before the expiration of these two years.
+47
+48
+The inquiry is whether this contract goes further and exempts the road, after it has been completed for two years, from all other than State taxation, and whether the State is precluded from providing another mode of valuation for State taxes.
+48
+49
+It is manifest that legislation, which it is claimed relieves any species of property from its due proportion of the general burdens of government, should be so clear that there can be neither reasonable doubt nor controversy about its terms. The power to tax rests upon necessity, and is inherent in every sovereignty, and there can be no presumption in favor of its relinquishment. While it were better for the interest of the community that this power should on no occasion be surrendered, this court has always held that the legislature of a State, unrestrained by constitutional limitation, has full control over the subject, and can make a contract with a corporation to exempt its property from taxation, either in perpetuity or for a limited period of time. If, however, on any fair construction of the legislation, there is a reasonable doubt whether the contract is made out, this doubt must be solved in favor of the State. In other words, the language used must be of such a character as, fairly interpreted, leaves no room for controversy.
+49
+50
+The present claim is of perpetual exemption from county and municipal taxation, quite as essential to the wants of the people as taxation for State purposes.
+50
+51
+It is conceded that this exemption is not granted in express terms, but it is argued that, taking the whole section together, it arises by necessary implication. We do not think so. Immunity from all taxation was given until the road was built and in operation two years, but after this it is declared 'that the road-bed, buildings, machinery, engines, cars, and other property of such completed road, at the actual cash value thereof, shall be subject to taxation at the rate assessed by the State on other real and personal property of like value.' This is a declaration that the taxation imposed upon the property of this company shall not be different from the taxation imposed upon other similar property, which conforms to the constitutional requirement, 'that all property subject to taxation shall be taxed in proportion to its value.' If other property is charged with the payment of county, school, and municipal taxes, why not the property of this company? In no other way can the principle of equality in taxation, so essential to good government, be secured. If the legislature intended to apply a different rule in this case, it were easy to have said that the property of this company shall be subject to taxation 'for State purposes.' Instead of this it is declared to be 'subject to taxation.' This obviously means general taxation—such taxation as other property of like value is subjected to. No words of limitation are used, and none can be implied against the interests of the State. It is never for the interest of the State to surrender the power of taxation, and an intention to do so will not be imputed to it unless the language employed leaves no other alternative.
+51
+52
+The motive for temporary exemption is apparent enough, because until the road was able to earn something taxation might bear heavily upon it. But with the completion of the road the reason for the exemption ceased, and it is difficult to see what inducement there was for the State to grant perpetual immunity from local taxation. In the original charter of the company, granted in 1849, there was no exemption from taxation. It is true the amendment of altered this so that the road was relieved of any public charge or tax for the period of five years, but this privilege expired in 1856, and the provisions of the act of on this subject were more favorable to the company. Besides receiving under this act a large body of lands, donated by Congress to the State to aid in the construction of railroads, it was enabled to complete its entire road and run it for two years without paying any tax whatever. By this means it secured immunity from taxation until and any further immunity in this direction, if conceded by the State, would have been a mere gratuity. In view of all the legislation on this subject, it would seem quite clear that the General Assembly of Missouri, while recognizing in behalf of this road the propriety of temporary exemption from taxation, had no purpose to continue these exemptions indefinitely.
+52
+53
+But it is said the section covers the whole subject of taxation, and as it provides for State taxes only it excludes any other. If in the declaratory part of it the road had been subject to 'State taxation,' there would have been plausibility in the argument, to say the least, that the legislature intended to waive other taxation. But the provision is that after the temporary exemption from all taxation ceases, by its own limitation, the property of the road shall be subject 'to taxation' at the same rate as other property in the State. There is no restriction in this language, nor is there any rule of law by which a word can be imported to limit its meaning. It is true special provision is only made for the ascertainment and payment of a State tax, and nothing is said about the manner of ascertaining and paying other taxes. But this does not prove an intentional abandonment of all but State taxes. It proves nothing more than that the legislature thought proper, in the particular of State taxes, to modify the general revenue law so far as this corporation is concerned, leaving the provisions of this general law operative upon local taxation.
+53
+54
+It would be a hard rule to apply to the legislation of a State to hold that the circumstance of making in the amendment to a charter of a railroad corporation special provision for ascertaining the tax due the State (nothing being said about the manner of ascertaining other taxes), works an exemption of the property of the corporation from all taxation not levied for State purposes. Silence on such a subject cannot be construed as a waiver of the right of the State in this regard. There must be something said which is broad enough to show clearly that the legislature intended to relieve the corporation from a part of the burdens borne by other real and personal property. This was not done in this case, and the claim of exemption from local taxation cannot be sustained.
+54
+55
+It is claimed, however, that even if this be so the State is inhibited from altering the special provision on the subject of State taxation. This provision prescribes a mode for ascertaining the tax due the State. The president of the company is required to furnish to the auditor a statement, under oath, of the actual cash value of the property to be taxed, on which the company is directed to pay the tax due the State, within a certain time, to the treasurer, under penalties. And the claim is that the State legislature is prohibited from passing any law to assess the property of the company for taxation for State purposes in a different manner. It is not so written in the statute, nor, indeed, can any proper inference be drawn from what is written that the legislature intended to contract with the corporation in this particular. It would be strange indeed if it were so, for the mode of assessment might not work well, and yet, if it formed the subject of a contract, it could not be changed. The principal thing in which the State and company were interested was the actual cash value of the property to be charged. This value was the basis of taxation, and it could not be a matter of moment how it was fixed, provided it were done correctly. In this result both the State and corporation had an equal interest. Both were interested in the means adopted only so far as they were efficient to secure the contemplated object. The exigency of the State required the revenue on the basis of actual value, and this, it is to be presumed, the corporation was willing to accord. At any rate it was the duty of the State, in justice to other property-owners, to use the appropriate means to ascertain this value. The ordinary method of doing this is by the instrumentality of officers appointed for the purpose, but the State asked the railroad, through its president, to make the valuation, to which the corporation assented. This way of reaching the result was less expensive to the State, but more expensive to the corporation than the usual mode in which taxes are assessed. The president of the company could not make a true valuation without the expenditure of time and labor, and this repeated, year by year, as values of property constantly fluctuate. There is no presumption that he would not do it, conscientiously, according to his best judgment, but still it was a favor to the State for him to do it at all, and certainly no one can contend that a State cannot waive at any time a provision for its own benefit. Apart from this view of the subject, the provision in question was simply a mode for ascertaining the true value of the property to be taxed, and if, on trial, it should turn out not to be the best mode for the purpose, surely the legislature has a right to change it and adopt another. This no one will question, unless the legislature has surrendered its power over the subject by contract, which, in our opinion, has not been done in this case.
+55
+56
+But, until the legislature appoints another mode for assessing and collecting the revenue due the State from this corporation, it must proceed in conformity with the provisions contained in the act of .
+56
+57
+The whole subject we have discussed recently came before the Supreme Court of Missouri in the case of The Pacific Railroad Company v. Cass County. The assessor of Cass County had levied taxes for both State and county purposes on the property of the company in the county, and the question was whether these levies were authorized. The court held that the taxes for county purposes were rightfully assessed, under the general revenue laws, but that the taxes for State purposes were unauthorized, because section twelve of the act of had not been repealed either by an express provision of a subsequent law or by necessary implication, and being in force, State taxes could only be collected in the way pointed out in that section.
+57
+58
+As it is the peculiar province of the highest court of a State to decide whether or not the method pursued in the assessment and collection of taxes is in conformity with the law of the State, this decision is controlling.
+58
+59
+It was not made until after this suit was instituted, and, doubtless, not promulgated until the rendition of the decree. The assessors of St. Louis County, in this case, imposed taxes for State, county, school, and city purposes. The bill charged that the whole proceeding was illegal, and sought to restrain the entire levy. On demurrer the Circuit Court held that the city taxes were wrongfully levied, and issued the proper order restraining them, and dismissed the bill so far as it related to State, county, and school taxes. The court should have included State taxes in the restraining order. On this account the decree must be reversed and cause remanded, with directions to enter an order enjoining the collection of the State tax in the bill mentioned. In all other respects the decree is right.
+59
+60
+DECREE REVERSED AND REMANDED.
+60
+
+1
+
+2
+
+3
+
+4
+
+5
+
+6
+
+7
+
+8
+
+9
+
+10
+
+1
+Session Acts of .
+
+1
+
+.
+
+2
+
+Missouri, 26.
+
+3
+
+4
+Pacific Railroad v. Magwire, 20 Wallace, 36.
+
+4
+
+.
+
+5
+
+Pennsylvania State. 
+
+6
+
+7
+Slade v. Drake, Hobart. 
+
+7
+
+8
+Stradling v. Morgan, Plowden, b.
+
+8
+
+.
+
+9
+
+Wallace, 36.
+
+10
+
+
+set()
+=======================================================
+
+89 U.S. 238
+FRENCH, TRUSTEE,
+v.
+HAY ET AL.
+October Term, 1874
+1
+The objection made in the court below touching the removal of the case from the State court, and which objection has been renewed here, was not made in the court below until the testimony was all taken, the case was ready for hearing, and nearly three years had elapsed since the transfer was made. The objection came too late. Under the circumstances it must be held to have been conclusively waived.1
+1
+2
+We shall consider the record as regards Stewart and Hay as if they were not joint defendants. The case as to each presents a distinct aspect, and requires a separate examination.
+2
+3
+I. AS TO STEWART.
+3
+4
+On the 2d of June, 1866, he filed his answer to the original bill. It was subscribed and sworn to by himself, and signed by Mr. Doddridge as his counsel. He thus entered his appearance and placed himself within the jurisdiction of the court. The proceedings thereafter, including his appeal to the State District Court, appear to have been in all things regular down to the removal of the case to the Circuit Court of the United States. The decree of the 8th of December, 1866, from which the appeal was taken, was a final one.2 When affirmed by the appellate court it was conclusive of the rights of the parties as to everything covered by it, and could not be affected by any action of the Circuit Court of the county or of the United States in the subsequent progress of the case. That decree was res judicata of the most solemn character.3
+4
+5
+The decree of the 2d of June, 1869, ascertained the amount due from Stewart for the rents, and ordered that he should pay it. This terminated the litigation under the original bill. After the close of that term—except for reasons not claimed nor shown to exist—the court had no power to revoke or modify this decree.4 Nothing of the kind was attempted. At the same time that this decree was entered leave was given to the complainant to file the amended bill, William Dulany, Esq., an attorney of the court, 'appearing in court and consenting thereto.' The amended bill was filed on the 17th of that month. It sought to make Hay liable also for the rents, and Hay and Stewart liable for the loss and damage as to the furniture. This did not in any wise affect the previous litigation and decrees as to Stewart under the original bill. Those decrees continued to stand as if the amended bill had not been filed.5 The general rule is that an amendment of the bill gives a defendant the right to answer as if he had not answered before.6 In the state of the case which existed when the amendment here in question was made, no amendment could be allowed. It was then too late. A final decree covering the entire original case subsisted. The court had no power over that decree and never attempted to exercise any. The further relief sought could be reached, if at all, only by a supplemental bill.7 It was a gross error to allow the amended bill to be filed. But the point was not made in the State court nor in the court below, nor in the argument here. The case, according to our views, can be properly disposed of without reference to it. We have, therefore, laid it out of view. An amended bill is esteemed a part of the original bill and a continuation of the suit. But one record is made. But the amendment is sometimes of such a character that it is regarded as an independent graft upon the original case and the beginning of a new lis pendens.8 Stewart complained that Dulany appeared and acted for him as to the amended bill without authority. Whether Dulany did so or not is immaterial. New process is necessary unless waived upon a supplemental bill and a bill of revivor, but not upon an amended bill as to defendants who are already before the court.9 Being in court they are bound to take notice of the filing of such bills as of any other proceeding in the case. In the English practice the complainant is required to serve a copy of the amendment upon the solicitor of the defendant,10 but this, it is believed, is rarely if ever done in the courts of the States, unless required by an established rule of practice or a special order in the case. In the courts of the United States the subject is regulated by the twenty-eighth rule of equity practice. The State court, by an order of the 23d of December, 1869, directed an issue to be tried as to the furniture, and gave Stewart leave to answer the amended bill.
+5
+6
+This was all he had a right to claim, and left him nothing to complain of. In this condition of things the case went to the Circuit Court of the United States. That court possessed the same power in the case as the State court while the case was before it, no more and no less. It certainly did not sit as a court of errors or appeal with jurisdiction to reverse the final decree of the State court made under the original bill. That would be contrary to the intent and meaning of the act of Congress under which the removal was made. Its authority as to Stewart was limited to the allegations of the amended bill in regard to the furniture. So far as he was concerned it presented no other subject of litigation, and nothing else was open to examination under it. If that bill had not been filed there could have been no transfer as to him. On the 22d of October, 1872, the court below, as before stated, set aside all the decrees of the State court and ordered that 'this case do now stand for hearing on the bill, answer, and pleadings.' The entire case was thsu opened anew, as if nothing had been done under the original bill by the State court. This was clearly an error. We think the liability of Stewart as to the furniture was well made out by the complainant.
+6
+7
+The court below, by an issue at law, as directed by the interlocutory order of the State court, or by a reference to a master, should have ascertained the amount and decreed accordingly.11
+7
+8
+The order vacating the decrees of the State court as to Stewart, made under the original bill, is VACATED. The final decree dismissing the bill as to him is REVERSED, and the case will be REMANDED to the court below with directions to proceed
+8
+9
+IN CONFORMITY WITH THIS OPINION.
+9
+10
+II. AS TO HAY.
+10
+11
+He also filed an answer to the original bill. Like Stewart's, it was subscribed and sworn to by himself, and was subscribed by counsel. He, too, was bound to take notice of the filing of the amended bill. But the original bill claimed no decree against him. The amended bill, as to him, made an entirely new case. It set up the first claim against him as to the rent and the furniture. His own affidavit and the other proofs showed clearly that Dulany had no authority to appear as his counsel; that he had no actual knowledge of the filing of the bill until after the decree pro confesso was taken against him, and that he had a complete defence. It is within the discretion of a court of equity, upon a proper showing, to set aside a decree pro confesso upon such terms as it may see fit to prescribe.12
+11
+12
+The State court well exercised its authority in setting aside the decree against Hay, but it committed a gross error in decreeing against him eo instanti the payment of $on account of the rent, leaving the case open only as to the furniture. To revoke the first decree because he had been ignorant of the filing of the amended bill, and, hence, had made no defence, and then to renew it without giving him an opportunity to be heard, was, to say the least, a singular anomaly. So far as he was concerned the claim as to the rent and the furniture rested upon exactly the same foundation. If it was proper that he should be heard as to one it was equally so that he should be heard as to the other. There was no difference. The same considerations applied with respect to both. In the renewed decree damages as to the furniture might as well have been included as the charge for the rent. It was no less wrong as to the latter than it would have been as to the former. Time and opportunity to defend being refused, the decree was in effect another decree pro confesso. It certainly was not a decree upon the merits after a hearing upon the charge as to the rents.
+12
+13
+After the transfer of the case he applied to the Circuit Court of the United States to vacate this decree upon the same showing as in the State court, and it was done. A bill for fraud could not have been maintained, because there was no foundation for the charge. A bill of review would not have availed him, because there was no error apparent upon the face of the decree nor upon the record. The circumstances under which the decree was rendered were very peculiar. They have been stated. The proper mode of seeking redress was by motion upon the showing which was made.13 The Circuit Court had the power to do what it did and properly did it. This was less expensive, less dilatory, and much to be preferred to a bill, even if the same relief could have been had in that way. It was also more in accordance with the spirit of sound equity practice.
+13
+14
+The entire case made by the bill as to Hay was thus opened. His answer denied all the material allegations against him, and we find in the record no evidence whatever to sustain them. No effort seems to have been made to procure any.
+14
+15
+The bill as to him was rightly dismissed, and in this respect the decree of the Circuit Court is
+15
+16
+AFFIRMED.
+16
+17
+AT the same time with the preceding case was argued, and just after its adjudication was adjudged, another which here follows, an offshoot from the first case, issuing from it as a branch from a main stock. It is requisite, of course, that before reading the smaller case now given, the reader should be possessed of the larger one already reported.
+17
+
+1
+
+2
+
+3
+
+4
+
+5
+
+6
+
+7
+
+8
+
+9
+
+10
+
+11
+
+12
+
+13
+
+1
+Taylor v. Longworth, Executors of Brasher v. Van Cortlandt, 2 Johnson's Chancery, Skinner v. Dayton. 
+
+1
+
+2
+Forgay v. Conrad, Thomson v. Dean, Wallace, 342.
+
+2
+
+3
+Campbell v. Campbell, Thomson v. Albert, 15 Maryland, Hammond v. Inloes. 
+
+3
+
+4
+Cameron v. McRoberts, Wheaton, 591; Bank of the United States v. Moss et al., 6 Howard, 31; United States v. Glamorgan. 
+
+4
+
+5
+Young v. Frost, 1 Maryland, Washington Bridge Co. v. Stewart et al., Walsh v. Smyth, 3 Bland, 20; Keene v. Wheatley and Clarke, 9 American Law Register, 60.
+
+5
+
+6
+1 Daniell's Chancery Practice, (Perkins's edition of .
+
+6
+
+7
+Thorn v. Germand, 4 Johnson's Chancery, Shephard v. Merrill, Chandler v. Pettit, Stafford v. Howlett, Ib. Bowen v. Idley, 6 Id. 46; Ross v. Carpenter, Walsh v. Smyth, 3 Bland, 20; Sanborn v. Sanborn, Verplanck v. Mercantile Insurance Co., 1 Edwards, 46.
+
+7
+
+8
+Miller v. McIntire, 6 Peters, 61; Walsh v. Smyth, 3 Bland, 20.
+
+8
+
+9
+Cunningham v. Pell, Longworth v. Taylor. 
+
+9
+
+10
+Woodhouse v. Meredith, 1 Jacob & Walter. 
+
+10
+
+11
+Kelsey v. Hobby. 
+
+11
+
+12
+Wooster v. Woodhull, 1 Johnson's Chancery, Beekman v. Peck. 
+
+12
+
+13
+Kemp v. Squire, 1 Vesey, Sr., Robinson v. Cranwell, 1 Dickins, 1; Erwin v. Vint, Mumford, 267; Pickett's Heirs v. Legerwood et al., see also Tilden v. Johnson, Cushing, Balch and wife v. Shaw, Hall v. Williams, 1 Fairfield. 
+
+13
+
+
+set()
+=======================================================
+
+89 U.S. 250
+FRENCH, TRUSTEE,
+v.
+HAY.
+October Term, 1874
+1
+A stronger equity can hardly exist than that which is developed in favor of the appellee in the case before us.
+1
+2
+The order of the court below, annulling the decree upon which the suit at law in Pennsylvania was founded, was fatal to that action, and entitled Hay to a perpetual injunction, without reference to the final result of the prior case.
+2
+3
+This bill is not an original one.
+3
+4
+It is auxiliary and dependent in its character, as much so as if it were a bill of review.8 The court having jurisdiction in personam had power to require the defendant to do or to refrain from doing anything beyond the limits of its territorial jurisdiction which it might have required to be done or omitted within the limits of such territory.9 Having the possession and jurisdiction of the case, that jurisdiction embraced everything in the case, and every question arising which could be determined in it until it reached its termination and the jurisdiction was exhausted. While the jurisdiction lasted it was exclusive, and could not be trenched upon by any other tribunal.10 The court below might, upon a cross-bill, and, perhaps, upon motion, have given the relief which was given by the interlocutory and the final decree in the case before us.
+4
+5
+If it could not be given in this case the result would have shown the existence of a great defect in our Federal jurisprudence, and have been a reproach upon the administration of justice. In that event the payment of the annulled decree may be enforced in Pennsylvania, and Hay, notwithstanding the final decree in that case, and in this case, would find himself in exactly the same situation he would have been if those decrees had been against him instead of being in his favor. They would be nullities as regards any protection they could have given him. Instead of terminating the strife between him and his adversary, they would leave him under the necessity of engaging in a new conflict elsewhere. This would be contrary to the plainest principles of reason and justice.
+5
+6
+The prohibition in the Judiciary Act against the granting of injunctions by the courts of the United States touching proceedings in State courts has no application here. The prior jurisdiction of the court below took the case out of the operation of that provision.
+6
+7
+If the State courts should persist in proceeding—a thing not to be expected—the wrong will be on the part of those tribunals and not of the court below.
+7
+8
+DECREE AFFIRMED.
+8
+
+1
+
+2
+
+3
+
+4
+
+5
+
+6
+
+7
+
+8
+
+9
+
+10
+
+ towards the bottom of the page.
+
+1
+
+2
+April .
+
+2
+
+.
+
+3
+
+October 22d, 1872.
+
+4
+
+5
+January .
+
+5
+
+6
+1 Stat. at Large. 
+
+6
+
+.
+
+7
+
+8
+Logan v. Patrick, Dunn v. Clark, 8 Peters, 1; Dunlap v. Stetson, Clark v. Mathewson. 
+
+8
+
+9
+Watts v. Waddle, Lewis v. Darling, 1 Howard, 1.
+
+9
+
+10
+Hagan v. Lucas, Taylor v. Carryl, Freeman v. How, Taylor v. Tainter. 
+
+10
+
+
+set()
+=======================================================
+
+89 U.S. 496
+PIATT'S ADMINISTRATOR
+v.
+UNITED STATES.
+October Term, 1874
+1
+APPEAL from the Court of Claims; the case being thus:
+1
+2
+J. H. Piatt, on the 26th of January, 1814—during our second war with Great Britain—by a written contract with the then Secretary of War, General Armstrong, became a contractor of supplies for the Northwestern Army for one year, to begin on the 1st day of June, 1814, and end on the 31st day of May, 1815, at an average rate of twenty cents the ration; and as the usage then was to make advances in money to contractors, he retained in his hands, as an advance from the department, the balance of the commissariat fund; which at the close of his engagements amounted to $.
+2
+3
+On the 26th of January, 1814, when the contract was made, the government was in good credit and paying its debts in gold and silver. By the 1st of June following, when it was to take effect, the gold and silver were exhausted, and the government had resorted to treasury notes, which passed at a discount. In the month of August, 1814, the enemy captured Washington and burnt the capitol; an event which assisted to depress the business of the country. All the banks south and west of New York suspended specie payments. The currency soon became the irredeemable paper of State banks. Its value went down and the price of produce went up, till supplies could not be had for less than forty-five cents the ration.
+3
+4
+By the 1st of January, 1815, after expending the balance of the commissariat fund, and all other funds he had received, the United States owed him, for supplies already delivered, a large sum of money, and his drafts on the government lay under protest for the want of funds in the treasury to pay them.
+4
+5
+In this condition of things, and in an exigent moment, on the 26th of December, 1814—the army in the Northwest being about to make a move—requisition was made on him for a large further supply of rations. He went, on the 1st of January, 1815, to Washington, to lay matters before the War Department; and, as the Court of Claims found as facts of the case, 'at a personal interview there with him, notified to Mr. Monroe, then Secretary of War, that he would furnish no more rations under the contract. Secretary Monroe admitted to Piatt the inability of the government to comply with the terms of the contract on their part, both as to money already due, and as to money which might become due for future supplies. But the military exigency then rendering it necessary that a large quantity of rations should be furnished immediately for the Northwestern Army, it was thereupon agreed by parol, between Piatt and the secretary, that if Piatt would furnish the rations which might be required, he should receive for them whatever price they should be reasonably worth at the time and place of delivery; and that the defendants, instead of paying as required by the terms of the original contract, should defer payment until such time or times as they should have the requisite funds.'
+5
+6
+Under the parol agreement, Piatt furnished and delivered to the government rations, the reasonable value of which, at the times and places at which they were furnished, was 45 cents per ration, amounting in the aggregate to $4
+6
+7
+But, on the settlement of Piatt's account at the close of the war, the officers of the treasury, having no knowledge or evidence of the parol agreement under which the rations were furnished, allowed and paid to him only the price designated in the original written contract, amounting in the aggregate to 7
+7
+8
+And leaving due a balance of $iatt performed, as he alleged, other valuable services for the government—transportation, &c., to friendly Indians and to distressed refugees of Michigan—(confessedly outside of those contemplated by either the original or the parol agreement), to the value of $8
+8
+9
+In September, 1819, an action was brought by the United States against him, and he was arrested on a capias ad respondendum for an alleged balance of $ due from him as commissary of subsistence. He how brought his claim before Congress, but the Judiciary Committee of the Senate reported against it. However, while the suit was still pending, and he on bail, Congress (8th May, 1820) passed a private act for his reliet, as follows:
+9
+10
+'Be it enacted, That the proper accounting officers of the Treasury Department be, and they are hereby, authorized and required to settle the accounts of J. H. Piatt, including his accounts for transportation, on just and equitable principles, giving all due weight and consideration to the settlements and allowances already made, and to the assurances and decisions of the War Department:
+10
+11
+'Provided, That the sum allowed under the said assurances shall not exceed the amount now claimed by the United States, and for which suits have been commenced against the said Piatt.'
+11
+12
+Under this act, the accounting officers of the treasury settled the accounts of Piatt thus:
+12
+t. They allowed him a crdit of $for the transportation, &c., furnished by him for the use of the Indians and refugees, not embraced within either of the agreements before described.
+13
+. They allowed him a credit upon a certain specified portion of the rations delivered upon the parol agreement, equal to the amount then claimed by the United States in the suit against him, to wit, the sum of $ The credit was thus ascertained: They first estimated the reasonable value of the specific portion of the rations thus referred to; they then deducted therefrom the price per ration already paid to him; and from the balance thus ascertained, they made a further deduction sufficient to reduce the amount of the credit to the said sum of $ as required by the proviso to the act of Congress, mentioned on the preceding page.
+14
+15
+The allowance of the $which did not require the payment of money, was passed to his credit, and the action against him dismissed.
+15
+allowed for the transportation, &c., &c., to the Indians and refugees was not paid, there having been no appropriation applicable to that claim. His creditors became impatient and put him into prison; and he died in the prison bounds in the city of Washington on the 12th of February, 1822.
+16
+17
+Congress subsequently (24th May, 1824) passed an act, making an appropriation for this last-mentioned account, and there was paid under the act, to the administrator of Piatt, the sum of $ the same being for the transportation, &c., furnished to Indians and refugees, and not for army supplies.
+17
+18
+But the balance of his original claim under the parol contract for $7
+18
+19
+having been reduced by only 7
+19
+20
+his administrator now alleged that his estate was entitled to $0
+20
+21
+and for this sum filed a petition—the petition in the present case—in the Court of Claims.
+21
+22
+The petition set out, with circumstance and color, a case which, in its essence, was the same as above given; and after stating the interview with Mr. Monroe, and that Mr. Monroe admitted that the right of the United States to enforce the original written contract had been forfeited by its failure to make payment according to its contract, and that Piatt had a right to refuse to furnish rations under the call made December alleged that Mr. Monroe had 'appealed to him as a patriot not to desert his country in that day of its trial, assuring him that he should be fully indemnified, and should not be a loser.' The petition then alleged that on the faith of these assurances he, Piatt, had gone on and furnished the subsequently required rations to the amount stated.
+22
+23
+Though it did not seem to have been doubted that the rations actually cost the amount claimed, the officers of the treasury, feeling themselves bound only by what appeared of record in the department, allowed in the settlement of the account for rations furnished after the 1st day of January, 1815, no more than the original contract price per ration. The petition then said:
+23
+24
+'Under these circumstances Piatt brought his claim before the Secretary of War, Mr. Crawford, who would have settled it on the principles for which the said Piatt then contended, and which your petitioner now claims to be legal and just, but that, by reason of what he considered countervailing evidence, he had doubts whether such assurances had ever been given.'1
+24
+25
+The Court of Claims, however, as already stated, found as a fact of the case that they had been given.
+25
+26
+Being equally divided upon the right of the claimant to recover, the court could only give a judgment pro form a, and for the purposes of an appeal to the Supreme Court, decided accordingly as conclusions of law:
+26
+27
+I. That the parol agreement entered into by Piatt and Mr. Monroe, then Secretary of War, after the forfeiture and abandonment of the original written contract, being a new contract upon a new consideration was valid, and, under such agreement, the government became indebted to Piatt for the reasonable value of the rations furnished under it, and for the balance of $.
+27
+28
+II. But that this action was barred by the allowance made by the accounting officers of the treasury under the private act of May which must be construed to have been intended by Congress as a settlement of all claims against the defendants.
+28
+29
+The petition was accordingly dismissed, and Piatt's ad ministrator appealed, assigning this second conclusion of law for error.
+29
+30
+Messrs. William Johnson and Thomas Wilson, for the appellant:
+30
+31
+I. The act of cannot be, and never was intended by Congress to be, a settlement of all of Piatt's claims against the government, because——
+31
+t. The proviso attached to the act limits the settlement, prevents it from being full and complete, and prescribes a narrower or smaller amount of relief than that of justice.
+32
+33
+This takes the case out of decisions such as United States v. Child, and similar cases which will doubtless be cited on the other side. Where a settlement is made and a party accepts payment under it, he is generally estopped to claim more. And why? Because the arbitrators have taken into consideration everything bearing on the case, and have allowed it full weight. Thus, presumptively, the settlement was fair. But when, by the very order of settlement, the arbitrator is told, 'Though the party may have a plain right to such and such items of credit you must not allow them,' clearly such a settlement is not made on a just principle, and it ought not to estop further claim.
+33
+. The act does not say that what was to be done was to be 'in full payment,' or 'in full satisfaction' of his claim, and if the intention that it should be had existed, apt words could have been used to declare it.
+34
+. The accounting officers of the treasury did not regard the act in the way in which the government now regards it, for they proceeded to state Piatt's accounts, and allowed him in that statement the item of $ while the only relief which could have been afforded him under the act was for the sum of $ for which a suit had been brought.
+35
+h. Upon the report of the accounting officers, the subsequent Congress appropriated and paid the above sum of $.
+36
+37
+The intention of Congress in passing the act was apparently this: Congress knew that a balance stood on the books of the treasury against Piatt for moneys due from him as an officer; that a suit had been brought by the United States to recover that balance; that he had been arrested, thrown into prison, and was then on bail; that he alleged that on a true statement of the accounts between him and the United States, it would be shown that he was not indebted to the United States, and that possibly the United States would be found to be indebted to him. Congress, without expressing any opinion upon the facts of the case, enacted that the accounting officers should settle his accounts 'on just and equitable principles, giving all due weight and consideration to the settlements and allowances already made, and to the assurances and decisions of the War Department;' and if, upon the making of this settlement or statement it should be found that Piatt was not indebted to the United States, that there was enough coming to him upon these accounts, 'assurances,' transportation, and the like, to offset the balance claimed from him in the suits commenced, then that this balance should be cancelled and the suits dismissed and he discharged from jail; but if these accounts should not be sufficient to entirely offset this balance, then it should do so pro tanto, and upon payment of the remainder he should be discharged from jail.
+37
+38
+All question as to payment to him of other moneys which he might claim was reserved for future consideration.
+38
+39
+The purpose of Congress seems to have been much the same as when it passed the act for the relief of William Peck.2 Peck was indebted to the United States, was sued, judgment recovered against him, and he imprisoned for the debt. Congress declared that he should be released from imprisonment, provided, first, that he should assign all the property 'which he may now own or be entitled to' to the United States; and second, that any property which he might thereafter acquire should be liable to be taken.
+39
+40
+On a question whether the debt was released by his discharge from imprisonment, this court, in Hunter v. United States,3 says:
+40
+41
+'From this proviso it clearly appears that the release from imprisonment was the only object of the statute, and a proper construction of it does not release the judgment.'
+41
+42
+II. The circumstances in which Piatt was placed at this time prevent any such legal effect, exen if the intention were clearly expressed in the act.
+42
+43
+From the facts, as admitted or found, it is plain that, instead of Piatt being indebted to the United States in the sum of $ for which he had been sued, the United States was indebted to him in the two sums of $ Instead of being the debtor, he was the creditor. Instead of his owing the United States, the United States owed him; and instead of the suit being 'The United States v. Piatt,' it might properly have been 'Pitt v. The United States.'
+43
+44
+These were the circumstances under which the act of was passed.
+44
+45
+Now when a debtor, being a powerful party, on a false allegation of the state of accounts between him and his creditor, arrests that creditor, and throws him into jail, and then, while his creditor is thus illegally imprisoned, offers him a settlement which the creditor accepts in order to be released, such settlement, so made, is surely of no binding force as a settlement, however definitely or plainly it may have been stipulated and agreed upon.4
+45
+46
+Mr. G. H. Williams, Attorney-General, and Mr. John Goforth, Assistant Attorney-General, contra:
+46
+47
+Piatt's claim was in dispute. Mr. Crawford doubted the alleged assurances of Mr. Monroe. Piatt could not get the claim allowed.
+47
+48
+Being under arrest, the act of May was passed, requiring the officers of the treasury to 'settle his accounts,' including his accounts for transportation.
+48
+49
+The word settle has an established legal meaning, and implied the mutual adjustment of accounts between different parties, and an agreement upon the balance.5
+49
+50
+There was no limit to any claim he might make except the one upon the assurances. All the accounts between the government and himself—all things in dispute—were meant, it is obvious, to be included in the reference to the accounting officers and settled.
+50
+51
+Piatt went before the accounting officers and presented his proofs, and made his claims much in excess of the amount awarded him. The settlement was made upon proofs; as to the assurances he was allowed $ all that under the act could be allowed.
+51
+52
+As to the assurances, the sum of $was paid by passing the amount to his credit and so balancing his debt. A further sum of $was found to be due him, for transportation of friendly Indians and refugees. He accepted these settlements without protest.
+52
+was paid by an appropriation, made by Congress A.D. 
+53
+54
+An allowance by the legislature in full, when accepted by a claimant, is an estoppel of further claim.6 That the claimant has no other remedy at the time does not affect the question. This appears to be settled by the case of Mason v. United States,7 in this court, and by other cases here.8
+54
+55
+No compulsion was exercised over Piatt at any stage of the proceedings.
+55
+56
+Mr. Justice CLIFFORD delivered the opinion of the court.
+56
+57
+Attempt is made, chiefly on two grounds, to vindicate the conclusion of the Court of Claims, that the cause of action is barred by the allowance reported by the accounting officers of the treasury. The grounds are:
+57
+58
+(1.) That the auditor passed to the credit of the deceased claimant the amount claimed by the United States as due from him as commissary of subsistence, and that he, the claimant, accepted the settlement without protest.
+58
+59
+(2.) That Congress intended by the act directing the adjustment of his accounts that the settlement should be final and conclusive; that the act was in the nature of an offer for a disputed claim, and that the acceptance of the adjustment is a bar to the claim.
+59
+ Verbal agreements between the parties to a written contract made before or at the time of the executions of the contract are, in general, inadmissible to vary its terms or to affect its construction, as all such agreements are considered as merged in the written contract. Both parties admit that proposition, nor is it denied by the defendants that oral agreements subsequently made, on a new and valuable consideration, before the breach of the contract, may have the effect to enlarge the time of performance of the contract, if it is not one within the statute of frauds, or that such an oral agreement may have the effect to vary any of the terms of the written contract or to waive or discharge it altogether.
+60
+61
+Exceptions, it is everywhere admitted, exist to the rule that parol evidence is not admissible to contradict or vary the terms of a written instrument. Most of such exceptions are enumerated by Mr. Greenleaf, and in the course of that enumeration he says: 'Neither is the rule infringed by the admission of oral evidence to prove a new and distinct agreement upon a new consideration, whether it be as a substitute for the old or in addition to and beyond it; and if subsequent and involving the same subject-matter it is immaterial whether the new agreement be entirely oral or whether it refers to and partially or totally adopts the provisions of the written contract, provided the old agreement be rescinded and abandoned.'9
+61
+62
+Sufficient appears in the very nature of the new arrangement to show that the promise of the United States was made upon a good and valid consideration, as nothing is better settled than the rule that if there is a benefit to the defendant and a loss to the plaintiff consequent upon and directly resulting from the defendant's promise in behalf of the plaintiff, there is a sufficient consideration moving from the plaintiff to enable the latter to maintain an action upon the promise to recover compensation.10
+62
+63
+Other authorities state the rule much stronger, authorizing the conclusion that benefit to the party by whom the promise is made, or to a third person at his instance, or damage sustained at the instance of the party promising by the party in whose favor the promise is made is sufficient to constitute a good and valuable consideration for the support of an action of assumpsit.11
+63
+64
+Modern authorities supporting the proposition that parol evidence is admissible to prove such a new agreement, under the circumstances disclosed in this case, are very numerous and are quite sufficient to show that the proposition may be regarded as an established rule of decision.12
+64
+65
+Apply that rule to the case and it is quite clear that the whole amount claimed by the plaintiff was due to the deceased claimant at the time his accounts were adjusted by the accounting officers of the treasury in addition to the amount claimed by the United States in set-off for balance due from him as commissary of subsistence. Well-founded doubt upon that subject cannot be entertained, as it satisfactorily appears that in order to reduce his claim to an amount not exceeding the claim of the United States, those officers found it necessary to deduct from the aggregate estimate of the value of the rations furnished under the parol agreement, an amount exactly equal to the balance found due to the claimant by the subordinate court from whose judgment the appeal is prosecuted in this case.
+65
+66
+Nothing was paid to the claimant under that private act except what was allowed to the claimant for services and expenses in furnishing transportation and rations for the use of Indians and indigent citizens. He was discharged from arrest and the balance due from him to the United States for the moneys in his hands as commissary of subsistence was also discharged, but nothing was paid to him for the large balance now found to be due by the court below. Argument to show that such a settlement is not a bar to the residue of the claim is unnecessary, as the proposition is utterly destitute of merit and repugnant to the plainest dictates both of law and justice.
+66
+ Opposed to that is the suggestion, in behalf of the United States, that the act of Congress was in the nature of an offer of compromise, and that the acceptance of the adjustment is a bar to the claim.
+67
+68
+Support to that proposition is attempted to be drawn from the decision of this court in the case of Mason v. United States,13 but the court here is very clearly of the opinion that the case cited affords no countenance whatever to any such conclusion. Muskets were wanted by the United States in that case, and it appears that the plaintiff in that controversy contracted to manufacture and deliver at a specified time large quantities of such arms at the price specified in the contract. Arms of the kind were delivered and paid for, and the plaintiff was notified by order of the Secretary of War that a larger quantity would be received. Preparations were accordingly made by the plaintiff to fill the second order, but the Secretary of War subsequently appointed a special commission to audit and adjust all such orders and claims. They reported that the contract should be confirmed to a certain extent upon the condition that the contractor should, within fifteen days after notice of their decision, execute a bond, with good and sufficient sureties, for the performance of the modified contract, and the case shows that he executed the modified contract and gave the required bond. By that contract he engaged to manufacture thirty thousand muskets, and the finding of the subordinate court showed that the contract was fulfilled by both parties.
+68
+69
+What the court decided in that case was that the claimant voluntarily accepted the modification of the contract as suggested by the commissioners and that he executed the new contract in the place of the one superseded, which new contract he must have understood was intended to define the obligations of all concerned. Beyond all doubt the new contract in that case was substituted for the old one, and the court held that no party, after accepting such a compromise and executing such a discharge, could be justified in claiming damages for a breach of the prior contract which had been voluntarily modified and surrendered.
+69
+70
+Other cases to the same effect have been decided by this court.14 None of those cases, however, proceed upon the ground that such a commission possesses any judicial power to bind the parties by their decision or to give the decision any conclusive effect. Claimants in such cases may appear before the commission or not, as they choose, but the decision is, if they do appear and accept the terms awarded as a final settlement of the controversy, without protest, they must be understood as having precluded themselves from further claim and litigation.
+70
+71
+Where a party accepts the amount awarded in such a case it is just to conclude that he acquiesces in the decision of the tribunal by which a part of the claim is rejected as well as in the finding in his favor, but the accounting officers in this case were forbidden by law to allow the claimant anything beyond the amount in his hands as commissary of subsistence, and they obeyed the directions given in the act of Congress. Manifestly the claimant had no opinion upon the subject, and in the opinion of the court it would be an unreasonable construction of the act of Congress to suppose that its framers intended that the claimant should relinquish the large balance found to be due him in consideration of his discharge from arrest and the discontinuance of the suit against him for the recovery of the amount due from him to the United States.
+71
+72
+Certain cases from the State reports are referred to which it is supposed assert a different rule, but the court here is of a different opinion.15
+72
+73
+Suffice it to say that in the case before the court no appropriation whatever was made in favor of the claimant. Where the claim is disputed and an appropriation is made in favor of the claimant for an amount less than the amount claimed, and appropriation purports to be in full payment of the demand, the rule may be different, but it is sufficient to say in response to those authorities that nothing was appropriated in this case, and the accounting officers of the treasury were forbidden to allow anything beyond what was involved in the pending suit against the claimant.
+73
+74
+JUDGMENT REVERSED, and the cause remanded with instructions to render JUDGMENT IN FAVOR OF THE PETITIONER for $ the amount found to be due him in the findings of the Court of Claims.
+74
+75
+Mr. Justice BRADLEY, with whom concurred Justices SWAYNE, DAVIS, and HUNT, dissenting:
+75
+76
+I dissent from the judgment of the court in this case. In my view the case was decided and settled more than fifty years ago. The claim cannot be established without opening that settlement, and declaring that a valid contract was made which had been decided not to be a valid contract, but only a mere claim for some equitable allowance which was in fact made and accepted at that time.
+76
+77
+Piatt, the original claimant, was an army contractor in the Northwest during the war of Becoming embarrassed by not receiving funds from the government, and from the great rise in the prices of provisions, he threatened to throw up his contract; but, the allegation is, that at the request of Mr. Monroe, then acting Secretary of War, and upon his assurances that he should not be the loser, he went on, and furnished supplies to a large amount. For these supplies he claimed a large allowance beyond the amount stipulated in his contract. The petition, after alleging that the officers of the treasury, feeling themselves bound only by what appeared of record in the department, allowed to Piatt, in the settlement of his account for rations furnished after the first day of January, 1815, no more than the original contract price per ration, states further that Piatt then brought his claim before the Secretary of War, Mr. Crawford, who would have settled it on the principles for which Piatt then contended, 'but that, by reason of what the considered countervailing evidence, he had doubts whether such assurances had ever been given.'
+77
+78
+Thus it is seen that there were two sides to the question at that early day, when all the events were fresh, and when Mr. Monroe was living at the seat of government, and accessible at any moment.
+78
+ Piatt was arrested for $ the balance found due to the government in his accounts, as ascertained by the settlement at the department. He then brought his claim before Congress, and the Judiciary Committee of the Senate reported adversely thereto. But on the 8th of May an act was passed for his relief.16
+79
+80
+Thereupon his accounts were restated under the provisions of the act; and the officers of the department, after allowing him the sum of $for provisions furnished to friendly Indians and to distressed settlers of Michigan (which was entirely outside of his contract, and was afterwards paid in full), allowed him a credit on the footing of the assurances of Mr. Monroe for $ the full amount of the claim for which he had been arrested. He was thereupon discharged from custody on the 25th of July, 1820, and died in February, 1822. The present claim is prosecuted by his representatives.
+80
+81
+Upon these facts it seems difficult to resist the conviction that, in the contemplation of both parties (Piatt and the government), this case was then and there forever ended and determined. Between individuals it must necessarily have been so. Had such a disputed and doubtful claim been held by one man against another, and left to arbitration, subject to the condition that no sum should be awarded beyond a certain amount, and had that amount been awarded and accepted, can there be a doubt that the award would have been binding and conclusive? I think not.
+81
+82
+The present case is stronger. Congress proposed to allow Piatt a settlement of his claim by the Treasury Department, in which due weight and consideration should be given to the assurances in question, provided that the sum allowed under them should not exceed the amount claimed by the United States against him, and for which suit had been commenced. He accepted the law, had the benefit of the settlement, and was allowed under the assurances the amount named, which justly cancelled the debt for which he was sued and arrested by the government. Thereupon he was discharged. The declaration of Congress thus made binding by the acts of the party that nothing should be allowed against the government on that claim beyond a certain amount named, was equivalent to a solemn adjudication. It amounted to a declaration of the government that it would not suffer itself to be pursued or molested for a greater sum. Can it now be contended that the act of constituting the Court of Claims, and allowing suits to be brought against the government on contracts made with it, has opened this adjudication—that settlement and determination of the case? In my judgment, certainly not. The act constituting the Court of Claims was not intended to disturb past adjudications and settlements, and to open afresh claims that had been disposed of. The Court of Claims had no right to go behind the final settlement, and attempt to establish the original facts of the case. Its findings of fact, in this respect, were illegal and void. The government has never consented to be sued on this claim, or on any claims similarly situated.
+82
+83
+The conclusion of law to which the court came, I think, was correct, and the decree should be affirmed.
+83
+
+1
+
+2
+
+3
+
+4
+
+5
+
+6
+
+7
+
+8
+
+9
+
+10
+
+11
+
+12
+
+13
+
+14
+
+15
+
+16
+
+1
+See Reports of Senate Committee, April .
+
+1
+
+2
+6 Stat. at Large. 
+
+2
+
+.
+
+3
+
+4
+Brown v. Pierce, Wallace, 214; United States, Lyon, et al. v. Huck, abee. 
+
+4
+
+5
+Baxter v. Wisconsin, 9 Wisconsin, 44; see also .
+
+5
+
+6
+Sholes v. The State, 2 Chandler, Calkins v. The State, 13 Wisconsin. 
+
+6
+
+.
+
+7
+
+8
+United States v. Child et al, United States v. Justice. 
+
+8
+
+9
+1 Greenleaf on Evidence, 12th edition, § Taylor on Evidence, 6th edition, § Goss v. Nugent, 5 Barnewall & Adolphus, 65; Nelson v. Boynton, Metcalf, 400; Leonard v. Vredenburgh, 8 Johnson, 39; Marshall v. Lynn, 6 Meeson & Welsby, Stead v. Dawber, 10 Adolphus & Ellis, 57; Stowell v. Robinson, Bingham's New Cases. 
+
+9
+
+Parsons on Contracts, 6th edition. 
+
+10
+
+11
+Violett v. Stettinius, Chitty on Contracts, 28; Townsley v. Sumrall. 
+
+11
+
+12
+Cummings v. Arnold, Metcalf, 489; Bank v. Woodward, 5 New Hampshire, 99; Blood v. Goodrich, 9 Wendell, 75; Lindley v. Lacey, 17 Common Bench, New Series. 
+
+12
+
+Wallace, 70.
+
+13
+
+14
+United States v. Child, United States v. Justice. 
+
+14
+
+15
+Sholes v. State, 2 Chandler, Baxter v. State, 9 Wisconsin, 44; Calkins v. State. 
+
+15
+
+16
+See it set out, supra, p. —REP.
+
+16
+
+
+set()
+=======================================================
+

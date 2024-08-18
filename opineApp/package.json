@@ -1,0 +1,15 @@
+{
+  "name": "opineapp",
+  "version": "1.0.0",
+  "description": "an application for the difusion of supreme court knowledge",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "david burchell",
+  "license": "ISC",
+  "dependencies": {
+    "ejs": "^3.1.10",
+    "express": "^4.19.2"
+  }
+}

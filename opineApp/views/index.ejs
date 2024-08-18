@@ -1,0 +1,64 @@
+<!doctype html>
+<html lang="en-US">
+  <head>
+    <meta charset="utf-8" />
+    <title>Opine</title>
+	
+	<link rel="preconnect" href="https://fonts.googleapis.com">
+	<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+	<link href="https://fonts.googleapis.com/css2?family=Sarabun:ital,wght@0,100;0,200;0,300;0,400;0,500;0,600;0,700;0,800;1,100;1,200;1,300;1,400;1,500;1,600;1,700;1,800&display=swap" rel="stylesheet">
+	
+	<link type="text/css" rel="stylesheet" href="/stylesheets/main.css">
+	
+	<script src="/javascripts/load-fonts.js"></script>
+	<script src="/javascripts/draw-canvas.js"></script>
+	<script src="https://ajax.googleapis.com/ajax/libs/jquery/3.7.1/jquery.min.js"></script>
+	<script src="/javascripts/jquery-functions.js"></script>
+	
+  </head>
+  <body>
+
+	<div class="headerDiv">
+		<canvas id="graphicTitle" width="260" height="125"></canvas>
+		<div></div>
+		<div class="navDiv">
+			<nav>
+				<a href="#">Cases</a>
+				<a href="#">Justices</a>
+				<a href="#">American Documents</a>
+				<a href="#">Out Of Context</a>
+				<a href="#">About</a>
+			</nav>
+		</div>
+	</div>
+  
+	<div class="verseDiv">
+		<div id="graphicVerse"></div>
+	</div>
+
+	<div class="sectionDiv">
+		<div class="sectionHeader">
+			<p>cases to know</p>
+		</div>
+		<div class="cardsHolder">
+
+
+			<% inputCases.forEach(function(c) { %>
+
+				<div class="caseLinkCard">
+					<div class="caseLinkContainer">
+
+						<a href="<%=c.link%>"><%=c.name%></a>
+						<p><%=c.date_decided%></p>
+						<p><%=c.subject_matter%></p>
+						<p class="caseTextPreview"><%=(c.case_text).substring(0, 30)%></p>
+
+					</div>
+				</div>
+
+			<% }) %>
+		</div>
+	</div>
+	
+  </body>
+</html>

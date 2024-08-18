@@ -1,0 +1,97 @@
+body{
+	font-family: sans-serif;
+	background-color: white;
+	padding:0;
+	margin:0;
+}
+
+.fonts-loaded body {
+	font-family: Sarabun, sans-serif;
+	font-size: 2em;
+}
+
+#graphicTitle {
+	margin-right: 1em;
+	margin-left: 1em;
+}
+
+#graphicVerse {
+	margin: 0.5em;
+	font-size: 0.75em;
+	font-style: italic;
+	font-weight: 600;
+}
+
+.verseDiv {
+	display: grid;
+	grid-template-columns: 40% 60%;
+}
+
+.headerDiv {
+	display: grid;
+	grid-template-columns: min-content minmax(5%, 20%) auto;
+	padding-bottom: 0.5em;
+}
+
+.navDiv {
+	display: flex;
+	align-items: center;
+	justify-content: center;
+
+	background-color: #aec5df;
+	border-bottom-left-radius: 1ch;
+}
+
+nav a {
+	padding: 0.5em;
+	text-decoration: none;
+	color: black;
+}
+
+.sectionDiv {
+	margin-top: 1em;
+	margin-left: 4em;
+	display: flex;
+	flex-direction: column;
+	align-items: left;
+	background-color: #aec5df;
+	width: 70%;
+	border-radius: 2ch;
+}
+
+.sectionHeader {
+	margin-left: 2ch;
+	border-bottom: 1px solid black;
+}
+.sectionHeader p {
+	font-size: 1.5em;
+	margin: 0;
+	font-weight: bold;
+	margin-bottom: 1ch;
+}
+
+.cardsHolder {
+	border-radius: 2ch;
+	width: 85%;
+	margin-left: 2ch;
+}
+.caseLinkCard {
+	text-align: left;
+	margin-top: 1.5ch;
+	margin-bottom: 1.5ch;
+}
+.caseLinkContainer {
+	background-color: #d6e0ec;
+	border-radius: 1ch;
+	display: grid;
+	grid-template-columns: 35% 15% 25% 25%;
+	align-items: center;
+}
+.caseLinkContainer p {
+	margin-left: 1ch;
+	font-size: 1em;
+}
+.caseLinkContainer a {
+	margin-left: 1ch;
+	font-size: 1em;
+}

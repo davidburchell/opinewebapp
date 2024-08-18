@@ -1,0 +1,1418 @@
+90 U.S. 69
+THE DEXTER.
+October Term, 1874
+1
+Objection is made by the libellant that the lookout of the Dexter was insufficient, but it is unnecessary to decide the question, as it was a clear night, and as each vessel was seen by the other long before there was any necessity for precaution and in ample time before the collision to have done whatever the circumstances required to have prevented the disaster. Sufficient lookouts are required by the rules of navigation, but where it appears that the officer in charge of the deck saw the approaching vessel while she was yet so distant that no precautions to avoid a collision had become necessary, and that the want of a lookout did not and could not have contributed to the collision, the vessel omitting such a proper precaution will not be held responsible for the consequences of the disaster if in all other respects she is without fault.8
+1
+2
+It is insisted by the libellant that the wind was from the northwest and that his schooner was closehauled. On the other hand, it is contended by the claimant that the wind was west-by-north, and he denies that the course of the schooner was such as is alleged by the libellant.
+2
+3
+Strong doubts arise whether the wind was as far north as the point assumed by the libellant, and the proofs fail to convince the court that it was as far to the west as is supposed by the claimant. Difficulties attend the inquiry, but the better opinion is that the course of the schooner of the libellant was not as close to the wind as she would lay, without impeding her headway. Nor is it very material whether she was or not when the vessels were first seen by each other, as they were then two miles apart and were moving through the water, by estimation, at the rate of fourteen or fifteen miles an hour. Satisfactory proof is exhibited that the schooner of the claimant was heading south-southwest, and whatever may have been the course of the other schooner when they were two miles apart, the proof is equally satisfactory that her course when they were a half a mile apart was exactly opposite to that of the schooner of the claimant. Evidence is certainly exhibited in the record tending to show that the course of the schooner of the libellants was east-northeast when the vessels were first seen by each other, but it is convincing that when they were only a half-mile apart they were approaching from exactly opposite directions and that the case falls within the true intent and meaning of the eleventh sailing rule prescribed by Congress.
+3
+4
+Sailing ships are meeting end on, within the meaning of that provision, when they are approaching each other from the opposite directions or on such parallel lines as involve risk of collision on account of their proximity, and when the vessels have advanced so near to each other that the necessity for precaution to prevent such a disaster begins, which cannot be definitely defined, as it must always depend, to a certain extent, upon the speed of the respective vessels and the circumstances of the occasion.9
+4
+5
+Rules of navigation, such as the one mentioned, are obligatory upon vessels approaching each other from the time the necessity for precaution begins and continue to be applicable as the vessels advance so long as the means and opportunity to avoid the danger remain. They do not apply to a vessel required to keep her course after the approach is so near that the collision is inevitable, and are equally inapplicable to vessels of every description while they are yet so distant from each other that measures of precaution have not become necessary to avoid a collision.
+5
+6
+Apply the eleventh sailing-rule to the case and it is clear that the decree of the Circuit Court should be affirmed, as the evidence shows that the two vessels when they were half a mile apart were approaching each other in opposite directions and that the schooner of the claimant ported her helm as required by that rule; and it is equally clear that the collision would have been prevented if the schooner of the libellant had performed her duty in that regard. Instead of that she held her course until the danger became imminent, and then, by the mistake of the man at the wheel, put her helm in the wrong direction, which rendered the collision inevitable.
+6
+7
+Attempt is made in argument to exculpate the error of the helmsman upon the ground that the danger was imminent, but such an excuse cannot be admitted as a valid one where it appears that the imminence of the peril was occasioned by the negligence, carelessness, or unskilfulness of those in charge of the vessel setting up such an apology for a violation of a plain rule of navigation.
+7
+8
+Serious conflict exists in the testimony as to what was done by the respective vessels when they were more distant from each other, but it is not deemed necessary to give that part of the evidence much examination, as it is clear that they had ample time and opportunity to adopt every needful precaution to avoid a collision after it must have been apparent to both that they were fast approaching each other from opposite directions.
+8
+9
+Resort is had by the libellant to that part of the evidence to show that the case falls under the twelfth sailing-rule and not under the eleventh, as contended by the claimant. Even suppose that proposition could be maintained, which is denied, it is quite clear that it would not benefit the libellant, as it is conceded that his schooner changed her course by putting her helm to starboard and that it was that error which produced the collision.
+9
+10
+Viewed in any light it is clear that the libellant is not entitled to recover.
+10
+11
+DECREE AFFIRMED.
+11
+
+1
+
+2
+
+3
+
+4
+
+5
+
+6
+
+7
+
+8
+
+9
+
+Stat. at Large, 60.
+
+1
+
+2
+The Hypodame, Wallace, 224; The Ottawa. 
+
+2
+
+3
+Bentley v. Coyne, Wallace, 509.
+
+3
+
+4
+The Shakspeare, 4 Benedict, The Carroll, Wallace, 306.
+
+4
+
+5
+Bentley v. Coyne, Wallace, 509.
+
+5
+
+6
+The Nichols, Wallace, 656.
+
+6
+
+7
+The Farragut. 
+
+7
+
+.
+
+8
+
+9
+The Nichols, Wallace, 664.
+
+9
+
+
+set()
+=======================================================
+
+90 U.S. 261
+MASON
+v.
+GRAHAM.
+October Term, 1874
+1
+APPEAL from the Circuit Court for the District of Massachusetts, in which court E. H. Graham filed a bill against one Mason for injunction and account; the bill being founded upon letters-patent for an 'improvement in picker-staff motion for looms,' granted to him, October and reissued May which patent and reissue the bill alleged that a machine of Mason, the defendant, infringed.
+1
+2
+The object of the invention patented to the complainant was to produce an accurate and sure picker-staff motion in looms by a combination of devices, which, while giving great accuracy of motion, should so guide and hold the picker-staff as to enable it to work with the least possible friction and lateral disarrangement, commonly called 'wabbling.'
+2
+3
+In all picker-staff motions it is desirable, if not essential, that the end of the staff made to strike the shuttle should move in a right line, so as to drive the shuttle directly along the shuttle-race in the line in which it is desired to play.
+3
+4
+This has been effected by constructing the lower end of the staff in the form of a rocker, the exterior curve of which is an arc of a circle described from a centre corresponding with that point in the staff that strikes the shuttle. This rocker is made to roll on a bed, the face of which is extended parallel to the shuttle-race, and which is placed on the outside of the loom beneath the lay. How to connect the rocker with the bed, so that the picker-staff may be maintained in proper position upon the bed, had been a subject of much inquiry. Various modes had been suggested before the complainant obtained his patent, and several of these modes had been described in patents for improvements in looms granted to other inventors.
+4
+5
+The invention of Graham, the complainant, is shown in the following drawings:
+5
+6
+[NOTE: MATERIAL SET AT THIS POINT IS NOT DISPLAYABLE (GRAPHIC OR TABULAR MATERIAL)]
+6
+7
+This figure represents a vertical central longitudinal section through so much of a picker-staff and its appurtenances, embracing the said improvements, as is necessary to illustrate the invention.
+7
+8
+Figure 2, upon the following page, is a perspective view of same. [NOTE: MATERIAL SET AT THIS POINT IS NOT DISPLAYABLE (GRAPHIC OR TABULAR MATERIAL)]
+8
+9
+Figure 3 represents a central longitudinal horizontal section through the retracting spring of the picker-staff and its cylinder.
+9
+10
+[NOTE: MATERIAL SET AT THIS POINT IS NOT DISPLAYABLE (GRAPHIC OR TABULAR MATERIAL)]
+10
+11
+Figure 4 is a plan or top view of Figure 1.
+11
+12
+[NOTE: MATERIAL SET AT THIS POINT IS NOT DISPLAYABLE (GRAPHIC OR TABULAR MATERIAL)]
+12
+13
+'In these figures, a a represent a curved rocker, in the socket b b, of which the picker-staff is to be fastened. The rocker a a plays upon a horizontal bed, c c, having a socket d, through which the shaft of the loom passes in the usual way. The shank, e e, of the rocker, a a, is made hollow, or with a suitable box or bearing, f f, into which a shaft arm or bar, g g, is inserted, which arm, by means of journals projecting on each side thereof, has a bearing in the eyes, i i, formed in the bed-piece, c c. By this arrangement, the rocker (in its reciprocating movement) is kept perfectly true in its bearings by the arm or bar, g g, which holds the rocker, a a, truly in position, in consequence of its long bearing therein; and as the arm or bar, g g, also oscillates freely upon its journals, h h, which further serve to steady the rocker laterally, the rocker moves with the least possible friction, and with the greatest accuracy, so that the wear and tear is necessarily but very slight. The eyes or bearings, i i, have inclined slots (shown in dotted lines in Figure 1) cut in them, so as to form ears or open boxes in which the journals, h h, are inserted when the parts of the picker motion are put together. By this means, the shaft or arm, g, and its journals, h, can readily be removed and replaced, and are free to play without liability to work out of their bearings. The rocker, a a, is retracted by means of a spiral spring, k k, wound loosely around a short shaft, l, and attached at one end to a plate, m, which turns freely on the shaft, l. A strap, n, attached to the plate, m, fits over a hook, o, on the under side of the rocker, a a. As the spring, k k, is liable to partially lose its force by the motions of the rocker, a a, this contingency is provided for by forming in the plate, m, a series of holes, p p, into which successively one end of the spring, k k, is set, as fast as it loses its elastic force, whereby the spring can be set up at pleasure, and its force graduated without the necessity of frequent repairings or renewals.'
+13
+14
+The reader thus sees that the invention described is primarily a combination of a rocker with a bed by means of loose journals projecting on each side of the picker-staff, and arranged beneath it substantially as described in the specification. As in other arrangements for picker-staff motions, the rocker is made to play upon a horizontal bed, parallel to and below the shuttle-race, and the bed has a socket passing longitudinally through its base, for the passage of the shaft of the loom. The shank of the rocker is made hollow, that is, with a box or bearing extending through its tread upward, into which a shaft-arm or bar is inserted. This bar or shaft-arm is fitted with journals projecting on each side at right angles with the rocker, and resting in eyes formed in the bed-piece, which constitute the journal bearings. The eyes have inclined slots cut in them, so that they form ears, or open boxes, into which the journals are inserted when the parts of the picker-stiff motion or the constituents of the combination are put together. Thus the shaft and the journals can readily be removed and replaced, and the journals are free to play without working out of their bearings. The rocker is retracted and caused to move by means of a spiral spring, would loosely around a short shaft below the bed, and attached at one end to a plate which turns freely on the shaft; and the plate is connected by a strap with a hook extending from the under-side of the rocker, or the lower end of the shaft-arm.
+14
+15
+'The first part of this invention relates to the position of the journals. This position is determined by the position of the socket for the picker-staff, which socket is so placed that the point of the picker-staff which strikes the shuttle must move in the required line; and this part of the invention consists in placing the journal at or near this socket, and as near the level of the bed as practicable. In this position there is the least possible wear, and the journals perform all their functions to the best possible advantage. It is obvious that as every point upon the rocker varies its position in the action of the motion, with reference to the bed, it is impossible to connect the journal directly with the rocker and its box directly with the bed, or vice versa. One or the other must be indirectly connected, and it is for this reason that in the motion described the journals are placed upon the arm g, upon which the rocker can play up and down. So far as we know, no rocker has ever been combined with its bed by means of journals before this invention.'
+15
+16
+'The second part of this invention consists in forming the boxes or bearings for the journals with such an opening that the journals may be laid in them in putting the motion together, without liability to work out in the operation of the rocker, as plainly shown in the drawings. This method of onstruction is much cheaper than making the boxes cylindrical, and is quite as efficient in every respect.'
+16
+17
+'1st. The combination of a rocker of a picker-staff with its bed, by loose journals, projecting on each side of the picker-staff, and arranged beneath the picker-staff, substantially as described.
+17
+18
+'2d. In combination with the rocker, the bed and the journals, the open boxes, substantially as and for the purpose described.
+18
+19
+'3d. In combination with the rocker and its bed, the journal-bearing arm, operating substantially as and for the purpose specified.'
+19
+20
+The devices of Mason (the defendant) are shown in perspective in Figure 5; and a vertical section, in central plane, of the rocker, is shown in Figure 6.
+20
+21
+[NOTE: MATERIAL SET AT THIS POINT IS NOT DISPLAYABLE (GRAPHIC OR TABULAR MATERIAL)]
+21
+22
+These drawings were thus described in the defendant's patent: 'A represents the rocker-bed, cast with a socket, a, at one end, by which it is attached to the loom. The upper surface on which the rocker works is, as usual, straight, in the direction of the length, but in the cross-section it is made concave, of a V-shape, to within a short distance of the outer end, where it is formed with a cross semi-cylindrical box, b, to receive one end of a link, to be presently described; and near the middle of its length it is formed with a vertical mortise, C, through which the stem of the rocker passes, and in which it plays freely.
+22
+23
+'The rocker, B, longitudinally is, as usual, in the form of a segment of a circle, but in the cross-section it is of an inverted V-shape, to fit the concave of the bed. It has a short stem or arm, d, which extends through the mortise, c, in the bed, and by which it is, as usual, connected with a spring for drawing back the picker-staff. The upper part is suitably formed with an open socket, e, to receive, and in which is secured by a screw-bolt, f, the lower end of the staff, g. Back of the socket, e, it is formed with a cross semi-cylindrical box, h, like the one, b, at the outer end of the bed, A.
+23
+24
+'There is an open link, c, consisting of two cylindrical journals, i i, connected by side-bars, J J. One of the end journals fits and works in the semi-cylindrical box, b, at the outer end of the bed, A, and the other in the semi-cylindrical box, i, of the rocker. As the tension of the usual spring attached to the arm, d, of the rocker tends to draw the rocker in the direction of the arrow, the link, c, keeps it in its right place on the bed, and by reason of its end journals working in the semi-cylindrical boxes, permits the required rocking motion to take place freely, whilst at the same time the form of the upper surface of the bed, and of the under surface of the rocker, prevents the picker-staff from wabbling or moving sidewise.
+24
+25
+'By the mode of construction above described. I am enabled to make the whole structure of three pieces, the bed, A, the rocker, B, and the open link, c, each of which can be readily cast, and the three put together and used without any finish beyond the usual cleaning operation to which castings are subjected.'
+25
+26
+'The bed, formed with a V-shaped groove, and the rocker, with its under surface of the corresponding form, in combination with the open link, by which the rocker is kept in place on the bed, substantially as and for the purpose set forth.'
+26
+27
+It was not disputed that the defendant's machine was the same as that described in the complainant's patent, in these respects, viz.:
+27
+ Each consisted of three main parts, the rocker, the bed, and a third piece whose office it was to hold the rocker properly upon the bed.
+28
+ The rocker and the bed were the same in each.
+29
+30
+The principal question for consideration of the court below was: Whether the device for holding the rocker upon the bed in the defendant's machine was the substantial equivalent of the corresponding device in the complainant's achine?
+30
+31
+These devices in each machine were described as follows:
+31
+32
+In the complainant's machine the rocker, a, in its reciprocating movement, was kept true in its bearings by the arm or bar, g, which held the rocker in position; the bar, g, oscillated upon its journals, h h. The eyes or bearings for the journals had inclined slots, i, cut in them, so as to form open boxes, in which the journals were inserted.
+32
+33
+In the defendant's machine there was an open link, c, consisting of two cylindrical journals, i i, connected by side-bars, J J. One of the end journals fitted and worked in the semi-cylindrical box, b, at the outer end of the bed, A, and the other in the semicylindrical box, i, of the rocker. As the tension of the usual spring attached to the arm, d, of the rocker tended to draw the rocker in the direction of the arrow, the link, c, kept it in its right place on the bed, and by reason of its end journals working in the semicylindrical boxes, permitted the required rocking motion to take place freely.
+33
+34
+One of the defences—one, however, not much pressed—was that the invention of the complainant, Graham, had been anticipated by prior devices.
+34
+35
+Of these four only need be noticed. They were described in the earlier patents granted to Benjamin Lapham, to David Barnum, to Renselaer Reynolds, and to William Stearns. While each of these had a rocker and a bed, no one connected the rocker with the bed by means of loose journals, or by loose journal-bearing arms, and no one of them obtained the beneficial results secured by the invention belonging to the complainant. In Lapham's invention there was one journal on the bed and one on the rocker, both on the same side of the picker-staff; a device which obviously could not prevent wabbling, or the sliding of the rocker on the bed. Barnum's invention had no journals, journal-boxes, or journal-bearing arms. Nor had the device of Stearns. In the Reynolds patent the rocker was described as held to the bed by means of a strap fastened at one end to the under face of the rocker, and at the other to a point in the groove of the bed-piece, in which the rocker rolled.
+35
+36
+The defendant referred to the four patents above mentioned as exhibiting the state of the art when the complainant's patent was granted, and as requiring that patent to be construed to cover only a combination, of which a journal-bearing arm sliding vertically in a hollow place or box in the rocker, and having journals which turn in open boxes in the bed-piece, is an essential constituent.
+36
+37
+The court below held that the invention of Graham had not been anticipated by any of the devices relied on to show anticipation; that the patent of the complainant was infringed by the machine of the defendant, and a decree was entered ordering the defendant to account, and referring the case to a master to state an account.
+37
+38
+This decree and reference was made on the 9th of June, 1869.
+38
+39
+The master reported that the defendant had made and sold pairs of the infringing motions as a part of looms manufactured in his establishment, and that the profits resulting from the manufacture and sale of such motions had mingled with the profits from the manufacture of looms:
+39
+40
+That the cost of making the looms, including the motions, was $:
+40
+41
+That the cost of making the motion was cents each, or 91 cents for each loom:That the profits resulting from the manufacture of each loom, including the pair of motions, was $.
+41
+42
+Assuming these to be the facts, the appellant insisted that he should have been charged with only of a cent as the profit made by him on each pair of motions, that bearing the same proportion to $ the whole profit on the looms, which 91 cents, the cost of a pair of motions, bears to $ the cost of the entire loom with the motions. This view the master refused to take.
+42
+43
+It appeared further, from the master's report, that the defendant sold pairs separately from the looms at $2 per pair, and other pairs for $.
+43
+44
+It appeared, however, from the report that the defendant made the infringing motions after a pattern of his own devising; that they cost 50 cents per pair less than the picker-staff mechanism, which he had immediately before put upon his looms; that they were made under a patent granted to him, and that they cost about 50 cents less than the motions made by the complainant, the difference in the cost being due to his invention.
+44
+45
+It seemed, also, that the cost of making 'beds' and 'rockers,' which were used in the repair of bridle-motions previously made, had been reduced by the defendant; the defendant's bed costing but cents, and his rocker but cents, whereas those of the complainant cost, the bed 42 cents and the rocker the reduction obtained by the defendant being due in part to the fact that the labor required in putting together the arm and rocker in his motion was less than in putting them together in the complainant's.
+45
+46
+The report charged the complainant with——
+46
+pairs bridle-motions, sold on looms to sundry parties at a
+47
+48
+profit of 50 cents per pair. ........... $0
+48
+49
+The profit derived from the sale of the pairs of
+49
+50
+motions, sold separately from the looms, at $0
+50
+51
+Less cost of producing at 91 cents per pair. 4
+51
+6
+52
+motions sold separately from the looms. $5
+53
+54
+Less cost of producing at 91 cents per pair. 5
+54
+The master also charged the defendant as follows:
+55
+beds (parts of bridle-motions), sold at various prices,
+56
+57
+amounting in all to...................$0
+57
+58
+Deduct cost at 1
+58
+9
+59
+rockers (parts of bridle-motions), sold at various
+60
+61
+prices, amounting in all to...........$0
+61
+62
+Deduct cost at 5
+62
+5
+63
+64
+---------
+64
+0
+65
+66
+On the hearing before the master the defendant sought to reduce the damages found by him by the introduction of a paper, admitted to be genuine and signed by the complainant. The paper was given under these circumstances: Graham, the complainant, had obtained injunctions against certain mill companies who had bought their motion from Mason, the defendant, he, Mason, having guaranteed them against disturbance by Graham. Graham, the complainant, was about to apply for injunctions against other purchasers from Mason, who had purchased and were holding in the same way. And Mason, acting really in behalf of the persons using the motions, and in a certain sense as their agents, rather than as representing himself alone, had paid the $mentioned in the paper to protect them from all claims of Graham. The bill in the case had been filed in June, 1867, and as already said, the decree was made June :
+66
+67
+'BOSTON, October .
+67
+68
+'Received of William Mason, of Taunton, $in full satisfaction for our right to collect back damages for the past infringement of reissue letters-patent of May for picker-staff motions, by the individuals and corporations who have used bridle-motions of Mr. Mason's make, and as tariff for the future use of such motions. It is understood and agreed that the number of these motions does not exceed five thousand four hundred and fifty-one, and that Mr. Mason is to furnish us with a list of the names of the users and the number sold by him to each, and that the bridle-motions enumerated in that list are all hereby licensed. This bridle-motion is the motion that has been patented by Mr. Mason. It is also understood and agreed that this settlement does not affect in any manner our right to recover profits or damages from Mr. Mason for his infringement of said patent, and that the suit of Graham et al. v. Mason shall proceed precisely as if this settlement never had been ade. It is also understood that this agreement relates simply and solely to the bridle-motion, and no other, and licenses simply those bridle-motions of Mr. Mason's make not already licensed, and no others.
+68
+69
+'E. H. GRAHAM,
+69
+70
+'W. MASON.'
+70
+71
+Mason, the defendant, insisted that this $should be added to the cost of the 'bridle-motions,' or in some way applied to reduce the amount of profits which should be found resulting from the manufacture. But the master refused to allow him any benefit from this payment. The master said:
+71
+72
+'The money was paid by the defendant after the decree was passed in the case. It forms no part of the cost of manufacturing the 'bridle-motions' and cannot be here considered in reduction of the amount found as profits of manufacture. If this is a payment on account of the sum to be ultimately adjudged against the defendant in this case it is not within the matter submitted to the master by the decretal order.'
+72
+73
+The court below affirmed the report of the master, and a final decree being entered this appeal was taken from the same.
+73
+74
+Mr. Benjamin Deane, for the appellant; Mr. J. E. Maynadier, contra.
+74
+75
+Mr. Justice STRONG delivered the opinion of the court.
+75
+76
+By the arrangement described in Graham's reissued patent of and claimed as his invention, it is manifest that that part of the device called the rocker is prevented from sliding perceptibly on its bed and is kept true in its bearings by the arm or bar from which the journals are projected, the arm having also a long bearing in the box of the rocker. The journals, moreover, having bearings in the ears of the bed, steady the rocker, resist any lateral movement, and prevent what is denominated as wabbling. As the picker-staff is made to oscillate, its rocker rises and sinks upon the arm, and thus most of the friction caused by the play of the staff comes upon the shaft, or journal-bearing arm, and not upon the tread of the rocker or the bed-plate.
+76
+77
+We think the invention has no relation to any mere form of a journal-bearing arm. Nor do we think it consists in arranging a journal-bearing arm in a slot in the rocker. In our opinion it embraces every combination of a rocker with a bed and loose journal-bearing arms, arranged so as to produce the result described in the specifications as effected by the combination.
+77
+78
+And we have been unable to perceive that the invention was anticipated by any of those devices which the defendant has given in evidence. We do not propose to go into any critical examination of them. The case does not call for it. Of them all it may be said that while each has a rocker and a bed, no one connects the rocker with the bed by means of loose journals, or by loose journal-bearing arms, and no one of them obtains the beneficial results secured by the invention belonging to the complainants. It is but faintly claimed, if at all, that any of these patents describe the invention of the complainants. The defendant has used them rather as exhibiting the state of the art when the reissued patent in question was granted, and as requiring that patent to be construed to cover only a combination, of which a journal-bearing arm sliding vertically in a hollow place or box in the rocker, and having journals which turn in open boxes in the bed-piece, is an essential constituent. We think, however, they exhibit no such state of the art as requires that construction to be given to patent, and we cannot perceive that such a construction is justified by the language of the specification and claims.
+78
+79
+We come, then, to the inquiry whether the devices made and sold by the defendant are substantially the same as those patented by the reissued patent; or, in other words, whether the picker-staff motion made and sold by the defendant is an infringement upon the complainants' right. Upon this question the opinions of the experts examined are in direct conflict, and we are, therefore, under the necessity of comparing for ourselves the two devices. We have already said that t e object sought to be accomplished by the complainants' invention was the prevention of wabbling of the picker-staff, and compelling it to move steadily, without lateral deflection, on the required plane. It is not denied that exactly this is the object at which the defendant's motion is aimed. It remains, then, only to determine whether the means by which the intended result is obtained are substantially the same. That both the combinations connect a rocker to its bed by journals indirectly, employing an arm to effect such indirect connection, is made clear by inspection. In Mason's motion the arm is attached by a second journal, in the complainants' by a slot in the rocker. It is true the form and the location of the arms differ, but they perform the same functions, and in substantially the same manner. Both are journal-bearing arms. Both connect the journals, whether they are on the rocker or on the bed, indirectly with the bed in the one case, or with the rocker in the other. Each, then, is a combination of a rocker with a bed, by loose journals projecting on each side of the picker-staff, and the combination is effected by means of a journal-bearing arm. That the form of the journal-bearing arm of the defendant's motion is unlike that of the complainants', or that its mode of attachment is different, is immaterial so long as it performs the same function in substantially the same way. We are, therefore, of the opinion that the defendant's picker-staff motion must be considered as practically the same as that patented to the complainants, and, therefore, that the charge of infringement is sustained. The Circuit Court then correctly ordered that the defendant should account.
+79
+80
+But we think there was error in the ascertainment of the profits with which he was charged. The master to whom the statement of the account was referred reported that the defendant had made and sold pairs of the infringing motions as a part of looms manufactured in his establishment, and that the profits resulting from the manufacture and sale of such motions had mingled with the profits from the manufacture of looms. He further reported that the cost of making the looms, including the motions, was $ that the cost of making the motion was cents each, or 91 cents for each loom; and that the profits resulting from the manufacture of each loom, including the pair of motions, was $ Assuming these to be the facts the appellant insists that he should have been charged with only hs of a cent as the profit made by him on each pair of motions, that bearing the same proportion to $ the whole profit on the looms, which 91 cents, the cost of a pair of motions, bears to $ the cost of the entire loom with the motions. To this we cannot assent. It appears from the master's report that the defendant sold pairs, separately from the looms, at $2 per pair, and other pairs for $ These sales furnish a must better measure of profits than is a ratable proportion of the profits on an entire loom. It may fairly be presumed from them that the profits on the sale of looms, with the motion attached, were increased by the infringing device quite as much as was the profit on the motions sold separately. It does not appear at what profit, if any, the looms could have been sold without the picker-staff motion attached.
+80
+81
+But the master further reported that the defendant made the infringing motions after a pattern of his own devising; that they cost per pair 50 cents less than the picker-staff mechanism which he had immediately before put upon his looms; that they were made under a patent granted to him, and that they cost about 50 cents less than the motions made by the plaintiffs, the difference in the cost being due to his invention. If this is so, it is clear that the 50 cents saved on each pair, equivalent to 50 cents profit, is not due to the complainants' invention. Were it not for the defendant's improvement the cost of making a pair of motions would have been, not 91 cents, but 91 plus and the profits on each pair would have been 59 cents, instead of $charged to the defendant. Manifestly the complainants are not entitled to the savings or profits resulting from the defendant's own invention.
+81
+82
+The defendant, therefore, has been charged by the master's report, confirmed by the court, too much for the profit derived from the sale of pairs of motions sold separately from the looms, and from the sale of motions also sold separately from the looms. For the former he should have been charged $ instead of $ and for the latter $ instead of $.
+82
+83
+We think, also, that the defendant has been excessively charged for the profits made by him on the beds, and the rockers sold by him at various times for the repair of bridle motions previously made. He has been credited with the cost only, without reference to the fact that the cost was reduced by his own invention. The complainants have not shown how much the cost would have been had the defendant made them without employing his own improvements. Under such circumstances it appears just to assume that but for the improvement of the defendant the cost of making the bed would have been 42 cents instead of and the cost of making the rockers would have been cents instead of 12 cents and 4 mills, as reported by the master. The consequence of this is that the profit on the beds sold was only $ and the profit on the rockers sold was only $.
+83
+84
+The decree, therefore, should have been in favor of the complainants for
+84
+t. Profits on bridle motions sold on looms, $0
+85
+. Profits on pairs sold separately, 6
+86
+. Profits on pairs sold separately, 2
+87
+h. Profits on the rockers sold separately, 9
+88
+89
+A majority of the court is of opinion that the appellant is not entitled to a credit for the $paid on the 25th of October, 1869, for which a receipt was then given.
+89
+90
+The decree of the Circuit Court is REVERSED, and the case is remitted with instructions to enter a decree in favor of the complainants against the defendant for $ with costs of suit in the court below. Each party to pay his own costs in this court.
+90
+91
+REVERSAL AND REMAND ACCORDINGLY.
+91
+
+
+set()
+=======================================================
+
+90 U.S. 411
+UNITED STATES
+v.
+WILLIAMSON.
+October Term, 1874
+1
+The argument against the allowance of full pay is based upon the act of March which provides 'that any officer absent from duty with leave, except from sickness or wounds, shall during his absence, receive half of the pay and allowances prescribed by law, and no more.' Captain Williamson, it is said, was, during the period in question, absent from duty with leave, being neither sick nor wounded, and hence, it is said, can receive but half-pay, however that absence might have been caused. This argument is unsound.
+1
+2
+The distinction between the case of an officer 'absent from duty with leave' and that of an officer ordered to proceed to a particular place and there 'to await orders, reporting thence by letter to the Adjustant-General of the Army and to these headquarters,' is too plain to require much comment.
+2
+3
+While absent from duty 'with leave,' the officer is at liberty to go where he will during the permitted absence, to employ his time as he pleases, and to surrender his leave if he chooses. If he reports himself at the expiration of his leave, it is all that can be asked of him.
+3
+4
+The obligations of an officer directed to proceed to a place specified, there to await orders, are quite different. It is his duty to go to that place and to remain at that place. He cannot go elsewhere; he cannot return until ordered. He is as much under orders, and can no more question the duty of obedience than if ordered to an ambush to lie in wait for the enemy, to march to the front by a particular direction, or to the rear by a specified time.
+4
+5
+The authority to give leave of absence is committed by law to particular persons; the mode of making the application for leave is pointed out and the maximum of its duration is prescribed.3 A department commander can grant leave of absence for a period not exceeding sixty days. Applications for leave exceeding four months must be referred to the War Department.
+5
+6
+The direction, on the other hand, to proceed to a particular place, there to await orders, how long to remain there, to attack, to retreat, or to do any other specified thing, belongs to the officer in charge.
+6
+7
+That the assignment was made at the request of the officer can make no difference. The pay is regulated by the position, and not by the manner or influence by which the position is acquired.
+7
+8
+Captain Williamson was ordered by the Adjutant-General of the Department of Missouri, by authority of the General of the Army, to proceed to his home and await orders, reporting thence by letter to the Adjutant-General of the Army, and to these headquarters.
+8
+9
+The power to make this assignment was a portion of the executive authority, and was vested in the commander of the army. Captain Williamson was not only justified in obeying this order, but it was his duty to obey it. It was his duty to proceed at once to his home, there to remain, subject to orders to be communicated to him. He was expressly required by general order to make no application for special duty, but was informed that if his services were required a detail would be made without his application. He did proceed to his home and there remained waiting for orders until he was mustered out of the service. He was waiting orders, in pursuance of law, but was not absent from duty on leave.
+9
+10
+It is not in the power of the executive department, or any branch of it, to reduce the pay of an officer of the army. The regulation of the compensation of the officers of the army belongs to the legislative department of the government. Congress has fixed the pay of a captain of infantry at $per month. The deduction of one-half of the amount, when absent from duty on leave, is not applicable to the case of Captain Williamson. He is entitled to his full pay as a captain of infantry. The Court of Claims has done right, therefore, in giving its award in his favor for the amount withheld, and its judgment is
+10
+11
+AFFIRMED.
+11
+
+1
+
+2
+
+3
+
+Stat. at Large. 
+
+1
+
+Stat. at Large. 
+
+2
+
+3
+Army Register, Article 21, adopted by the act of July .
+
+3
+
+
+set()
+=======================================================
+
+87 U.S. 575
+LONGSTRETH
+v.
+PENNOCK.
+October Term, 1874
+1
+The assignee acquired his title to the movable property found on the demised premises, subject to the rights of all other persons.** The rent in question was for a period which terminated when the assignee took possession, and the entire period was within a year of that time. Before the commencement of the proceedings in bankruptcy, the defendants in error might have distrained; and it is agreed that the property upon the premises was more than sufficient to satisfy the demand. The statute of Pennsylvania, of June provides that where property under such circumstances is seized and sold under execution, the rent due for a period not exceeding one year shall be paid first out of the proceeds of the sale. This case is within the equity of that statute.*** The question presented is one belonging to the local law of Pennsylvania. We think it was correctly decided by the Circuit Court.
+1
+2
+JUDGMENT AFFIRMED.
+2
+
+*
+
+**
+
+***
+
+*
+Purdon's Digest, edition of .
+
+*
+
+**
+Gibson v. Warden. 
+
+**
+
+***
+Sedgwick's Statutory and Constitutional Law. 
+
+***
+
+
+set()
+=======================================================
+
+87 U.S. 670
+BASEY ET AL.
+v.
+GALLAGHER.
+October Term, 1874
+1
+'The whole purpose of the statute was to utterly abolish and annihilate the doctrine of prior appropriation.' . . 'If the section does not mean that there shall be an equal distribution among all the parties concerned in such water, without any regard whatever to the date of appropriation, then I am utterly unable to comprehend the language used.'Mr. R. T. Merrick, contra:
+1
+2
+I. The case was a chancery case, and was tried as such, and the decree is in the usual form of decrees in chancery.
+2
+3
+The issues submitted to the jury were so submitted only to aid the chancellor in ascertaining, from the evidence before him, the ultimate facts upon which to rest his decree. The two jurisdictions of law and equity in Montana are recognized as separate and distinct, and even though one form of action prevail, must be exercised as separate and distinct from each other in all cases, and equitable or legal relief administered according to the rules appertaining to the jurisdictions respectively.
+3
+4
+II. The first appropriation of the water of a stream passing through the public lands of the United States for some beneficial purpose confers the right to the use and enjoyment of the water to the extent of the original appropriation.5
+4
+5
+In this case there is no riparian owner except the United States, and the record does not show that either of the parties even occupy along the margin of the stream. The lands being open to appropriation the rule of time is the rule of right, and the first taker is to be protected in his entry and possession. Blackstone says:6
+5
+6
+'If a stream be unoccupied I may erect a mill thereon, and detain the water; yet not so as to injure my neighbor's prior mill, or his meadow, for he hath by his first occupancy acquired a property in the current.'
+6
+7
+In Williams v. Morland,7 and in Liggins v. Inge,8 and in the earlier cases in Massachusetts and Connecticut a similar principle was announced. Later adjudiciations in England establishing a different doctrine rest upon the fact that the right to the use of the water of the stream had never been detached as property from the ownership of the adjacent soil, and that such use was claimed and held only as a riparian right.
+7
+8
+The act of Congress of July clearly recognizes a right to the use of water as independent of any right or title to land, and assures protection to this right whenever it has 'vested' by 'priority of possession,' provided the 'local customs, laws, and decisions of courts,' recognize such a right and such a mode of acquiring it.
+8
+9
+Congress is here dealing with the public domain.
+9
+10
+The question then arises, is the case of the complainant within the provisions of the act of Congress of July ?
+10
+11
+Do the local customs, laws, and decisions of the courts of Montana recognize the acquisition of a right to the use of the water of a stream by appropriation, as separate and distinct from the ownership of land adjacent to the stream, and is such right to be determined by the priority of possession among respective claimants?
+11
+12
+What is the fact as the local customs, laws, and decisions of Montana, as they affect this question?
+12
+13
+[The counsel here cited and commented upon the laws of the Territory which are given in the statement of the case; and contended that they established that 'rights to the use of water for agricultural purposes' may be acquired and become vested by priority of possession.]
+13
+14
+The 'local customs and decisions of the courts' of the Territory also recognize and establish a similar rule of property.
+14
+15
+'Ever since the settlement of this Territory it has been the custom of those who settled themselves upon the public domain and devoted and part thereof to the purposes of agriculture, to dig diches and turn out the water of some stream to irrigate the same. This right has been generally recognized by our people. It has been universally conceded that it was a necessity of agricultural pursuits. So universal has been this usage that I do not suppose there has been a pared of land, to the extent of one acre, cultivated within the bounds of this Territory that has not been irrigated by water diverted from some running stream.'
+15
+16
+Wade, C. J., in a separate opinion in the same case, denies that any custom exists recognizing the right to appropriate water for the purpose of agriculture and irrigation, whilst apparently admitting the existence of the custom as applied to mining and the mineral lands of the public domain.
+16
+17
+But if a usage exists recognizing the right to divert and appropriate water, the purpose for which the appropriation may be made is immaterial, provided it be useful or beneficial and not for speciation.9
+17
+18
+This right has been recognized, too, by the courts. The cases referred to show that it has been uniformly recognized and established in California and Nevada, and the courts of Montana have, on this subject, followed the decisions of the courts of those States.10
+18
+19
+Mr. Justice FIELD, after stating the facts of the case, delivered the opinion of the court, as follows:
+19
+20
+The record does not disclose what disposition was made of the demurrer to the complaint, but as an answer was subsequently filed upon which the parties proceeded to a hearing, the presumption is that it was abandoned.
+20
+21
+By the organic act of the Territory, the District Courts are invested with chancery and common-law jurisdiction. The two jurisdictions are exercised by the same court, and, under the legislation of the Territory, the modes of procedure up to the trial or hearing are the same whether a legal or equitable remedy is sought. The suitor, whatever relief he may ask, is required to state 'in ordinary and concise language' the facts of his case upon which he invokes the judgment of the court. But the consideration which the court will give to the questions raised by the pleadings, when the case is called for trial or hearing, whether it will submit them to a jury, or pass upon them without any such intervention, must depend upon the jurisdiction which is to be exercised. If the remedy sought be a legal one, a jury is essential unless waived by the stipulation of the parties; but if the remedy sought be equitable, the court is not bound to call a jury, and if it does call one, it is only for the purpose of enlightening its conscience, and not to control its judgment. The decree which it must render upon the law and the facts must proceed from its own judgment respecting them, and not from the judgment of others. Sometimes in the same action both legal and equitable relief may be sought, as for example, where damages are claimed for a past diversion of water, and an injunction prayed against its diversion in the future. Upon the question of damages, a jury would be required; but upon the propriety of an injunction, the action of the court alone could be invoked. The formal distinctions in the pleadings and modes of procedure are abolished; but the essential distinction between law and equity is not changed. The relief which the law affords must still be administered through the intervention of a jury, unless a jury be waivered; the the relief which equity affords must still be applied by the court itself, and all information presented to guide its action, whether obtained through masters' reports or findings of a jury, is merely advisory. Ordinarily, where there has been an examination before a jury of a disputed fact, and a special finding made, the court will follow it. But whether it does so or not must depend upon the question whether it is satisfied with the verdict. This discretion to disregard the findings of the jury may undoubtedly be qualified by statute; but we do not find anything in the statute of Montana, regulating proceedings in civil cases, which affects this discretion. That statute is substantially a copy of the statute of California as it existed in 1851, and it was frequently held by the Supreme Court of that State, that the provision in that act requiring issues of fact to be tried by a jury, unless a jury was waived by the parties, did not require the court below to regard as conclusive the finding of a jury in an equity case, even though no application to vacate the findings was made by the parties, if in its judgment they were not supported by the evidence. That court only held that the findings, when not objected to in the court below and the judge was satisfied with them, could not be questioned for the first time on appeal.11
+21
+22
+The question on the merits in this case is whether a right to running waters on the public lands of the United States for purposes of irrigation can be acquired by prior appropriation, as against parties not having the title of the government. Neither party has any title from the United States; no question as to the rights of riparian proprietors can therefore arise. It will be time enought to consider those rights when either of the parties has obtained the patent of the government. At present, both parties stand upon the same footing; neither can allege that the other is a trespasser against the government without at the same time invalidating his own claim.
+22
+23
+In the late case of Atchison v. Peterson,12 we had occasion to consider the respective rights of miners to running waters on the mineral lands of the public domain; and we there held that by the custom which had obtained among miners in the Pacific States and Territories, the party who first subjected the water to use, or took the necessary steps for that purpose, was regarded, except as against the government, as the source of title in all controversies respecting it; that the doctrines of the common law declaratory of the rights of riparian proprietors were inapplicable, or applicable only to a limited extent, to the necessities of miners, and were inadequate to their protection; that the equality of right recognized by that law among all the proprietors upon the same stream, would have been incompatible with any extended diversion of the water by one proprietor, and its conveyance for mining purposes to points from which it could not be restored to the steam; that the government by its silent acquiescence had assented to and encouraged the occupation of the public lands for mining; and that he who first connected his labor with property thus situated and open to general exploration, did in natural justice acquire a better right to its use and enjoyment than others who had not given such labor; that the miners on the public lands throughout the Pacific States and Territories, by their customs, usages, and regulations, had recognized the inherent justice of this principle, and the principle itself was at an early period recognized by legislation and enforced by the courts in those States and Territories, and was finally approved by the legislation of Congress in 1866. The views there expressed and the rulings made are equally applicable to the use of water on the public lands for purposes of irrigation. No distinction is made in those States and Territories by the custom of miners or settlers, or by the courts, in the rights of the first appropriator from the use made of the water, if the use be a beneficial one.
+23
+24
+In the case of Tartar v. The Spring Creek Water and Mining Company, decided in 1855, the Supreme Court of California said: 'The current of decisions of this court go to establish that the policy of this State, as derived from her legislation, is to permit settlers in all capacities to occupy the public lands, and by such occupation to acquire the right of undisturbed enjoyment against all the world but the true owner. In evidence of this, acts have been passed to protect the possession of agricultural lands acquired by mere occupancy; to license miners; to provide for the recovery of mining claims; recognizing canals and ditches which were known to divert the water of streams from their natural channels for mining purposes; and others of like character. This policy has been extended equally to all pursuits, and no partiality for one over another has been evinced, except in the single case where the rights of the agriculturist are made to yield to those of the miner where gold is discovered in his land. . The policy of the exception is obvious. Without it the entire gold region might have been inclosed in large tracts, under the pretence of agriculture and grazing, and eventually what would have sufficed as a rich bounty to many thousands would be reduced to the proprietorship of a few. Aside from this the legislation and decisions have been uniform in awarding the right of peaceable enjoyment to the first occupant, either of the land or of anything incident to the land.'13
+24
+25
+Ever since that decision it has been held generally throughout the Pacific States and Territories that the right to water by prior appropriation for any beneficial purpose is entitled to protection. Water is diverted to propel machinery in flour-mills and saw-mills, and to irrigate land for cultivation, as well as to enable miners to work their mining claims; and in all such cases the right of the first appropriator, exercised within reasonable limits, is respected and enforced. We say within reasonable limits, for this right to water, like the right by prior occupancy to mining ground or agricultural land, is not unrestricted. It must be exercised with reference to the general condition of the country and the necessities of the people, and not so as to deprive a whole neighborhood or community of its use and vest an absolute monopoly in a single individual. The act of Congress of recognizes the right to water by prior appropriation for agricultural and manufacturing purposes, as well as for mining. Its language is: 'That whenever by priority of possession rights to the use of water for mining, agricultural, manufacturing, or other purposes, have vested and accrued, and the same are recognized and acknowledged by the local customs, laws, and decisions of courts, the possessors and owners of such vested rights shall be mintained and protected in the same.'
+25
+26
+It is very evident that Congress intended, although the language used is not happy, to recognize as valid the customary law with respect to the use of water which had grown up among the occupants of the public land under the peculiar necessities of their condition; and that law may be shown by evidence of the local customs, or by the legislation of the State or Territory, or the decisions of the courts. The union of the three conditions in any particular case is not essential to the perfection of the right by priority; and in case of conflict between a local custom and a statutory regulation, the latter, as of superior authority, must necessarily control.
+26
+27
+This law was in force when the plaintiffs in this case acquired their right to the waters of Avalanche Creek. There was also in force an act of the Territory, passed on the 12th of January, 1865, to protect and regulate the irrigation of land, which declared in its first section that all persons who claimed or held a possessory right or title to any land within the Territory on the bank, margin, or neighborhood of any stream of water, should be 'entitled to the use of the water of said stream for the purpose of irrigation and making said claim available to the full extent of the soild for agricultural purposes.' Another section provided that in case the volume of water in the stream was not sufficient to supply the continual wants of the entire country, through which it passed, an apportionment of the water should be made between different localities by commissioners appointed for that purpose. This last section has no application to the present case, for it is not pretended that there was not water enough in the district, where Avalanche Creek flows, to supply the wants of the country; and, the section itself was repealed in 1870.14
+27
+28
+In January of that year another act was passed by the legislature of Montana upon the same subject, which recognizes the right by prior appropriation of water for the purposes of irrigation, and declares that all controversies respecting the rights to water under its provisions shall be determined by the date of the appropriation as respectively made by the parties, and that the water of the streams shall be made available to their full extent for irrigating purposes, without regard to deterioration in quality or diminution in quantity, 'so that the same do not materially affect or impair the rights of the prior appropriator; but in no case shall the same be diverted or turned from the ditches or canals of such appropriator so as to render the same unavailable.'15
+28
+29
+Several decisions of the Supreme Court of Montana have been cited to us recognizing the right by prior appropriation to water for purposes of mining on the public lands of the United States, and there is no solid reason for upholding the right when the water is thus used, which does not apply with the same force when the water is sought on those lands for any other equally beneficial purpose. In Thorp v. Freed the subject was very ably discussed by two of the justices of that court, who differed in opinion upon the question in that case, where both parties had acquired the title of the government. The disagreement would seem to have arisen in the application of the doctrine to a case where title had passed from the government, and not in its application to a case where neither party had acquired that title. In the course of his opinion Mr. Justice Knowles stated that ever since the settlement of the Territory it had been the custom of those who had settled themselves upon the public domain and dveoted any part thereof to the purposes of agriculture, to dig ditches and turn out the water of some stream to irrigate the same; that this right had been generally recognized by the people of the Territory, and had been universally conceded as a necessity of agricultural pursuits. 'So universal,' added the justice, 'has been this usage that I do not suppose there has been a parcel of land, to the extent of one acre, cultivated within the bounds of this Territory, that has not been irrigated by water diverted from some running stream.'16
+29
+30
+We are satisfied that the right claimed by the plaintiffs is one which, under the customs, laws, and decisions of the courts of the Territory, and the act of Congress, should be recognized and protected.
+30
+31
+DECREE AFFIRMED.
+31
+
+1
+
+2
+
+3
+
+4
+
+5
+
+6
+
+7
+
+8
+
+9
+
+10
+
+11
+
+12
+
+13
+
+14
+
+15
+
+16
+
+Stat. at Large. 
+
+1
+
+2
+Laws of Montana; Codified Statutes. 
+
+2
+
+.
+
+3
+
+Montana, 653.
+
+4
+
+5
+Irwin v. Phillips, 5 California, Bear River Co. v. The York Mining Co., Butte Canal Co. v. Vaghn, McDonald v. Bear River Co., Phoenix Water Co. v. Fletcher, Hill v. Smith, Smith v. O'Hara, Lobdell v. Simpson et al., Ophir Mining Co. v. Carpenter, Hobart v. Ford, 6 Id. 80; Dalton v. Bowker. 
+
+5
+
+6
+3 Commentaries. 
+
+6
+
+7
+2 Barnewall & Cresswell. 
+
+7
+
+Bingham, 692.
+
+8
+
+9
+Ortman et al. v. Dixon, 13 California, 33; Davis v. Gals, 32 Id. 26; Woolman v. Garringer, Montana, 535.
+
+9
+
+10
+Caruthers v. Pemberton, Montana, Thorp v. Woolman, Ib Woolman v. Garringer, Ib. Atchison v. Peterson, Ib. 
+
+10
+
+11
+Still v. Saunders, 8 California, Goode v. Smith, 13 Id. 81; Duff v. Fisher, See, also, Koppikus v. State Capitol Commissioners, and Weber v. Marshall. 
+
+11
+
+.
+
+12
+
+13
+Per Heydenfeldt, J., 5 California. 
+
+13
+
+14
+Session Laws of .
+
+14
+
+15
+Session Laws of .
+
+15
+
+.
+
+16
+
+
+set()
+=======================================================
+
+88 U.S. 249
+OCHILTREE
+v.
+THE RAILROAD COMPANY.
+October Term, 1874
+1
+It is quite apparent that considerations of public policy induced the adoption of the double liability clause in the constitution of and equally apparent that, in the minds of the framers of the amendment of this provision had operated injuriously to the interests of the State, and that sound policy dictated its repeal. It is not difficult to see, with this provision in force, that great public improvements, in some of the States of the Union at least, could not be successfully carried on. Instead of inviting capital it would repel it. There are few persons who would consent to take stock in such enterprises, if subject to the double liability provision. Although willing to risk the loss of their stock, they would be unwilling to involve their estates beyond it. Especially would this be so if they were invited to take part in the completion of works greatly in debt, and which had languished for years. It is, therefore, important to determine, not only for this case, but all others similarly situated, whether the change of policy on this subject, as manifested by the change in the organic law, is effectual to accomplish the desired object.
+1
+2
+The Supreme Court of the State having construed the amendment of so as to relieve stockholders in corporations, subscribing after it went into operation, from the effects of the former constitution, as to debts contracted prior to the amendment, the only question at issue here is, whether the amendment, thus interpreted, has the effect of impairing the obligation of the plaintiff's contract within the meaning of the Constitution of the United States.
+2
+3
+It would serve no useful purpose to restate the views of this court on this general subject; nor to review the cases, which are neither few nor unimportant. It is enough to say that the law of the contract forms its obligation, and that legislation, which materially impairs the remedy, is void.
+3
+4
+The law of the contract in this case undoubtedly gave the plaintiff the right to subject existing stockholders in the corporation, with whom the debt was contracted, to the double liability provision. This provision could be invoked so soon as the assets of the corporation were exhausted. The plaintiff trusted this corporation and the members composing it at the time the contract was made. It cannot be said that he gave credit beyond this, for what right had he to assume that other stock would be taken? It may be that he expected this would be done, and that thereby his security would be increased; but the obligation of a contract within the meaning of the Constitution is a valid subsisting obligation, not a contingent or speculative one. It was no part of the obligation of the contract that future stock should be taken. The value of it would be enhanced if this were done, but the obligation of it would be the same whether the stock were taken or not. If taken, it subjected the holder to the personal liability imposed by the law at the time of the subscription, and to the extent of this additional responsibility the plaintiff is benefited. But suppose no additional stock were taken, the plaintiff has all that he trusted, and has no right to complain that his contract is not as valuable as he thought it would be. If, then, the credit was given to the corporation, and the personal liability of the members composing it at the date of the contract, how does the repeal of the double liability clause impair the plaintiff's contract? It is true, while unrepealed, he had the opportunity to accumulate securities for the payment of his debt, but is this opportunity to be continued after experience has proved that the policy on which it rested was injudicious and should be abandoned? Such a doctrine would tie up legislation, in order that the speculative expectancies of creditors may be protected. It was the object of the national Constitution to protect rights, and not mere incidental advantages which may affect the contract indirectly. The incident of individual liability attached to and formed a part of the contract as long as it lasted, but its repeal did not deprive the plaintiff of any of the rights secured to him when the contract was made. They still exist, and the remedy to enforce them remains the same. If the corporation itself cannot pay, the members who composed it at the time of the repeal are unaffected by it, and there is nothing in the way of subjecting them to the double liability provision. Instead of the plaintiff being injured by the repeal, he is benefited by it, for it cannot be supposed that the defendant would have taken stock with the burden imposed by the old law, and the subscription made by it increased by capacity of the company to pay its debts very largely, as it is agreed that it owns eight thousand nine hundred and sixty shares of stock, each share being for $ This stock was paid for and risked in the general enterprise, and, like other assets, liable for the debts of the company; but the plaintiff seeks to place upon the defendant a liability beyond this, which it cannot be believed it meant to assume, as the law did not impose the liability upon it when the stock was taken.
+4
+5
+The plaintiff contracted with the Alexandria and Nebraska company, authorized to issue two millions of stock. In the absence of any evidence on the point, it is fair to presume the stock was absorbed when the contract was made. This corporation he trusted, and the persons who held its stock were undoubtedly liable to him in case he could not get his debt out of the company. He not only holds this security, but in addition to it the assets of the Iowa Southern Company, and the liability of the holders of one and a half millions of stock in it. Beside this he has the obligation of the consolidated company to pay his debt. It is difficult to see how these things have tended to impair his contract or lessen its value. But he seeks to increase his security by embracing the stockholders of the consolidated company, who were not parties to the contract to pay his debt, but who subscribed after the amended liability law went into operation. This he cannot do. His remedy under the law as it existed at the date of his contract is not impaired because the consolidated company increased its stock, as it was authorized to do, and was enabled to sell it by reason of the withdrawal of the burden of personal liability.
+5
+6
+It is claimed by the plaintiff that the law under which his debt was contracted made all who were stockholders on the issue of the execution liable to contribute personally to the payment of his debt, and two cases in Missouri are cited to support this proposition.4 These cases arose before the repeal of the law, and were controversies between the holders of stock when the debt was contracted and the actual holders of it at the date of the execution. It was conceded that one class or the other were liable, and the court decided that the liability attached to the stock, and followed it in the hands of the assignee, and that, therefore, those stockholders only were liable who were such at the date of the execution. This is the full force of the decisions referred to, and they give to the plaintiff the right to seek his remedy against any one who held stock subject to the incident of individual liability, at the date of the execution against the corporation.
+6
+7
+But as the incident of individual liability has been repealed, and neither the law nor his contract makes the defendant liable for the debts of the company beyond the amount of its stock, it follows that the decisions of the Supreme Court of Missouri on the point invoked are not applicable.
+7
+8
+And so, doubtless, thought that court in its decision of this case, as the point is not noticed in the opinion.
+8
+9
+JUDGMENT AFFIRMED.
+9
+
+1
+
+2
+
+3
+
+4
+
+1
+2 Wallace, 10.
+
+1
+
+Missouri. 
+
+2
+
+.
+
+3
+
+4
+McLaren v. Franciscus, 43 Missouri, Miller v. Republic Insurance Co., 50 Id. 50.
+
+4
+
+
+set()
+=======================================================
+
+88 U.S. 642
+DOE
+v.
+CHILDRESS.
+October Term, 1874
+1
+The Tennessee Court of Chancery having jurisdiction of the subject of the proceeding in the attachment suits, no defence being interposed by the assignee, in the State court, and no measures having been taken to arrest their proceedings or to transfer them to the bankrupt court (if power to take such steps existed), and there being no fraud proven or alleged, we are of the opinion that a good title was obtained under the decree of sale made in the State court.
+1
+2
+Under the fourteenth section of the Bankrupt Act the title pendente lite is transferred by operation of law from the bankrupt to the assignee in bankruptcy. The conveyance of the register operates as would, under ordinary circumstances, the deed of a person having the title, with two differences—first, it relates back to the commencement of the bankruptcy proceeding; secondly, the register's conveyance dissolves any attachment that has been made within four months previous to the commencement of bankrupt proceedings. Neither of these differences are material in the present case. The attachments here had been made and levied more than four months previous to the commencement of the bankrupt proceedings on the 18th day of February, 1868, to wit, in the month of April, 1867, and no change had taken place in the estate between the filing the petition in bankruptcy and the conveyance by the register.
+2
+3
+The transfer of his real estate by a debtor against whom an attachment has been issued, and before judgment or decree, whether by his own act, or by operation of law, cannot impair or invalidate the title of a purchaser under such decree or judgment. It is evident that unless this is so an attachment suit could never be invoked for the collection of a debt. The debtor need only wait until judgment is about to be entered, then make a conveyance of the property attached, and the virtue of the proceeding is at an end. The authorities so declare. A reference to some of the authorities in Tennessee will be sufficient.
+3
+4
+The statute of that State provides as follows:
+4
+5
+'Any transfer, sale, or assignment made after the filing of an attachment bill in chancery, or after the suing out of an attachment at law of property mentioned in the bill of attachment as against the plaintiff, shall be inoperative and void.'2
+5
+6
+The object of this statute (says the court) was to prevent the debtor from evading the attachment after the bill had been filed, and before the levy, by sale or transfer of his estate.3 See Drake on Attachments,4 that this is the general rule of law.
+6
+7
+The Bankrupt Act is based upon this theory. Thus the enactment that the register's conveyance shall work a dissolution of an attachment made within four months next preceding the commencement of the bankrupt proceedings, is a virtual enactment that where the attachment is made more than four months before the commencement of the bankrupt proceeding, it shall not be dissolved, but shall remain of force. If all attachments were intended to be dissolved, it would be quite idle to declare that those made within four months should be dissolved.
+7
+8
+Accordingly, it has been held many times in the various courts of the country, that as to the class of attachments not within the four months' limitation, the bankruptcy proceedings do not work their dissolution; that the debtor's title passes to the assignee, subject to the creditor's lien acquired by virtue of the attachment, and that a judgment to be enforced against the property attached, but not against the person of the debtor or any other property, may be entered, although a discharge has been granted, and is pleaded in bar of the action. Numerous cases to this effect are collected in Bump on Bankruptcy.5
+8
+9
+We think this is a sound exposition of the statute.
+9
+10
+Where the power of a State court to proceed in a suit is subject to be impeached, it cannot be done except upon an intervention by the assignee, who shall state the facts and make the proof necessary to terminate such jurisdiction This rule gains whether the four months' principle is applicable or whether it is not applicable.
+10
+11
+In Kent v. Downing,6 the court say: 'The assignee may on his own motion be made a party, if for no other reason than to have it properly made known to the court that the defendant has become bankrupt. He has also a right to move to dismiss the attachment. The adjudication of bankruptcy must be made known to the court in some authentic mode. It may be denied, and the State court cannot take notice of the judgment of other courts by intuition. They must be brought to the notice of the court, and this cannot be done without parties.'
+11
+12
+In Gibson v. Green7, the same principle is stated.
+12
+13
+The application of these principles gives a ready solution of the question presented in the case before us. The issuing of the attachments against the property of Montgomery took place more than four months prior to the filing of his petition in bankruptcy. By the law of Tennessee the levy of the attachments gave a specific lien upon the property described in them.
+13
+14
+If the assignee had intervened in the suit he would have been entitled to the property or its proceeds, subject to this lien. He did not, however, intervene or take any measures in the case. He allowed the property to be sold under the judgments in the attachment suits, and those under whom the defendant claims purchased it, obtaining a perfect title to the same. The plaintiff has no title upon which he can recover, and the judgment of the Circuit Court to that effect must be
+14
+15
+AFFIRMED.
+15
+
+1
+
+2
+
+3
+
+4
+
+5
+
+6
+
+7
+
+1
+See section Statutes of Tennessee, and notes of numerous cases; 2 Thompson & Steger's Statutes. 
+
+1
+
+Section 3507, 2 Statutes, Thompson & Steger; see Snell v. Allen, Green v. Shaver, 3 Humphrey, Perkins v. Norvell, Boggess v. Gamble, 3 Coldwell. 
+
+2
+
+3
+Burroughs v. Brooks, Lacey v. Moore, 6 Coldwell, Sharp v. Hunter. 
+
+3
+
+4
+Section .
+
+4
+
+ where the author cites Bates v. Tappan, 3 Bankrupt Register, Massachusetts, Bowman v. Harding, 4 Bankrupt Register, Samson v. Burton, 4 Bankrupt Register, 1; Leighton v. Kelsey, Maine, 85; Perry v. Somerby, Ib. Stoddard v. Locke, Daggett v. Cook, 37 Connecticut. 
+
+5
+
+.
+
+6
+
+Mississippi, see also Johnson v. Bishop, 1 Woolworth, opinion by Justice Miller.
+
+7
+
+
+set()
+=======================================================
+
+89 U.S. 81
+HAYCRAFT
+v.
+UNITED STATES.
+October Term, 1874
+1
+'The act of March provided for the sale of enemies' property collected under the act, and payment of the proceeds into the treasury, and left them there subject to such action as the President might take under the Confiscation Act of the 17th July, 1862.'
+1
+2
+Under this act the President could grant the owners pardon and amnesty, with full restoration of the rights lost or forfeited by rebellion, and thus entitle them to the return of their property or its proceeds. This policy he adopted, and this finally settled the question, that these proceeds were to be restored to the owners of the property, out of which they had accrued.
+2
+3
+This restoration, so determined on, could only be made through the Court of Claims, whose jurisdiction was exclusive;10 and from the court, every person, in any way implicated in the rebellion was excluded by Congressional prohibition until pardoned.
+3
+4
+The Status of this claimant was therefore this:
+4
+5
+1st. Having aided the rebellion, his property was rightfully seized and sold, to be held by the United States, until they should determine, as a matter of public policy, whether it should be restored to the owner by pardon of his crime, or condemned and confiscated by judicial proceedings. Till then, his right to it was suspended.
+5
+6
+2d. The jurisdiction of the Court of Claims was exclusive on the question whether he should recover these proceeds, and the legislation of Congress prohibited him from suing there at all. So that, not only his right to these proceeds, but the capacity to sue for them, was taken away by the capture and sale, and by the accompanying legislation of Congress.
+6
+7
+3d. While this condition of things continued he could not sue, and consequently could not be barred by neglecting to do that which the law prohibited him from doing.
+7
+8
+4th. No judicial condemnation having been decreed, and his offence having been pardoned, both his right to the property and his capacity to sue for it, were restored by that act of pardon, and from its date.
+8
+9
+Haycraft's disabilities continued until the 25th December, 1868, when the President issued an unconditional proclamation of pardon and amnesty.
+9
+10
+This pardon, confessedly, under many decisions of this court,11 put the person pardoned, in all legal aspects and relations, in the same condition as if he had never transgressed.
+10
+11
+The condition or predicament of these proceeds, the owner being disloyal, is similar to property seized under our customs, or revenue, or neutrality laws. In either case the property, under certain conditions and limitations, may be sold. In such case, where the litigation for forfeiture or non-forfeiture is undetermined, and the offence unpardoned, or the forfeiture not remitted, the owner has no right to the proceeds and could not maintain a suit for them. His right to them accrues, and his ability to maintain a suit for them commences at the moment of remission of the offence for which they are held or final judgment of non-forfeiture in his favor. No statute of limitations would run against him before this time.
+11
+12
+Now, this court has decided12 that the war, irrespective of a statute, suspended the running of the statute of limitations between private persons living in the loyal and insurrectionary States. But here, by the statutes of the United States, there was neither right to the money nor capacity in Haycraft to sue for it until December The same act that released the right of the United States restored his and also gave him ability to sue. From that time, therefore, the limitation commences to run against him. What limitation? Not that of the two years in the act of March because that had already passed; but if any, the only other one in existence, that of the tenth section of the act of March which provides——
+12
+13
+'That every claim against the United States cognizable by the Court of Claims, shall be forever barred unless the petition, setting forth a statement of the claim, be filed in the court or transmitted to it under the provisions of this act within six years after the claim first accrues.'
+13
+14
+Mr. G. H. Williams, Attorney-General, Mr. Samuel Field Phillips, Assistant Attorney-General, Mr. John Goforth, Assistant Attorney-General, contra:
+14
+ The claimant, who it is not pretended came within any excepted class, could at any time after the 8th of December, 1863, have taken an oath to abstain from rebellion and to support the government, and been pardoned. But he was stiff-necked, and would not comply even with these terms, or, as the result showed, with the easier terms of later proclamations. He would never have been pardoned had not pardon been 'thrust' upon him by the proclamation of President Johnson, pardoning rebels in spite of themselves.
+15
+ The argument of the other side puts all rebels including such a one as Haycraft, above described, whose property was captured, and deserved to be captured and confiscated, in a better position than loyal men where the capture was by mistake, and where a great injury was done to the owner. These last must sue in two years after the war is closed. The others, according to the argument of the claimant's counsel, might sue at any time within six after being pardoned in spite of a determination that they would not be pardoned. This reductio ad absurdum of the opposite argument proves the quod est demonstrandum, as well as any direct argument.
+16
+17
+Reply: The first point in the argument of the government is, of course, that the legal effect and operation of a free and full pardon, is destroyed by proof of the extrinsic fact, that the offender could have been pardoned before, if he had asked for it, and complied with the conditions. If there be any principle or authority in the law, which gives support to such a position it is unknown to us.
+17
+18
+The second point made in that argument—to wit, that our positions put rebels in better condition than loyal men—is not true, and would not prove what it is meant to prove if it were. The loyal man's right accrued so soon as his property was sold and the money paid to the United States officers, from the year and that right continued till two years after the close of the war; continued, we may say, till 20th August, 1868. All this time the rebel was debarred: 1st. For lack of right to the possession of the proceeds; 2d. For want of capacity to sue; 3d. Because of actual legislative prohibition of the court to entertain his suit or render a judgment in his favor. In the next place, whatever benefit accrues to the former disloyalist is an incident rather than the object of the policy of reconciliation and reconstruction, adopted for their own benefit by the United States.
+18
+19
+To recapitulate. The case is this: The United States took Mr. Haycraft's property and sold it, charged him with all the expenses, and paid the balance into the treasury. They might have libelled, condemned, and confiscated it, and have made it the property of the United States. But they said, 'We will not do so; the future interests and dignity of this great nation require that we pardon his offence and restore his property.' But now, when he applies to the designated tribunal to take his proofs, and give him the proceeds of his property that the United States hold as mere trustees for him, they interpose the plea of the statute of limitations. Can this promise of restoration—these fiduciary obligations of trustee—be thus fulfilled and discharged? Can the United States fully and freely pardon our client's offence and still punish it, by this confiscation of his property? The CHIEF JUSTICE delivered the opinion of the court.
+19
+20
+The main question presented for our consideration in this case is whether one who gave aid and comfort to the late rebellion can, after the expiration of two years from its suppression, commence and successfully maintain an action in the Court of Claims for the recovery of money in the treasury arising from the sale of his cotton taken possession of by the United States, and sold under the provisions of the Captured and Abandoned Property Act.
+20
+21
+The case has been argued to some extent as though it involved the consideration of a statute of limitations. To our minds the question is one of jurisdiction. A sovereign cannot be sued in his own courts except with his consent. This is an action against the United States in its own Court of Claims. The appellant must, therefore, show that consent has been given to its prosecution. That being done, the jurisdiction of the court is established and he may proceed. Otherwise, not.
+21
+22
+It is conceded that the required consent is not contained in the Captured and Abandoned Property Act itself, for the only action there consented to is one to be commenced within two years after the suppression of the rebellion. But inasmuch as the United States has consented to be sued in the Court of Claims upon contracts, express or implied, it is contended that this action may be prosecuted on account of an implied promise by the United States to pay to every owner of captured and abandoned property, whether loyal or disloyal, the proceeds of his property taken and sold.
+22
+23
+As the taking was under the authority of an act of Congress, we must look to the act to see if this promise has been made. It is not claimed that any exists if it is not to be found there. If it has been made at all, it was when the property was taken, and is equivalent to an undertaking by the United States at that time to receive and hold the property, or its proceeds if sold, in trust for the use and benefit of the owner, whoever he might be. The claim is, that the trust in favor of the owner having then been created, the remedy for its enforcement in the Court of Claims as a contract was restored to the disloyal owner by the operation of the President's proclamation of December granting unconditional pardon to all who participated in the rebellion.
+23
+24
+The act authorizes the Secretary of the Treasury, from time to time as he shall see fit, to appoint special agents to receive and collect all abandoned or captured property in the insurrectionary States, not including, however, any which had been used, or was intended to be used, for waging or carrying on the war, such as arms, ordnance, ships, munitions of war, &c. Any part of the property collected might be appropriated to public use, on due appraisement or certificate thereof, or forwarded to any place of sale in the loyal States, as the public interests might require. All sales were to be at public auction to the highest bidder, and the proceeds paid into the National treasury. The Secretary of the Treasury was required to cause books of account to be kept, showing from whom the property was received, the cost of transportation, and the proceeds of the sale. And any person claiming to have been the owner of such property was authorized, at any time within two years after the suppression of the rebellion, to prefer his claim to the proceeds in the Court of Claims, and, on proof of his ownership, his right thereto, and that he had not given aid and comfort to the rebellion, receive the balance of the proceeds remaining in the treasury, after deducting certain expenses.
+24
+25
+Such was the power to take given by the act, and such the obligation assumed by the United States upon the taking, with the remedy provided for its enforcement. It was evidently a war measure, and the statute is to be construed in the light of that fact. It was confined to private property of the enemy. Public property was expressly excluded. It embraced no private property except such as was abandoned by its owners or liable to capture. The property in this case was cotton, and, according to the uniform decisions of this court, the subject of capture.13 As was said in Mrs. Alexander's case, cotton was regarded by the insurgent government as one of its 'main sinews of war.' It was in fact the foundation upon which the financial system of the rebellion was built. It was a security the insurgents offered for the payment of their debts. Upon it they relied for their influence abroad. To obtain it, forced contributions were exacted from its owners. From time to time in the progress of the war it was found upon the enemy's territory occupied by the military forces of the United States. While, when so found, it might have been owned by non-combatant enemies and, in that sense, private property, it was in fact, under the circumstances, at least semi-public. If left undisturbed, and the insurgents should repossess themselves of the territory, it would again be placed where it might strengthen the rebellion. Its capture was, therefore, legitimate; not for booty, but to cripple the enemy. In that way it was kept out of the insurgent treasury. It might have been destroyed, but the unnecessary destruction of property ought always to be discouraged. The act of Congress looked to its preservation, but authorized its capture. In so doing Congress acted within its constitutional power to 'make regulations concerning captures on land and water.'14
+25
+26
+In the indiscriminate seizure which was likely to follow such an authority, it was anticipated that friends as well as foes might suffer. Therefore, to save friends, it was provided that any person claiming to have been the owner might, at any time within two years after the suppression of the rebellion, prefer his claim, and, upon proof of his ownership and loyalty, receive the money realized by the United States from the sale of his property. That expresses all there is of the trust or the remedy provided.
+26
+27
+In Klein's case,15 the property collected under this act was said to be of 'a peculiar description, known only in the recent war, called captured and abandoned property,' and that 'the government recognized to the fullest extent the humane maxims of the modern law of nations which exempts private property of non-combatant enemies from capture as booty of war.' 'No similar legislation,' it was also said, 'is mentioned in history,' and 'the government constituted itself the trustee for those who were by that act declared entitled to the proceeds of captured and abandoned property, and for those whom it would thereafter recognize as entitled.' And again (p. , that 'the proceeds of the property have passed into the possession of the government, and the restoration of the property is pledged to none except those who have continually adhered to the government. Whether restoration will be made to others, or confiscation will be enforced, is left to be determined by considerations of public policy subsequently to be developed.'
+27
+28
+In the same case it was also held16 that 'the restoration of the property became the absolute right of the persons pardoned on application within two years from the close of the war.' Under this construction the effect of the act was to provide a reward for submission to the government and the acceptance of amnesty, as well as authority for the seizure of property, and it is thus made to operate in two ways to weaken the insurgents: first, by depriving them of their property; and second, by inducing their adherents to submit to the authority of the United States as a means of regaining that which they had lost personally. In that view time is material. The length of a war depends largely upon the relative strength of the contending parties. As a rule, that belligerent is the first to surrender, other things being equal, who first loses the elements of warlike power. Especially is this true in a civil war. Strategy sometimes gives unnatural strength, and thus obtains success, but more commonly war resolves itself into a question of men and money, of strength and endurance.
+28
+29
+According to the doctrine of Klein's case, if a suit was commenced within two years a pardoned enemy could recover as well as a loyal friend. But the commencement of the suit within the prescribed time was a condition precedent to the ultimate relief. The right of recovery was made to depend upon the employment of the remedy provided by the act. There was no promise even under the rulings in that case, except to such as should commence the suit in time, and upon the trial be in a condition to bring themselves within the requirements of the act. The promise, such as it is, was express. There is no room left for implication. Pardon and amnesty have no effect, except as to such as sue in time. In this, Klein's case but adopts the ruling in previous cases. Thus, in Mrs. Anderson's case,17 the doctrine is stated in these words: 'But by the act in question the government yielded its right to seize and condemn the property which it took in the enemy's country, if it belonged to a faithful citizen, and substantially said to him: 'We are obliged to take the property of friend and foe alike, which we will sell and deposit the proceeds of in the treasury; and if at any time within two years after the suppression of the rebellion you prove satisfactorily that of the property thus taken you owned a part, we will pay you the net amount received from its sale." And in Zellner's case,18 'Any person claiming to be the owner of abandoned and captured property, within the meaning of the act, may, at any time within two years after the suppression of the rebellion, present his claim to the Court of Claims,' &c. And again, in Armstrong's case, decided at the same time with Klein's, this is the language of the court, speaking through the late Chief Justice: 'And that the person so pardoned is entitled to the restoration of the proceeds of captured and abandoned property if a suit be brought within 'two years after the suppression of the rebellion," the special provision as to the time being brought to the attention of the reader by the marks of quotation.
+29
+30
+Provision might have been made for the institution of suits by loyal owners at any time, but it was not, and the reason may perhaps be found in Klein's case. According to that, an insurgent who accepted the offers of pardon which were from time to time extended to him, and became loyal in fact, received as one of the privileges and immunities to which he was restored, the right to recover the proceeds of the sale of his property taken under the act, if he made his claim in time. To obtain a pardon before the war closed an insurgent must withdraw himself from the enemy and become loyal. There could be no recovery even in a suit commenced until the pardon was obtained, and there could be as soon as it was. Hence the sooner the pardon the sooner the money could be had. So, too, after the contest was over, an early submission by all to the authority of the government was important. To this the act, as construed, furnished an additional inducement by its promise of restoration if application therefor was made in time.
+30
+31
+Additional strength is given to this interpretation of the act by what followed its enactment. On the 17th of July, 1862, the President was authorized by Congress to extend pardon and amnesty by proclamation to persons engaged in the rebellion, with such exceptions and upon such conditions as he should deem expedient.19 On the 8th December, 1863, nine months after the passage of the Captured and Abandoned Property Act, he issued his first proclamation under this authority.20 By this he offered full pardon and restoration of property to all insurgents, except a few designated classes, who would take a prescribed oath to the effect generally that they would thereafter abstain from the rebellion, and support the government of the United States. On the 26th March, 1864, by a further proclamation, he excluded from the operation of the writ, prisoners of war and those confined for crime. Thus during the war actual withdrawal from the enemy and an oath of allegiance were made conditions precedent to amnesty; but on the 29th of May, 1865, and within three days after the surrender of the last organized army of the rebellion, another proclamation was issued,21 offering pardon and restoration of property to all, with certain exceptions, who would take an oath of allegiance alone. On the 7th September, 1867, but still within two years after the suppression of the rebellion, as it has been determined, another was issued extending the operation of the last to all save three of the excepted classes of persons.22 Thus, after the war, simple submission by an insurgent to the authority of the government was the only price to be paid for pardon and restoration to the right, according to Klein's case, of using the means provided by Congress for the recovery of the proceeds of the sale of his captured or abandoned property. Pardon was, therefore, easy to be had, and the promise of a restoration of this class of property was tendered as a reward for its acceptance to such as would qualify themselves within the prescribed time to receive it.
+31
+32
+This appellant, though one of those who might, did not accept these easy terms. He would not render even this small equivalent for the restoration of his property, and consequently he has not availed himself of the only promise the United States has as yet offered to make looking to that end. The Court of Claims may act upon promises made, but cannot make them.
+32
+33
+There is here no question of confiscation. The title of the United States, whatever may be the rights it carries with it, is by authorized capture or appropriation of enemy's property on land. But the same statute which authorized the capture gave a right to certain persons to demand and receive a restoration of their property taken. Coupled with the right to demand was a provision for the remedy by which it was to be enforced. Both the right and the remedy are, therefore, created by the same statute, and in such cases the remedy provided is exclusive of all others. The demandant in this case neglected to avail himself of the remedy provided, and consequently he is now without any. That remedy was the only one of which the Court of Claims or any other court has been authorized to take jurisdiction. It is for Congress, not the courts, to determine whether this jurisdiction shall be extended and other remedies provided.
+33
+34
+JUDGMENT AFFIRMED.
+34
+
+1
+
+2
+
+3
+
+4
+
+5
+
+6
+
+7
+
+8
+
+9
+
+10
+
+11
+
+12
+
+13
+
+14
+
+15
+
+16
+
+17
+
+18
+
+19
+
+20
+
+21
+
+22
+
+1
+Act reorganizing the Court of Claims, 12 Stat. at Large, and see the act of February organizing the said court.
+
+1
+
+2
+The Protector. 
+
+2
+
+.
+
+3
+
+Wallace, 531.
+
+4
+
+.
+
+5
+
+6
+9 Waliace, 56.
+
+6
+
+Wallace, 244.
+
+7
+
+Stat. at Large, 75.
+
+8
+
+ the act governing the court generally.
+
+9
+
+10
+Mrs. Alexander's Cotton, Wallace, 404; Act of March tat. at Large, Act of July Act of July .
+
+10
+
+11
+Ex parte Garland, Wallace, 333; Cummings v. Missouri, Ib. United States v. Padelford, United States v. Klein. 
+
+11
+
+12
+Hanger v. Abbott, Wallace, 532; The Protector, Insurance Company v. Kauffman, and other cases.
+
+12
+
+13
+Mrs. Alexander's Cotton, Wallace, 419; Padelford's Case. 
+
+13
+
+14
+Art. I, section 8, paragraph 11.
+
+14
+
+Wallace, 36.
+
+15
+
+.
+
+16
+
+.
+
+17
+
+.
+
+18
+
+Stat. at Large. 
+
+19
+
+.
+
+20
+
+.
+
+21
+
+.
+
+22
+
+
+set()
+=======================================================
+
+89 U.S. 444
+RAILWAY COMPANY
+v.
+McSHANE ET AL.
+October Term, 1874
+1
+APPEALS from the Circuit Court of the United States for the District of Nebraska; in which court the Union Pacific Railroad Company filed a bill to enjoin one McShane and other persons, severally treasurers of different counties in the said State, through which the road ran, and in which it had lands, from the collection of taxes assessed upon them. There were also cross-bills.
+1
+2
+An act of July creating the Union Pacific Railroad, enacted1——
+2
+3
+'SECTION 3. That there is hereby granted to the said company for the purpose of aiding in the construction of said railroad . . and to secure the safe and speedy transportation of the mails, troops, munitions of war, and public stores thereon, every alternate section of public land . . designated by odd numbers, to the amount of five alternate sections per mile on each side of said railroad, on the line thereof and within the limit of ten miles on said road, not sold, reserved, or otherwise disposed of by the United States, and to which a pre-emption or homestead claim may not have attached at the time the line of said road is definitely fixed. . 
+3
+4
+'And all such lands so granted . . which shall not be sold or disposed of by said company within three years after the entire road shall have been completed, shall be subject to settlement and pre-emption, like other lands, at a price not exceeding $per acre, to be paid to said company.'
+4
+5
+The statute went on to enact that whenever the company should have completed forty consecutive miles of any portion of its road, ready for the service contemplated by the act, and supplied with all the appurtenances of a first-class road, the President of the United States should appoint three commissioners to examine it and report to him in relation thereto; and if it should appear that forty consecutive miles had been properly completed, then, patents were to issue 'conveying the right and title' to the lands to the company on each side of the road as far as the same should be completed to the amount aforesaid; and patents in like manner were to issue as each forty miles of road were completed.
+5
+6
+An act of July amendatory of this act, after authorizing the company, on the completion of each section of its road, to issue first mortgage bonds on the same to an amount designated, and extending the grant for twenty miles on each side of said road, enacted:2
+6
+7
+'SECTION 21. That before any land granted by this act shall be conveyed to the said company or party entitled thereto . . there shall first be paid into the Treasury of the United States, the cost of surveying, selecting, and conveying the same, by the said company or party in interest, as the titles shall be required by said company.'In the case of Railway Company v. Prescott,3 this act was interpreted by this court, upon some clauses not necessary to be here quoted, as making the costs of surveying attach to all the lands granted to the road, whether by the original act of or by the amendatory act, just quoted, of .
+7
+8
+The work of constructing the road was begun in the company, 'for the purpose of raising money to aid in the construction,' mortgaged its lands to secure the payment of $ The terms of the mortgage required the trustees, upon payment of the bonds, to reconvey the residue of the unsold lands to the company. It reserved to the company the exclusive control and management of the lands, with power to sell the same; the purchase-money, however, to be paid to the trustees before a conveyance was made. The holder of bonds under the mortgage might purchase lands and pay for them in bonds. Both company and trustees were to join in any conveyance in order to make a title.
+8
+9
+By the 1st of April, 1869, a road capable of being safely and speedily travelled on, though susceptible still of many obviously desirable improvements, was practically completed.
+9
+10
+On the 10th of that same month, some allegations having been made, that certain subsidies granted by the United States to the company in government bonds, to aid in building the road, had not been applied in the exact way designed by Congress, in the acts granting them, and so as to make the road one absolutely of the 'first class,' a joint resolution was passed, by which it was resolved that to ascertain the condition of the road, the President should appoint a commission of five eminent citizens to examine into the matter and report upon the condition of the road, and to report also what sum, if any, would be required to complete it as a first-class road, such as was contemplated by the acts of Congress. A commission of five eminent citizens was accordingly appointed.
+10
+11
+However, the commissioners whom the act of had directed to decide whether the road was properly built and in pursuance of the acts authorizing it, having certified that it was so built, the President accepted it May .
+11
+12
+The commission of eminent citizens afterwards reported that while the road was in its then state a good and reliable means of communication, well equipped and prepared to carry passengers and freight with safety and dispatch, yet to make it a first-class road within their construction of the act of Congress, would in their judgment require an expenditure of $more than had as yet been laid out on it.
+12
+13
+The joint resolution, just above mentioned, by its third section had
+13
+14
+'Resolved, That the President is hereby authorized to withhold from said company an amount of subsidy bonds, sufficient to secure the full completion as a first-class road, of all sections of such road, 'or in lieu of such bonds he may receive as such security an equal amount of the first mortgage bonds of such company."
+14
+15
+The section enacted further, that in case it appeared to the President that the amount of subsidy bonds yet to be issued was insufficient to secure the full completion of the road, requisition should be made on the company for enough subsidy bonds, or enough of its own first mortgage bonds, to secure full completion, and in default of obtaining such security, that measures should be taken 'to compel the giving of it, and thereby, or in any manner otherwise, to protect the interest of the United States in said road, and to insure the completion thereof as a first-class road, as required by law and the statutes in that case made.'
+15
+16
+As to the status of the lands now assessed, it appeared that at the date of the levy and assessment of the tax in question, the company had dealt with the lands, and was now dealing with them as if they were in all respects their absolute property. They had mortgaged them, as we have already stated; were now advertising and selling them. They did not recognize the right of the public to settle upon or pre-empt, and to buy them at $per acre. On the other hand, neither Congress nor the Interior Department had taken any steps to subject the lands to settlement and pre-emption.
+16
+17
+Upon the report of the committee of 'eminent citizens,' under the joint resolution, already mentioned, of April would be required for supplying deficiencies in the road, the Secretary of the Interior, November to indemnify the government, ordered that only one-half the lands to which the company would otherwise be entitled should be patented, and that patents for the rest be suspended until further direction from the Department. Accordingly, in February, 1871, a patent issued to the company under this order for about acres of land, half the quantity of the land; the Department refusing to issue a patent for the other half. And so the matter now stood; that is to say, patents for one-half of the company's land were still withheld as security for the completion of its road in matters reported as not up to the required standard.
+17
+18
+It also appeared that of the lands situated within the tenmile limit, every alternate odd section which the company claimed had been patented previous to the assessment and levy of the tax, that the residue of the grants within like limits was unpatented, and that the costs of surveying had not been paid on any lands situated within the ten-mile limit, whether patented or unpatented, because (as was stated by the land agent of the company) not required by the Interior Department.
+18
+19
+In respect to the lands situated between the ten and twenty-mile limits, it appeared that they had all been selected, listed, certified, and that the land-office fees and costs of surveying had been paid, and every alternate odd section of those claimed by the company patented, the residue being unpatented.
+19
+20
+In this state of things, the company, in July, 1873, filed the present bill. It alleged that in 1872 the assessors of the several counties where the lands were situated (which lands were described in lists filed as exhibits with the bill), assessed them, and that the boards of commissioners of the same counties levied taxes for State, school, and local municipal purposes upon them, and that the defendants, the treasurers of these counties, were about to proceed to the collection of those taxes by seizing and selling the locomotives, cars, and rolling stock generally of the company, with other personal property. The bill alleged further, that the lands were not liable to any State taxation at the time of the assessment or levy, and it prayed that these treasurers might be enjoined from further proceedings for the collection of them.
+20
+21
+The grounds on which this exemption was claimed may be divided into three distinct propositions, some of which were applicable to all the lands and others to only part of them.
+21
+ That by the third section of the act of under which the company was organized, and by which the lands within the ten-mile limit were granted in aid of the construction of the road, it was provided that all such lands as should not be sold within three years after the entire road shall have been completed, shall be subject to settlement and pre-emption like other lands, at a price not to exceed $per acre, to be paid to the company. And it was alleged that these lands were liable to this pre-emption, which would be defeated by a sale of them for the taxes.
+22
+ That by the amendatory act of which extended the grant to twenty miles on each side of the road, it was provided that before any of the land granted should be conveyed to the company, there should first be paid into the Treasury of the United States the cost of surveying, selecting, and conveying the same by the said company, and that these costs not having been paid, a sale for taxes would defeat the right of the United States to enforce this claim and recover their expenses out of the lands.
+23
+ That under the joint resolution of April authorizing the President to appoint a commission to inquire into the manner in which the road had been constructed, and, if the report was unfavorable, to take steps to secure its proper construction, the secretary had refused to issue patents for these lands, withholding the title as security for the performance of what was required in that respect.
+24
+25
+The first two of the above grounds on which an injunction against the taxing was sought, were based upon what the complainants conceived was adjudged in Railway Company v. Prescott,4 it having been there adjudged as they argued:
+25
+t. That, whether patented or not patented, the lands were not subject to taxation of the contingent right in the United States of offering them to actual settlers at $per acre, in case the company did not sell the same within three years from the completion of the road; this objection being based upon the closing part (italicized) of section three of the act of .
+26
+. That the right of the State did not, according to the language of the syllabus in that case, attach 'until the right to the patent was complete and the requisite title was fully vested in the party without anything more to be paid, or any act to be done going to the foundation of the right,' and accordingly that prepayment by the company of the cost of surveying, selecting, and conveying the lands granted, being required by statute making the grant, before any of the lands 'shall be conveyed,' no title vested, even to the patented tracts, unless the required prepayment had been made.
+27
+28
+It was contended on the other side, and in behalf of the right to tax, that Railway Company v. Prescott was unlike this case, since here——
+28
+ The company had mortgaged the lands in anticipation of a completion of the road; and applied the money received to building the road; that this was a 'disposition' of the lands within the act of though it might not be a 'sale' within the meaning of the same act.
+29
+ The company had received patents for half of the land.
+30
+ The company had paid surveying fees on all unpatented lands in the grant of and were ready to pay them on the grant of and had not paid them on it only because they were not asked for.
+31
+32
+The court below, while it confessed to some difficulty in distinguishing the case of Railway Company v. Prescott, on either of the two points just stated, from the one now before the court, was still of opinion that the authority of that case might, as to the first point above mentioned, be escaped from, so far at least as regarded the lands which the company held by patent. After observing that it would not say whether a mortgage of the land was such a 'disposition' as would prevent the right of settlement or pre-emption, it remarked that in Railway Company v. Prescott the taxes were assessed before any patent was issued, and, in addition, that the cost of surveying had not been paid. The learned judge, in this connection said:
+32
+33
+'I am inclined to consider the true meaning and effect of the provision in question to be this: While the road is being constructed and for a period of three years after the completion of the entire line, the company may sell or dispose of the lands at their own price, and they are subject during this period to no right of settlement or pre-emption; after the three years have elapsed, the company may still sell or dispose of their lands in good faith, but as to any lands not thus sold or disposed of, there is a right on the part of the public to settle upon and pre-empt them in the same manner as if they were part of the public domain; the price, not exceeding $per acre, being payable to the company instead of the government.
+33
+34
+'If this be a correct view of section three of the act of it results that the lands of the company, so far as they are patented, are subject to taxation by the authority of the State, and this privilege reserved in favor of the actual settler, and of which he may never wish to avail himself, which is contingent in its nature and subject to be defeated by a sale of the lands by the company, is not inconsistent with, and will not defeat, the rightful authority of the State to tax the lands.'
+34
+35
+On the second ground of exemption set up, he said:
+35
+36
+'This ground of exemption, in view of the decision in the Prescott case, may be disposed of briefly. Upon the proofs in this case, I am of opinion that lands which have not been patented, either because the costs of surveying required by section twenty-one of the act of have not been paid, or because patents have been withheld by the Interior Department as indemnity to make good the deficiencies in the construction of the road, are not taxable, and to this extent the injunction will be continued in force. But as to all lands which have actually been patented to the company, the injunction will the dissolved. It is true that, as respects the patented lands within the ten-mile limits, the land agent of the company states that the surveying fees have not been paid, but he also states that the reason why they were not paid was that the Interior Department did not require it.
+36
+37
+'It does not appear that there are any lands not patented which have been fully earned and set apart to the company upon which all fees have been paid, and for which the patents are not retained by the government for its own security, and therefore, for all practical purposes, I hold that the lands in this case may, upon the proofs before the court, be divided into two classes: 1st, those which are patented and which are taxable; 2d, those which have not been patented and which are not shown to be taxable.'
+37
+38
+The court below accordingly decreed a dismissal of the bill as to all lands embraced in the company's patent of February and an injunction as to the lands which had not been patented to the company.
+38
+39
+From that decree both parties appealed; the company, because any of its lands were allowed to be taxed; the county treasurer, McShane, because they were not all taxed.
+39
+40
+Mr. A. J. Poppleton, for the railroad company:
+40
+41
+The lands which have been taxed in this case are situated in the same way as were those in Railway Company v. Prescott. Both bodies of lands were granted under the same acts of Congress, to be used in the same way, to be held by the same tenure, and upon similar conditions. The rule laid down in the case just mentioned must, therefore, govern this case.
+41
+42
+That all lands in this case which are unpatented, and upon which the costs of surveying have not been paid, or patents to which are withheld by the government as security for a completion of the road, according to the standard fixed by its charter, are within the rule laid down in the case just quoted, and, therefore, are not subject to State taxation, seems to us too plain for argument. They are clearly within the first ground assigned in that case for non-taxability.
+42
+43
+In respect to all the patented lands in this case, the exemption rests solely, we admit, upon the second ground laid down in the same case, to wit, upon 'the contingent right (in the government) of offering the land to actual settlers at the minimum price asked by the government for its lands.' But we insist that this ground, in the present case, is sufficient and conclusive. It also operates upon both classes of lands.
+43
+44
+Does this ground of exemption operate upon the patented lands? The court below, though laboring hard to come to such a conclusion, held that in respect to patented lands, the case of Railway Company v. Prescott did not, of necessity, control this.
+44
+45
+The real question is, therefore, what is the principle of exemption thus laid down by this court in the case of Railway Company v. Prescott, and from which the court below sought to extricate the present case? Does it apply less to patented than unpatented lands? As to one part, failure of the company to perform all conditions precedent to a perfect right to a patent, exempts from taxation; in the other, an interest or a right of the United States in the lands, operates as an exemption. The first is referable to the conduct and interests of the company; the second to the rights of the government.
+45
+46
+Is this right of the United States any less worthy of preservation after patent issued than before? Is it cut off by the issue of a patent? If worthy of preservation at any stage, what limit can be assigned except the limit of its existence in the United States. Unless the interest of the United States was erroneously protected in the Railway Company v. Prescott (a matter not to be supposed), these lands must be held exempt, on the ground of the contingent right in the government of offering the lands at a minimum price. This contingent right of the United States cannot be cut off by the issue of a patent, for the following reasons:
+46
+ No patent issued under the act could convey a greater or better title than is authorized by it. The patent being merely the evidence of the title granted by the acts of Congress, nothing inserted in it by the officers charged with the administration of the grant could enlarge it.
+47
+ To hold that this 'contingent right of offering the land to actual settlers at the minimum price asked by the government for its lands,' is extinguished by the issue of the patent, is to nullify the right which this provision was framed to create and protect.
+48
+49
+Nothing can defeat the operation of the second ground of exemption upon both classes of lands, except proof that the lands have been 'sold or disposed of,' by the company, as provided in section third, act July It does not relieve the question to show that the road was completed in 1869. For, in that case, the right of the United States to require the sale of the lands at $per acre, has ceased to be contingent, and become absolute.
+49
+50
+Messrs. Clinton Briggs and J. C. Cowin, for the treasurer, McShane:
+50
+51
+I. The company insists that the three years pre-emption clause, contained in the third section of the act of defeats the right to tax, and relies on Railway Company v. Prescott. But, assuming—and this is but for the sake of argument—that the court below did not put the right construction on that rather unintelligible section, still the case relied on by the other side does not control this one.
+51
+52
+By the terms of the act of the right to settlement and pre-emption is to exist only in case that the lands are not 'sold or disposed of' within three years after the entire road shall have been completed. The lands need not be 'sold' within the three years. It is enough that they be 'disposed of.' When they were mortgaged they were 'disposed of,' even if they were not 'sold.' The road was completed, really, in May, 1869. These lands were mortgaged in 1867. The were, in fact, already disposed of when the road was completed. They were disposed of in 1867, two years before a title to them existed in the company. When, however, a title was obtained by the company in virtue of the completion of their road, that title inured to the mortgagees, on the well-known principle of 'estoppel.' The mortgagees, therefore, immediately on the completion of the road and, of course, within the required three years—held a valid mortgage.
+52
+53
+This mortgage was for an immense amount, $ The bill does not allege that the lands had any value above the mortgage. This $accomplished the same purpose that a like sum would have done if paid by purchases of the fee, and the purposes of the grant were just as well accomplished in one mode of disposition of the lands as the other. Congress gave the lands such is the language of the law—'for the purpose of aiding in the construction' of the road. The mortgagees have furnished the aid $ Their money has enabled the company to build the road and earn the lands. The mortgagees knew that the money paid was for the precise purposes for which the grant was made; they taking only the risk of the ability of the company to earn the lands with the aid of this money.
+53
+54
+The mortgage provides that the bondholder may purchase lands and pay for them in bonds. He has the option to sustain the relation of a mortgagee or that of a purchaser. He has the right to refuse money and demand land in payment at the appraised value. Thus the instrument is more than a mortgage.
+54
+55
+Then, in addition, the company in this case has received patents for half its lands, and has paid surveying fees, &c., on those unpatented. It has advertised its lands for sale and sold them; assuming thus and otherwise by its acts an absolute ownership. In these particulars, as in the one just mentioned, the case is distinguished from Railway Company v. Prescott, so far as that case rests on the obligation to give pre-emption.
+55
+56
+II. It is distinguishable also as respects the fees for surveying, &c.:
+56
+ As respects the grant of the fees for surveying, &c., have been paid in all cases, and whether patent has issued or has not issued.
+57
+ As respects the grant of these fees are not asked until after patent issues. The land department apparently does not construe as does this court the twenty-first section of the act of as applying to lands granted by the act of At all events it does not require prepayment of the fees for surveying as to lands granted by the act of lands within the ten-mile limit. The non-payment of these costs, therefore is no impediment to the company's getting a patent. It is now the equitable owner of these unpatented lands, and so has a taxable interest in them. It is unimportant whether the patent was actually issued or not. The company had earned the lands.
+58
+59
+The land department of the United States, indeed, refuses to give a patent for some of the lands, not because the surveying fees are not paid, as is required in regard to the lands granted by the act of undoubtedly (and as this court has decided as to those granted in 1862 also), but because the joint resolution of required that security should be got for the making of a certain sort of perfect road. But the joint resolution is not aimed at the lands. It requires that subsidy or other bonds shall be held as security for the expenditure, and, if they are not voluntarily given by the company, the Attorney-General is required to institute suits 'to compel the giving such security.' There is no intimation in the act that lands or patents are to be withheld as such security. The act of the land department in withholding patents is without authority. The commissioners had certified the road. The President had accepted it. Anything further between the company and the United States was matter for the courts.
+59
+60
+The contingent rights in the United States, which in Railway Company v. Prescott was held sufficient to exempt lands must whether coming from the 'pre-emption' cause, or from the right to retain for payment of costs of surveying, &c.—to the eye of a practical man, appear as applied to the present case but rights of a dim and shadowy sort.
+60
+61
+How does the case stand?
+61
+ As respects the United States.
+62
+63
+It 'granted' the lands to the company in 1862. It accepted the road as completed in 1869, thus declaring that the company had paid for—earned the lands. It issued patent for acres in 1871; and received from the company the surveying, &c., on the lands not patented.
+63
+ As respects the acts and declarations of the company.
+64
+65
+It accepts the grants made by the United States. It declared, in 1869, that it had completed its entire road; thereby asserting it had earned and was entitled to the lands. It receives patents for a part of them, and pays the surveying fees, &c., on the residue. It mortgaged its grant for $ and received the money and applied it to building the road. It exercised exclusive acts of ownership, by selecting, classifying, advertising them for sale and selling portions of its grant. It now asks the court to interfere by injunction to prevent, of course, a cloud being cast upon its titles.
+65
+66
+Thus, both the United States and the company say that the lands belong to the company. Is not Nebraska then justified in so regarding them and in seeking to make them, as private property, bear a just proportion of the public burdens.
+66
+67
+We submit that every consideration of equity and justice is in favor of the tax. How long, indeed, shall these immense bodies of land remain in the situation in which this company would place them? not under the control of the United States, so as to be open to settlement and cultivation, not owned by the company, so as to be subject to State taxation; but owned by it when it wants lenders on mortgage, or when it wants purchasers; owned by it for every beneficial purpose, but not owned for the purpose of bearing any share of the public burdens.
+67
+68
+Even if the United States has some claim against the lands for surveying fees or anything else, it is difficult to see how it could be prejudiced by a sale of them for taxes. This court said in the case of Carroll v. Safford,5
+68
+69
+'The sale for taxes is made on the presumption that the purchase from the government has been bon a fide, and if not so made the purchaser at the tax sale acquires no title, and consequently no embarrassment can arise in the future disposition of the same land by the government.'
+69
+70
+A different view seems to have been taken in Railway Company v. Prescott. But this question is not involved here.
+70
+71
+The position of the other side is that the contingent pre-emption right in favor of settlers of the United States, protected by Railway Company v. Prescott, has been destroyed because the company has mortgaged the lands, and so 'disposed of' them. But both the legal and the ordinary signification of these words import an absolute parting with all control over or reversionary interest in the lands. Neither a mortgage nor a contract of sale accomplishes such an alienation of interest and control. In both cases the company retain an interest in the thing mortgaged or contracted to be sold which may, upon the happening of certain events, revest a complete title in a part or of all the property. Suppose, after the execution of the mortgage, the company had got money, from subsidy bonds or from some other source, and had discharged the mortgage, not an acre of the land having been yet sold. Could it be contended that the simple making of the instrument of mortgage was such 'disposition of' the land as would defeat the operation of the third section of the act of ?
+71
+72
+If such an interpretation be accepted, then a mortgage, however inconsiderable, a contract to convey, with however irresponsible a party—and each with an absolute certainty of reversion to the company of a title in fee—would operate to defeat the intent of Congress.
+72
+73
+If, therefore, the purpose and object of Congress in framing the section under consideration, was that authoritatively declared by this court in the case of Railway Company v. Prescott, it is submitted with confidence that no form of conveyance, and no species of alienation of granted lands, which falls short of an unconditional parting with the control of and title to the same, either present or reversionary, legal or equitable, can operate to defeat the condition imposed by the section in question.
+73
+74
+Therefore, certainly all the lands in controversy, patented or unpatented, not having been either 'sold or disposed of' by the company, whether the three years from the date of the completion of the road have elapsed or not, are subject to the contingent right reserved by Congress in the section under consideration; and are, therefore, not subject to taxation.
+74
+75
+And the same thing is true of all lands, whether patented or unpatented, upon which the costs of surveying, &c., have not yet been paid. The language of the statute of is absolute, and has been held by this court, in one part of the same case of Railway Company v. Prescott, to apply to the ten-mile grant of as well as to the twenty-mile grant of Otherwise, by a colorable conveyance, or by a contract of sale, the onerous terms of which would provide for and make sure a forfeiture, or by a mortgage for a sum so inconsiderable as to render redemption morally certain, the whole object of the provision would be easily defeated. Nor is the question modified by the circumstance that the mortgage is for a large sum; especially when it appears that the proceeds of the sales of the lands which are being made are pleaded, and are being applied to the payment of the mortgage debt.
+75
+76
+The mode adopted by the company for rendering the grant available for the purpose for which it was made must have been anticipated by Congress when passing the act. Sales of the lands before the road is built, and in quantities such as to realize sums of much use in carrying forward the work, are known to be impossible. By means of a mortgage upon them, with a pledge to its redemption of the proceeds of the sales of the lands after their value has been greatly increased by the building of the road, the funds for the purpose can be raised, and they have never been raised by other means. With this knowledge, it is impossible to think that Congress, in the terms of the third section, intended to include a mortgage of the lands, and defeat the very important object of the clause, almost at the very moment of enacting it.
+76
+77
+The construction contended for on the other side involves the matter in infinite confusion. This company is selling the lands and applying the proceeds to pay off the mortgage. If, by the sale of one-fourth thereof, the whole mortgage debt is paid, is there a disposition of the remaining three-quarters?
+77
+78
+Mr. Justice MILLER delivered the opinion of the court.
+78
+79
+We will take up, without restating them, the three several propositions which present the grounds on which the exemption from State taxation is claimed,6 and in examining their legal bearing on the case will at the same time, where it is necessary, inquire how far they are supported by the facts of the case, and will then look into the other matters set up by way of defence.
+79
+80
+The first and second of the propositions relied on by the railroad company are supposed to find sufficient support in the case of Railway Company v. Prescott.7
+80
+81
+That was a suit by the Kansas Branch of the Union Pacific Railroad Company to have declared void a sale of some of its land for taxes, made under State authority, and this court granted the relief on the ground that the land was not liable to taxation at the time it was assessed for the taxes under which it had been sold. No patent had been issued to the company when the taxes were assessed, and the costs of surveying the land had not been paid to the government by any one. This court reaffirmed the doctrine that lands which had constituted a part of the public domain might be taxed by the States before the government had parted with the legal title by issuing a patent, but that this could only be done when the right to the patent was complete, and the equitable title fully vested in the party, without anything more to be paid, or any act to be done going to the foundation of his right. And it said that in that case the United States had a right to retain the patent until the costs of surveying the land had been paid, which had not been done, and that the right of pre-emption in lands unsold by the company within three years after completion of the road, would be defeated if a sale for State taxes could be made which would be valid.
+81
+82
+This latter ground was not necessary to the judgment of the court, as it rested as well on the failure to pay the costs of surveying the land. And we are now of opinion, on a fuller argument and more mature consideration, that the proposition is not tenable.
+82
+83
+The road was completed and accepted by the President in May, 1869, and these lands have been subject to such pre-emption since three years from that date, if this right can be exercised by the settler without further legislation by Congress, or action by the Interior Department. We do not now propose to decide whether any such legislation or other action is necessary, or whether any one, having the proper qualification, has the right to settle on these lands and, tendering to the company the dollar and a quarter per acre, enforce his demand for a title. It is not known that any such attempt has been made, or ever will be, or that Congress or the department has taken, or intends to take, any steps to invite or aid the exercise of this right. It would seem that if it exists, it would not be defeated by the issue of the patent to the company, and it may, therefore, remain the undefined and uncertain right, vested in no particular person or persons, which it now is, for an indefinite period of time. The company, meantime, obtains the title, sells the lands when a good offer is made, and exercises all the other acts of full ownership over them, without the liability to pay taxes.
+83
+84
+We are of opinion, therefore, that this right confers no exemption from taxation, whether the land be patented or not; and so far as the opinion in the case of Railway Company v. Prescott asserts a different doctrine, it is overruled.
+84
+85
+But the proposition that that State cannot tax these lands while the cost of surveying them is unpaid, and the United States retains the legal title, stands upon a different ground.
+85
+86
+The act of section twenty-one, declares that before any of the lands granted by this act shall be conveyed to the company, there shall first be paid into the treasury of the United States the cost of surveying, selecting, and conveying the same.
+86
+87
+That the payment of these costs of surveying the land is a condition precedent to the right to receive the title from the government, can admit of no doubt. Until this is done, the equitable title of the company is incomplete. There remains a payment to be made to perfect it. There is something to be done without which the company is not entitled to a patent. The case, clearly, is not within the rule which authorizes State taxation of lands the title of which is in the United States.
+87
+88
+The reason of this rule is also fully applicable to this case. The United States retains the legal title by withholding the patent, for the purpose of securing the payment of these expenses, and it cannot be permitted to the States to defeat or embarrass this right by a sale of the lands for taxes. If such a sale could be made, it must be valid if the land is subject to taxation, and the title would pass to the purchaser. If no such title could pass, then it is because the land is not liable to the tax; and the treasurers of the counties have no right to assess it for that purpose.
+88
+89
+But when the United States part with her title, she has parted with the only means which that section of the statute gives for securing the payment of these costs.
+89
+90
+It is by retaining the title that the payment of costs of survey is to be enforced. And so far as the right of the State to tax the land is concerned, we are of opinion that when the original grant has been perfected by the issue of the patent, the right of the State to tax, like the right of the company to sell the lands, has become perfect.
+90
+91
+It is admitted that part of the lands in dispute have been patented, and part of them have not. And the circuit judge in his opinion and decree divides them into the patented and the unpatented lands, and we concur in his opinion that there is no reason why the patented lands should not be taxed.
+91
+92
+As to those which are not patented, it may be assumed from the evidence in the case that on none of them have the costs of survey been paid or tendered to the United States, and if they are all subject to that provision of the act of they are not liable, on the principle we have stated, to be taxed. It is said, however, by counsel for the State, that the Interior Department has never demanded the costs of surveying the lands within the original ten-mile limit, in cases in which they have issued patents, and do not claim them in those for which no patent has been issued; that as the non-payment of these costs, therefore, is no impediment to demanding and receiving the patents, the equitable title is complete, and they should be held subject to taxation.
+92
+93
+We held, however, in the case of Railway Company v. Prescott, that these costs of survey attached to all the lands granted to the road, whether by the original act or by the amendatory act of and we have no sufficient evidence before us that the Department of the Interior has acted on a different principle. If, however, they have done so heretofore, it is not for us to say that they will grant patents hereafter without payment of these costs; and in a case where we are called on to decide whether such costs are lawfully demandable before the legal title of the company is perfect, we must abide by our own construction of the statute.
+93
+94
+It is said, however, that these lands have been mortgaged by the company under sanction of the act of Congress on that subject, and that the mortgage conveys the legal title out of the United States, so that her rights can no longer be interposed to protect them from taxation.
+94
+95
+It is not necessary to go into the merely technical question whether the legal title passed from the United States by virtue of that mortgage and the act of Congress which authorized it, nor whether, if it ever becomes necessary to foreclose that mortgage, the rights of the United States in the land would be divested by the proceeding, because we are satisfied that the United States, until she conveys them by patent or otherwise, has an interest, whether it be legal or equitable, which the State of Nebraska is not at liberty to divest by the exercise of the right of taxation.
+95
+96
+Under these views we are of opinion that the State had no right to tax the lands for which the cost of surveying had not been paid, and for which no patent had been issued; and as the decree of the Circuit Court was made in conformity with these principles, it is
+96
+
+1
+
+2
+
+3
+
+4
+
+5
+
+6
+
+7
+
+Stat. at Large. 
+
+1
+
+.
+
+2
+
+.
+
+3
+
+.
+
+4
+
+.
+
+5
+
+6
+Stated, supra, pp. —REP.
+
+6
+
+.
+
+7
+
+
+set()
+=======================================================
+

@@ -1,0 +1,2037 @@
+90 U.S. 150
+STICKNEY, ASSIGNEE,
+v.
+WILT.
+October Term, 1874
+1
+'Said Circuit Courts shall also have concurrent jurisdiction with the District Courts of the same district of all suits at law or in equity which may be brought by the assignee in bankruptcy against any person claiming an adverse interest, or by such person against such assignee touching any property or rights of property of said bankrupt, transferable to or vested in such assignee.
+1
+2
+'SECTION 8. That appeals may be taken from the District to the Circuit Courts in all cases in equity, and writs of error may be allowed to said Circuit Courts from said District Courts in cases at law, &c., when the debt or damages claimed amount to more than $ and any supposed creditor whose claim is wholly or in part rejected, or an assignee who is dissatisfied with the allowance of a claim, may appeal from the decision of the District Court to the Circuit Court; but no appeal shall be allowed unless it is claimed and notice given, &c., within ten days after the entry of the decree or decision appealed from. No appeal shall be allowed unless the appellant shall give bond in manner now required by law.
+2
+3
+'SECTION 9. That in cases arising under this act no appeal or writ of error shall be allowed in any case from the Circuit Court to the Supreme Court of the United States, unless the matter in dispute in such case shall exceed $'
+3
+4
+In this state of statutory law, one Vandeveer having been decreed a bankrupt, in the District Court for the Northern District of Ohio, a certain Stickney, his assignee, filed a petition against him, Huss, Wilt, Paine, Adams, and two others, to determine whether certain claims set up as liens upon the bankrupt's estate were liens.
+4
+5
+The petition set forth the decree of bankruptcy against Vandeveer. It then alleged:
+5
+6
+1st. That at the time thereof he owned a tract of land which he had bought from Mrs. Adams, and that she set up a vendor's lien upon it; which lien the assignee alleged had no existence.
+6
+7
+2d. That another tract which he owned purported to be incumbered by a mortgage to Paine to secure a note of $ but that no debt was due to Paine, and that the mortgage had no legal validity as against him the assignee.
+7
+8
+3d. That he had given a note and mortgage to one Huss for $ which note and mortgage were never delivered to Huss, but were recorded by Vandeveer, at about the time of their execution, without the solicitation or knowledge of Huss, and that they were void.
+8
+9
+4th. That the petitioner had been advised that one Wilt also claimed some kind of lien upon the said lands, but how or by means of what mortgage or otherwise the petitioner was not advised, but denied that any such lien or liens were so held or existed in favor of any person or persons whomsoever.
+9
+10
+The petition prayed——
+10
+11
+'That the parties above named, and each of the them may be made parties defendant to this petition; that they and each of them be required to answer all and singular the charges and allegations aforesaid, and be also compelled to set forth and state in their respective answers hereto, each, the particulars and facts upon which any claim is made or based by such defendant or defendants; and that, on the final hearing hereof, all questions and rights of each and all the said parties may be ascertained and determined by this court, and that, by the order and judgment of this court, the petitioner be directed to sell the said lands and distribute the proceeds accordingly.
+11
+12
+'And that the petitioner may have such other and further relief in the premises and may be further directed in his duties, as the nature of the case requires.'
+12
+13
+The petition did not pray for subpoena or other process.
+13
+14
+Mr. and Mrs. Adams, as also Paine, waived it, however, and appeared. Wilt also appeared and answered.
+14
+15
+Referring to the note and mortgage mentioned in the bill as given to Huss, and admitting their execution and record, Wilt alleged in his answer, that he, Wilt, afterwards became surety for Vandeveer, for $ and that in consideration of such suretyship, Vandeveer delivered the said note and mortgage to him, and that he had paid over $on account of such suretyship.
+15
+16
+The assignee replied, denying that Vandeveer delivered the mortgage to Huss, and that Wilt had become surety, and denying payment by him, and all debt to him by Vanderveer, &c.
+16
+17
+Upon the hearing of these issues, the District Court held, that the mortgage never took effect, and decreed accordingly in favor of the assignee in bankruptcy.
+17
+18
+Wilt thereupon filed his petition in the Circuit Court of the district for a review and revision of this decree, under the first clause of the above-quoted section of the Bankrupt law, which gives to the Circuit Court a general superintendence and jurisdiction of all cases arising under the act.1 He set up the same case in the Circuit Court which he had made in the District Court, and prayed a reversal, &c.
+18
+19
+Without answering this petition, the assignee filed a plea to the jurisdiction of the court.
+19
+20
+Upon the petition and plea the cause was heard, the petition sustained, and relief decreed as prayed for; that is to say, the lien claimed by Wilt was decided to be a good one.
+20
+21
+The assignee hereupon appealed to this court as if thereto authorized by the act of Congress, allowing appeals in cases of equity and maritime jurisdiction,2 which act enacts that from 'all final decrees rendered in any Circuit Court in any cases of equity or admiralty jurisdiction, an appeal, where the matter in dispute, exclusive of costs, shall exceed the sum or value of $ shall be allowed to the Supreme Court of the United States, and that upon such appeal a transcript of the libel, bill, answer, depositions, and all other proceedings, of what sort whatsoever, shall be transmitted to the said court.' The record in the case, as sent here, contained sufficient extracts from the record to understand the case, but did not comply literally with the act just quoted. This defect, however, was not alluded to at the bar.
+21
+ The first and second sections of the Bankrupt Act seem to contemplate that as between the assignee, creditors, and others, questions may arise not falling strictly within the scope of an action at law or a 'case in equity.' For such cases they provide for a summary proceeding on application to the District Court, and in this class of cases the aggrieved party may have the case reviewed in the Circuit Court, 'upon bill, petition, or other proper process.'
+22
+23
+That the instances where this review may be had are limited to this class is apparent, for this action can alone be had in cases not otherwise specially provided for; and 'all suits at law or in equity' are specially provided for by the third clause of section two.
+23
+24
+Clearly, the subject-matter of the proceeding in this case was one of purely equitable jurisdiction. The case was a 'case in equity' such as is contemplated in section eight. An appeal to the Circuit Court from the decree of the District Court lay under section eight. But the decree of the District Court remaining unappealed from is conclusive. The decree of the Circuit Court must be reversed for want of jurisdiction in it to review the case otherwise than on appeal. The decree of the District Court will then stand; with a right to take an appeal under the eighth section, if the time of appeal has not passed.
+24
+25
+The first question is as to the jurisdiction of the Circuit Court, but that is not, as the opposite counsel assume, the only question. There remains the question of the jurisdiction of this court to entertain the appeal, even if the Circuit Court had jurisdiction.
+25
+26
+The argument made against the jurisdiction of the Circuit Court rests upon the assumption that this is a case in equity, and therefore that the proceeding is by bill in chancery.
+26
+27
+But the proceeding was nothing more than an ancillary petition, in the ordinary form, for the purpose of obtaining an order for the sale of the bankrupt's estate. The adjustment of the liens is only incidental to the main object of the petition, and preliminary to making the order of sale. The petition is like the petition of an administrator for an order to sell the decedent's lands for the payment of debts. Such a proceeding always involves the power to adjust and determine liens before ordering a sale. In the adjustment and determination of these liens, frequently important and difficult questions, involving legal and equitable principles, arise. Yet such a proceeding is not a case in equity.
+27
+28
+The petitioner, the assignee in bankruptcy, as well as the District Court, treated the matter as a summary proceeding and not as a case in equity. No writ of subpoena was asked for, nor did one issue; nor was objection made by the court or the parties that the proceeding should be by bill in chancery, and not summarily upon petition.
+28
+29
+The District Court has exclusive original jurisdiction of a proceeding asking for the sale of a bankrupt's estate, and the adjustment of the liens upon it, and no jurisdiction can be acquired by the Circuit Court on appeal.
+29
+30
+The jurisdiction of the Circuit Court in this class of cases is conferred by that part of section two which gives to that court a general superintendence and jurisdiction of all cases and questions arising under the act, and authorizes it to hear and determine the case as a court of equity, upon the bill, petition, or other process of the party aggrieved.
+30
+31
+This construction is held in Morgan v. Thornhill,4 where the supervisory jurisdiction of the Circuit Court under section two extends to the decree of the District Court, adjudging the Bank of Louisiana a bankrupt, ordering a surrender of its property, and enjoining perpetually the State commissioners from the exercise of their functions under the laws of the State of Louisiana.
+31
+32
+It is held again, in Hall v. Allen,5 in a case of conflicting interests and disputed priorities between the individual and partnership creditors of a bankrupt.
+32
+33
+It is held again, in Mead v. Thompson,6 where this court decided that when a petition to the Circuit Court to re-examine a decree of the District Court in bankruptcy prays the court to 'review' and reverse that decree, and 'to grant such further order and relief as may seem just,' the jurisdiction invoked must be regarded as the supervisory jurisdiction which is allowed to Circuit Courts acting as courts of equity, by the second section of the Bankrupt Act.
+33
+34
+It is held yet again, in Marshall v. Knox,7 where it was decided that under section two of the Bankrupt Act the revisory jurisdiction of the Circuit Court extends to the orders of the District Court, made in proceedings commenced by the assignee of a bankrupt, to recover property from a sheriff, who held it under legal process.
+34
+35
+The principle established by these adjudications gave to the Circuit Court, in the case at bar, jurisdiction under section two to review the order of the District Court, adjusting the liens upon and directing a sale of the bankrupt's estate.
+35
+36
+The counsel on the other side suppose that the question of the jurisdiction of the Circuit Court in this case is within the rule of Smith v. Mason. In that case the question was whether an assignee in bankruptcy, who claimed a fund as the property of his bankrupt which was held and claimed absolutely by a third party, under a transfer made before the adjudication in bankruptcy, must proceed against such party summarily under section one of the Bankrupt Act, or by suit at law or in equity, under the third clause of section two.
+36
+37
+The court held that inasmuch as the absolute title to the fund was the subject-matter of the controversy, the case was that of 'an assignee in bankruptcy against a person who made an adverse claim to property transferable to or vested in the assignee,' under the third clause of section two, of which the Circuit Court had concurrent jurisdiction with the District Court, and that the proceeding in such case must be as that clause expressly requires, a suit at law or in equity.
+37
+38
+The case above mentioned, and others which may arise under the third clause of section two, are to be distinguished from proceedings under the first section, which, like the one at bar, are within the exclusive original jurisdiction of the District Court, and which invoke only the powers of that court in ordering the sale of a bankrupt's land and in ascertaining and adjusting the conflicting claims of lienholders.
+38
+ There remains now another question, and that is as to the jurisdiction of this court, assuming that the Circuit Court had a right to exercise supervisory jurisdiction.
+39
+40
+We deny this jurisdiction and assert that the appeal should be dismissed.
+40
+41
+It will be conceded as of course that if the Circuit Court had no jurisdiction no appeal lies from its judgment.
+41
+42
+But even if the Circuit Court had jurisdiction, under the second section of the Bankrupt Act, then on the authority of the cases already cited,8 no appeal lies to the Supreme Court.
+42
+43
+Mr. Justice CLIFFORD, having stated the case, delivered the opinion of the court.
+43
+44
+Two principal objections are taken to the proceedings, as tending to show that this court has no jurisdiction to hear and determine the case under the powers conferred by the Bankrupt Act:
+44
+t. Because the original pleading in the District Court is a suit in equity, commenced under the third clause of the second section of the Bankrupt Act, which could only be removed into the Circuit Court by appeal, as provided in the eighth section of that act.
+45
+. Because an appeal will not lie from the Circuit Court to this court, from the decree of the Circuit Court rendered in a petition of review, filed under the supervisory jurisdiction conferred upon the Circuit Courts by the first clause of the second section of the said Bankrupt Act.
+46
+ Concurrent jurisdiction with the Circuit Courts is conferred upon the District Courts of all suits at law or in equity, which may or shall be brought by the assignee in bankruptcy against any person claiming an adverse interest, or by such person against such assignee, touching any property or rights of property of such assignee, transferred to or vested in such assignee, by virtue of the fourteenth section of the act providing for such transfers.
+47
+48
+Rights of property were claimed in these lands by the appellee, and the suit in this case was commenced in the District Court contesting that claim, which is plainly a subject-matter cognizable under that provision; nor is it any argument against that theory that the first pleading in the District Court is, in form, a petition, as suits at law and in equity, in many jurisdictions, are commenced in that form of pleading. Beyond all doubt the petition contains every requisite of a good bill in equity, whether the pleading is tested by the statement of the cause of action, or by the charging part of the bill, or by the prayer for relief, and if it be suggested that it contains no prayer for process, the answer to the objection is a plain one, to wit, that three of the parties respondent appeared and waived the issuing and service of process, and that the appellee voluntarily appeared and filed an answer.
+48
+49
+Nor is it any valid objection to that view that the Circuit Court, under the supervisory clause of the second section, may, in certain cases, proceed by bill, petition, or other proper process, as the power conferred by that clause does not extend to any case or question 'otherwise provided for,' by any special provision, especially as it is clear that cases arising under the third clause of that section, where the debt or damages claimed amount to more than five hundred dollars, may be appealed from the District Court to the Circuit Court for the same district.9
+49
+50
+Special provision, therefore, is made for the removal of such a case into the Circuit Court, and inasmuch as the case is made the subject of such special provision, it follows, beyond peradventure, that it does not fall within the supervisory jurisdiction conferred upon the Circuit Courts by the said first clause of the second section.
+50
+ Much discussion of the second question is unnecessary, as the justices of this court are unanimously of the opinion that the question is settled in the negative by the prior decisions of this court.10
+51
+52
+Even a slight examination of that case will be sufficient to convince any inquirer that the question under consideration was directly presented for decision in that case, and it is equally certain, in the judgment of the court, that it was expressly decided without any qualification whatever. Attempts have since been made to induce the court to give its sanction to certain alleged exceptions to the rule, but the court has in every such case refused to countenance any such theory.11
+52
+53
+Controversies, in order that they may be cognizable in the Circuit or District Court, under the third clause of the second section of that act, must have respect to some property or rights of property of the bankrupt transferable to, or vested in such assignee, and the suit, whether it be a suit at law or in equity, must be in the name of one of the two parties described in that clause and against the other, no matter whether they are citizens of the same State or not, as the jurisdiction is conferred by the Bankrupt Act and depends upon the conditions therein prescribed.
+53
+54
+Final judgments and decrees in such cases rendered in the Circuit Court, if the matter in dispute exceeds the sum or value of two thousand dollars, may be removed into the Supreme Court for re-examination, as provided in the twenty-second section of the Judiciary Act.12
+54
+55
+Such judgments and decrees, however, in order that they may be re-examinable in this court, must be final judgments or decrees, rendered in term time, as contradistinguished from mere interlocutory judgments or decrees or orders which may be entered at chambers, or if entered in court are still subject to revision before the final disposition of the cause.
+55
+56
+Prior to the passage of the Bankrupt Act the District Courts possessed no equity jurisdiction whatever, but it is undoubtedly true that those courts do now possess concurrent jurisdiction with the Circuit Courts in the cases specified in the third clause of the second section of that act, and that final decrees rendered by those courts in such cases, where the debt or damages claimed amount to more than five hundred dollars, may be removed by appeal into the Circuit Court for re-examination. Doubt upon that subject cannot be entertained, and it is equally certain that a final decree rendered in the Circuit Court in such a case, whether originally brought there, or removed there by appeal from the District Court, may be removed by appeal into this court for re-examination, provided the appeal is perfected as required in the acts of Congress allowing appeals in cases of equity and of admiralty and maritime jurisdiction.13 Nothing of the kind was done in this case, as appears by the record.
+56
+57
+Sufficient has already been remarked to show that the proceeding to revise the decree of the District Court was instituted and prosecuted throughout under the first clause of the second section of the Bankrupt Act, which confers upon the Circuit Courts merely a supervisory power over the proceedings of the District Courts in bankruptcy, and which the Circuit Courts may exercise in term time or vacation, and the provision is that the jurisdiction shall extend to questions, as well as cases, arising under the Bankrupt Act, except where provision is otherwise made. Special provision is otherwise made for appeals in cases like the one before the court, and it necessarily follows that the case is not one falling within the power conferred upon the Circuit Courts by the first clause of the second section of that act.
+57
+58
+Where both the Circuit Court and this court are without jurisdiction it is in general irregular to make any order or decree in the case, except to dismiss the suit, but that rule does not apply to a case where the Circuit Court renders a judgment or decree in favor of the party instituting the suit, but in such a case the court here will reverse the judgment or decree in the court below, and remand the cause with directions to dismiss the suit.
+58
+59
+Unless the practice were as explained great injustice would be done in all cases where the judgment or decree is in favor of the plaintiff or petitioner, as he would obtain the full benefit of a judgment or decree rendered in his favor by a court which had no jurisdiction to hear and determine the controversy.14
+59
+60
+Want of jurisdiction to hear and determine the merits in such a case does not show that this court may not correct the erroneous judgment or decree of the Circuit Court, but if the Circuit Court is also without jurisdiction this court cannot direct a new trial or a new hearing, as it may do in a case where the want of jurisdiction in this court is occasioned by a mistrial in the court below, which has led to an erroneous removal of the cause from the Circuit Court into this court, as by appeal instead of a writ of error, or by a writ of error, when it should have been by appeal.15
+60
+61
+Cases wrongly brought up, it may be admitted, should, as a general rule, be dismissed by the appellate tribunal, but a necessary exception exists to that rule where the consequence of a decree of dismissal will be to give full effect to an irregular and erroneous decree of the subordinate court in a case where the decree is entered without jurisdiction, and in violation of any legal or constitutional right. Rules of practice are established to promote the ends of justice, and where it appears that a given rule will have the opposite effect, appellate courts are inclined to regard the case as one of an exceptional character. Such courts, where there is no defect in bringing up a cause, usually affirm or reverse the judgment or decree of the subordinate court, but cases occasionally arise in which the proceedings in the lower court are so irregular that a mere affirmance or reversal upon the merits would work very great injustice, and in such cases it is competent for the appellate court to reverse the judgment or decree in question and to remand the cause with such directions, if it be practicable, as will do justice to both parties. Instances of the kind are numerous in the decisions of this court, nor is there much difficulty in accomplishing the end in view in a case where the subordinate court has jurisdiction of the subject-matter, and the right to a new appeal or writ of error is not barred by lapse of time.16
+61
+62
+Difficulties of the kind frequently occur in cases of seizures, as the District Courts have often failed to distinguish between seizures on land and seizures on navigable waters, sometimes trying the latter as a common-law action, and sometimes trying the former as an instance cause. Mistakes of the kind have also been made in libels of information filed under the confiscation acts passed by Congress. Errors of the kind, when they have seasonably come to the knowledge of this court, have uniformly been corrected, as far as it is in the power of this court to afford a remedy. Serious embarrassment often arises in such cases where it appears that the subordinate court is also without jurisdiction, but that difficulty does not prevent this court from assuming jurisdiction, on appeal, for the purpose of reversing the judgment or decree rendered in such subordinate court, in order to vacate the same, when rendered or passed without authority of law.
+62
+63
+Where the court below has no jurisdiction of the case in any form of proceeding, the regular course, if the judgment or decree is for the defendant or respondent, is to direct the cause to be dismissed, but if the judgment or decree is for the plaintiff or petitioner, as in this case, the court here will reverse the judgment or decree and remand the cause with proper directions, which in the case supposed must be to dismiss the writ, libel, or petition, as the subordinate court cannot properly hear and determine the matter in controversy.17
+63
+64
+Viewed in the light of these suggestions it is quite clear that the decree of the Circuit Court rendered under the petition of review, must be reversed, and inasmuch as the Circuit Court has no jurisdiction of the subject-matter in that form of proceeding, and that it is now too late to take an appeal from the District Court to the Circuit Court, the cause must be remanded with directions to dismiss the petition.
+64
+65
+Unable to refer the appellee to any legal remedy as matter of right, under the present pleadings, it seems to be proper, in the judgment of the whole court, to suggest that it may be that the District Court will grant a review of the decree rendered in that court, if a proper application is presented for that purpose, which would lay the foundation, if it be granted, in case of an adverse decision upon the merits of the case, for a regular appeal to the Circuit Court.
+65
+66
+DECREE REVERSED without costs, and the cause REMANDED with directions to dismiss the petition
+66
+67
+FOR WANT OF JURISDICTION.
+67
+
+1
+
+2
+
+3
+
+4
+
+5
+
+6
+
+7
+
+8
+
+9
+
+10
+
+11
+
+12
+
+13
+
+14
+
+15
+
+16
+
+17
+
+1
+See supra, pp. 
+
+1
+
+2
+2 Stat. at Large. 
+
+2
+
+.
+
+3
+
+.
+
+4
+
+.
+
+5
+
+.
+
+6
+
+.
+
+7
+
+8
+Morgan v. Thornhill, 11 Wallace, 65; Hall v. Allen, Mead v. Thompson. 
+
+8
+
+Stat. at Large. 
+
+9
+
+10
+Morgan v. Thornhill, 11 Wallace, 72.
+
+10
+
+11
+Hall v. Allen, Smith v. Mason, Marshall v. Knox, Knight v. Chency, 5 National Bankrupt Register, Insurance Co. v. Comstock, Coit v. Robinson. 
+
+11
+
+Stat. at Large, 84.
+
+12
+
+Stat. at Large. 
+
+13
+
+14
+United States, Lyon et al. v. Huckabee. 
+
+14
+
+15
+Morris's Cotton, Wallace, 512; Mail Company v. Flanders. 
+
+15
+
+16
+Barnes v. Williams, Suydam v. Williamson, Carrington v. Pratt, 18 Id. 63; Prentice v. Zane, Montgomery v. Anderson, Mordecai v. Lindsay. 
+
+16
+
+17
+Insurance Company v. United States, Wallace, 760; Armstrong's Foundry, Id. United States v. Hart, Id. The Caroline, The Sarah, Wheaton, 394.
+
+17
+
+
+set()
+=======================================================
+
+87 U.S. 475
+TITUS
+v.
+UNITED STATES.
+October Term, 1874
+1
+In war the public property of an enemy captured on land becomes, for the time being at least, the property of the conqueror. No judicial proceeding is necessary to pass the title. Usually the ultimate ownership of real property is settled by the treaty of peace, but so long as it is held and not surrendered by a treaty or otherwise it remains the property of the conqueror.
+1
+2
+This well-settled principle in the law of war was recognized by this court in United States v. Huckabee,6 as applicable to the late civil war. At the close of that war there was no treaty. When the insurrection was put down the government of the insurgents was broken up, and there was no power to treat with. Hence the title to all captured property of the Confederate government then became absolute in the United States.
+2
+3
+Titus, however, claims as an informer under the act of This act provided, in substance, that if, during the (then) present or any future insurrection against the government of the United States, any person should, after the prescribed proclamation, purchase or acquire, sell or give, any property of whatsoever kind or description, with intent to use or employ the same, or suffer the same to be used or employed, in aiding or abetting or promoting such insurrection; or if any person, being the owner of such property, should knowingly use or employ, or consent to the use or employment, of the same for such purpose, all such property should be lawful subject of prize and capture wherever found, and the President was required to cause it to be seized, confiscated, and condemned. The proceedings for condemnation were to be had in the courts of the United States having jurisdiction of the amount, or in admiralty in any district in which such 'prizes and capture' might be seized, or into which they might be taken and proceedings first instituted. The Attorney-General, or the district attorney of the United States for the district in which the property might at the time be, was authorized to institute the proceedings of condemnation, and, in such case, they were to be wholly for the benefit of the United States; or any person might file an information with such attorney, and then the proceedings were to be for the use of an informer and the United States in equal parts.
+3
+4
+Clearly this act was intended for private, not public property—for such property of persons as required, under the laws of war, a judicial sentence of condemnation to divest the title of its owner,—not such property of a hostile government as had already been captured by an army and subjected to the complete and undisputed dominion and ownership of the conquering power. It applies, as will be seen, to all property, personal as well as real. Not only to a laboratory in which ammunition is prepared, but to the ammunition itself; not to armories simply, but to their product. If the laboratory, owned by the hostile government, when captured in the progress of the war and held by the army, can be informed against and condemned for the benefit of the informer and the United States, so also can the ammunition prepared therein and captured in battle. If the armory, then the gun. Once incorporate this statute, with such a construction, into the law of war, and the attention of the soldier in battle will be divided between the capture of arms, ammunition, and stores on the field, and the search for a district attorney with whom to lodge a statutory information, and demand, as a matter of right, a proceeding in the court for its condemnation on the joint account of himself and the government in whose service he is. We doubt if the counsel for the informer in this case, who has so earnestly and so ably advocated the cause of his client here, would be willing to enlist himself in behalf of such a claim, and yet it is difficult to see how, if he succeeds in this, he might not in that.
+4
+5
+An informer, to entitle himself to the statutory reward for his service, must inform against property which is the subject of judicial condemnation. There can be nothing to divide if there is nothing to condemn. In this case the land, when informed against, was already the property of the United States. The title had passed by the completed conquest. There was nothing to reach by judicial process. Information, in the statutory sense, could do no good. The property had been devoted to the war and followed its fortunes. The capture was the result of many battles, but it was none the less, on that account, captured property, needing no judicial sentence of forfeiture to make it absolutely the property of the United States.
+5
+6
+But it is claimed that the United States are estopped by the proceedings of condemnation instituted, as they were, in behalf of itself and an informant, from denying, as against the informer, that the property in question was the subject of forfeiture on joint account under the act. There is no pretence that there was any claim, adverse to the title of the United States as conqueror, that was, or could be, cut off by the judgment of the court. It will hardly be contended, we think, that if, after the close of the war, an information had been filed with the district attorney against the Charleston custom-house, and he had proceeded to have it condemned under the act, the United States would be estopped from objecting to the claim of an informer, for one-half its value, and yet the custom-house, although owned by the United States before the war, was no more its property at the close than was the laboratory informed against in this case, if the statements in the record are true. The very libel of information, filed by the district attorney, shows upon its face that the title of the United States was then complete, and the fair inference from the petition of Titus to be made a party to the cause is, that the case made by the libel is the same as that he presented to the attorney for proceedings. Certainly the United States are not prohibited from asserting, as against the informer, that the case he brought to its consideration, and upon which it acted, was not one in which he could be interested.
+6
+7
+But it is further claimed that there is an estoppel in favor of this informer because the Commissioner of the Freedmen's Bureau omitted to appear and resist the judgment of condemnation, and, after the sale was made, applied for and received from the court one-half the proceeds.
+7
+8
+The act of July gave the commissioner of that bureau the control and management of property of the character proceeded against, for certain purposes specified, but in this he was only the agent of the United States. His bureau was the department of the government authorized to manage the trust to which the property had been devoted. He is not estopped if the United States are not, and his neglect to appear and defend against the proceedings can certainly have no more effect against the United States than the institution of the original proceedings.
+8
+9
+Neither was an estoppel created by the receipt of the purchase-money. The order in favor of the informer was made on the 8th April, 1868, and the property remained unsold until December On the 19th April, 1870, the commissioner made his application to the court for the money. One-half the proceeds was all he could ask for, so long as the judgment in favor of the informer remained in force. This he applied for and received, and on the 2d May the proceedings now under consideration were commenced to set aside that judgment. Certainly, under these circumstances, it cannot be said that, even if he had the power to do so, the commissioner has yielded the claim of the government to the money which had been adjudged to the informer.
+9
+10
+Very different questions, and very different principles of estoppel, will have to be considered if the United States or the commissioner shall ever attempt to assert title against the purchasers at the sale. They claim under the sale, and have paid their money in consequence of the offer of the United States to sell in that way. The informer stands in no such position. He has parted with nothing he ever had. He stands upon the original title. If, when he informed, the United States had no title, and through his information one was acquired, he is entitled to the statutory reward for his service. But if the United States had then a perfect title and nothing could be added to it by reason of his information, he has done nothing for which the statute has provided a reward. Whether he should be paid for furnishing the government with information by which it has been able to make its conquest available, is a question we are not called upon to consider. We deal with him only as an informer under the statute, and as such he has no standing in court.
+10
+11
+In the view we have taken of the case it is not necessary to consider whether the District Court erred in permitting Titus to become a party to the proceedings after the judgment of condemnation had been entered, and all chances of liability for costs had been resolved in his favor.
+11
+12
+JUDGMENT AFFIRMED.
+12
+
+1
+
+2
+
+3
+
+4
+
+5
+
+6
+
+Stat. at Large. 
+
+1
+
+Stat. at Large. 
+
+2
+
+ &c.
+
+3
+
+4
+This fact was admitted in a certificate of the district attorney, filed below by consent, to supply lost parts of the record.—REP.
+
+4
+
+Opinions of Attorney-General, pp. 
+
+5
+
+.
+
+6
+
+
+set()
+=======================================================
+
+87 U.S. 546
+AMBLER
+v.
+WHIPPLE.
+October Term, 1874
+1
+APPEAL from the Supreme Court of the District of Columbia.
+1
+2
+Ambler filed a bill in the court just named against one Whipple and a certain Dickerson. A cross-bill and a supplemental bill, made additional pleadings.
+2
+3
+The suit grew out of a copartnership between Ambler and Whipple, formed May for the purpose of experimenting with and bringing to perfection an invention by which gas, for lighting and heating and other useful purposes, was to be generated from petroleum; for obtaining a patent or patents for the result of their labor, and for the management of the business after such patent had been obtained.
+3
+4
+The terms of the partnership were clearly stated in a memorandum of agreement signed by the parties, consisting of nine articles.
+4
+5
+It sufficiently appeared from these articles that Ambler was looked upon as the man of inventive genius, and Whipple as the man of business, and the source of the funds necessary to conduct the experiments and place the affair on a successful footing.
+5
+6
+By these articles it was agreed that if success attended their efforts the profits were to be equally divided, after deducting the expenditures which Whipple might find necessary to be advanced. That Whipple might have full control of his branch of the joint venture, it was stipulated that Ambler should assign to him his interest in the patents which might issue, and in pursuance of this stipulation Ambler did execute an assignment of all his interest in the invention and in the patents which might be granted thereon. The articles of partnership were dated on the day when the partnership was formed, May and the assignment the day after.
+6
+7
+In view of the present controversy the most important of these articles of agreement was the SIXTH, which was in the words following:
+7
+8
+'That any and all letter-patent that may be obtained in this country and all other countries by virtue of said invention, or by reason of any imporvement, or of any modification of the same by either party, shall be owned by and between the parties to this agreement in equal shares, to wit, one undivided half to each, and all proceeds of sale or sales of any and every kind and character shall be shared by and between the parties share and share alike.'
+8
+9
+The bill alleged that after expermenting three or four months a result was obtained and a patent issued in the name of Whipple and Ambler, No. dated July and that while the patentees were experimenting under this patent and seeking remedies for apparent defects and for improvements in their invention, the true principle of success was developed about the 20th or 21st day of August; that immediately thereafter the defendant, Whipple, conceived the design of excluding the complainant from any benefit of the invention, and began a course of proceedings for the purpose of defrauding him of his rights; that in pursuance of this scheme he ignored his rights and character as a joint owner and patentee in the invention; forcibly debarred him from the workshops where his invention was used, and denied him all interest in the result of his labors, and introduced the other defendant, Dickerson, in the absence of the complainant, to the place where the experiments had been made and to the machinery which had been used, and that in a few days Dickerson applied for a patent, afterwards issued (No. , which embodied the invention of Ambler, with onle a colorable variation; that thereafter Whipple and Dickerson entered into a copartnership and successfully introduced the invention of the complainant into use, and by sales of particular States and districts had received in a short time over $.
+9
+10
+This was the substance of the bill of complaint, and the relief prayed was that Whipple and Dickerson might make discovery of the sales and profits; tha they should be enjoined from the use of the complainant's invention, and that a decree be made in favor of the complainant for compensation and damages.
+10
+11
+The answer of Whipple admitted the original agreement and assignment, and the issue of the patent to Whipple and Ambler. It admitted also the partnership with Dickerson and the issue of the patent to Dickerson. It denied all intent to defraud the complainant, but admitted the sales or contracts for sale of the Dickerson patent. It denied the identity of the two patents or the inventions set forth in them. It averred that after a full experiment with the first patent it proved a total failure, and that the complainant abandoned all further effort with it and left the city of Washington, where the experiments had been conducted; that Dickerson, having been previously engaged in inquiries in the same direction, perfected an invention of great value which effected what he and Ambler had failed to do, and that he thereupon entered into a partnership with Dickerson in regard to that invention, as he had a right to do, and that in the sales, contracts, or profits growing out of this patent, the complainant had no interest whatever.
+11
+12
+The answer set up as a further defence that the complainant by his drunkenness, dishonesty, and general bad repute had rendered a continuance of the partnership impossible; and that through one Martin the defendant Whipple had purchased of Ambler all his interest in the patent of Whipple and Ambler, and in the partnership business in which they had been engaged. It also contained allegations of the fact that before the partnership began, the complainant had been convicted of a felony and was otherwise infamous, but neither in the answer nor in the cross-bill, where this matter was repeated, was it stated that this fact came to the knowledge of Whipple, the defendant, after he had entered into the partnership. It did not deny the allegation of the bill, that after the date specified in it the complainant had been excluded from the workshops.
+12
+13
+The cross-bill filed by the defendant Whipple set up a release of Ambler, his improper conduct, the failure of the experiments with the original invention, and prayed that Ambler be enjoined from setting up any right or claim against him on account of said invention, or on account of the articles of agreement between them. To this Ambler answered, very fully denying the release and denying the failure of the invention and his abandonment of it.
+13
+14
+Dickerson filed a separate answer, but it contained nothing of moment not included in Whipple's.
+14
+15
+The supplemental bill averred that since the filing of the original bill an additional patent (No. had issued to the defendants; that it was for the same invention, essentially as that made by Whipple and Ambler, and patented to them by patent No. 
+15
+16
+The answer to this bill denied this, and asserted that the invention patented was one of Whipple and Dickerson.
+16
+17
+The testimony occupied a large part of a record of four hundred and eighteen pages, and was contradictory. Notwithstanding its amount, however, some matters necessary to the best comprehension of the case in all its parts were not presented. Thus, though the pleadings referred largely to the patent to Whipple and Ambler (No. , and to that one (No. to Whipple and Dickerson, mentioned in the supplemental bill as having been granted, during the suit, and though the complainant alleged that the latter was for the same invention, with colorable differences, as the former, yet neither was set out in the evidence. Certain leading facts, however, were made sufficiently clear.
+17
+18
+Thus the evidence tended plainly to show that after the grant of the patent of July , a series of experiments were conducted through a term of three months, by Whipple and Ambler, in the same place and under their joint supervision, which finally resulted in the discovery of the important and before unknown principle, that the mingled vapors of water and petroleum, when held together at the temperature and under the pressure due to steam, would result in the production of a combustible gas, if such combination was continued long enough to enable the chemical reunion to take place. This discovery would seem to have been developed empirically, and apparently was not demonstrated in confirmation of an antecedent theory. In the first experiment of the partners, upon a practical scale, the endeavor was made to make a gas from the vapor of petroleum, evaporated by heat applied on the outside of a cylinder containing petroleum and fitted with a piston-head to force the gas, when evolved, through strainers of various porous materials placed above the cylinder. This piston-head was very loosely fitted, and steam entered the petrolleum and became mingled with its vapor. After the machine for this purpose was made, it was soon observed, in experimenting with it, that while it made gas with a loose-fitting piston, it made title or none when the piston was fitted tightly, i. e., packed, so as to be steam-tight. This led to the conclusion that the introduction of steam into the oil itself was essential to the proper development of gas in quantities practically sufficient, and a hole was then bored in the cylinder, allowing a free flow of steam through the petroleum, when of a sudden the invention appeared to be complete. Whipple said to a workman, 'I am satisfied with it. There is a million of dollars in it.'There was some conflict of testimony as to the precise time at which, and the persons by whose orders, this boring of the piston was done. Four witnesses, including Ambler and his son, stated that it was by direction of Ambler. Three (Whipple and two persons still in his employ) stated that it was by direction of Whipple.
+18
+19
+The decisive experiment just abovementioned was made about the 21st of August, 1869.
+19
+20
+There were now certain undisputed facts in the case; facts referred to by this court, in its opinion, as such.1 They were these:
+20
+21
+'The book of accounts of expenditures made by Whipple and kept under his direction showed that up to that date Whipple and Ambler's names had been used in charging up the items. On the 23d Ambler's name was dropped and it was all charged to Whipple. Many declarations of his were proved about this time, that he would make a great fortune; and it was proved by one Holden, with whom Ambler had been boarding, that up to this time Whipple had paid for Ambler's board without objection, but shortly after gave him, Holden, notice that he would do so no longer. It appeared from Dickerson's supplemental and amended answer that in the months of June and July Whipple was in Chicago and tried to interest him in the matter in which he and Ambler were engaged. It was also shown that on the 3d of September, within less than two weeks after the purpose of Whipple to get rid of Ambler was alleged to have been fully conceived, Dickerson, who was not a man of science, but a person having money, made his appearance in Washington, coming from Chicago, and was taken by Whipple to the shop where the recent experiment had been made. This was in the absence of Ambler from the city. Precisely what took place between Whipple and Dickerson was not shown by the testimony. That was to be judged of by the results which followed.
+21
+22
+'The first of these was that, on the 16th day of September, only thirteen days after his first sight of the machinery in the workshops, and his first interview in Washington with Whipple, Mr. Dickerson filed in the Patent Office an application for a patent, the specification and claims of which were so nearly like those of Ambler and Whipple, and so nearly embodied the results of their experiments as to leave little doubt that it originated in the Whipple-Ambler experiments, however much it might differ in some particulars from their patent. This application was pressed so successfully that a patent was issued on it to Dickerson and Whipple on the 12th of October. In the meantime Dickerson and Whipple had entered into a partnership in the matter, and Ambler was excluded from all control.'
+22
+23
+These facts, as already said, were undisputed, and there was much other testimony of a direct character tending to prove the purpose of Whipple to put Ambler wholly aside and out of the way, and that with this purpose he went after Dickerson, an old acquaintance of his own, and that with this purpose Dickerson came to Washington.
+23
+24
+The testimony was voluminous. The whole case involving chiefly questions of intent and of fact, and thus ministering no great deal anywhere to juridical science, the results of it, as they appeared to the reporter and as they were assumed by the court, are along given.
+24
+25
+It appeared sufficiently plain that Ambler was a man of intemperate habits, not at all constantly affected by liquor, but getting into drunken debauches from time to time, and, when in that state especially, given to lying and to various degraded habits. The evidence showed, however, that Whipple had known him since five years before the partnership between him and Ambler was formed, and that the habits were generally known; in fact by almost everybody who knew Ambler at all. They knew him to be a man of genius, with both the weaknesses and the vices in a full measure by which genius is sometimes disfigured. During a part of the month of August it seemed that he left Washington for eight or ten days. When he came home Whipple would not allow him to enter the workshops.
+25
+26
+A principal defence of the defendants was the alleged release by Ambler.
+26
+27
+The original of the alleged release was in the possession of a person named Martin, already referred to. It was dated September .
+27
+28
+It recited the issuing of the patent No. the assignment of it to Whipple, the articles of partnership, and that a disagreement existed between Ambler and Whipple in regard to the construction of the invention; that Ambler was anxious to be released from his obligations to Whipple, and was willing to convey all his interest in the invention to Whipple, and then declared that in consideration of the full discharge of $due by Ambler to Whipple, Ambler sold and conveyed all his interest in the invention, and in all improvements made, or which might be made by Whipple; and that Whipple released Ambler from all boligation on account of the contract, and from the payment of the $.
+28
+29
+Martin stated that he had got the paper from Whipple at the request of Ambler; that the paper was drawn by him, Martin, at Whipple's request, and signed by Whipple on the 24th of September, 1869, the day of its date; that after getting the paper he could not find Ambler for some time, though he had called at his lodgings and written a letter, &c. However, on the 24th of October he saw Ambler. The witness proceeded:
+29
+30
+'Ambler introduced the subject of the release from Whipple to him, and stated that his wife objected to his signing it, and said he ought to hold on; 'But,' said he, 'I differ in opinion with her, and I will sign the agreement.' . . I handed Mr. Ambler the original of the contract, in my own writing, which was signed by Mr. Whipple and witnessed by Mr. Lombard and myself, and he read the same. I then handed him the duplicate copy, which was to be signed by himself. He made no objection to the contract, put the duplicate in his pocket, said he would take it with him to Washington, would there execute it and hand it to Mr. Whipple, and that I might deliver the original to him after he delivered the copy. I still hold the original of said contract for Mr. Ambler; will deliver it to him as soon as the duplicate is signed and delivered to myself or Mr. Whipple. I would not give Mr. Ambler the original because signed by Mr. Whipple; and I was instructed not to give it to him until the other was signed. I tendered it to him on Sunday, October 24th, at his rooms at his hotel.'
+30
+31
+The testimony of Martin showed that he had undertaken, in his conversations with Ambler and while negotiations were going on about the arrangement set out in the paper dated 24th of September, 1869, and signed by Whipple but not by Ambler, to engage that Whipple should release the $recited in the paper as having been due by Ambler to Whipple, and that Whipple did afterwards release the said $.
+31
+32
+The witness gave a very disparaging account of Ambler's early and long-continued habits of intemperance, and of the great efforts which he had made to reform him. He testified also to his conviction for crime, though it appeared that after his cischarge from prison the witness took an interest with him in a patent, offered by Ambler to him by way of gratitude.
+32
+33
+The following, with similar testimony, much too long to be set out in a case involving chiefly questions of fact, was relied on to show that Martin was really the agent of Whipple:
+33
+34
+'QUESTION. What time did you first make Mr. Whipple's acquaintance?
+34
+35
+'ANSWER. In the spring of .
+35
+36
+'QUESTION. Had you a great deal to do with Whipple?
+36
+37
+'ANSWER. Yes, sir.
+37
+38
+'QUESTION. As much mixed with him as with Ambler?
+38
+39
+'ANSWER. No, sir; not quite. It was a different kind of mixing.
+39
+40
+'QUESTION. You said that in the course of conversation with Ambler, you agreed that Whipple should discharge him?
+40
+41
+'ANSWER. Yes, sir.'
+41
+42
+Ambler was indebted, it seemed, to the witness.
+42
+43
+'On the 24th of October, 1869, I met Mr. Martin, and he told me that he had prepared an assignment of my interest to Mr. Whipple for, he said, a part consideration of $ I took the assignment and looked at it. Said I, 'Shall I take this with me?' He replied, 'Yes, if you choose.' 'I do not wish,' said he, 'to press this case upon you at all; exercise your own judgment.' Said I, 'Mr. Martin, I will take it to Washington and show it to my wife.' I did not say, nor intimate, that I would sign it.'
+43
+44
+The court below dismissed the bill and the complainant took this appeal.
+44
+45
+Messrs. G. W. Paschall and R. Mason, for the appellant; Mr. J. A. Ballestier, contra.
+45
+46
+Mr. Justice MILLER delivered the opinion of the court.
+46
+47
+It is to be observed that neither party prays for a dissolution of the partnership. Indeed, the bill and cross-bill, and the answers to both, proceed upon principles which do not recognize the partnership as existing. The complainant seems to imply that by reason of Whipple's course of conduct he is remitted to all his rights as the inventor, and claims that being the sole inventor of the successful machine he is entitled to all the benefit of it. Whipple assumes that by his purchase from Ambler, and Ambler's misconduct, that the partnership has been dissolved, and he has succeeded to all its rights, if they are of any value.
+47
+48
+The testimony is voluminous and contradictory. In the view we shall take of the case, while the decision will mainly turn on these questions of fact, released or sold his interest which the testimony has had upon our minds without referring to it in detail.
+48
+ If the complainant really released or sold his interest in the partnership business, or in the patent of Whipple and Ambler, his case is at an end, and we will, therefore, consider that question first.
+49
+50
+The instrument of writing dated September is supposed to have that effect. There is no doubt that the language of the instrument2 is sufficient for the purpose for which it was intended, but it wants the signature of Ambler. Nor is it pretended that he ever signed it or any copy of it. It is clearly on its face a paper which requires the signature of both parties to make it binding on either. The releases and assignments are mutual, and each is the consideration of the other, and it requires no great penetration to see that it was drawn in the interest of Whipple, who signed it, and not in the interest of Ambler, who did not sign it.
+50
+51
+But it is argued that the paper was procured from Whipple by Martin, the agent of Ambler, at Ambler's request, and was signed by Whipple and delivered to Martin; that Martin delivered it to Ambler, who received a copy of it without objection, and promised to sign it. Admitting all this to be true, it is very clear that both parties intended to have a written instrument signed by each as the evidence of any contract they might make on that subject, and neither considered any contract concluded until it was fully executed. Under these circumstances Ambler had a right to decline to sign the paper, and until he signed he was not bound by it. It was not drawn by him, nor at his dictation. It was first signed by Whipple, and drawn up by him or in his presence, and made to suit his purposes. It is idle to say that because Ambler took a copy of it from Martin to examine he became a party to it, though he never signed it.
+51
+52
+Further, we are of opinion, notwithstanding Martin's declaration that he acted on Ambler's suggestion, that he was throughout the whole affair acting for Whipple, and governed solely by his interest. This transaction does not, in our opinion, establish any release or transfer of Ambler's interest in the partnership concern.
+52
+ Nor is there any such evidence of abandonment of the enterprise on the part of Ambler as to justify the court in holding that he had lost or forfeited his rights in the venture. It is true that about the middle of August he left Washington City for a week or two, but when he returned he found himself excluded from the workshops and from all participation in Whipple's plans, and it seems probable he was by Whipple's authority forbidden to go there before he left the city. It is unreasonable to call this a voluntary abandonment of the enterprise.
+53
+ What weight would be given to the charges of bad character, drunkenness, and dishonesty in a suit by Whipple to dissolve the partnership we need not here state. If all that is charged were proved in such a suit it would make a strong case for relief, on such terms as equity might impose for the protection of both parties. But they did not authorize Whipple, of his own motion, to treat the partnership as ended and take to himself all the benefits of their joint labors and joint property. It seems also to be a fair inference from the pleadings and other circumstances that Whipple must have known of Ambler's conviction for felony before he entered into the agreement with him.
+54
+55
+We are, therefore, of opinion that the case shows nothing which deprives Ambler of his rights under the original contract with Whipple.
+55
+ We are also of opinion that Whipple is chargeable as trustee for Ambler with one-half of all that has been realized or may be realized from the use of the patent to Whipple and Ambler and the patent to Whipple and Dickerson.
+56
+57
+This conclusion we rest upon the sixth article of the agreement between Whipple and Ambler.3 This article provides that any improvement or modification of the invention which may be made by either party, in this country or any other, for which a patent may be obtained, shall enure to the joint benefit of both. In the peculiarly close and confidential relation which the parties assumed toward each other in regard to an invention which both understood to be imperfect, undeveloped, and the subject of future trial and experiment, this provision was eminently wise and necessary. And since Whipple was, by the assignment of Ambler, invested with the legal title of the patent and chief conduct of the affairs of the partnership, he was under a peculiar obligation of good faith as both partner and trustee of Ambler.
+57
+58
+Notwithstanding the bills, cross-bills, and supplemental bills set up both by the patent to Whipple and Ambler and the patent to Whipple and Dickerson, No. and another issued to them pending the suit, No. which are charged by Ambler to be all covered by his invention, and by the others to be totally distinct, none of these patents are found in the record. It is impossible, therefore, for this court to give any conclusive opinion or judgment as to how far they are identical, or how far there may be distinctive features, under which the whole or some part of the two latter patents might be sustained. We base our decree on other principles.
+58
+59
+We are satisfied, from the testimony in the case, that the results of the experiments conducted by Ambler and Whipple in their joint enterprise developed the practicability of success in obtaining the object of their pursuit; that these experiments disclosed the fact that while they had mainly relied on the effect of heat by steam, applied to petroleum indirectly by encompassing the vessel in which the petroleum was, by the steam let into an outer chamber, it was found that it was necessary to introduce the steam into the vessel, thus bringing it into direct contact with the petroleum.
+59
+60
+Whether Ambler had seen this as clearly as Whipple is not very well or satisfactorily shown. But it is proved to our entire satisfaction that when Whipple saw this point, and that through it success was within his reach, he immediately recognized its great value. This experiment was made at the same shops, with the same machines, and in the same pursuit, which for three months had engaged the active energies of both Ambler and Whipple. The weight of evidence is that Ambler was present and assisting, but this is denied by other witnesses.
+60
+61
+What is clear to us is that as soon as Whipple recognized the value of this discovery he made up his mind to be rid of Ambler.
+61
+62
+The undisputed facts of the case,4 taken in connection with much other testimony of a direct character, convince us that Whipple, in violation of his trust to Ambler, and in fraud of his rights, deliberately entered upon a scheme by which Ambler was to be deprived of the benefits resulting from success in their joint experiments. That in pursuit of this scheme he called in Dickerson, who, without having invented anything, and in a remarkably short space of time, procured letters-patent to issue to himself and Whipple which embraced the results of Ambler's discoveries and experiments, whether they embraced anything else or not.
+62
+63
+For all that has come to Whipple's hands, for all that is included in the patents to him and Dickerson, he is, under the terms of the sixth article of the agreement, a trustee for Ambler to the extent of one-half, and must be so charged and held to account in this proceeding.
+63
+64
+As to Dickerson, while he is not a trustee under that article, we are of opinion that he has so far knowingly connected himself with and aided in the fraud on Ambler that he cannot resist Ambler's right to an undivided half of both the patents to Dickerson and Whipple, and of the profits made or to be made out of them. What rights or remedies he may have against Whipple we do not decide.
+64
+65
+The result of these views is that the decree of the Supreme Court of the District must be reversed; that a decree must be entered in that court declaring Whipple and Dickerson to hold in trust for the benefit of Ambler to the extent of one-half the two patents issued to them, mentioned in the pleadings as that an accounting be had as to the profits realized by them, or either of them, from the use or sale, or otherwise, arising from said patents, and for such other and further proceedings as may be
+65
+66
+IN CONFORMITY TO THIS OPINION.
+66
+
+1
+
+2
+
+3
+
+4
+
+Infra, pp. 
+
+1
+
+2
+Quoted, supra, p. —REP.
+
+2
+
+3
+Quoted, supra, p. —REP.
+
+3
+
+4
+See them set out, supra, pp. —REP.
+
+4
+
+
+set()
+=======================================================
+
+88 U.S. 41
+VANNEVAR
+v.
+BRYANT.
+October Term, 1874
+1
+In the case of the Sewing Machine Companies,1 it was held that an action upon a contract by a plaintiff, who was a citizen of the State in which the suit was brought, against two defendants, who were citizens of other States, and a third who was a citizen of the same State as the plaintiff, was not removable to the Circuit Court under this act upon the petition of the two non-resident defendants. Without considering the question whether, in an action of tort by a resident plaintiff, a non-resident defendant can, at a proper stage of the proceedings and upon proper showing, remove the cause as against himself, to the Circuit Court, under the act of 27th July, 2 we are clearly of the opinion that this case comes within the principle settled in that of the Sewing Machine Companies. The petition was filed under the act of for a removal of the suit, and not, under the act of for its removal as against the non-resident defendants.
+1
+2
+The transfer was also properly refused for another reason. The act authorizes the petition for removal to be filed 'at any time before the final hearing or trial of the suit.' The hearing or trial, here referred to, is the examination of the facts in issue. Hearing applies to suits in chancery and trial to actions at law. In Insurance Company v. Dunn,3 it was held, that after a motion for a new trial had been granted, a removal might be had. But after one trial the right to a second must be perfected before a demand for the transfer can properly be made. Every trial of a cause is final until, in some form, it has been vacated. Causes cannot be removed to the Circuit Court for a review of the action of the State court, but only for trial. The Circuit Court cannot, after one trial in a State court, determine whether there shall be another. That is for the State court. To authorize the removal, the action must, at the time of the application, be actually pending for trial. Such was not the case here.
+2
+3
+JUDGMENT AFFIRMED.
+3
+
+1
+
+2
+
+3
+
+.
+
+1
+
+Stat. at Large, See the act, supra, p. 36.—REF.
+
+2
+
+.
+
+3
+
+
+set()
+=======================================================
+
+88 U.S. 105
+COOPER & CO.
+v.
+COATES & CO.
+October Term, 1874
+1
+The objections in this case are, none of them, serious in their character.
+1
+2
+By the rules of common law it is certainly necessary that parties who sue as co-plaintiffs, alleging themselves to be partners, shall make proof of that allegation. The same is true of persons who are alleged to be copartners, and sued as such as defendants. By the statutes of Illinois the rule of law is changed in this respect unless a plea in abatement is interposed, or verified pleas are filed denying the execution of a writing set up. The statute rendered unnecessary in this case proof of the partnership or joint liability of either the plaintiffs or defendants.6
+2
+3
+The objection to the evidence of the witness, White, in stating the dates of delivery and the weight of the iron is not practical. If we suppose the evidence to be stricken out, as requested, the result of the case must necessarily be the same. It would then stand thus: The witness, White, testifies that he knows of the delivery to the defendants of certain plates of iron, forwarded by the Baltimore and Ohio Railroad Company, in January and February, 1870; that the freight bills were paid by the defendants, and that the defendants made no complaint that the amount of the iron was less than it should be. The plaintiffs then proved by other witnesses that the four bills of iron were shipped by them by the Baltimore and Ohio Railroad to the defendants in pursuance of written orders from them, marked C. & J. Cooper & Co., a few days prior to the dates mentioned in White's deposition; that the bills of lading for the iron were mailed to the defendants, and that they never came back to the plaintiffs. This was prim a facie evidence of the delivery of the iron as specified, and, no proof to the contrary being offered, it became conclusive. The plaintiffs' case is as well without White's evidence as with it. The defendants suffer no injury by its retention, and have, therefore, no legal cause of complaint.7
+3
+4
+The objection to the allowance of interest was not well taken. So far as the case shows, this was the only transaction that ever took place between the parties; and it is not pretended that any payments were made or articles furnished by the defendants which could give the transaction the character of a mutual account. It was simply the case of a bill of goods furnished upon a written order, and a bill of lading of the articles at once mailed to the defendants. No objection was made by the defendants to the articles or to the account. A draft was drawn upon the defendants for the amount, which they refused to accept. This was equivalent to a demand of payment. An account (assuming this to be such) draws interest after liquidation, and it is considered liquidated after it is rendered, if no objection is made.8
+4
+5
+A sale of goods without a term of credit given is liquidated when contracted, and after the account is presented and impliedly admitted, the defendants are in default and chargeable with interest.9
+5
+6
+JUDGMENT AFFIRMED.
+6
+
+1
+
+2
+
+3
+
+4
+
+5
+
+6
+
+7
+
+8
+
+9
+
+1
+1 Gross's Statutes. 
+
+1
+
+2
+Price v. The Earl of Torrington, 1 Smith's Leading Cases (7th American edition), pp. Walter v. Ballman, Kent v. Garvin. 
+
+2
+
+3
+Petrie et al. v. Newell, 13 Illinois. 
+
+3
+
+4
+Johnson impleaded, &c., v. Buell et al., 26 Illinois, 68; Neteler impleaded with Hurd v. Curlies et al., Woodworth v. Fuller, construing a similar statute relating to plaintiffs; Brent v. Shooks. 
+
+4
+
+Illinois, p. 
+
+5
+
+6
+Statutes by Gross, vol. i, p. Warren v. Chandler, 12 Illinois, McKinny v. Peck. 
+
+6
+
+7
+Shay v. The People, 22 New York, Sherman v. Johnson, 56 Barbour, 59; Weber v. Kingsland, 8 Bosworth. 
+
+7
+
+8
+Patterson v. Choate, Wendell, 441.
+
+8
+
+9
+Been v. Reynolds, 11 New York, 97; Pollock v. Ehle, 2 E D. Smith. 
+
+9
+
+
+set()
+=======================================================
+
+88 U.S. 230
+THE MOHLER.
+October Term, 1874
+1
+It is insisted that the loss occurred through a peril of navigation, which was one of the exceptions contained in the bill of lading, and that, therefore, the carrier was excused from a delivery of the wheat. The burden of proof lies on the carrier, and nothing short of clear proof, leaving no reasonable doubt for controversy, should be permitted to discharge him from duties which the law has annexed to his employment. This burden has been assumed by the carrier, and the case was heard on the testimony introduced by the respondents, the libellant having called no witnesses.
+1
+2
+It may be true, as the answer implies, that the boat would have safely made the passage if the wind had not driven her against the pier, but this does not solve the difficulty. The inquiry is whether the passage should have been undertaken at all in the general bent of the weather on that day. If the carrier had sufficient warning to put him on his guard, and chose to neglect it and take the chances of a venture when common prudence told him there was danger in it, he cannot escape on the ground that the particular peril which finally overcame him was a sudden gust of wind. The general doctrine that a carrier is not answerable for goods lost by tempest has no application to such a case.
+2
+3
+It is undeniable that the weather was boisterous during the afterpart of the day on which the loss occurred, and that the boat laid up at Mendota, on account of the wind. It had at best only 'abated' or 'calmed down' when she left Mendota and proceeded on her voyage. There is a singular discrepancy in the testimony of the master and the mate as to the condition of the wind after the departure from Mendota, and as to where it was that the wind began to blow hard; the master swearing that there was no great wind until the boat met the Julia, and that this was but a quarter of a mile above the piers; the mate giving a very different account as to both facts. Both these officers had equal opportunities of judging, and there is nothing in the record affecting the credibility of either. In such a case the defence fails, for the respondents have no right to ask the court to prefer the testimony of one witness over the other when there is nothing in the record to show that one is more reliable than the other.
+3
+4
+Apart from this there is enough in the evidence to establish satisfactorily that the weather had not cleared, nor the direction of the wind changed, and that the boat should either not have left her moorings at Mendota, or have landed at some proper point before the piers were reached. It won't do to say that the wind had moderated, and that the officers of the boat thought they could get through without trouble. They had no right to think so, for on such a day squalls were likely to arise at any moment, and it was bad seamanship, being forewarned, to attempt to go through such a dangerous place in the river. It is difficult at all times to make the passage of these piers, and especially so in sudden gusts of wind blowing from the south, which was the case on that day. And this difficulty is enhanced in the night-time, and when the current, by reason of high water, is increased.
+4
+5
+Any prudent officer would have stopped until the weather became calm. At any rate it was the duty of the master of the boat in question to have done so, and, failing in this duty, he is chargeable with the consequences of his negligence, which, in this case, were lamentable, for not only was the property in his charge destroyed, but a human life lost. The officers of steamers plying the Western waters must be held to the full measure of responsibility in navigating streams where bridges are built across them. These bridges, supported by piers, of necessity increase the dangers of navigation, and river-men, instead of recognizing them as lawful structures built in the interests of commerce, seem to regard them as obstructions to it, and apparently act on the belief that frequent accidents will cause their removal. There is no foundation for this belief. Instead of the present bridges being abandoned, more will be constructed. The changed condition of the country, produced by the building of railroads, has caused the great inland waters to be spanned by bridges. These bridges are, to a certain extent, impediments in the way of navigation, but railways are highways of commerce as well as rivers, and would fail of accomplishing one of the main objects for which they were created—the rapid transit of persons and property—if rivers could not be bridged. It is the interest as well as the duty of all persons engaged in business on the water routes of transportation to conform to this necessity of commerce. If they do this and recognize railroad bridges as an accomplished fact in the history of the country, there will be less loss of life and property, and fewer complaints of the difficulties of navigation at the places where these bridges are built. If they pursue a different and contrary course, it rests with the courts of the country, in every proper case, to remind them of their legal responsibility.
+5
+6
+DECREE AFFIRMED.
+6
+
+*
+
+*
+The bridge and piers are the same referred to, supra, p. 1, in The Lady Pike.
+
+*
+
+
+set()
+=======================================================
+
+88 U.S. 532
+EDWARDS
+v.
+ELLIOTT ET AL.
+October Term, 1874
+1
+ERROR to the Court of Errors and Appeals of the State of New Jersey; the case being thus:
+1
+2
+The Constitution ordains that——
+2
+3
+'The judicial power [of the United States] shall extend to all cases of admiralty and maritime jurisdiction.'
+3
+4
+'SECTION 9. That the District Courts [of the United States] shall have exclusive original cognizance of all civil causes of admiralty and martime jurisdiction . . saving to suitors in all cases the right of a common-law remedy, where the common law is competent to give it.'
+4
+5
+These provisions of organic and Federal statutory law being in force, an act of the legislature of New Jersey, 'for the collection of demands against ships, steamboats, and other vessels,'1 approved March enacted that whenever a debt shall be contracted by the master, owner, agent, or consignee of any ship or vessel within the State, on account of any work done or materials furnished in this State for or towards the building, repairing, furnishing, or equipping such ship or vessel, such debt shall be and continue a lien on the vessel for nine months; and that any person having such claim over $20 may apply to the proper officer for a warrant to enforce his lien; that the officer receiving the warrant may seize the vessel and give the prescribed notice; that any other person having such lien may make proper demand and proof and be admitted as an attaching creditor; that the owner or any party may at any time before sale apply for her discharge upon giving bond to pay such claims as shall be established to have been subsisting liens under the act; that upon such bond being given the vessel shall be discharged, and the creditors may sue upon the bond alleging their claims and averring them to be subsisting liens; and that if no such bond is given, proceedings may be taken as provided in the act for the sale of the vessel, or such part of her tackle, &c., as shall be sufficient to pay the claims.
+5
+6
+This statute of New Jersey being on its statute-book, an article of agreement was made November between Henry Jeroleman of the first part, and a certain Hasbrook, and several others of the second, for building a schooner of specified dimensions, for the consideration of $54 per ton; the builder to furnish all labor and materials and deliver the vessel. The whole price, at the said rate per ton, was to be about $ and the payments were to be made by Hasbrook and the others, at stated times during the progress of the work, as: $when the keel was laid; $when the frame was up; $when ceiled, and decks laid; $when outside planks were on and squared off; $when the poop deck was on; $when ready for launching, and the balance when delivered according to contract. And it was agreed that as the said several instalments were paid, the schooner, so far as then constructed, and the materials therein inserted, should be and become the property of Hasbrook and the others.
+6
+7
+The schooner was built at East Newark, New Jersey. Two persons, one named Elliott, and the other Ripley, furnished timber for the vessel; and on the 19th of June, 1867, alleging that they had not been paid for their timber, they caused her to be seized by the sheriff under the already quoted statute of New Jersey; the vessel, at the time of this seizure, being unfinished, on the stocks, and neither named, enrolled, licensed, or provided with a crew or master. Elliott had furnished his timber in November, 1866, and Ripley his, between January 15th and May .
+7
+8
+On the 24th of June, 1867—and, therefore, after Elliott and Ripley had furnished the timber to Jeroleman—Jeroleman assigned the contract giving him the right to build the vessel, to one Edwards, by whom the vessel was finished.
+8
+9
+On the 2d of July, 1867, Edwards, the new owner, gave bond to Elliott and Ripley, in the manner prescribed by the New Jersey statute when a liberation of a vessel from seizure is desired, and the vessel was discharged from the seizure.
+9
+10
+Jeroleman had been paid more than the original contract price, but the time when any payments had been made to him did not appear; nor any fact upon which an appropriation of payment could be founded.
+10
+11
+The vessel being discharged from the seizures, Elliott and Ripley brought suit in the Supreme Court of New Jersey against Edwards on the bond, the declaration alleging that the debt was contracted in building the vessel, and that the lien was put upon her while she was yet on the stocks unfinished. The action was debt, and the declaration was in the usual form.
+11
+12
+As was stated by counsel in this court, and as is also stated in reports of the case in the Supreme Court of New Jersey,2 the defendants demurred to the declaration and insisted that the statute of the State, by attempting to create a lien on ships, under State law, assumed a control of a subject in its nature maritime, and one, therefore, over which under the already quoted clauses of the Federal Constitution and of the statutes of the United States, the Federal courts alone had cognizance; and, therefore, that the State statute was void. The New Jersey Reports further state that the demurrer was overruled; the court in its judgment overruling it, admitting that if the lien sought to be enforced, had been for materials used in repairing a vessel which had been finished, launched, and enrolled, it could not have been enforced, and that so far as the statute was designed to aid in the enforcement of a maritime contract for which the admiralty might proceed in rem—it was void under the objection stated; but holding that the lien set up having been for materials used in building a vessel—a matter done on land, entirely under State control, and payment for which might be enforced by a common-law remedy, or by any new remedy which the legislature might provide—the statute was pro tanto valid.
+12
+13
+The counsel in this court stated that after this opinion the demurrer was withdrawn.
+13
+14
+However, in the transcript of the record sent here nothing whatever about any demurrer appeared. All that appeared was that to the declaration abovementioned several special pleas were filed, among them these:
+14
+15
+'1. Nil debet, generally.
+15
+16
+'2. Nil debet, as to Elliott.
+16
+17
+'3. Nil debet, as to Ripley.
+17
+18
+'4. Claim of Elliott not a subsisting lien.
+18
+19
+'5. Claim of Ripley not a subsisting lien.
+19
+20
+'6. That Jeroleman, who built the vessel, was not owner or agent.
+20
+21
+'7. That the debts were not contracted by any owner, agent, or consignee.'
+21
+22
+And that on issues to these pleas the case was tried.
+22
+23
+The facts of the case, as already given, were found by a special verdict.
+23
+24
+One question in the case obviously was the question, much agitated in England and here, namely, whether in the case of an executory contract to build a vessel to be paid for by instalments as the work progresses, the title remains in the builder until the work is completed and delivered, or whether the title passes to the person for whom the vessel is to be built; in other words, whether in such a case the contract is one for work and materials or one for sale.
+24
+25
+A second question also obviously was (admitting that, as a general principle, the contract is in such a case one leaving the title in the builder until the work is completed and delivered), what was the effect of the final clause of the particular contract under consideration, the part on page italicized, in changing this general rule? If it did change what was assumed to be the general rule, then, if the payments were made before the materials were furnished, the title was divested out of Jeroleman, since he, then, though builder, could not be 'owner' of the vessel when the materials were furnished, and, therefore, was not competent to charge it with liens; and consequently the defendants were not liable on their bond, which took the vessel's place.
+25
+26
+The Supreme Court was of the opinion that the builder was, on general principles, to be regarded as owner; that the final clause divested his title, on the payments of the money; that the burden lay upon the claimants of the vessel—who were the obligors in the bond—to show the time of these payments, or some fact upon which an appropriation of payment could be founded, and as they had not shown either, that, therefore, in law, the builder (Jeroleman) was to be regarded as the owner when the materials were delivered, and accordingly that debts contracted by him did become liens.
+26
+27
+Judgment accordingly went for the plaintiffs, and the case was taken by the defendants from the Supreme Court of New Jersey to what in that State is a still higher court, the Court of Errors and Appeals.
+27
+28
+'1. That the Supreme Court held the act of March valid and constitutional.
+28
+29
+'2. That the said court decided that Jeroleman, the builder of said vessel, was the owner thereof and competent to charge it with liens.
+29
+30
+'3. That the said court adjudged that the respective claims of the plaintiffs were subsisting liens, under the laws of the State of New Jersey, on the vessel, at the time of exhibiting the same.'
+30
+31
+On the 20th of August, 1872, the Court of Errors and Appeals affirmed the judgment of the Supreme Court. The entry of affirmance, or 'rule to affirm,' as in the transcript it was called, as the same came here in the transcript, was dated August and was thus:
+31
+32
+'This case coming on to be heard in the Court of Errors and Appeals, and the said court being of opinion——
+32
+33
+'That the act of the legislature of the State of New Jersey, entitled: 'An act for the collection of demands against ships, steamboats, and other vessels,' approved March is not in any respect repugnant to the Constitution or laws of the United States, as contended for by the plaintiffs in error, but is in every respect valid and constitutional; and,
+33
+34
+'That Henry Jeroleman, the builder of the said vessel, was the owner thereof and competent to charge it with liens; and,
+34
+35
+'That the respective claims of the defendants in error were subsisting liens, under the laws of the State of New Jersey, on the said vessel; and
+35
+36
+'That the contract for building said vessel is not a maritime contract, and the statutory remedy thereon, to wit, the aforementioned act, does not conflict with the Constitution or laws of the United States; and,
+36
+37
+'That the said act does not violate the right of trial by jury, nor conflict with the constitution of the State of New Jersey in that behalf; and that there is no error in the proceedings of the Supreme Court herein, and their judgment in the same:
+37
+38
+'It is thereupon, on this 20th day of August, A.D. adjudged by the court here, that the said act of the legislature of the State of New Jersey is not in any respect repugnant to the Constitution or laws of the United States, and that the judgment of the Supreme Court be in all things affirmed.'
+38
+39
+A writ of error was immediately taken to this court, and within ten days an appeal-bond with good, sufficient security given, that the plaintiff in error should prosecute his writ to effect and answer all damages and costs if he failed to make his plea good. Due service was also made, within ten days, of the writ in the mode prescribed by the Judiciary Act, in order to make the writ a supersedeas. The transcript was filed here, December .
+39
+40
+The case was brought here under the assumption that it came within section seven hundred and nine of the Revised Statutes.3
+40
+41
+The record being in this court with the entry of judgment or 'rule to affirm,' as just given, a suggestion was made here by counsel, May that the above-quoted 'rule to affirm' had been vacated and set aside by the Court of Errors and Appeals, and an amended 'rule' substituted therefor since the filing of said transcript, and a certiorari was issued, without prejudice, on the 25th of May, 1874, to bring up any rule entered by the Court of Errors and Appeals in the suit subsequent to the entering of the 'rule to affirm,' by which the said rule to affirm had been corrected or vacated; and to bring up also any rule which has been substituted for the said rule to affirm.
+41
+42
+A return to the certiorari filed in this court August showed that it appearing to that court that the 'rule to affirm' had been erroneously entered by the attorney of the plaintiffs in error, and did not correctly express the judgment of this court as set forth in the opinion of the court delivered in the cause, it was ordered, on the 1st day of April, 1874, that the said rule to affirm be annulled and stricken from the minutes; and that a rule to affirm the said judgment of the Supreme Court be entered in conformity with the decision of the court on the questions before it.
+42
+43
+The following new rule to affirm was accordingly entered nunc pro tunc on the record, and sent here as part of the return to the certiorari:
+43
+44
+'This cause coming on to be heard, &c., and the court being of opinion that Henry Jeroleman, the builder of the vessel in the declaration of the plaintiffs below mentioned, was the owner of the said vessel at the time when the materials were furnished by said plaintiffs, within the meaning of the act of the legislature of New Jersey, entitled, 'An act for the collection of demands against ships, steamboats, and other vessels,' and as such owners were competent to charge it with liens for such materials; and that the respective claims of the defendants in error were subsisting liens upon said vessel under the said act; and that the said act does not conflict with the constitution of the State of New Jersey by violating the right of trial by jury. It is thereupon, on this 20th day of August, 1872, ordered, adjudged, and determined by the court here, that the judgment of the Supreme Court be affirmed, and that the defendants in error do recover their costs in this court to be taxed.'
+44
+45
+The case came on for argument, November .
+45
+46
+Mr. D. McMahon, for the plaintiff in error:
+46
+47
+The first question is, what case is before the court? We assert that the altered or new entry in the Court of Errors and Appeals forms no part of the case. Our appeal-bond was such that by force of a statute it operated as a supersedeas and a stay of proceedings. The record of the case was up here when the rule was altered, and the counsel of the other side had no right, nor had the court below power to alter the entry of judgment.4 By the old practice of the King's Bench it was an offence to do what is said to have been done below.5
+47
+48
+We assume then that the altered or rather the substituted rule, brought up on the return to the certiorari, is to be dismissed from view.
+48
+49
+Cleared from that, there is plain matter for review before this court.
+49
+50
+The Supreme Court overruled the demurrer raising the exact question of constitutionality under the Constitution and laws of the United States. The very first assignment of errors on the part of the Supreme Court to the Court of Errors and Appeals, was that the Supreme Court held the act of March 'valid and constitutional.'6 But the judgment of the Supreme Court was affirmed in the Court of Errors and Appeals. Independently of this, however—keeping with the utmost strictness to the transcript, and without adverting to what the authoritative reports of the Supreme Court of New Jersey show,—we still see in the 'rule to affirm,' of the Court of Errors and Appeals, a Federal question distinctly raised:
+50
+ That court held that the State statute was not in any sense or in any respect repugnant to the Constitution or laws of the United States.
+51
+52
+This position was certainly reviewable, under section of the Revised Statutes.
+52
+ It also held that the contract for building the vessel in question was not a maritime contract, and, therefore, that the statutory remedy given by New Jersey did not conflict with the Constitution and laws of the United States.
+53
+54
+Here is a distinct reference to the provision of the Constitution, and to the ninth section of the Judiciary Act,7 confining admiralty jurisdiction to the Federal courts.
+54
+55
+Now, we asserted and still assert that the contract for the building of the vessel was a maritime contract. If it was, then the act is clearly, under the case of The Josephine,8 unconstitutional.
+55
+56
+Let us consider, at this place, this point. The first case to be adverted to is The Jefferson, decided A.D. The syllabus of the case, given by the reporter, is thus:
+56
+57
+'The admiralty jurisdiction of the courts of the United States does not extend to cases where a lien is claimed by the builders of a vessel for work done and materials found in its construction. Whether the District Courts can enforce a lien in such cases where the law of the State where the vessel was built gave a lien for its construction, is a question which the court does not now decide.'
+57
+58
+At the time the state of facts arose under which The Jefferson was decided, there was no lien law in existence in New Jersey, and the case could have been decided on that point, but the court, or Catron, J., in delivering its opinion, went further, and decided that the contract was not of a maritime character.
+58
+59
+However, it is not worth while to comment much on that case, nor on Roach v. Chapman,10 decided A.D. where, in its light, the same law is declared by Grier, J., nor yet on Moorewood v. Enequist,11 deciding about the same time the same thing. The later and very leading case of Insurance Company v. Dunham,12 decided A.D. has greatly enlarged the old ideas as to the extent of admiralty jurisdiction. It really subverts them. In that case, two volumes—long lost—of proceedings in the Colonial courts of admiralty, and but then recently found among the papers of a former registrar of the court and deposited in the library of the Boston Athenaeum, were exhibited. They made a revelation, absolutely new to these times, of our ancient exercise of admiralty jurisdiction. They proved that it was bound by none of those slavish and coarcted limits by which a reference to the case of The Jefferson will show that Catron, J., in the opinion of the court restricted it. The case which we speak of was elaborately and ably argued. The judgment was unanimous. The case decides:
+59
+ That the admiralty and maritime jurisdiction of the United States is not limited by the statutes or judicial prohibitions of England.
+60
+ That as to contracts, the true criterion, whether they are within the admiralty and maritime jurisdiction, is their nature and subject-matter, as whether they are maritime contracts having reference to maritime service, maritime transactions, or maritime casualties, without regard to the place where they were made.
+61
+62
+And this new and enlarged doctrine must now be taken to be the settled law of this court.
+62
+63
+Bradley, J., who delivered the opinion, refers to the views of Grier, J., and observes that the mind of that great judge underwent some change, in the progress of his judicial life, about the extent of admiralty jurisdiction, and that though he dissented, A.D. in the case of The Lexington, when it was decided, he afterwards appeared to receive the decision as setting forth a right view; and that when in a late case, The Jefferson (in which he had concurred), was pressed upon him as obliging him to narrow views of admiralty jurisdiction, he intimated that that case was to be confined to the precise question then before the court.
+63
+64
+Examining the case now before us—the case of a three-masted schooner, to cost $54 a ton, and (as the contract price amounted to about $ of a tonnage over four hundred tons, built at East Newark, New Jersey, which the court can judicially notice is on the Newark Bay, an estuary or arm of the sea, in which she was to be launched—examining the case we say by the test presented by Insurance Company v. Dunham, the contract for building this vessel had direct 'reference to maritime service and maritime transactions;' and the furnishing of materials toward the construction of such a vessel was as much maritime as the furnishing materials to any vessel undergoing process of rebuilding or thorough repairing. If the materials furnished to this vessel had been furnished to a vessel that had been once launched, it will be admitted that the lien would be a maritime one; though the vessel were one which had been wrecked and required to be nearly rebuilt; nay, even though she were so far gone, that piece by piece, everything in her required to be new. Wherein does our case differ from either of such cases? Nay, wherein does it differ from any case where a vessel is hauled out of water and put upon the dry-dock and there repaired under a contract made on shore? In one case just as much as the other, the contract is a contract made on land, and to be performed on land.
+64
+65
+If under the rule laid down in Insurance Company v. Dunham, the sources of admiralty jurisdiction are to be found in the continental countries of Europe, and in the decisions or practices of our admiralty courts under the Colonial rule and after the formation of our government, and are not to be taken exclusively from England, it will be found that contracts relating to the building of a new ship or furnishing materials for that purpose were well-recognized subjects of admiralty jurisdiction; and that our District Courts for many years entertained jurisdiction over such cases. Mr. Benedict, in the last edition of his Admiralty Practice,13 issued A.D. has fully shown this.
+65
+66
+He examines and controverts the cases of The Jefferson and of Roach v. Chapman, and proves by many references that the maritime law as laid down by all the great civilians and jurists, embraced contracts for building, repairing, supplying, and navigating ships. His argument and his learning exhaust the subject, and we refer to them only; they being much too extensive for us to quote.
+66
+ The Court of Errors also held that the act does not violate the right of trial by jury, nor conflict with the constitution of the State.
+67
+68
+The decision that the act does not violate the right of trial by jury is also reviewable in this court. The State law in effect takes away or obstructs the right of trial by jury, and so abridges one of 'the privileges or immunities of citizens of the United States.' It, in this case, also 'deprives him of his property without due process of law,' and it denies to a person residing in New Jersey 'the equal protection' of the laws of his State. These matters all fall within the fourteenth amendment.14
+68
+69
+I. The court, having by certiorari brought the amended record here, will treat it as if it had been correct in the first instance, and will examine it to ascertain its own jurisdiction.
+69
+70
+The Court of Errors was bound to make the amendment which it did. It is their duty to see that their records are faithfully kept and speak the truth in all matters to which they relate, and on which the court acted. For the records import absolute verity and cannot be controverted elsewhere. Where any accident or negligence of clerk or attorney has caused an error, it is the prerogative and duty of the court to amend it and make it speak the truth.
+70
+71
+And such amendments may be made after the case has been taken to the appellate court. And that court will, when justice requires it, delay their judgment in order to enable the party to apply for such amendment in the court below and bring up the amended record by certiorari at any time.15
+71
+72
+II. Upon the amended record this court has no jurisdiction.
+72
+73
+The question of the constitutionality of the act was not before the Court of Errors, and was not decided. The point was raised and disposed of by the Supreme Court on the demurrer. The constitutionality of the act was the sole subject of the judgment then rendered. That judgment was not removed to the highest court, but was acquiesced in, for the defendants asked leave to withdraw their demurrer and plead on the merits.
+73
+74
+III. Conceding—for the sake of argument only—that jurisdiction exists, the only point really urged for reversal is that the court below sustained the act on the ground that a contract for building a ship is not a maritime contract.
+74
+75
+That decision, if made, was correct. It follows three solemn decisions of this court, which the opposing counsel would set aside because Insurance Company v. Dunham, made subsequently to them, manifests so wide a departure from the old restrictions upon admiralty jurisdiction that, as the counsel consider, the logical result must be the abandonment of the position that a contract for building a vessel is not a maritime contract.
+75
+76
+It is true that there has been a constant tendency of late days—days beginning, however, in the Genesee Chief, decided A.D. and long anterior to the decision in Insurance Company v. Dunham, decided in 1870, and anterior to The Jefferson, decided in 1857—to throw off the fetters imposed upon the admiralty courts by English traditions, and to place the extent of their jurisdiction upon grounds widely differing from the long-established rules of the English courts, and more in accordance with views derived from its essential nature and objects, and with the laws of the most enlightened and oldest commercial nations of the world; and that by a series of decisions, culminating in Insurance Company v. Dunham, it is now settled that as to contracts, the fundamental inquiry is whether a contract is or is not a maritime contract, and that that question depends not upon where the contract was made, but upon its subject-matter.
+76
+77
+It is useless to speculate whether if the wider views held A.D. in the case last named, had been entertained by the judges who decided The Jefferson, A.D. the result would have been different. It is enough to say that during all the changes of opinion manifested by the court, the positions then taken upon this particular point have never been modified, and that in the case of Insurance Company v. Dunham, Bradley, J., alluding to the fact that in other cases it had been sought to press the decision in The Jefferson to its logical result in restricting admiralty jurisdiction, does not deny its soundness or authority, but quotes the answer of Grier, J., to the argument, viz., that the decision of the court that a contract to build a ship was not a maritime contract, must be confined in its effect to that precise question and not extended by implication to other cases.
+77
+78
+We admit that all contracts, claims, or services, purely maritime, and touching rights and duties appertaining to commerce and navigation are cognizable in the admiralty courts. But we assert also that to be 'maritime' in a jurisdictional sense, such contracts, claims, or services must appertain to commerce and navigation, and to ships as their instruments, after they have become ships, and have reached the only element upon which navigation can exist; to vessels, as such ; floating structures ready for navigation; ready at least for a crew, and prepared to be the subject or occasion for contracts of bottomry, affreightment, wages, insurance, demurrage, salvage, towage, &c., or the instrument of collision or other marine torts and injuries; not to incomplete masses of material in the hands of a manufacturer in a carpenter-shop, which may at some future time become a ship and float upon the seas.
+78
+79
+If this is the true position of the court it is of no avail to argue that the jurists and lawgivers of other maritime countries have held that a contract to build a ship is a maritime contract. This may be admitted, and the reasons for such a doctrine may be very sound as applied to the circumstances of those countries.
+79
+80
+It is natural that in view of the late tendency to enlarge admiralty jurisdiction Mr. Benedict, whose views were not sustained in the case of The Jefferson, should reargue his case in a new edition of his excellent book, and set forth more fully the Continental authorities in favor of his position. But this court may adopt those views so far as the circumstances of this country seem to require. It has adopted them from time to time, in modification of former views, as the exigencies of the case have demanded. It can stop where it pleases. It has deliberately chosen to stop at the point where the ship reaches its native element, and not to trace it back to its first germ on the land. And, as already intimated, it was after the wide departure from old views indicated by the decision of the case of The Genesee Chief and other cases, that this court distinctly held such a contract not to be maritime. And as that departure grew still wider the court adhered to that view, manifesting no disposition to modify, but only to let it stand as a starting-point.
+80
+81
+It is to be noted, moreover, that in every case in which the wider views of admiralty jurisdiction have been announced, the subject-matter has been distinctly maritime in its nature; it has touched rights and duties pertaining to navigation, to commerce conducted on the water, to the character of navigable waters, to contracts of affreightment, and marine insurance, and to torts committed upon public waters. The intention has been plain to hold as to the courts of admiralty, that their 'control stops with the shore.'
+81
+82
+Even if this court would not be restrained from overthrowing its repeated decisions merely for the sake of being logically consistent, it would find reason enough to stand by them in the nature of the question, and in the consequences to which a different view would lead. For if every contract relating to the building of a ship, steamboat, ferry-boat, canal-boat, or other structure intended to float upon the water is a maritime contract, then the jurisdiction of the admiralty courts will indeed be widely extended. It will embrace the preparation of materials in the saw-mill and the foundry intended for maritime uses; the manufacture of marine engines and machinery, the making of cordage and sailcloth, the furniture for cabins and state-rooms, the manufacture of chronometers and nautical instruments, and all the various branches of business which are concerned with the production of materials which may, by simple adaptations, become suited to marine uses. And the character of these contracts would be fixed, and their consequences would attach as soon as the contracts were completed, whether the structure ever really assumed the form of a ship or not.
+82
+83
+Endless confusion, indeed, would arise from any attempt on the part of the courts of admiralty thus to follow up a ship to its remotest origin in the forest and the mine. And for this reason it is, that this court, in its widest extension of admiralty jurisdiction, has limited it to ships afloat, after they have in fact acquired the character and been prepared for the uses of marine structures.
+83
+84
+The claims here do not arise out of any contract to build a ship, but are simple demands for the price of lumber sold out of lumber-yards to shipbuilders who used them in a structure which probably did become a ship in the course of time, though it does not appear that she is launched yet.
+84
+85
+IV. To the point that this State law is repugnant to the Constitution of the United States because it abridges the right of trial by jury, and provides for taking the vessel without due process of law, and because it is contrary, in some way not clearly pointed out, to the fourteenth amendment—it is enough to say that no such question was ever broached in any stage of this suit in the State court.
+85
+86
+No similar question even was touched until the case reached the Court of Errors, and there the point was made that the act was in conflict with the constitution of New Jersey, by abridging the right of trial by jury.
+86
+87
+This point was fully considered by the court and nothing need be added to its opinion, holding the act not to be repugnant to the constitution of the State.
+87
+88
+The notion that it violates the Constitution of the United States and the fourteenth amendment is an afterthought and needs no reply. If any were needed, it would be sufficient to say that the constitutional provisions referred to did not profess to control the power of the State governments over the rights of its own citizens, but only to declare that as the States grant them to their own citizens, or as they limit, or qualify, or impose restrictions on their exercise, the same, neither more nor less, shall be the measure of the rights of citizens of other States within their jurisdiction.16
+88
+89
+Mr. Justice CLIFFORD delivered the opinion of the court.
+89
+90
+Nothing appears in the record to warrant the conclusion that any question re-examinable here was presented in the court of original jurisdiction, whether the proposition is tested by the declaration, the pleas filed by the defendant, the special verdict, or by the judgment, as all alike tend to show that the questions presented, examined, and decided were questions of local law. Every suggestion of that kind, therefore, may be dismissed without further remark, as they are utterly destitute of support.
+90
+91
+Opposed to that statement is the suggestion in argument, that the presiding justice overruled the demurrer to the declaration, but it is a sufficient answer to that suggestion to say that this court cannot go out of the record to re-examine any question under a writ of error to a State court.
+91
+92
+Suppose that is so, still it is contended that the defect is supplied by what occurred in the Court of Errors and Appeals. Tested alone by the errors assigned in that court, it is quite clear that the jurisdiction of this court could not be sustained, as the errors assigned in that court do not show, with sufficient definiteness, that any question cognizable here under a writ of error to a State court was presented to the State Court of Errors for decision. Complaint, it is true, is made that the subordinate court improperly decided that the lien law of the State is valid and constitutional, but it is not alleged that the law is repugnant to any particular provision of the Constitution of the United States, nor that the court of original jurisdiction rendered any decision upon that subject.17
+92
+93
+Something more must be set forth in such a pleading, to raise a Federal question, than the mere allegation that the law is invalid and unconstitutional, as such an assignment is satisfied if held to refer to the constitution of the State, in which event the question raised is not one cognizable here under a writ of error to a State court.18
+93
+94
+If the case stopped there it would be clear that the writ of error must be dismissed for the want of jurisdiction, but it does not stop there, as plainly appears by the judgment of affirmance rendered in the Court of Errors, which shows that the State court of last resort determined, among other things, the following propositions: (1.) That the lien law of the State is not in any respect repugnant to the Constitution of the United States, as contended by the original defendants. (2.) That the contract for building the vessel in question is not a maritime contract, and that the remedy given by the lien law of the State does not conflict with the Constitution or laws of the United States. (3.) That the said lien law does not violate the right of trial by jury nor conflict with the constitution of the State.
+94
+95
+Like every other pleading, an assignment of error is subject to a reasonable construction. Reasonably constructed it cannot be held that the first proposition of the judgment of affirmance involves a comparison of the State lien law with every separate provision of the Federal Constitution, and if not with every one, it is impossible to determine with which one, as there is nothing in the judgment or any other part of the record pointing to any particular part of the Constitution, except what is contained in the second proposition of the judgment, which, in view of the whole record, must be regarded as a more complete specification of what is meant by the first proposition.
+95
+96
+Viewed in the light of these suggestions it must be understood from the two propositions that the State Court of Errors decided that the contract in this case for the building of the schooner was not a maritime contract, and that the law of the State giving the remedy which was pursued by the plaintiffs does not conflict with the Federal Constitution or with Federal laws. Such an allegation in the judgment of the State court is sufficient to give this court jurisdiction under the writ of error to re-examine that question. Wellfounded doubt upon that subject cannot be entertained, unless it be assumed, as contended by the plaintiffs, that the copy of the judgment embodied in the transcript is not correct.
+96
+97
+Due entry of the writ of error to the State court was made here the sixth of December, 1872, and on the first of April, 1874, the Court of Errors decided that the judgment of affirmance, entered there in the case under date of the twentieth of August, 1872, did not correctly express the judgment of the court; and after hearing argument the court ordered that it be wholly annulled, and that it be stricken from the minutes, and that the judgment exhibited in the supplemental record be entered nunc pro tunc in lieu thereof.
+97
+98
+Alterations of a very material character are made in the substituted judgment, as compared with the judgment originally entered, and which remained unchallenged at the time the writ of error was sued out and when the supersedeas bond was filed. Such alterations, it is insisted by the defendants, could not properly be made at that stage of the litigation, as the writ of error from this court to the Court of Errors brought up the judgment first mentioned as a part of the transcript annexed to the return made, to the writ of error, by the Court of Errors, to which it was addressed.
+98
+99
+Exceptions may arise to that proposition, as broadly stated, but it is not necessary in this case to examine the question in so general an aspect, as whatever may be the power of the Court of Errors to change or amend such a judgment for the purposes of any proceeding under it in the exercise of their own appellate functions, we are, nevertheless, of the opinion that the judgment brought here as part of the return to the writ of error from this court must, under the circumstances, remain as the judgment which this court is called upon to re-examine and review.19
+99
+Enough has already been remarked to show that the judgment of affirmance first rendered raises the question whether the contract under which the vessel was built is a maritime contract, and whether the law of the State which gives the remedy pursued by the plaintiffs is in conflict with the Federal Constitution. Beyond all doubt that question was presented to the State Court of Errors, and was decided by that court adversely to the defence set up by the defendants in the court of appellate jurisdiction.20
+0
+Materials were furnished by the plaintiffs to the persons who contracted to build the schooner, during the progress of the work. Payment for the materials being refused, they instituted the described proceedings to enforce the lien given them by the State law, in such a case, against the vessel for which the materials had been contracted.
+1
+When the proceedings were commenced the schooner was only partially constructed and was resting on her original stocks, having never been launched into the water. She was without a name and had never been registered or enrolled, nor had she ever been licensed or surveyed, and she was without a master or crew, and the record shows she had never had a commander.
+2
+Concede all that and still the defendants contend that the plaintiffs, as the furnishers of the materials, had a maritime lien for their respective claims which may be enforced in the admiralty, and that the State law giving the remedy which the plaintiffs pursued is in conflict with that clause of the Federal Constitution which provides that the judicial power of the United States shall extend to all cases of admiralty and maritime jurisdiction. They admit, in effect, that to maintain that proposition it is necessary to show that a contract to furnish materials for the construction of a ship is a maritime contract, and they accordingly submit the affirmative of that proposition and insist that all such contracts are maritime, if it appears that the vessel to be constructed is designed for use upon navigable waters.
+3
+Maritime contracts are such as relate to commerce and navigation, and unless a contract to build a ship is to be regarded as a maritime contract, it will hardly be contended that a contract to furnish the materials to be used in accomplishing that object can fall within that category, as the latter is more strictly a contract made on land, and to be performed on land, than the former, and is certainly one stage further removed from any immediate and direct relation to commerce and navigation.
+4
+Building materials for such a purpose come very largely from the forest and mines, but if it be admitted that a contract to build a ship is a maritime contract it is difficult to affirm that a contract to furnish the materials for the same is not of the same character, although its breach and even its performance may involve judicial inquiries into the business transactions of men, as well in the forests and mines as in the manufactories and workshops of the whole civilized world. Wherever the question, therefore, involved in the present assignment of error, has been considered, the decision has uniformly turned upon the solution of the inquiry whether a contract for building a ship is or is not a maritime contract. Unless the contract to build a ship is a maritime contract, no one, it is presumed, would contend that the furnishers of the materials for such a purpose can successfully support such a claim; and if it be admitted that the builders of a ship may enforce the payment of the contract price in the admiralty, it would be difficult to maintain that the furnishers of the materials for the purpose are not entitled to pursue their remedy to enforce payment in the same jurisdiction.
+5
+Shipbuilding is an occupation requiring experience and skill, and, as ordinarily conducted, is an employment on land, as much as any other mechanical employment, and men engage in the business for a livelihood just as they do in other mechanical pursuits and for the same purpose. Shipwrights, unlike the seamen, have their homes on the land, and not on the seas, and they are seldom shipowners, and not more frequently interested in commerce and navigation than other mechanics. Ships are bought and sold in the market just as ship timber, engines, anchors, or chronometers are bought and sold, even before they are fully constructed and before they are equipped for navigation, and no reason is perceived why a contract to build a ship, any more than a contract for the materials of which a ship is composed, or for the instruments or appurtenances to manage or propel the ship, should be regarded as maritime.
+6
+Attempt is made in vain to point out any distinction in principle between a contract to build a ship and a contract for the materials, as the latter are included in the former, and both fall within the same category under the rules of the civil law. Every one who had built, repaired, or fitted out a ship, whether at home or abroad, or lent money to be employed in those services, had by the civil law a privilege or right of payment, in preference to other creditors, upon the ship itself, without any instrument of hypothecation, or any express contract or agreement subjecting the ship to any such claim, and that privilege still exists in all those countries which have adopted the civil law as the basis of their jurisprudence.
+7
+Authorities to support that proposition are unnecessary, as the proposition is conceded by both parties in this controversy, but that rule was never adopted in England, and the reverse of it is the settled rule in our jurisprudence in respect to the question under consideration. Conclusive support to that proposition is found in the case of The Jefferson,21 in which the opinion of the court is given by Mr. Justice Catron. By the statement of the case it appears that it was a libel filed by the assignees of the builders against a new steam ferryboat for a balance due to the builders on account of work done and materials furnished in constructing the hull of the ferry-boat. They claimed a lien for the unpaid balance of the price, and the decree was in their favor in the Circuit Court, but the claimants appealed to this court. When the cause came up for argument the first point made for the claimants was that a contract to build a ship is not one within the jurisdiction of the admiralty courts, even though it be intended to employ the vessel in ocean navigation. Sufficient appears in the report of the case to show that the libellants took direct issue upon that proposition, and the court say, in disposing of it, that the only matter in controversy is whether the District Courts have jurisdiction in admiralty to enforce liens for labor and materials furnished in constructing vessels to be employed in the navigation of waters to which the admiralty jurisdiction extends.
+8
+Neither shipbuilders nor furnishers of materials for shipbuilding had any lien at that date under the State law, but the court unanimously decided that the admiralty jurisdiction was limited to contracts, claims, and services which were purely maritime, and to such as had respect to rights and duties appertaining to commerce and navigation. Applying that rule to the case then under consideration the court say: 'So far from the contract being purely maritime and touching rights and duties appertaining to navigation, it is a contract made on land to be performed on land.'
+9
+Convinced or not, every candid inquirer must admit that this court did decide in that case that neither a contract to build a ship or to furnish materials for the purpose is a maritime contract. Nor does that decision stand alone, as the same question since that time has more than once come before the court and been decided in the same way. Such was the view of the court in the case of Roach v. Chapman,22 in which the opinion of the court was given by Mr. Justice Grier.
+0
+Proceedings in that case had been instituted in the District Court against a steamer to enforce a lien for a part of the price of the engine and boiler, which had been furnished to the builders in another State, where the steamer was built. Process was served and the claimants appeared and filed a plea to the jurisdiction of the court, which was sustained by the Circuit Court, and the libellants appealed to this court. Able counsel appeared for appellants, but this court decided that a contract for building a ship or for supplying engines, timber, or other materials for her construction is clearly not a maritime contract, and the court remarked that any former dicta or decisions which seem to favor a contrary doctrine were overruled.23
+1
+During the same session of the court the same question was again presented, and was again decided in the same way.24
+2
+Express reference is there made to the case of The Jefferson, and the remark of the court is that the court there decided that a contract to build a ship is not a maritime contract; that in this country such contracts are purely local and are governed by State laws, and should be enforced by the State tribunals. Decisions to the same effect have been made in the Circuit Courts, of which the following are examples: Cunningham v. Hall,25 The Orpheus.26
+3
+State legislatures have no authority to create a maritime lien, nor can they confer any jurisdiction upon a State court to enforce such a lien by a suit or proceeding in rem, as practiced in the admiralty courts.27
+4
+Other support to that proposition than the act of Congress is not needed, as the provision is to the effect that the District Courts shall have exclusive original cognizance of all civil causes of admiralty and maritime jurisdiction, except where the common Iaw is competent to give to suitors a common-law remedy. Common-law remedies are not applicable to enforce a maritime lien by a proceeding in rem, and consequently the original jurisdiction to enforce such a lien by that mode of proceeding is exclusive in the District Courts.28
+5
+Taken together and properly construed those provisions warrant the conclusion that such a party wishing to enforce such a lien may proceed in rem in the admiralty, or he may bring a suit in personam in the same jurisdiction, or he may elect not to go into admiralty at all and may resort to his common-law remedy in the State courts, or in the Circuit Court of the United States, if he can make proper parties to give that court jurisdiction of the case. But a maritime lien does not arise in a contract to build a ship or in a con tract to furnish materials for that purpose; and in respect to such contracts it is competent for the States, under the decisions of this court, to create such liens as their legislatures may deem just and expedient, not amounting to a regulation of commerce, and to enact reasonable rules and regulations prescribing the mode of their enforcement, if not inconsistent with the exclusive jurisdiction of the admiralty courts.29
+6
+Objection is also taken to the validity of the State law upon the ground that it is in conflict with the provision of the Federal Constitution which secures to every party, where the value in controversy exceeds twenty dollars, the right of trial by jury.
+7
+Two answers may be made to that objection, either of which is decisive: (1.) That it does not apply to trials in the State courts.30 (2.) That no such error was assigned in the Court of Errors, and that the question was not presented to, nor was it decided by, the Court of Errors.
+8
+Jurisdiction is not shown unless it appears that some one of the specified questions did arise in the State court and that the question was decided adversely to the party assigning error in this court.31
+9
+JUDGMENT AFFIRMED, WITH COSTS.
+0
+
+1
+
+2
+
+3
+
+4
+
+5
+
+6
+
+7
+
+8
+
+9
+
+10
+
+11
+
+12
+
+13
+
+14
+
+15
+
+16
+
+17
+
+18
+
+19
+
+20
+
+21
+
+22
+
+23
+
+24
+
+25
+
+26
+
+27
+
+28
+
+29
+
+30
+
+31
+
+1
+Nixon's Digest. 
+
+1
+
+Id. 449; 6 Id. 265. The counsel also exhibited a certified copy of the opinion of the court in the cases from the proper repository.
+
+2
+
+3
+See Appendix.
+
+3
+
+4
+Avendano v. Gay, Wallace, 376; Flanders v. Tweed, Generes v. Bonnemer, Kearney v. Case. 
+
+4
+
+5
+Smith v. Cave, Clanrickard v. Lisle, Hobart, Belt v. Collins, Anonymous, 11 Id. 78; Tazewell v. Stone, Burrow. 
+
+5
+
+6
+See supra, p. 
+
+6
+
+7
+Both quoted, supra, p. 
+
+7
+
+.
+
+8
+
+ reported as The People's Ferry Company v. Beers.
+
+9
+
+.
+
+10
+
+.
+
+11
+
+Wallace, 1.
+
+12
+
+13
+Section .
+
+13
+
+14
+Section 1; and see the fifth and seventh amendments.
+
+14
+
+15
+Powell on Appellate Proceedings, and cases there cited.
+
+15
+
+16
+The Slaughter-House Cases, 16 Wallace, 77.
+
+16
+
+17
+Messenger v. Mason, Bridge Proprietors v. Hoboken Co., 1 Id. 16; Furman v. Nicholl, 8 Id. 44; Maxwell v. Newbold. 
+
+17
+
+18
+Farney v. Towle, Hoyt v. Shelden, Ib. Railroad Co. v. Rock, Wallace, 180.
+
+18
+
+19
+Generes v. Bonnemer, Wallace, 564; Avendano v. Gay, Flanders v. Tweed, Hozey v. Buchanan, Albers v. Whitney, Brush v. Robbins, Medford v. Dorsey, 2 Washington's Circuit Court, Kanouse v. Martin, Cheang-Kee v. United States, Wallace, 326; Noonan v. Bradley. 
+
+19
+
+20
+Elliott et al. v. Edwards et al., Edwards v. Elliott, 5 Id. 96.
+
+20
+
+.
+
+21
+
+.
+
+22
+
+23
+The Jefferson. 
+
+23
+
+24
+Morewood v. Enequist. 
+
+24
+
+Clifford, 45.
+
+25
+
+.
+
+26
+
+27
+The Belfast, Wallace, 644; The Moses Taylor, Hine v. Trevor, Ib. 
+
+27
+
+28
+Brookman v. Hamill, 43 New York, The Josephine, 39 Id. 19.
+
+28
+
+29
+The Belfast, Wallace, 645; Sheppard v. Steele, 43 New York, 55; Ferran v. Hosford. 
+
+29
+
+30
+Barron v. Baltimore, Twitchell v. Commonwealth, Wallace, 326; Livingston v. Moore, Peters, Howard, Smith v. Maryland, 18 Id. 76; Cooley on Constitutional Limitations, 2d ed. 19.
+
+30
+
+31
+Crowell v. Randell, Suydam v. Williamson. 
+
+31
+
+
+set()
+=======================================================
+
+89 U.S. 594
+RAILROAD COMPANY
+v.
+ANDROSCOGGIN MILLS.
+October Term, 1874
+1
+Had the bill of lading contained nothing more than the terms and clauses in the part of it which is before the redletter clause, the argument made in behalf of the Androscoggin Mills would be a strong one. We must, however, examine the whole contract, and construe and give effect to all its provisions.
+1
+2
+This bill of lading, in the first place, is a contract covering the cotton during the entire period of its transmission from Columbus to Boston, and over every part of the route. Not only is this the general law of the bill of lading, from the fact that Columbus was the place of receiving, and Boston the place of delivering, the cotton, but this bill of lading is emphatic in its declaration that such is its character. It is headed, 'Great through fast route to all points north and east,' &c. It says: 'This reliable through line makes the shipment of cotton and tobacco a specialty;' 'contract for a through rate;' and again, 'Through rate $per bale from Columbus to Boston.' It is evident, therefore, that the cotton is the subject of the contract of carriage not only from Evansville to Boston, to which the plaintiffs in error would confine it, but from Columbus to Evansville as well.
+2
+3
+Bearing this in mind, it will be observed in the second place, that the contract separates itself into two parts—one, limiting the liability of the railroad company from Evansville to Boston, the other governing its liability generally. Thus the portion already referred to as relied upon by the defendants in error, undoubtedly was intended to be limited in its range. The liability under it and the exemption also, is expressly made dependent on the arrival of the goods at Evansville, and until they have so arrived, neither the liability nor the exemption commences. We can, however, be asked to hold that the liability or the exemption on a portion of the route is entirely omitted from the terms of a bill of lading which provides for transportation over the whole route, and where the compensation is specified as covering the whole route, only where it so appears by the plainest language. No doubt terms might be used in a bill of lading for the transportation of cotton from Mississppi to Massachusetts, by which exemptions from liability for loss by fire while in a railroad car from Evansville northward should be made, and no such exemptions should be made while the cotton was on the deck of a steamboat. We should not, however, expect to find such provisions, and we should require them to be clearly expressed.
+3
+4
+All of the first general paragraph of the bill of lading may fairly be said to relate to the conditions upon which the transportation from Evansville northward shall be made. In its general terms we have already considered that paragraph.
+4
+5
+A new subject, however, is taken up in the next sentence. It is not only the beginning of another paragraph, with the usual space between it and what precedes it, but it is printed in red ink, while what precedes it is in ordinary black type. Its importance in the opinion of the shippers is thus manifested. Attention is called to it as involving important provisions. Dropping the reference to Evansville, and the arrival of the goods there, it uses the most general terms: 'The Evansville and Crawfordsville Railroad Company will not be liable for loss or damage by fire, from any cause whatever.' It is an evident addition to the contract as expressed in the first clause. The railroad company there define the terms and conditions upon which they will be liable after the property has reached Evansville. While on the passage from Evansville northward, non-liability for loss by fire is twice stipulated for,—once while in depots or places of transhipments, and again in general terms,—the evident object and intent of the first clause is to affect this part of the route only. A new branch of the contract is then taken up, and the difference is intended to be made plain to the eye as well as the understanding. In the red-ink clause they use terms applicable to the entire contract of shipment, viz.: They 'will not be liable for loss or damage by fire, from any cause whatever.' No language of limitation is used. It is as if they had said, 'Should damage by fire occur to this cotton during any part of the route, and from any cause whatever, this company will not be liable.'
+5
+6
+It is quite unreasonable to suppose that the company here intended to guard themselves against a liability for which they had twice already stipulated that they should not be liable, to wit, of loss fire after the cotton had reached Evansville. The clause in red was intended to cover the whole contract. Wherever, whenever, or however they would by law be liable for a loss by fire, from that liability they intended to relieve themselves. The exemption was intended to be as broad as was the original liability.
+6
+7
+A careful reading of the bill of lading shows that the red-ink clause not only, but all that follows it, must have been understood by the parties to cover the whole route, and not to be limited to a part of the distance only. Thus, after providing an exemption from liability for loss by fire from any cause whatever, the bill of lading goes on to say, 'All property shipped on this contract will be subject to the expense of necessary repairs and remarking.' Can it be doubted that if the sacks of this cotton had required repairing or remarking from causes occurring before it reached Evansville, that it would have been a proper item of expense under this clause? 'In the event of loss or damage under the provisions of this agreement (it proceeds) the value or cost at the point of shipment shall govern the settlement of the same.' No one can doubt that the value at Columbus will govern the amount of a recovery under this clause. And again, the clause, 'Said property to be forwarded immediately after its arrival at Evansville. . and to be delivered at Boston upon the payment of freight and charges,' is, by its very terms, applicable to goods not yet at Evansville, when the contract takes effect.
+7
+8
+We are of opinion that the argument of the defendants in error, upon which the judgment below was based, that the exemption from liability by fire was limited to fire occurring after the cotton had been received at and shipped from Evansville, was erroneous. The exemption covers the entire route.
+8
+9
+JUDGMENT REVERSED, and judgment upon the demurrer ordered in favor of
+9
+10
+THE PLAINTIFFS IN ERROR.
+10
+
+*
+
+*
+Section .
+
+*
+
+
+set()
+=======================================================
+
+87 U.S. 528
+PACKET COMPANY
+v.
+CLOUGH.
+October Term, 1874
+1
+'Where the acts of the agent will bind the principal, then his representations, declarations, and admissions respecting the subject-matter, will also bind him, if made at the time, and constituting a part of the res gestae.'
+1
+2
+7. The court erred in rejecting the deposition of Turner.
+2
+3
+Messrs. W. P. Bartlett and M. H. Carpenter, contra:
+3
+4
+1. The act of Congress and the statutes of Wisconsin (stated, supra, p. settle the first assignment of error.
+4
+5
+The court cannot look at those statutes and have doubt as to their potential operation. The courts of Wisconsin apply them to just such cases as this case.7 Indeed, this first exception is hardly pressed. The whole force of the opposite argument lies in an assumption, not true, that the husband alone was the party suing. Now, Mrs. Clough was a necessary and proper party plaintiff. The injury was to her person. With, in, and by her, the cause of action existed. Without her there was no right of action. She and the meritorious cause coexisted. She was the party seeking to enforce her legal remedy for the actual injury practiced upon her body. The joining of the husband as a coplaintiff was a nominal thing, to answer a technical requirement of the law. The death of the husband, at any time, could not have defeated the right of action. If it is argued, that in case of a judgment for the plaintiff, Carlos Clough could control the judgment, the answer to that is, that the court, on a proper application, in behalf of Mrs. Clough, would control him, and would see that the proceeds of the judgment were properly applied for the use of the injured person.
+5
+6
+2, 3, and 4. The second, third, and fourth assignments may be treated together and are equally unfounded.
+6
+7
+The action was a common-law 'action on the case,' for consequential damages—tortious, in form, ex delicto. The cause of action is set forth in and by a common-law declaration. The plea is not guilty. That plea puts in issue the gravamen of the complaint, the fault or guilty negligence and carelessness of the defendant, and not the relationship of the plaintiffs, or the corporate existence of the defendant, or citizenship of the parties. All of these matters however essential are impliedly admitted by the plea of not guilty. The existence of the defendant as a corporation might have been put in issue, but it was not; so might the citizenship of the respective parties, but was not; so might the relationship of the plaintiffs, but was not. Had issues on these several subjects been formed, they would have been issues in abatement of the action and not to the merits. The defendants elected to plead to the merits, not guilty, thereby waiving all formal objections or dilatory pleas. The court well said, that the plaintiffs' relation to each other was not in issue by the pleadings, though to avoid controversy or argument the marriage of the plaintiffs was proved, and that too without any objection.
+7
+8
+5. The attempt to set up the non-payment of fare as a release for the injury.
+8
+9
+The verdict and judgment was for $ The injury was of course great. The attempt to release a claim for such injury by non-payment of a few dollars passage-money is hard to support. No captain in common decency could have extorted fare in such a case. The clearest proof of intention to release should have been given if such a pretension was to be supported. The charge was right.
+9
+ The statement made by the captain in conversation with Mrs. Clough was evidence.
+10
+11
+It was made while Mrs. Clough was still a passenger upon the boat, not having reached her destination. It was competent as a part of the res gestae, and independent of the question whether the admission was a part of the res gestae or not, it was made during the time that the plaintiff was on her journey, and before its termination, and is competent evidence in that view alone. In The Enterprise,8 Curtis, J., says:
+11
+12
+'I am quite sure the practice has been to admit declarations made by the master while in command concerning any matters which came under his authority as master, though not part of any res gestae strictly speaking.'
+12
+13
+In Burnside v. Grand Trunk Railway Company,9 it was held by the court that the statements of the general freight agent of the railway company as to the condition of goods delivered to him for transportation, made while the goods were in transit, were admissible in evidence against the company, although made eight months after the goods were delivered, and the court says that the only question is,
+13
+14
+'Whether at the time these statements were made the contract with the railroad was still in the course of execution, and we think it must be so considered.'10
+14
+ Whether the ex parte deposition of Turner was rightly ruled out this court will not inquire.
+15
+16
+The record nowhere shows to this court what the testimony was which was excluded, nor what it proved or if it tended to prove anything. This omission in the record is of itself fatal under the twenty-first rule, and independently of it. The counsel should show that the deposition contained testimony competent in itself, and which had it not been ruled out by the court, would or might have prevented a verdict against the packet company.11
+16
+17
+Mr. Justice STRONG delivered the opinion of the court.
+17
+18
+In considering the first assignment of error—that is to say, the question whether on the trial the deposition of Mrs. Clough was rightly admitted in support of her claim, it is unnecessary to inquire whose will be the damages, if any, which may be recovered whether they will belong to the husband or to the wife. The competency of the witness, or her incompetency, must be determined by the statutes of Wisconsin, where the case was tried. The act of Congress of July has enacted that 'the laws of the State in which the court shall be held shall be the rules of decision as to the competency of witnesses in the courts of the United States, in trials at common law, in equity, and admiralty.' And the statutes of Wisconsin12 very plainly declare that the wife is a competent witness for herself in such a case as this. The first assignment of error cannot, therefore, be sustained.
+18
+19
+The second, third, and fourth assignments present substantially the same question, and they may be considered together. After direct testimony had been given by Mrs. Clough that the plaintiffs were married on the 24th day of December, 1845, the defendants proposed to prove by other witnesses that the plaintiffs had not lived and cohabited together as husband and wife since December, 1869; that it was commonly reputed that they had not so lived together, and that there was a common reputation that Carlos Clough was living and cohabiting with another woman. This proof the court refused to receive. It was offered for two avowed purposes—one in mitigation of damages, and the other to disprove the fact alleged in the declaration that the plaintiffs were husband and wife. But how, if received, it could have tended to mitigate damages has not been made plain to us. The suit, as the case shows, was for an injury inflicted upon the wife. Surely the injury was the same whether the husband lived with her or not. And the evidence was inadmissible for the other purpose for which it was offered. It is true, ordinarily, the general issue in an action of trespass on the case imposes upon the plaintiff the necessity of proving all the material facts averred in the declaration, but the ability of the plaintiffs to sue is not a fact directly averred, and, therefore, it cannot be disproved under a plea of not guilty. In fact it is not put in issue by such a plea. The defence that the plaintiffs suing as husband and wife are not married goes to the form of the writ, rather than to the cause of action, and it should, therefore, be pleaded in abatement, and not in bar. Thus, in Chitty's Pleadings13 it is laid down as a proper plea in abatement to the form of the writ that the plaintiffs or defendants suing, or being sued, as husband and wife, are not married. And in Stephens on Pleading,14 it is said 'the plea of not guilty in trespass on the case operates as a denial of the breach of duty, or wrongful act alleged to have been committed by the defendant. . But not guilty will apply to no other defence than a denial of the wrongful act.' The general issue at length is that the defendant is not guilty of the grievances laid to his charge, in manner and form as the said plaintiff hath above thereof complained against him, and of this he puts himself upon the country, &c.15 While, since the time of Lord Mansfield, the scope of this issue has been much enlarged, it has not been supposed to extend to a denial of the ability of the plaintiff to sue. In Combs v. Williams,16 it was ruled that in the trial of an action upon a promise to a feme sole, brought by her husband and herself after marriage, it is not competent for the defendant under the general issue to prove the illegality of the marriage, such matter being wholly in abatement. True, this was in an action of assumpsit, but the general issue is as broad, in such a case, as it is in case for a tort. And if this were not so, even if in the state of the pleadings the defendants were at liberty to prove that the plaintiffs were not husband and wife, they could not prove it by such evidence as that which they offered. Cohabitation as husband and wife may tend to prove marriage, but non-cohabitation has not been accepted as disproving the existence of the marital relation in face of uncontradicted evidence that a marriage in fact had taken place.
+19
+20
+The fifth assignment of error is without any foundation. It would be very extraordinary were we to hold that the plaintiff had settled and discharged her claim upon the defendants without any intention or understanding on her part to give it up.
+20
+21
+The next assignment is more important. The accident by which the plaintiff was injured occurred at Read's Landing, in Minnesota, on the 30th day of September, 1869, about two o'clock in the afternoon. Two days afterwards, as the boat approached Davenport, in the State of Iowa, Mrs. Clough, the witness, had a conversation with the captain, in which he made some statements respecting the accident, and these statements the court allowed to be given in evidence against the defendants. In this we think there was error. Declarations of an agent are, doubtless, in some cases, admissible against his principal, but only so far as he had authority to make them, and authority to make them is not necessarily to be inferred from power given to do certain acts. A captain of a passenger steamer is empowered to receive passengers on board, but it is not necessary to this power that he be authorized to admit that either his principal, or any servant of his principal, has been guilty of negligence in receiving passengers. There is no necessary connection between the admission and the act. It is not needful the captain should have such power to enable him to conduct the business intrusted to him, to wit, the reception of passengers, and, hence, his possession of the power to make such admissions affecting his principals is not to be inferred from his employment.17 It is true that whatever the agent does in the lawful prosecution of the business intrusted to him, is the act of the principal, and the rule is well stated by Mr. Justice Story,18 that 'where the acts of the agent will bind the principal, there his representations, declarations, and admissions respecting the subject-matter will also bind him, if made at the same time, and constituting part of the res gestae.' A close attention to this rule, which is of universal acceptance, will solve almost every difficulty. But an act done by an agent cannot be varied, qualified, or explained, either by his declarations, which amount to no more than a mere narrative of a past occurrence, or by an isolated conversation held, or an isolated act done at a later period.19 The reason is that the agent to do the act is not authorized to narrate what he had done or how he had done it, and his declaration is no part of the 'res gestae.'
+21
+22
+Applying this rule to the present case, how does it stand? The thing of which the plaintiffs complain was negligence, on the 30th of September—a fault in providing for Mrs. Clough's embarkation on the steamer. That, and that alone, caused the injury she sustained. That and nothing else was the 'res gestae.' What the captain of the boat said of the transaction two days afterwards was, therefore, but a narrative of a past occurrence, and for that reason it could not affect his principals. It had no tendency to determine the nature, quality, or character of the act done, or left undone, and it is not, therefore, within the rule stated by Judge Story. That rule has been recognized 'in totidem verbis' in Wisconsin by Chief Justice Dixon, in delivering the opinion of the court in The Milwaukee and Mississippi Railroad Company v. Finney.20 And there is nothing in any of the decisions cited by the defendants in error inconsistent with such a rule. The case of The Enterprise, cited from 2d Curtis, was a suit in admiralty for subtraction of wages, and the declarations of the master respecting the contract with the seamen were admitted, though not a part of the res gestae. But the decision was rested upon the ground that the admiralty rule is different from the rule at common law. The case of Burnside v. The Grand Trunk Railroad Company, cited from 47 New Hampshire, simply decides that the statements of the general freight agent as to the condition of goods delivered to him for transportation made while the goods are still in transit, or while the duty of the carrier continues, are admissible in evidence against the company. This was a case of contract not executed, and, while it remained unexecuted, the agent had power to vary it; had, in fact, complete control over it. The transaction was still depending, and the agent was still in the execution of an act which was within the scope of his authority. But in the present case the declarations admitted were not made in the transaction of which the plaintiffs complain, or while it was pending. They refer to nothing present. They are only a history of the past.
+22
+23
+It is argued they were made before the voyage upon which Mrs. Clough entered was completed. True, they were, but they were not the less mere narration. The accident was past. The injury to Mrs. Clough was complete. The only wrong she sustained, if any, had been consummated two days before. We cannot think the fact that she had not arrived at her port of destination is at all material. If she had left the steamer before the declarations were made it is not claimed, as certainly it could not be, that they were admissible. Now, suppose two persons were injured by the negligence which the plaintiffs assert, and one of them had left the boat before the captain's declarations were made, clearly they would have been inadmissible in favor of the person whose voyage had been completed. This is not denied. Yet the connection between them and the accident would be as close in that case as in this. Can they be admissible in the one case and not in the other? Assuredly not. We must hold, therefore, that there was error in admitting in evidence the statement of the captain of the steamboat made two days after the wrong was done of which the plaintiffs complain.
+23
+24
+The last assignment of error is the rejection of the deposition of Turner. Of this it is sufficient to say that we have not before us either the deposition or any statement of what it tended to prove. We cannot know, therefore, that it was of any importance, or that, if it had been admitted, it could have had any influence upon the verdict. A party who complains of the rejection of evidence must show that he was injured by the rejection. His bill of exceptions must make it appear that if it had been admitted it might have led the jury to a different verdict. This must be understood as the practive in this court, and such is the requirement of our twenty-first rule. By that rule it is ordered that when the error assigned is to the admission or rejection of evidence, the specification shall quote the full substance of the evidence offered, or copy the offer as stated in the bill of exceptions. This is to enable the court to see whether the evidence offered was material, for it would be idle to reverse a judgment for the admission or rejection of evidence, that could have had no effect upon the verdict.
+24
+25
+But for the reception of the statement made by the captain, shortly before the arrival of the boat at Davenport, the judgment must be reversed.
+25
+26
+VENIRE DE NOVO AWARDED.
+26
+
+1
+
+2
+
+3
+
+4
+
+5
+
+6
+
+7
+
+8
+
+9
+
+10
+
+11
+
+12
+
+13
+
+14
+
+15
+
+16
+
+17
+
+18
+
+19
+
+20
+
+Stat. at Large. 
+
+1
+
+2
+Taylor's Statutes. 
+
+2
+
+.
+
+3
+
+4
+The trial was had in April, 1872.
+
+4
+
+5
+Shaddock and Wife v. Clifton, 22 Wisconsin. 
+
+5
+
+Wisconsin. 
+
+6
+
+7
+Barns v. Martin, 15 Wisconsin, Shaddock v. Town of Clifton. 
+
+7
+
+.
+
+8
+
+New Hampshire. 
+
+9
+
+10
+To the same effect see Demeritt v. Meserite, 39 New Hampshire, Morse v. Connecticut Railroad Co., Burgess v. Wareham. 
+
+10
+
+11
+Sewell v. Eaton, 6 Wisconsin. 
+
+11
+
+12
+See statutes of quoted supra.—REP.
+
+12
+
+13
+Vol. i, page .
+
+13
+
+.
+
+14
+
+Chitty's Pleading. 
+
+15
+
+Massachusetts. 
+
+16
+
+Taylor on Evidence, § .
+
+17
+
+18
+Story on Agency, § .
+
+18
+
+Taylor on Evidence, § .
+
+19
+
+Wisconsin. 
+
+20
+
+
+set()
+=======================================================
+
+87 U.S. 653
+PARCELS
+v.
+JOHNSON.
+October Term, 1874
+1
+This writ of error is dismissed, upon the authority of Moore v. Robbins,1 St. Clair County v. Lovingston,2 Tracy v. Holcombe,3 Pepper v. Dunlap,4 Brown v. Union Bank.5
+1
+2
+A writ of error can only issue from this court to the highest court of a State for a review of the final judgment or decree of that court in a suit. In other words, it is only the last judgment or the last decree which the State courts can give in a suit, until that judgment or decree is set aside or reversed, that this court can, even in the prescribed cases, bring here for re-examination.
+2
+3
+The judgment of the Supreme Court of Missouri, brought up in this case, is one of reversal only and remanding the suit to the inferior court for further proceedings in accordance with the opinion delivered and filed. The cause was sent back, therefore, for a new trial or a new hearing. Upon such trial or hearing the inferior court can proceed to render a new judgment, not inconsistent with the opinion, and that judgment may in its turn be taken to the Supreme Court for examination.
+3
+4
+From the record it appears that one of the defences set up in the answer, to wit, that which was based upon the implied acceptance of one-third of the proceeds of the guardian's sale in lieu of dower in the land, was not proven. On a new trial that proof may be supplied and a judgment rendered thereon satisfactory to the now complaining party. In that manner the present supposed Federal question may be put out of the case. So, too, the present pleadings may be amended and a new case made, which will render unnecessary the consideration of any question that can give this court jurisdiction.
+4
+5
+Thus it is apparent that the parties have not as yet exhausted the power of the State courts in the premises, and until that is done our power cannot be called into action. This court must be the last resort of litigants in State courts.
+5
+6
+WRIT DISMISSED.
+6
+
+1
+
+2
+
+3
+
+4
+
+5
+
+.
+
+1
+
+.
+
+2
+
+.
+
+3
+
+4
+5 Id. 51.
+
+4
+
+.
+
+5
+
+
+set()
+=======================================================
+
+88 U.S. 1
+THE LADY PIKE.
+October Term, 1874
+1
+Appeals in admiralty, it may be admitted, are not favored where it appears that the subordinate courts have both concurred in the same view of the merits of the controversy; but it is not accurate to say that the Supreme Court will not reverse such a decree in a clear case.
+1
+2
+Such a proposition cannot be adopted, as a rule of decision, consistently with the provisions in the act of Congress allowing appeals from final decrees rendered in the Circuit Court to the Supreme Court, in all cases of equity and of admiralty and maritime jurisdiction, where the matter in dispute, exclusive of costs, exceeds the sum or value of two thousand dollars.
+2
+3
+Decrees of the kind were formerly required to be removed here for re-examination by a writ of error, but the Congress subsequently repealed those regulations, and provided that appeals should be allowed in all such cases, and that upon such appeal a transcript of the libel, bill, answer, depositions, and all other proceedings of what kind soever in the case, shall be transmitted to the said Supreme Court. Provision is also made by that act that new evidence may be received here on the hearing of such appeals in admiralty and prize cases, which affords very strong support to the proposition that the facts, as well as the law of the case, are open to revision by this court in the exercise of its appellate jurisdiction.
+3
+4
+Considerable weight undoubtedly in such a case should be given to the decree of the subordinate court, and hence the rule, which is well settled, that the burden is on the appellant to show that the decree of the subordinate court is erroneous, but it is a mistake to suppose that this court will not re-examine the facts as well as the law of the case, as the express command of the act of Congress is that the Supreme Court shall 'hear and determine such appeals,' which makes it as much the plain duty of this court to re-examine the evidence in the case as the questions of law presented for decision.5
+4
+5
+Wheat of the quantity and quality specified in the libel was delivered by the shipper to the master of the steamer at the place mentioned in the libel, to be transported from the port of shipment to the port of Savannah, in the State of Illinois. Such a shipment it was not expected would be laden on board the steamer, as she was not constructed nor fitted for the stowage of grain in bulk, nor was it in the contemplation of either party that the wheat would be shipped and transported to the port of destination in that way, as the shipper as well as the carriers knew that such freight was accustomed to be stowed in bulk in barges belonging to the carriers, and that the respondent steamer was employed in towing barges so laden with such cargoes.
+5
+6
+Pursuant to that usage the wheat in question was stowed in bulk on board the barge described in the libel, and the barge, with two others of like character, similarly laden, was taken in tow by the steamer, which furnished the motive power for the whole craft, and the proofs show that the several barges, as well as the steamer, were commanded by the same master and manned by the same crew. They, the steamer and barges, were all arranged abreast, the larger barge being lashed to the starboard side of the steamer, and the smaller of the other two being lashed to the port side of the steamer, between the steamer and the starboard side of the barge containing the wheat which is the subject of litigation.
+6
+7
+Different estimates are made by the witnesses as to the width of the whole craft as arranged, but the evidence taken as a whole convinces the court that the steamer and the three barges combined, including the guards of the steamer and the planking of the barges, could not have been less than one hundred and five feet, even if they were all closely lashed together, which is highly improbable. Lashed as they were, broadside to broadside, of course the stem of the steamer was much in advance of some or all of the respective stems of the barges, as she exceeded in length, even the largest barge, more than fifty feet. Barges for transporting such products were furnished by the carriers, but the wheat was put on board the barge by the shipper, it being the duty of the carrier to have agents present to oversee and regulate the stowage.
+7
+8
+Sufficient appears in the pleadings and proofs to support the proposition that the wheat, when stowed in the barge and delivered to the master, was in good order and condition, and that the master, when he received the wheat, contracted with the shipper to transport and deliver the same, in like good order and condition, to the consignees at the port of destination, as when received at the port of loading, 'the unavoidable dangers of the river and fire only excepted,' and the libellants allege that the master did not so transport and deliver the wheat to the said consignees, although no dangers of the river or fire prevented him from so doing. Instead of that, the libellants charge that he, the master, and his mariners and servants, so negligently and carelessly conducted themselves in the navigation of the steamer and barges that the barge containing the wheat was sunk in the river, and that the wheat became and was a total loss.
+8
+9
+Process was served and the claimants appeared and filed an answer, in which they admit the shipment of the wheat and the contract of the master to transport and deliver the same, as alleged in the libel, but they allege that the sinking of the barge and the consequent loss of the wheat were occasioned by the unavoidable dangers of the river, and they deny that the sinking of the barge was caused by any negligence or carelessness on their part or on the part of those navigating the steamer or barge which contained the wheat; and they also allege that when passing in the usual channel between the piers in the river, near St. Paul, in the usual way, the steamer and barge were by a sudden gust of wind blown to the larboard, so that the barge containing the wheat struck the pier on that side of the barge, which caused the barge to sink, as alleged in the libel. Proofs were taken and the District Court, after hearing the parties, entered a decree dismissing the libel. Hearing was again had in the Circuit Court on appeal, and the Circuit Court entered a decree affirming the decree of the District Court. Whereupon the libellants appealed to this court.
+9
+10
+Errors assigned here are in substance and effect as follows:
+10
+ That the steamer and barge were not properly manned, nor were they fit for the voyage, as neither the master nor pilots had either the requisite knowledge of the vessels under their command or of the dangers and difficulties of the navigation which they had to meet in the course of the trip down the river.
+11
+ That the pilot improperly endeavored to steer the craft midway between piers Nos. 3 and 4 when he ought to have known that the latter pier was so far under water that the craft might have safely passed over it, as was usually done in times of high water, by which improper and unnecessary act the barge containing the wheat was brought within five and a half or six feet of the pier which she struck, whereas if the pilot had steered the craft farther to the westward and passed over that pier, as he should have done at that stage of the water, the distance to the piers on either side of the craft would have been so great as to have avoided all danger of collision.
+12
+ That the craft might have been navigated in safety between piers Nos. 4 and 5, which are one hundred and fifty-one feet apart, showing that the craft might have been navigated through that pass, leaving a space on either side of twenty-three feet, which is manifestly too great to have been overcome by the alleged gust of wind.
+13
+ That the speed of the steamer with the barges in tow, in passing between the piers, was improper and unwarrantable, and was the efficient cause of the disaster and loss.
+14
+ That it was the course of the current, which was unknown to the pilot, that drove the craft to the leeward, and not the wind, as alleged in the answer, and the libellants allege that the pilot, if he had had proper knowledge of the navigation, might have prevented that movement of the craft by the exercise of due skill in steering.
+15
+ Applied exclusively to the number of the steamer's company, the complaint contained in the first assignment of errors would not be well founded, as the crew was sufficient in number, and the proofs show that the steamer had on board two pilots and two master mariners, but the gravamen of the complaint is that neither the master in charge of the deck nor the pilot had any sufficient knowledge of the craft under their command, nor of the dangers of the navigation in passing down the river in such a steamer with three such barges in tow arranged in the manner before described.
+16
+17
+Proof of the most satisfactory character is exhibited that they did not even know the width of the craft, as the same was arranged, nor the actual distance between the piers where the disaster occurred. On the contrary it appears that they both over-estimated the width of the space between the piers, and under-estimated the width of the tow, including the steamer, as they were arranged abreast, the distance between the two first-named piers not exceeding one hundred and sixteen feet and the width of the whole craft being at least one hundred and five feet. Nor does the fact that the pier on the starboard side was so far under water that the craft might have passed over it palliate the rashness of the act, as the evidence shows that both the master and the pilot were ignorant of that fact, and that as they approached the place of danger they put the steamer upon a course to cause the whole craft to pass midway between those two piers, which brought the port side of the barge containing the wheat within five and a half or six feet of the pier on that side which was not submerged in the water.
+17
+ Attempt is made to excuse the master and pilot for endeavoring to pass midway between those piers, upon the ground that they did not know that it would be safe to pass over the pier on the starboard side, but the sufficiency of that excuse cannot be admitted, for two reasons: (1.) Because they ought to have known both the dangers and the facilities of navigation before undertaking the responsible duties in which they were engaged. (2.) Because it was their duty, if they believed that the pass in question was restricted to the distance between the two piers, to have taken the other pass, which the evidence shows has the width of one hundred and fifty-one feet.
+18
+19
+Opposed to that is the suggestion that the wider passage was obstructed by a sunken barge, but the evidence satisfies the court that the alleged obstruction did not exist at that time, and that the disaster that caused that barge to sink occurred at a later period.
+19
+ Unobstructed as the wider passage was, it was plainly a rash act to attempt to pass down the narrower passage on a course which brought the port side of the barge containing the wheat within five and a half or six feet of the pier on that side, which act can only be accounted for upon the ground of negligence and inexcusable ignorance of the dangers and facilities of the navigation, as it was evidently a hazardous experiment to attempt to pass between those piers if the craft could not pass over the pier on the starboard side, and it is equally clear that it would have been safe to have steered between the piers forming the wider passage, which it seems never occurred to the master or pilot.
+20
+ Even if such an attempt could be justified at all on a windy day when the water was high, it is quite clear that neither skill nor good judgment was exercised in setting the course of the craft before passing between the piers. Beyond all doubt some allowance, though the margin was small, should have been made for the leeway of the craft, as the evidence is convincing that the course of the current at high water tends somewhat to force the craft towards the pier on the port side. Besides they had met with some difficulty previously during the trip that day, at the bridge higher up the river, and, therefore, were forewarned that a like difficulty might again occur.
+21
+22
+Ignorance of the danger before them is no sufficient excuse, as the owner appoints the master and is bound to select one of competent skill and knowledge, to transport goods and merchandise shipped on board in safety, which necessarily imposes the obligation to employ a master mariner who knows enough about the route to avoid the known obstructions and to choose the most feasible track for his route. Knowledge of the kind, in river navigation, is peculiarly essential, as the current frequently shifts from one side towards the other, and the track of navigation is often obstructed by snags, sand-bars, and shoals, which no degree of skill would enable the mariner or pilot to avoid without a prior knowledge of their existence.
+22
+23
+Cross-currents between the piers of bridges which span the river somewhat diagonally are not infrequent, and as they are not always fully appreciable to the casual observer, it is important that master mariners should know of their existence and something of their force, in order that they may be able to steer their steamer or other vessel properly through such a passage. Neither the master nor pilot, in this case, knew that there was any such cross-current between these piers, and consequently took no precaution to guard against its influence.
+23
+24
+Carriers of merchandise by water, seeking general employment, are to be regarded as common carriers, and like common carriers by land, in the absence of any legislative provision prescribing a different rule, are in general to be held responsible as insurers, and consequently are liable in all events and for every loss or damage to the merchandise, unless it happened by the act of God, the public enemy, or by the act of the shipper, or by some other cause or accident, without any fault or negligence on their part, as expressly excepted in the bill of lading or contract of shipment.
+24
+25
+Standard authorities show that the first duty of the carrier, and one that is implied by law, is to provide a seaworthy vessel, well furnished with proper motive power, and furniture necessary for the voyage. Necessary equipment is as requisite as that the hull of the vessel should be stanch and strong, and she must also be provided with a crew adequate in number and competent for their duty with reference to all the exigencies of the intended route, and with a competent and skilful master, of sound judgment and discretion, and with sufficient knowledge of the route and experience in navigation to be able to perform in a proper manner all the ordinary duties required of him as master of the vessel.
+25
+26
+Owners of vessels, employed as such carriers, must see to it that the master is qualifies for his situation, as they are responsible for his want of skill and knowledge in that behalf and for his negligence and bad seamanship. In the absence of any special agreement to the contrary or exception in the bill of lading or contract of shipment, his duty extends to all that relates to the loading as well as the safekeeping, due transportation, and right delivery of the goods, and for the faithful performance of all those duties the ship is liable as well as the master and owners.6
+26
+ Differences of opinion may arise as to the merits of the fourth assignment of errors, and inasmuch as enough is alleged in those which precede and follow it to show that the decree of the Circuit Court must be reversed, the court here does not find it necessary to determine the question whether the speed of the steamer, in view of the conflicting testimony upon the subject, was or was not greater than the exigencies of the impending peril would justify.
+27
+ Nor is it necessary to express any decided opinion whether the fifty assignment of error is or is not supported by the evidence exhibited in the case, but it is deemed proper to say that there is much reason to conclude that it was the course of the current that forced the craft to the leeward, and not the gust of wind, as was supposed by those in charge of the deck of the steamer at the time the barge was sunk.
+28
+29
+Enough appears to show that the bridge there does not span the river directly across the current, and that the tendency of the current is to force the vessel passing down the river to the leeward, and the evidence is full to the point that neither the master nor the pilot had any knowledge that they would have to encounter any such difficulty in attempting to effect the passage between those piers. Support to that proposition is found in the fact that they did not think it necessary to adopt any precaution to prevent such a disaster, except to see that the craft headed midway between the piers of the narrow passage and to give the steamer a full head of steam, so as to make the passage as quick as possible, which shows beyond all doubt that little or no use could be made of the helm during the passage, except to steady the craft on the course adopted just before they entered the passage between the piers where the disaster occurred.
+29
+30
+Reliable means to ascertain with certainty what force it was which caused the craft to make leeway during the passage is not exhibited in the record, nor is it necessary to decide that point, as it was plainly a rash act to undertake to steer the craft through that passage on a windy day when the banks of the river were full, in the face of the dangers which the evidence satisfies the court would necessarily be encountered in such an attempt. Neither the state of the water nor of the wind was such as to furnish any just excuse for the master or pilot, as they might have chosen the other passage or have taken proper and seasonable measures to leave back one of the barges for the next trip.
+30
+31
+Shipowners are responsible for such a disaster if it results from the ignorance, unskilfulness, or negligence of the master or those in charge of the vessel. Where the master, being ignorant of the coast, sailed past the port to which he was destined and ran into another port in the possession of the enemy and was captured, the Court of King's Bench unanimously decided that the implied warranty to provide a master of competent skill was broken by sending out one who was unable to distinguish between the two ports.7
+31
+32
+Ignorance and unskilfulness being proved, the attempt to set up inevitable accident is vain, as such a defence can never be sustained even in a collision case, unless it appears that neither party is in fault. Loss or damage occasioned by such a disaster, where it appears that those in charge of the deck were incompetent to perform the required duty, either from inexperience or want of knowledge of the route, or from negligence or inattention, cannot be regarded as being the result of natural causes, nor as falling within the exception contained in the bill of lading or contract of shipment.
+32
+33
+Different definitions are given of what is called inevitable accident, on account of the different circumstances attending the disaster, but there is no decided case which will support such a defence where it appears that the disaster was occasioned by the incompetency, unskilfulness, or negligence of the master or pilot in charge of the deck.8
+33
+34
+Service was not made in this case upon the barge, and of course the decree must be founded upon the fault of the steamer and those who were responsible for the unskilfulness and bad judgment exercised in her navigation.
+34
+35
+DECREE REVERSED with costs, and the cause remanded with directions to enter a decree for the libellants and for further proceedings in conformity
+35
+36
+TO THE OPINION OF THE COURT.
+36
+
+1
+
+2
+
+3
+
+4
+
+5
+
+6
+
+7
+
+8
+
+1
+The S. B. Wheeler, The Spray, The Hypodame, Newell v. Norton & Ship. 
+
+1
+
+Strange, 127.
+
+2
+
+3
+Colt v. McMechen, Johnson, 165; Ready v. Steamboat Highland Mary, 17 Missouri, Hays v. Kennedy, 41 Pennsylvania State. 
+
+3
+
+4
+See argument of counsel in Newell v. Norton & Ship, Wallace, 265.
+
+4
+
+5
+The Baltimore, Wallace, 382; The S. B. Wheeler. 
+
+5
+
+6
+Abbott on Shipping, Laveroni v. Drury, 8 Exchequer, Clark v. Barnwell, The Cordes, 21 Id. 27; King v. Shepherd, Kent, 213; 1 Smith's Leading Cases, Smith's Mercantile Law. 
+
+6
+
+7
+Tait v. Levi. 
+
+7
+
+8
+The Morning Light, Wallace, 560; Union Steamship Co. v. New York Steamship Co.. 
+
+8
+
+
+set()
+=======================================================
+
+88 U.S. 185
+ADAMS
+v.
+ADAMS.
+October Term, 1874
+1
+The first question in this case is whether there was a delivery of the deed of August If not a formal ceremonious delivery, was there a transaction which, between such parties and for such purposes as exist in the present case, the law deems to be sufficient to create a title? The bill avers that the deed was delivered by the parties and put on record in the way which it states.
+1
+2
+The answer is responsive to the allegations in the plaintiff's bill that the deed, after being signed, sealed, and delivered, was recorded at the request of the defendant, Adams, and at his expense.
+2
+3
+The burden is thus imposed upon the plaintiff of maintaining her allegation by the proof required where a material allegation in the bill is denied by the answer.
+3
+4
+It is evident, however, that the apparent issues of fact and seeming contradictions of statement become less marked by looking at what the parties may suppose to constitute a delivery. That the defendant signed and sealed the deed he admits. That with his wife, the present plaintiff, he acknowledged its execution before two justices of the peace, and that the deed thus acknowledged by him not only purported by words in proesenti to grant, bargain, and convey the premises mentioned, but declared that the same was signed, sealed, and delivered, and that this deed, with these declarations in it, he himself put upon the record, is not denied. If these facts constitute a delivery under circumstances like the present, then the defendant, when he denies that a delivery was made, denies the law simply.
+4
+5
+Mrs. Adams and two other witnesses were examined. None of Mrs. Adams's statements are denied by Mr. Adams. He was as competent to testify as she was. So, although time, place, and circumstances are pointed out in the testimony of one of the other witnesses, the defendant makes no denial of the statement; nor does he deny the statement of the other witness giving her conversation with him, in detail, in which she says that he admitted the trust.
+5
+6
+The deed corresponded substantially with the intention which these witnesses state that Adams expressed. Should the property be sold by the order of Mrs. Adams, the money received would be subject to the same trusts as the land, to wit, for the use of Mrs. Adams during her lifetime and her children after her death. It would not by such transmutation become the absolute property of Mrs. Adams.
+6
+7
+Upon the evidence before us we have no doubt that the deed was executed, acknowledged, and recorded by the defendant with the intent to make provision for his wife and children; that he took the deed into his own possession with the understanding, and upon the belief on his part, that he had accomplished that purpose by acknowledging and procuring the record of the deed, by showing the same to his wife, informing her of its contents, and placing the same in the house therein conveyed in a place equally accessible to her and to himself.
+7
+8
+The defendant now seeks to repudiate what he then intended, and to overthrow what he then asserted and believed he had then accomplished.
+8
+9
+It may be conceded, as a general rule, that delivery is essential, both in law and in equity, to the validity of a gift, whether of real or personal estate.1 What constitutes a delivery is a subject of great difference of opinion, some cases holding that a parting with a deed, even for the purpose of recording, is in itself a delivery.2
+9
+10
+It may be conceded also to have been held many times that courts of equity will not enforce a merely gratuitous gift or mere moral obligation.3
+10
+11
+These concessions do not, however, dispose of the present case.
+11
+t. We are of opinion that the refusal of Appleton, in 1870, to accept the deed, or to act as trustee, is not a controlling circumstance.
+12
+13
+Although a trustee may never have heard of the deed, the title vests in him, subject to a disclaimer on his part.4 Such disclaimer will not, however, defeat the conveyance as a transfer of the equitable interest to a third person.5 A trust cannot fail for want of a trustee, or by the refusal of all the trustees to accept the trust. The court of chancery will appoint new trustees.6
+13
+14
+The case turns, rather, upon the considerations next to be suggested.
+14
+. By the transactions already detailed, and by the declarations of Mr. Adams, already given, was there created a trust which the parties benefited are entitled to have established by a court of chancery?
+15
+16
+Mr. Lewin, in his work on Trusts,7 thus gives the rules on this subject:
+16
+17
+'On a careful examination the rule appears to be, that whether there was transmutation of possession or not, the trust will be supported, provided it was in the first instance perfectly created. . It is evident that a trust is not perfectly created where there is a mere intention or voluntary agreement to establish a trust, the settlor himself contemplating some further act for the purpose of giving it completion. . If the settlor propose to convert himself into a trustee, then the trust is perfectly created, and will be enforced so soon as the settlor has executed an express declaration of trust, intended to be final and binding upon him, and in this case it is immaterial whether the nature of the property by legal or equitable. . Where the settlor purposes to make a stranger the trustee, then, to ascertain whether a valid trust has been created or not, we must take the following distinctions: If the subject of the trust be a legal interest and one capable of legal transmutation, as land, or chattels, &c., the trust is not perfectly created unless the legal interest be actually vested in the trustee.' To these positions numerous authorities are cited by the learned author.
+17
+18
+In the case before us the settlor contemplated no further act to give completion to the deed. It was not an intention simply to create a trust. He had done all that was needed. With his wife he signed and sealed the deed. With her he acknowledged it before the proper officers, and himself caused it to be recorded in the appropriate office. He retained it in his own possession, but where it was equally under her dominion. He declared openly and repeatedly to her, and to her brothers and sisters, that it was a completed provision for her, and that she was perfectly protected by it. He intended what he had done to be final and binding upon him. Using the name of his friend as trustee he made the placing the deed upon record and keeping the same under the control of his wife as well as himself, a delivery to the trustee for the account of all concerned,8 or he intended to make himself a trustee by actions final and binding upon himself.
+18
+19
+Adopting the principles laid down by Mr. Lewin, the plaintiff has established her case.
+19
+20
+Mr. Hill, in his work on Trusts, lays down the rule in these words, in speaking of a voluntary disposition in trust:
+20
+21
+'The fact that the deed remains in the possession of the party by whom it is executed, and that it is not acted upon, or is even subsequently destroyed, will not affect its validity, unless there are some other circumstances connected with the transaction which would render it inequitable to enforce its performance.'
+21
+22
+To this he cites many authorities. After quoting many other cases, the author adds:9
+22
+23
+'It would seem to follow from the foregoing decisions that the court will in no case interfere to enforce the performance of a voluntary trust against its author if the legal interest in the property be not transferred or acquired as part of the transaction creating the trust. The doctrine of the court however does not, in fact, appear to be so confined. If a formal declaration of trust be made by the legal owner of the property declaring himself in terms the trustee of that property for a volunteer, or directing that it shall be held in trust for the volunteer, the court will consider such a declaration as a trust actually created and will act upon it as such.'
+23
+24
+'It will be seen that it is difficult to define with accuracy the law affecting this subject. The writer conceives that he is warranted in stating the following propositions to be the result of the several decisions: 1. Where the author of a trust is possessed of the legal interest in the property, a clear declaration of trust contained in or accompanying a deed or act which passes the legal estate will create a perfect executed trust, and will be established against its author and all subsequent volunteers claiming under him. 2. A clear declaration or direction by a party that the property shall be held in trust for the objects of his bounty, though unaccompanied by a deed or other act divesting himself of the legal estate, is an executed trust, and will be enforced against the party himself, or representatives, or next of kin after his death.'
+24
+25
+Upon the principles laid down by this author the plaintiff's case is made out.
+25
+26
+It will be necessary to refer to a few only of the American authorities.
+26
+27
+In Bunn v. Winthrop,10 which was the case of a voluntary trust created in certain real estate in the city of New York, Chancellor Kent says:
+27
+28
+'The instrument is good as a voluntary settlement, though retained by the grantor in his possession until his death. There was no act of his at the time or subsequent to the execution of the deed which denoted an intention contrary to the face of the deed. The cases of Clavering v. Clavering,11 of Boughton v. Boughton,12 and of Johnson v. Boyfield,13 I had occasion lately to consider in the case of Souverbye v. Arden, and they will be found to be authorities in favor of the validity and operation of deeds of settlement, though retained by the grantor under circumstances much less favorable to their effect that the one now under consideration.'
+28
+29
+In Souverbye v. Arden,14 which was a bill against the father to enforce a voluntary settlement of real estate upon the daughter, made by the father and by the mother, then deceased, the same learned judge says:
+29
+30
+'If we recur to the adjudged cases and the acknowledged rules of law on this subject, they will be found in favor of the valid operation of this deed, whether the actual delivery was to the plaintiff or to her mother (the mother being one of the grantors). This is much stronger, and attended with more circumstances of a due delivery, than Shelton's Case.15 In that case a deed was sealed in the presence of the grantee and others, and was read, but not delivered, nor did the grantee take it, but it was left behind in the same place, and yet in the opinion of all the justices it was a good grant; for the parties came together for that purpose, and performed all that was requisite for perfecting it except an actual delivery; being left behind, and not countermanded, it was held to be a delivery in law. In the ancient authorities, and at a time when the execution of deeds was subjected to great formality and strictness, it was admitted that if A. execute a deed to B., and deliver it to C., though he does not say to the use of B., yet it is a good delivery to B., if he accepts of it, and it shall be intended that C. took the deed for him as his servant. . A voluntary settlement, fairly made, is always binding in equity upon the grantor, unless there be clear and decisive proof that he never parted, nor intended to part, with the possession of the deed; and even if he retains it, the weight of authority is decidedly in favor of its validity, unless there be other circumstances beside the mere fact of his retaining it, to show it was not intended to be absolute. This will appear from an examination of a few of the strongest cases on each side of the question.'
+30
+31
+He then goes into an examination of the decided cases, for which it is only necessary to refer to the case itself.16
+31
+32
+The defence rests upon the alleged non-delivery by Mr. Adams of the deed of August to Mrs. Adams, or for her benefit. We have referred at length to the authorities which show that as matter of law the deed was sufficiently delivered, and that it is the duty of the court to establish the trust.
+32
+33
+We think that the decree of the court below was well made, and that it should be.
+33
+34
+AFFIRMED.
+34
+
+1
+
+2
+
+3
+
+4
+
+5
+
+6
+
+7
+
+8
+
+9
+
+10
+
+11
+
+12
+
+13
+
+14
+
+15
+
+16
+
+and note, Antrobus v. Smith.
+
+1
+
+2
+Cloud v. Calhoun, 10 Richardson's Equity. 
+
+2
+
+3
+Id.
+
+3
+
+4
+Cloud v. Calhoun, 10 Richardson's Equity. 
+
+4
+
+5
+Lewin on Trusts, King v. Donnelly, 5 Paige, 46.
+
+5
+
+6
+Id.
+
+6
+
+7
+Page 55, 4th edition. 
+
+7
+
+8
+Cloud v. Calhoun, 10 Richardson's Equity. 
+
+8
+
+.
+
+9
+
+Johnson's Chancery. 
+
+10
+
+Brown's Parliamentary Cases. 
+
+11
+
+.
+
+12
+
+.
+
+13
+
+Johnson's Chancery. 
+
+14
+
+15
+Croke Eliz. 7.
+
+15
+
+16
+That the deed in question created a trust, executed and complete, which will be enforced by the courts; see, also, Neves v. Scott, Same case. 
+
+16
+
+
+set()
+=======================================================
+

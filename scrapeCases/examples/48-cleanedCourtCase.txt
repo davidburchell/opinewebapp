@@ -1,0 +1,893 @@
+300 U.S. 251
+SUMI
+v.
+YOUNG.*
+Argued and Submitted Feb. 3, 1937.
+1
+In the Probate Court, Fairbanks, Alaska, October, 1934, a contest arose over the appointment of a guardian for two minor children. Petitioner's application failed. Respondent was designated. The District Court heard the matter de novo and approved this action.
+1
+2
+Upon motion, the Circuit Court of Appeals for the Ninth Circuit dismissed the appeal for lack of jurisdiction. The motion averred: (1) The cause involves no question arising under the Constitution, statute, or treaty of the United States, or any authority exercised thereunder; (2) no monetary value exceeding $is involved; (3) the petitioner was not a party in the Probate Court. Section Judicial Code,1 also section Act of June 6, 1900,2 were relied upon in opposition.
+2
+3
+The Circuit Court of Appeals could find no question under the Constitution, statute or treaty of the United States, or authority exercised thereunder; nor any controversy concerning money, property, or property rights. It concluded that section Judicial Code, gave no jurisdiction; also that section confers none since it only directs that orders of the District Court of Alaska in probate cases shall be deemed judgments subject to appeal as provided by section .
+3
+4
+The petitioner insists that the cause involves construction and application of several sections Alaska Civil Code,3 and that jurisdiction is conferred by section also that section is applicable.
+4
+5
+Considering Summers v. United States, we cannot regard provisions of the Alaska Civil Code as laws of the United States within the intendment of section They are special or local laws designed to meet conditions peculiar to that Territory. It follows that this section does not authorize the appeal under consideration. This view is aided by the words 'in all other civil cases wherein the value in controversy, exclusive of interest and costs, exceeds $* * * and in all habeas corpus proceedings.' If every case arising under the Civil Code involves a statute of the United States, this clause is inappropriate.
+5
+6
+Moreover, to bring within the appellate jurisdiction of the Circuit Court of Appeals every order of the District Court of Alaska concerning guardianship claims against estates, distributions, etc., would hinder the manifest purpose to limit and definitely establish the jurisdiction of that court disclosed by Judicial Code and the amending Act of The Alaska Civil Code is an elaborate Act of Congress—printed pages—which undertakes to prescribe the law on a great many subjects.
+6
+7
+The provision of section Act of June 6, 1900, applicable to appeals in probate cases in Alaska, appears in the margin ante note 2.
+7
+8
+Counsel maintain that this must be interpreted as if it read: 'An order of the District Court made in a probate case on appeal to it, shall be deemed a judgment. Such judgment is appealable. The manner or mode of taking and perfecting such appeal shall be the same manner or mode which is provided for the taking and perfecting of an appeal from other appealable judgments made and entered in the District Court.'
+8
+9
+This proposal is in conflict with the purpose and limitations of the later Acts of These are of general application, and any provision of the Alaska Code concerning appeals to the Circuit Court of Appeals inconsistent with them is ineffective.
+9
+10
+Moreover, we cannot accept the view that the words 'in the manner provided' found in section were intended to permit appeals in probate matters without restriction—to relieve them of requirements generally applicable to causes in the courts of the Territory.
+10
+11
+The court below reached the proper conclusion.
+11
+12
+Affirmed.
+12
+13
+Mr. Justice STONE and Mr. Justice CARDOZO concur in the result, but as they think the case made on the record is not one 'involving' provisions of the Alaska Code, it seems unnecessary to resolve the more doubtful question whether they are statutes of the United States.
+13
+
+*
+
+1
+
+2
+
+3
+
+*
+Rehearing denied —-.
+
+*
+
+1
+Judicial Code, § amended Feb. 
+'(a) Review of final decisions. The circuit courts of appeal shall have appellate jurisdiction to review by appeal or writ of error final decisions—* * *
+'Third. In the district courts for Alaska or any division thereof, and for the Virgin Islands, in all cases, civil and criminal, wherein the Constitution or a statute or treaty of the United States or any authority exercised thereunder is involved; in all other civil cases wherein the value in controversy, exclusive of interest and costs, exceeds $ in all other criminal cases where the offense charged is punishable by imprisonment for a term exceeding one year or by death, and in all habeas corpus proceedings; and in the district court for the Canal Zone in the cases and mode prescribed in sections of Title 48.'
+
+1
+
+Act June (section 943, Carter's Annotated Code Civ.Proc.; section Compiled Laws of Alaska section Compiled Laws of Alaska Upon such hearing the district court or judge thereof shall determine the issues so raised according to the very right of the matter and make such order in the premises as he may see fit, which order shall be entered in a docket to be kept by the clerk of the court for that purpose, properly indexed, and a copy of the same shall be forwarded to the commissioner before whom the exceptions were filed, who shall thereupon proceed in accordance with such order. Such orders shall be deemed a judgment, subject to appeal in the manner provided for appeals from judgments in the district court.'
+
+2
+
+.
+
+3
+
+
+{'28 U.S.C.A. § 225', '300 U.S. 687', '231 U.S. 92'}
+=======================================================
+
+300 U.S. 255
+HOFFMAN
+v.
+RAUCH.
+Argued Feb. 12, 1937.
+1
+The First National Bank, Boswell, Pa., was declared insolvent January 26, 1932. Shortly thereafter a receiver took charge.
+1
+2
+January the bank's cashier, without her consent, sold four Liberty bonds ($each), belonging to Mrs. Rauch and held by it for safekeeping, to the Lohrs. The purchase price was charged to their deposit account.
+2
+3
+Mrs. Rauch died June 2, 1932. Claiming a preference, respondent, her administrator, refused the receiver's offer of a general claim against the estate and brought suit. Upon a directed verdict the administrator obtained judgment as a preferred creditor. The court was of opinion 'that the assets of the bank were augmented when the bank received from its customer the price agreed upon for said bonds and, therefore, that the plaintiff is entitled to participate in the distribution of the assets of the defendant bank as a preferred creditor.' The Circuit Court of Appeals affirmed with an opinion which states: 'With the District Judge, we think that the proceeds of these bonds augmented the assets of the bank. They certainly reduced its liability to others.'
+3
+4
+Petitioner maintans that the bank's assets were not increased through sale of the bonds; that nothing arose therefrom which in original or changed form can be traced into the hands of the receiver.
+4
+5
+Respondent submits that since the bank used the bonds in discharge of a liability it 'was thereby saved the use of its own funds for that purpose and the assets of the bank at the time of closing were therefore larger in amount than they otherwise would have been. A discharge or reduction of a liability produces a corresponding increase in assets. For every debit there must be a credit.'
+5
+6
+Obviously nothing of value was added to the bank's property. Nothing new came into its treasury. A credit entry against an outstanding obligation represented the only possible benefit. Its total liabilities were not reduced since a new obligation arose to pay to the owner the value of the bonds.
+6
+7
+Here it is accepted doctrine that when a claim is made for preference against funds held by the receiver of a national bank the burden is upon the claimant to establish his title; he must definitely trace something of value which belonged to him, or the avails therefrom, into the receiver's possession. Schuyler v. Littlefield, Texas & Pacific Railway Co. v. Pottorff, Receiver, Also, a mere showing that the bank wrongly used property of another in discharging its indebtedness does not suffice to establish a preferred claim against the receiver.
+7
+8
+Accordingly, we must hold that the courts below were in error and reverse the challenged judgment.
+8
+9
+The applicable legal principles were much discussed in Blakey, Receiver, v. Brinson, Texas & Pacific Railway Co. v. Pottorff, Receiver, supra; Jennings, Receiver, et al. v. United States Fidelity & Guaranty Co., Old Company's Lehigh, Inc., v. Meeker, Receiver, et al., Adams, Receiver, v. Champion, Trustee in Bankruptcy, and Farmers' National Bank of Burlington, Kansas, et al. v. Pribble (C.C.A.) .
+9
+10
+Jennings, Receiver, et al. v. United States Fidelity & Guaranty Co., supra, at pages said: 'But the situation is very different when what has been received by the collecting agent is not a thing at all, but a reduction of liabilities by set off or release. * * * A debt does not furnish a continuum upon which a trust can be imposed after cancellation or extinguishment has put the debt out of existence. * * * The dividend that would be due upon the debts canceled through the set off if they were now to be revived is the measure of any benefit accruing to the creditors.' In Old Company's Lehigh, Inc., v. Meeker, Receiver, et al., supra, at page we asserted: 'What was done by the Mamaroneck bank on January 14, 1933, did not involve in its doing the creation of a special deposit or an augmentation of the assets. What was done had no effect except to diminish liabilities by reducing the indebtedness due to a depositor.' And Adams, Receiver, v. Champion, Trustee in Bankruptcy, supra, denied preference in respect of so much of a bank credit arising from the wrongful disposal of bonds as had been withdrawn prior to the receivership. Only the balance came to the receiver. We said ( : 'Evidence is lacking that it was withdrawn in such a form or for such purposes as to be represented by any assets forming part of the estate today.'
+10
+11
+Respondent was not entitled to a preference. His right to participation as a general creditor is conceded.
+11
+12
+The cause must go back to the District Court, with directions to proceed in accordance with this opinion.
+12
+13
+Reversed.
+13
+
+
+{'291 U.S. 245', '294 U.S. 231', '232 U.S. 707', '294 U.S. 216', '294 U.S. 227', '286 U.S. 254'}
+=======================================================
+
+300 U.S. 268
+FOUNDERS GENERAL CORPORATION
+v.
+HOEY.* UNITED STATES v. A. B. LEACH & CO., Inc. SAME v. AUTOMATIC WASHER CO.
+Argued Jan. 8—11, 1937.
+1
+These three cases present, in the main, the same question: When, at the instance of one entitled to receive stock, the certificates therefor are, at his request and for his convenience, issued by the corporation in the name of a nominee who receives no beneficial interest therein, does the transaction involve a transfer by the beneficial owner requiring a documentary stamp pursuant to section Schedule A(3) of the Revenue Act of February Stat. 99, 101?
+1
+2
+The taxpayers seek to recover the amounts alleged to have been wrongfully exacted for the tax, with interest and penalties. In No. the claim of Founders General Corporation for $was denied by the Circuit Court of Appeals for the Second Circuit, (D.C.) In No. 331, the claim of A. B. Leach & Co., Inc., for $was allowed by the Circuit Court of Appeals for the Seventh Circuit, the claim of Automatic Washer Company for $was allowed by the Court of Claims, 15 70. Because of the conflict, we granted certiorari, —-; —-.
+2
+3
+1. In the suit brought by the Founders Corporation, the complaint, setting forth the following facts, was dismissed: On September 10, 1929, that corporation agreed with the United States Electric Power Corporation to subscribe for shares of its common stock, to be delivered on September 17th, each share to be accompanied by a warrant entitling the holder to subscribe before January 2, 1940, for an additional share. After making the agreement and before delivery of the shares, the Founders Corporation directed that the securities by issued in the name of Benton & Co., as its nominee. Benton & Co. was a partnership, organized in 1928 solely to hold in its name securities belonging to the plaintiff, and to transfer them at plaintiff's request. For acting as nominee, the partnership received from plaintiff an annual fee of $ By contract between Benton & Co. and plaintiff, neither the partnership nor any member thereof could claim any beneficial interest in any securities held by the firm, and plaintiff was appointed agent of Benton & Co. for the sale and transfer of securities registered in the partnership name. The stock issued by the Electric Power Corporation in the name of Benton & Co. was delivered to the Founders Corporation.
+3
+4
+Stamp taxes were confessedly payable on the original issue, and on the transfer of any securities from Benton & Co. to the public. The only tax challenged is that upon the alleged transfer by plaintiff to Benton & Co. of the right to receive the stock of the Electric Power Corporation.
+4
+5
+2. In the suit brought by A. B. Leach & Co., Inc., the declaration upon demurrer to which the recovery was had set forth the following facts: That concern, being engaged in the business of selling securities to the public, organized five corporations; subscribed for all their stock; and directed that the stock be issued in the name of Vercouter, an employee. It is conceded that he had no beneficial interest in the stock; had no authority to act except as directed by A. B. Leach & Co., Inc.; and received the certificates solely for its benefit and convenience in connection with future sales to the public.
+5
+6
+Stamp taxes were confessedly payable on the original issue, by the five corporations. The only tax challenged is that upon the alleged transfer by the taxpayer to Vercouter of the right to receive the stock of the five corporations.
+6
+7
+3. In the suit brought by Automatic Washer Company, the facts found on which recovery was allowed are these: An agreement, dated June 22, 1928, between Folds, Buck & Co., bankers, and Nelson, a stockholder and officer of the Washer Company's corporate predecessor, provided that Nelson proposed to cause the latter concern to be reorganized as a Delaware corporation which should acquire the assets and assume the liabilities of the old company; that the new company should issue therefor shares of common and shares of preferred; and that the bankers should have the option of acquiring for $shares of the common and shares of the preferred. On September 17, 1928, the stockholders of the old company agreed with Nelson to contribute ratably the shares in the new which were to be sold to the bankers. To this end, each irrevocably appointed Nelson and one Gallagher attorneys in fact to receive the stock of the new company and to make sale thereof to the bankers. The new company, the taxpayer, was organized. On September 27, 1928, the two companies agreed that the assets should be transferred to the new in consideration of its issuing its common and preferred stock to the stockholders of the old. The agreement recited the arrangement with the bankers and that:
+7
+8
+'In order to carry out this plan * * * each of the stockholders of the Old Company has irrevocably constituted and appointed H. E. Nelson and W. N. Gallagher his attorneys in fact to receive the repective securities of the New Company to which such stockholder may be entitled and to make sale of that portion thereof to be contributed by such stockholder for the purpose of carrying out said agreement of sale with the Bankers. * * * Accordingly, the New Company * * * shall issue such certificates in such names and for such amounts as shall be specified in the joint order of the said H. E. Nelson and W. N. Gallagher, the attorneys in fact * * *, and deliver the same to said attorneys in fact. * * *'
+8
+shares designed to be sold to the bankers were issued to Nelson.were the pro rata contribution of Nelson.
+9
+10
+The taxpayer concedes now that stamp taxes were payable on the original issue of all the stock by the new company; on the old company's transfer to its stockholders (including Nelson) of its right to receive the new company's stock; on Nelson's transfer to the bankers; and on the bankers' sales to the public. The government concedes now that taxes are not payable on Nelson's alleged transfer to himself of his shares which were to go to the bankers. The tax challenged is that on the alleged transfer to Nelson of the right to receive the shares which the other stockholders contributed.
+10
+11
+The applicable part of section Schedule A—Stamp Taxes, is as follows:
+11
+12
+'3. Capital stock, sales or transfers: On all sales, or agreements to sell, or memoranda of sales or deliveries of, or transfers of legal title to shares of certificates of stock or of profits or of interest in property or accumulations in any corporation, or to rights to subscribe for or to receive such shares or certificates, whether made upon or shown by the books of the corporation, or by any assignment in blank, or by any delivery, or by any paper or agreement or memorandum or other evidence of transfer or sale, whether entitling the holder in any manner to the benefit of such stock, interest, or rights, or not, on each $of face value or fraction thereof, 2 cents, and where such shares are without par or face value, the tax shall be 2 cents on the transfer or sale or agreement to sell on each share; Provided, That it is not intended by this title to impose a tax upon an agreement evidencing a deposit of certificates as collateral security for money loaned thereon, which certificates are not actually sold, nor upon the delivery or transfer for such purpose of certificates so deposited, nor upon mere loans of stock nor upon the return of stock so loaned: Provided further, That the tax shall not be imposed upon deliveries or transfers to a broker for sale, nor upon deliveries or transfers by a broker to a customer for whom and upon whose order he has purchased same, but such deliveries or transfers shall be accompanied by a certificate setting forth the facts.'
+12
+13
+First. In each case, the person originally entitled to receive the certificate directed, for his own convenience and purposes, that it be issued in the name of a nominee. It is argued in the Automatic Washer Company Case, that the stockholders of the old company never acquired the 'right to receive' that portion of their stock which was designed for transfer to the bankers; that they did not become entitled to receive shares in the new company until the contract with it was made on September 27th; that prior thereto, they had irrevocably agreed that Nelson should receive and sell the shares which were to go to the bankers; and that, thus, the stockholders of the old company had, prior to the original issue of the stock in the new, relinquished 'the power to command the disposition of the shares' and, therefore, never exercised that power, held taxable in Raybestos-Manhattan, Inc., v. United States, But essentially the same argument was made and rejected in the Raybestos Case, at page There the transaction was held to have involved a taxable transfer of rights to stock, though the old companies had no right to the stock in the consolidated company prior to the execution of the contract whereby the issue to their stockholders was directed. 'The reach of a taxing act whose purpose is as obvious as the present is not to be restricted by technical refinements.' Id., Compare Helvering v. Midland Mutual Life Insurance Co., The situation here is in substance the same as in the Raybestos Case. When the powers of attorney were executed, there was nothing upon which they could operate. The rights to receive the stock in the new company, and the transfer thereof, were effected at one time by the same document.
+13
+14
+Second. It is true that in none of the three cases did the transaction involve the transfer of a beneficial interest. But that fact is, in view of the language of the act, without legal significance. The tax is exacted because the taxpayer transferred 'the right to receive' the certificate. Likewise it is without legal significance that, under power of attorney from nominee to beneficial owner, the former may have no part in the management or disposal of the securities. Nor is it material that in no case did the nominee have a right, at least as against the taxpayer, to compel issuance of the stock to himself. The legal title to the shares was received by the nominee from the newly formed corporation; but the authorization rendering his holding lawful was received from the taxpayer. The legality of the issuance of the stock in the names of the nominees rests on the fact that the taxpayers authorized such issuance and granted their nominees the right to receive the stocks entered in their names. The grant of that authority is a transfer of 'the right to receive' within the meaning of the act; and we are not to look beyond the act for further criteria of taxability. See Burnet v. Harmel. 
+14
+15
+The statute defines the scope of the tax in terms whose breadth is emphasized by the careful particularity of its provisos. Especially indicative of Congressional intention that nominee transactions generally should be subject to the tax are the provisos added by the Revenue Act of Stat. C.A. § note), and the Act of June C.A. §§ note), which except certain specifically described transfers to nominees.
+15
+16
+Third. It is suggested that in each case the taxpayer might have attained his ultimate purpose by a form of transaction which would not have subjected him to the tax. The suggestion, if true, furnishes no reason for relieving him of tax when, for whatever reason, he chooses a mode of dealing within the terms of the act. Compare United States v. Isham, 728; Provost v. United States, To make the taxability of the transaction depend upon the determination whether there existed an alternative form which the statute did not tax would create burden and uncertainty. 'There must be a fixed and indisputable mode of ascertaining a stamp tax.' People of State of New York ex rel. Hatch, v. Reardon, Ann.Cas. 
+16
+ judgment affirmed.
+17
+ judgment reversed.
+18
+ judgment reversed.
+19
+
+*
+
+1
+
+*
+Rehearing denied United States v. Automatic Washer Co., —-.
+
+*
+
+1
+In the eventual determination of the pro rata contribution by the old company's stockholders to the stock to be sold to the bankers, the amount of preferred to be sold was reduced to shares. See Automatic Washer Co. v. United States (Ct.Cl.) .
+
+1
+
+
+{'287 U.S. 103', '26 U.S.C.A. § 902', '204 U.S. 152', '269 U.S. 443', '300 U.S. 216', '299 U.S. 534', '300 U.S. 687', '299 U.S. 531', '296 U.S. 60', '26 U.S.C.A. §§ 902'}
+=======================================================
+
+300 U.S. 290
+INGELS, Director of Motor Vehicle Department, et al.
+v.
+MORF et al.
+Argued Feb. 5, 1937.
+1
+This suit was brought by appellee in the District Court for Southern California, three judges sitting, to restrain appellants, state officers, from enforcing the provisions of the Caravan Act, Cal.Stat. , as a forbidden burden on interstate commerce, and as an infringement of the due process and equal protection clauses of the Fourteenth Amendment. From a decree granting the relief prayed, the case comes here on appeal under sections Judicial Code, as amended (28 C.A. §§ .
+1
+2
+The challenged statute defines 'caravaning' as the transportation, 'from without the State of any motor vehicle operated on its own wheels, or in tow of another motor vehicle, for the purpose of selling or offering the same for sale * * * to any purchaser' located within or without the state. Sections 2 and 3 prohibit caravaning without attaching to each vehicle so transported a special permit issued by the State Motor Vehicle Department, for which a fee of $15 is exacted. A permit is valid only for the trip or trips specified in it, and for a period of ninety days (section 4). Section 6 directs that the fees collected be paid into the general fund in the state treasury, and declares that they are 'intended to reimburse the State treasury for the added expense which the State may incur in the administration and enforcement of this act and the added expense of policing the highways over which such caravaning may be conducted, so as to provide for the safety of traffic on such highways where caravaning is being conducted.'
+2
+3
+Appellee, a resident of Los Angeles, California, carries on his business there as a dealer in automobiles. He purchases used automobiles in other states and transports them from the place of purchase to points on the California boundary line, thence over state highways to Los Angeles, and sometimes to other places, where he offers them for sale. He conducts from 20 to 25 per cent. of the total movement in such traffic. Some of his vehicles are coupled together in twos, and move in caravans or fleets, sometimes aggregating more than 30 cars. He gave testimony, which appellants sharply challenge, that from 30 to 40 per cent. move singly and not in company with any other vehicle. A permit is required for each car, whether it moves alone or as part, of a fleet. The District Court found that such movement of vehicles in caravans of more than four create special traffic difficulties, but that the movement of four or less 'constitutes no police problem'; that there is considerable like traffic carried on wholly within the state, for which the fee of $15 is not exacted and for which no similar or other fee is required; and that the demanded fee for each car moving in the interstate traffic is excessive and bears no reasonable relation to the increased cost of policing. It concluded, as the appellee contends here, that the statute denies to appellee due process and equal protection, and places a forbidden burden on, and discriminates against, interstate commerce.
+3
+4
+We find it necessary to consider only the contention that the licensing provisions burden interstate commerce. We do not discuss appellants' suggestion that, contrary to the finding below, there is no evidence of comparable traffic moving intrastate, and hence no discrimination against interstate commerce by the failure of the act to exact a fee of those engaged in intrastate commerce. It is not denied that the permit fee, imposed upon those engaged in interstate commerce, burdens this commerce, but appellants urge that it is a permissible charge for the use of the state highways and for the cost of policing the traffic, including the cost of administering the Act.
+4
+5
+In Morf v. Bingaman, recently before this Court, the Caravaning Act of New Mexico, containing some features similar to the present act, was likewise assailed as burdening interstate commerce by the imposition of a fee, of $for each vehicle moving by its own power, and $5 for each vehicle towed by another when moving in caravan. The statute made the privilege of using the highway conditional upon payment of the fee. The fees collected were devoted in part to highway purposes. We held that the fees were a charge for the use of the highways, not shown by the taxpayer to be unreasonable, which the state might lawfully demand. Compare Hendrick v. Maryland, Interstate Busses Corporation v. Blodgett. 
+5
+6
+To justify the exaction by a state of a money payment burdening interstate commerce, it must affirmatively appear that it is demanded as reimbursement for the expense of providing facilities, or of enforcing regulations of the commerce which are within its constitutional power. Sprout v. South Bend, Interstate Transit, Inc., v. Lindsey, Postal Telegraph-Cable Co. v. Richmond, Clyde Mallory Lines v. Alabama, This may appear from the statute itself, Morf v. Bingaman, supra; Clark v. Poor, or from the use of the money collected, to defray such expense. Hicklin v. Coney, see Kane v. New Jersey, Aero Mayflower Transit Co. v. Georgia Pub. Serv. Comm., compare Interstate Busses Corporation v. Blodgett, supra. 
+6
+7
+Here appellant does not show that the fees collected are used to meet the cost of the construction or maintenance of its highways. Section 6 of the challenged act, which directs that the permit fees be paid into the general fund of the state treasury, is to be contrasted with other California statutes relating to motor vehicles, which exact license fees and taxes and direct that they be paid, at least in part, into special funds devoted to highway purposes. Motor Fuel License Act, § Cal.Stat. , as amended, Cal.Stat.; Vehicle Code, §§ Cal.Stat.; Cal.Stat.. See Interstate Transit, Inc., v. Lindsey, supra, Appellants point to no statute appropriating any part of the general fund of the state treasury for highway purposes and the Street and Highways Code, § c. , provides: 'With the exception of money authorized by law to be deposited in the State highway general fund, all money available for the acquisition of real property or interests therein for State highways, or for the construction, maintenance or improvement of State highways or highways in State parks shall be deposited in the State highway fund.'
+7
+8
+Hence we must look to the statute itself to ascertain the purposes for which the permit fees are collected. On this point it is explicit. It declares (section 6) that they are intended to reimburse the state treasury for the added expense of administering the Caravan Act and policing the caravaning traffic. This negatives any inference of the purpose of the collection which might otherwise be drawn from the statute, and from its provision that the permit is prerequisite to the use of the highways. Compare Morf v. Bingaman, supra. It is true that this declaration is not an appropriation of the moneys collected and it does not foreclose the use of the fund for highway maintenance, should the state elect to do so. But until such appropriation is made the statute itself states the legislative purpose, and precludes state officials from asserting that the fees are collected for any other.
+8
+9
+The burden rests on appellee to show that the fee is excessive for the declared purpose. Hendrick v. Maryland, supra, Interstate Busses Corporation v. Blodgett, supra, Morf v. Bingaman, supra, But the trial court has found that it is excessive and the finding is amply supported by evidence. In cars were caravaned, and in the first eleven months of This supports the inference of the trial court that cars are brought into the state, annually, for sale under the conditions defined in the act. There was testimony that the expense involved in issuing caravaning permits is 'about $per car,' although it appeared that the permit fee for local pleasure, cars, numbering per year, of which only 35 per cent. ($ is devoted to administrative expenses.
+9
+10
+The Caravan Act became effective September 15, 1935. A permit granted under it is confined to a limited movement from the state boundary to the immediate point of destination. The undisputed evidence shows that prior to the passage of the measure two new district inspectors were appointed solely on account of caravaning, and fourteen new highway patrolmen were 'assigned,' partially because of caravaning and its effect on traffic. The chief of the California highway patrol, in summarizing this testimony, said that he had put on 'approximately six additional men over the whole state because there were caravans on the road, and I anticipate putting on more men.' They receive a monthly salary of $ which may eventually be increased to $ The District Court found that the evidence indicated that a total of ten men at a salary of $a month, and at an aggregate cost of $a year, would be adequate to police the traffic, whereas the permit fees from cars would yield an annual return of $.
+10
+11
+We cannot say that the evidence does not support the conclusion of the trial court that the cost of policing would be amply met by a license fee of one-third of the amount so charged. The administrative expense of issuing the permits appears not to have been included, but the testimony that that expense was about $per car does not bridge the arithmetical gap, and does not impeach the court's conclusion that the permit fee bears no reasonable relation to the total cost of regulation, to defray which it is collected. It rightly held that the licensing provisions of the statute impose an unconstitutional burden on interstate commerce.
+11
+12
+On this record we are not required to consider whether the provisions of section 2 which make it unlawful 'to operate three or more vehicles or groups of vehicles in caravan unless a space of at least one hundred fifty feet shall at all times be maintained between each vehicle or group of vehicles being so caravaned' may be enforced if applied, independently of the licensing provisions, in a statute nondiscriminatory in its operation.
+12
+13
+Affirmed.
+13
+
+
+{'298 U.S. 407', '283 U.S. 183', '235 U.S. 610', '242 U.S. 160', '295 U.S. 285', '276 U.S. 245', '274 U.S. 554', '290 U.S. 169', '249 U.S. 252', '296 U.S. 261', '277 U.S. 163', '28 U.S.C.A. §§ 345'}
+=======================================================
+
+300 U.S. 308
+PEOPLE OF THE STATE OF NEW YORK ex rel. COHN
+v.
+GRAVES et al., Commissioners Constituting the State Tax Commission of the State of New York.
+Argued Feb. 3, 1937.
+1
+This case presents the question whether a state may constitutionally tax a resident upon income received from rents of land located without the state and from interest on bonds physically without the state and secured by mortgages upon lands similarly situated.
+1
+2
+Section of article 16 of the New York Tax Law, Consol.Laws c. 60 (as added by N.Y.Laws , imposes a tax upon the 'entire net income' of residents of the state. By section gross income is defined as including interest and rent. The same section, as amended by N.Y. Laws enumerates among the items of taxable income 'rent (including rent derived from real property situated outside the state) * * * it being intended to include all of the foregoing items, without regard to the source thereof, location of the property involved, or any other factor, except only a case where the inclusion thereof would be violative of constitutional restrictions.'
+2
+3
+Appellant, a resident of New York, brought the present certiorari proceeding in the courts of New York to review a determination of the State Tax Commission, appellees, denying her application for a refund of state income taxes assessed and paid for the years so far as the taxes were attributable to rents received by appellant from New Jersey land, and interest paid on bonds secured by mortgaged real estate in New Jersey, where the bonds and mortgages were physically located. A ground for recovery of the tax assigned by appellant's petition was that the tax was in substance and effect a tax on real estate and tangible property located without the state, in violation of the Fourteenth Amendment of the Constitution of the United States. Judgment for appellant (see App.Div. , was reversed by the New York Court of Appeals, N.E.( The case comes here on appeal under section a) of the Judicial Code, as amended (a).
+3
+4
+The stipulation of facts on which the case was tried in the state court does not indicate that appellant's income has been taxed by New Jersey, and it does not define the precise nature of her interest in the properties producing the income. It sets out that appellant's husband died testate, his will duly probated in New Jersey 'devising and bequeathing to said taxpayer the entire net income from his estate for and during her widowhood,' and that the taxed income included 'rents from testator's real estate' and 'interest from testator's real estate mortgages,' all located in New Jersey. The terms of the will and the status of the estate during the tax years do not otherwise appear. There is nothing to show that the incomeproducing properties were in those years held upon an active trust, or that appellant did not receive the income as life tenant of the legal interest. See Paletz v. Camden Safe Deposit & Trust Co., cf. Passman v. Guarantee Trust & Safe-Deposit Co., Westfield Trust Co. v. Beekman, Any uncertainty arising from the ambiguity of the stipulation, if it has any present significance, is put at rest by the concession of appellant in brief, and in open court on the argument, that she is the owner of a life estate or interest in the properties, and that she received, as a part of her income in the tax years, the rents and interest which have been collected by the executors acting, not in their capacity as executors, but as her agents for an annual compensation.
+4
+5
+In any case we may assume, for present purposes, that New York may not levy a property tax upon appellant's interest, whether it be legal or equitable, see Senior v. Braden, Safe Deposit & Trust Co. v. Virginia, We accordingly limit our review to the question considered and decided by the state court, whether there is anything in the Fourteenth Amendment which precludes the State of New York from taxing the income merely because it is derived from sources, which, to the extent indicated, are located outside the state.
+5
+6
+Income from rents. That the receipt of income by a resident of the territory of a taxing sovereignty is a taxable event is universally recognized. Domicil itself affords a basis for such taxation. Enjoyment of the privileges of residence in the state and the attendant right to invoke the protection of its laws are inseparable from responsibility for sharing the costs of government. 'Taxes are what we pay for civilized society,' see Compania General de Tabacos v. Collector, A tax measured by the net income of residents is an equitable method of distributing the burdens of government among those who are privileged to enjoy its benefits. The tax, which is apportioned to the ability of the taxpayer to pay it, is founded upon the protection afforded by the state to the recipient of the income in his person, in his right to receive the income and in his enjoyment of it when received. These are rights and privileges which attach to domicil within the state. To them and to the equitable distribution of the tax burden, the economic advantage realized by the receipt of income and represented by the power to control it, bears a direct relationship. See Lawrence v. State Tax Comm., Maguire v. Trefry, Virginia v. Imperial Coal Sales Co., compare Shaffer v. Carter. 
+6
+7
+Neither the privilege nor the burden is affected by the character of the source from which the income is derived. For that reason income is not necessarily clothed with the tax immunity enjoyed by its source. A state may tax its residents upon net income from a business whose physical assets, located wholly without the state, are beyond its taxing power. Lawrence v. State Tax Comm., supra; see Shaffer v. Carter, supra, at page It may tax net income from bonds held in trust and administered in another state, Maguire v. Trefry, supra, although the taxpayer's equitable interest may not be subjected to the tax, Safe Deposit & Trust Co. v. Virginia, supra. It may tax net income from operations in interstate commerce, although a tax on the commerce is forbidden, United States Glue Co. v. Town of Oak Creek, Ann.Cas. Shaffer v. Carter, supra. Congress may lay a tax on net income derived from the business of exporting merchandise in foreign commerce, although a tax upon articles exported is prohibited by constitutional provision (article 1, § 9, cl. 5). Peck & Co. v. Lowe, Barclay & Co. v. Edwards. 
+7
+8
+Neither analysis of the two types of taxes, nor consideration of the bases upon which the power to impose them rests, supports the contention that a tax on income is a tax on the land which produces it. The incidence of a tax on income differs from that of a tax on property. Neither tax is dependent upon the possession by the taxpayer of the subject of the other. His income may be taxed, although he owns no property, and his property may be taxed, although it produces no income. The two taxes are measured by different standards, the one by the amount of income received over a period of time, the other by the value of the property at a particular date. Income is taxed but once; the same property may be taxed recurrently. The tax on each is predicated upon different governmental benefits; the protection offered to the property in one state does not extend to the receipt and enjoyment of income from it in another.
+8
+9
+It would be pressing the protection which the due process clause throws around the taxpayer too far to say that because a state is prohibited from taxing land which it neither protects nor controls, it is likewise prohibited from taxing the receipt and command of income from the land by its resident, who is subject to its control and enjoys the benefits of its laws. The imposition of these different taxes, by the same or different states, upon these distinct and separable taxable interests, is not subject to the objection of double taxation, which has been successfully urged in those cases where two or more states have laid the same tax upon the same property interest in intangibles or upon its transfer at death. Safe Deposit & Trust Co. v. Virginia, supra; Farmers' Loan & Trust Co. v. Minnesota, Baldwin v. Missouri, Beidler v. South Carolina Tax Commission, First National Bank v. Maine, These considerations lead to the conclusion that income derived from real estate may be taxed to the recipient at the place of his domicil, irrespective of the location of the land, and that the state court rightly upheld the tax.
+9
+10
+Nothing which was said or decided in Pollock v. Farmers' Loan & Trust Co., calls for a different conclusion. There the question for decision was whether a federal tax on income derived from rents of land is a direct tax requiring apportionment under article 1, section 2, clause 3 of the Constitution. In holding that the tax was 'direct,' the Court did not rest its decision upon the ground that the tax was a tax on the land, or that it was subject to every limitation which the Constitution imposes on property taxes. It determined only that for purposes of apportionment there were similarities in the operation of the two kinds of tax which made it appropriate to classify both as direct, and within the constitutional command. See Pollock v. Farmers' Loan & Trust Co., supra, Brushaber v. Union Pacific R. Co., And in Union Refrigerator Transit Co. v. Kentucky, Ann.Cas. decided ten years after the Pollock Case, the present question was thought not to be foreclosed.
+10
+11
+It is by a parity of reasoning that the immunity of income-producing instrumentalities of one government, state or national, from taxation by the other, has been extended to the income. It was thought that the tax, whether on the instrumentality or on the income produced by it, would equally burden the operations of government. See Collector v. Day, 122; Pollock v. Farmers' Loan & Trust Co., supra, Gillespie v. Oklahoma, But as we have seen, it does not follow that a tax on land and a tax on income derived from it are identical in their incidence or rest upon the same basis of taxing power, which are controlling factors in determining whether either tax infringes due process.
+11
+12
+In Senior v. Braden, supra, on which appellant relies, no question of the taxation of income was involved. By concession of counsel, on which the Court rested its opinion, if the interest taxed was 'land or an interest in land situate within or without the state,' the tax was invalid, and the Court held that the interest represented by the certificates subjected to the tax was an equitable interest in the land. Here the subject of the tax is the receipt of income by a resident of the taxing state, and is within its taxing power, even though derived from property beyond its reach.
+12
+13
+Income from bonds secured by New Jersey mortgages. What has been said of the power to tax income from land without the state is decisive of the objection to the taxation of the income from interest on bonds because they are secured by mortgages on land without the state, compare Kirtland v. Hotchkiss, Appellant also argues that the interest from the bonds is immune from taxation by New York because they have acquired a business situs in New Jersey within the doctrine of New Orleans v. Stemple, Metropolitan Life Ins. Co. v. New Orleans, Wheeling Steel Corporation v. Fox, This contention, if pertinent to the present case, is not supported by the record. The stipulation of facts discloses only that the bonds and mortgages were located in New Jersey. See Baldwin v. Missouri, supra; Blodgett v. Silberman, The burden rested on the taxpayer to present further facts which would establish a 'business situs.' Beidler v. South Carolina Tax Commission. 
+13
+14
+Retroactive application of the tax. Appellant insists that in upholding the tax upon her income for the state court infringed due process by giving retroactive effect to the amendment of section of the New York Tax Law, which specifically declared that rents, embraced in taxable income by the section before amendment, should include rent from real property without the state. In support of this contention appellant points to the decision in People ex rel. Pierson v. Lynch, N.E. affirming Pierson v. Lynch, App.Div. that rents from land outside the state were not taxed by that section before its amendment, and to the dismissal by this Court of the writ of certiorari to review the judgment for want of a properly presented federal question. Lynch v. State of New York ex rel. Pierson. 
+14
+15
+It is unnecessary for us to determine whether, or to what extent, the state court, in sustaining the tax in this case, rested its decision on the amendment of or whether it regarded it as anything more than a clarifying act pointing out the meaning properly attributable to the section before amendment. The record does not disclose that appellant raised in the state court the objection, which she presses here, to the retroactive application of the statute. In reviewing the judgment of a state court, this Court will not pass upon any federal question not shown by the record to have been raised in the state court or considered there, whether it be one arising under a different or the same clause in the constitution with respect to which other questions are properly presented. Bolln v. Nebraska, People of State of New York ex rel. Rosevale Realty Co. v. Kleinert, Saltonstall v. Saltonstall. 
+15
+16
+Affirmed.
+16
+17
+Mr. Justice BUTLER (dissenting).
+17
+18
+The tax is on income. I am of opinion that the rents received by appellant for the use of real estate in New Jersey may not be included in her taxable income. By our decisions it is established that a tax on income received for the use of land is in legal effect a tax upon the land itself. Pollock v. Farmers' Loan & Trust Co., Thomas v. Gay, Knowlton v. Moore, McCoach v. Minehill Railway Co., Stratton's Independence v. Howbert, Brushaber v. Union Pac. R. Co., Eisner v. Macomber, Evans v. Gore, Gillespie v. Oklahoma, Lake Superior Mines v. Lord, Senior v. Braden. 
+18
+19
+New Jersey, in addition to tax on the land measured by its value, may lay a tax upon the income received by the owner for its use. Lake Superior Mines v. Lord, ubi supra.
+19
+20
+Appellant's right to own, or to collect rents in New Jersey for the use of, lands in that state was not given and is not protected by New York law. Neither of these rights is enjoyed in New York or has any relation to appellant's privilege of residence in, or to the protection of, that state. Ability of taxpayers to pay may be taken into account for apportionment of the tax burdens that it is authorized to impose. But the financial means of those to be taxed cannot be made to generate for the state power to tax lands, or rents paid for use of lands, beyond its borders. I would exclude the item.
+20
+21
+Mr. Justice McREYNOLDS concurs in this opinion.
+21
+
+
+{'247 U.S. 321', '100 U.S. 491', '282 U.S. 1, 51', '271 U.S. 577', '286 U.S. 276', '282 U.S. 1, 8', '205 U.S. 395', '175 U.S. 309', '267 U.S. 442', '231 U.S. 399', '158 U.S. 601', '247 U.S. 165', '295 U.S. 422', '280 U.S. 204', '169 U.S. 264', '252 U.S. 189', '277 U.S. 1, 14', '275 U.S. 87', '252 U.S. 37', '280 U.S. 83', '228 U.S. 295', '281 U.S. 586', '293 U.S. 52', '199 U.S. 194', '240 U.S. 1, 16', '253 U.S. 245', '178 U.S. 41', '257 U.S. 501', '176 U.S. 83', '253 U.S. 12', '157 U.S. 429', '157 U.S. pp. 580', '28 U.S.C.A. § 344', '298 U.S. 193', '276 U.S. 260', '293 U.S. 15', '268 U.S. 646', '284 U.S. 312'}
+=======================================================
+
+300 U.S. 319
+PHELPS
+v.
+BOARD OF EDUCATION OF TOWN OF WEST NEW YORK et al. ASKAM et al. v. SAME.
+Argued Feb. 4, 5, 1937.
+1
+The people of New Jersey have ordained by their Constitution that the Legislature 'shall provide for the maintenance and support of a thorough and efficient system of the public schools.'1 In fulfillment of this command a comprehensive school law was adopted in 1903 by which boards of education were set up for cities, towns, and school districts throughout the state.2 Section empowered these boards to make rules and regulations governing engagement and employment of teachers and principals, terms and tenure of such employment, promotion, and dismissal, salaries and their time and mode of payment, and to change and repeal such rules and regulations from time to time.3 This general school law was amended by the Act of April 21, 1909,section 1 of which provides (N.J.Comp.St.): 'The service of all teachers, principals, supervising principals of the public schools in any school district of this state shall be during good behavior and efficiency, after the expiration of a period of employment of three consecutive years in that district, unless a shorter period is fixed by the employing board. * * * No principal or teacher shall be dismissed or subjected to reduction of salary in said school district except for inefficiency, incapacity, conduct unbecoming a teacher or other just cause, and after a written charge of the cause or causes shall have been preferred against him or her, * * * and after the charge shall have been examined into and found true in fact by said board of education, upon reasonable notice to the person charged, who may be represented by counsel at the hearing.'
+1
+2
+An Act of February 4, 1933,5 premising that existing economic conditions require that boards of education be enabled to fix and determine the amount of salary to be paid to persons holding positions in the respective school districts, authorizes each board to fix and determine salaries to be paid officers and employes for the period July 1, 1933, to July 1, 1934, 'notwithstanding any such person be under tenure'; prohibits increase of salaries within the period named; forbids discrimination between individuals in the same class of service in the fixing of salaries or compensation; and sets a minimum beyond which boards may not go in the reduction of salaries. June 23, 1933, the board adopted a resolution reducing salaries for the school year July 1, 1933, to July 1, 1934, by a percentage of the existing salaries graded upward in steps as the salaries increased in amount, except with respect to clerks, the compensation of each of whom was reduced to a named amount.
+2
+3
+Appellants, who were principals, teachers, and clerks employed by the appellee, petitioned the Department of Public Instruction, in accordance with the school law, praying that the action of the board be set aside. The Commissioner of Education dismissed the petition and, upon appeal from his action, the State Board of Education affirmed the decision. The appellants applied for certiorari from the Supreme Court, assigning among other reasons that the decision violated article 1, section 10, and section 1 of the Fourteenth Amendment, of the Federal Constitution. The writs6 issued and, after hearing, the court affirmed the action of the administrative tribunal.7 The Court of Errors and Appeals affirmed the judgment upon the opinion of the Supreme Court.8
+3
+4
+The position of the appellants is that by virtue of the Act of three years of service under contract confer upon an employe of a school district a contractual status indefinite in duration which the legislature is powerless to alter or to authorize the board of education to alter. The Supreme Court holds that the Act of 'established a legislative status for teachers, but we fail to see that it established a contractual one that the Legislature may not modify. * * * The status of tenure teachers, while in one sense perhaps contractual, is in essence dependent on a statute, like that of the incumbent of a statutory office, which the Legislature at will may abolish, or whose emoluments it may change.'
+4
+5
+This court is not bound by the decision of a state court as to the existence and terms of a contract, the obligation of which is asserted to be impaired, but where a statute is claimed to create a contractual right we give weight to the construction of the statute by the courts of the state.9 Here those courts have concurred in holding that the act of did not amount to a legislative contract with the teachers of the state and did not become a term of the contracts entered into with employes by boards of education. Unless these views are palpably erroneous we should accept them.
+5
+6
+It appears from a stipulation of facts submitted in lieu of evidence that after a teacher has served in a school district under yearly contracts for three years it has not been customary to enter into further formal contracts with such teacher. From time to time, however, promotions were granted and salary raised for the ensuing year by action of the board. In the case of many of the appellants there have been several such increases in salary.
+6
+7
+Although after the expiration of the first three years of service the employe continued in his then position and at his then compensation unless and until promoted or given an increase in salary for a succeeding year, we find nothing in the record to indicate that the board was bound by contract with the teacher for more than the current year. The employe assumed no binding obligation to remain in service beyond that term. Although the act of prohibited the board, a creature of the state, from reducing the teacher's salary or discharging him without cause, we agree with the courts below that this was but a regulation of the conduct of the board and not a term of a continuing contract of indefinite duration with the individual teacher.
+7
+8
+The resolution of June 23, 1933, grouped the existing salaries paid by the board into six classes the lowest of which comprised salaries between $ and the highest included salaries ranging between $ The reduction in the lowest class for the coming year was 10 per cent; that in the highest class 15 per cent. Salaries in the intermediate classes were reduced per cent. It resulted that in some instances a teacher receiving the lowest salary in a given bracket would have his compensation reduced to a figure lower than the reduced compensation of one receiving the highest salary in the next lower bracket. From this circumstance it is argued that the board's action arbitrarily discriminated between the employes and so denied them the equal protection of the laws guaranteed by the Fourteenth Amendment.
+8
+9
+We think it was reasonable and proper that the teachers employed by the board should be divided into classes for the application of the percentage reduction. All in a given class were treated alike. Incidental individual inequality resulting in some instances from the operation of the plan does not condemn it as an unreasonable or arbitrary method of dealing with the problem of general salary reductions or deny the equality guaranteed by the Fourteenth Amendment.
+9
+10
+Judgments affirmed.
+10
+
+1
+
+2
+
+3
+
+4
+
+5
+
+6
+
+7
+
+8
+
+9
+
+1
+Article 4, § 7, par. p. lxxv.
+
+1
+
+2
+Act of Oct. Laws of N.J.N.J.Comp.St.et seq.
+
+2
+
+N.J.Comp.St..
+
+3
+
+4
+Chapter Pamph. L. p. pp. 
+
+4
+
+5
+Chapter 12, N.J.Laws Pamph. L. p. 24 (N.J.St.Annual § ).
+
+5
+
+6
+Two writs were issued. The only difference between the two cases, which were heard as one, is that in the Phelps case the employee refused to accept the reduced salary. In the case of Askam, et al., the employees took the reduced salary under protest.
+
+6
+
+7
+Phelps v. State Board of Education, N.J.Law. 
+
+7
+
+8
+Phelps v. Board of Education of Town of West New York, N.J., N.J.Law, Askam v. Board of Education of Town of West New York, N.J.Law. 
+
+8
+
+9
+Freeport Water Co. v. Freeport, Tampa Waterworks Co. v. Tampa, Milwaukee Elec. Ry. Co. v. Railroad Comm., Seton Hall College v. South Orange, Coombes v. Getz. 
+
+9
+
+
+{'199 U.S. 241', '242 U.S. 100', '285 U.S. 434', '238 U.S. 174', '180 U.S. 587'}
+=======================================================
+
+300 U.S. 414
+DUGAS
+v.
+AMERICAN SURETY CO. OF NEW YORK.*
+Argued Jan. 13, 14, 1937.
+1
+This case presents a controversy over the scope and effect of the decrees of a federal District Court in a suit brought by a surety company under the Interpleader Act of May 8, 1926,1 and over the propriety of subsequent proceedings in the same court upon a supplemental bill brought in aid of and to effectuate that decree.
+1
+2
+It will be helpful to state the facts with some detail.
+2
+3
+February the Lumbermen's Reciprocal Association, a Texas insurance corporation, by way of qualifying itself to engage in writing workmen's compensation and other insurance in Louisiana, executed a bond, in the sum of $ conditioned for the payment of claims lawfully arising against it by reason of insurance so written. The bond was given conformably to a Louisiana statute,2 and was executed by the American Surety Company, a New York corporation, as surety. Later in 1930, and after writing a substantial volume of insurance in Louisiana, the Lumbermen's Reciprocal Association became embarrassed and was placed in the hands of a receiver by a court in Texas.
+3
+ in a suit brought in a Louisiana court, Etienne Dugas, who had a claim against the Lumbermen's Reciprocal Association arising out of workmen's compensation insurance written by it in Louisiana, recovered against the American Surety Company, as surety on the qualifying bond, a judgment for the payment of $20 per week for not more than weeks commencing May 15, 1930, subject to modification as to future payments if his disability was relieved or reduced, and for $for medical bills, together with costs.
+4
+5
+The American Surety Company appealed to the Court of Appeal from that judgment, and, for the purpose of suspending execution pending the appeal, it executed a bond conditioned that it should diligently prosecute its appeal and satisfy whatever judgment might be rendered against it if cast in the appeal. The appeal bond was given conformably to a law of the state,3 was in the sum of $ and was executed by the New York Casualty Company as surety. The appeal was perfected and the record duly filed in the Court of Appeal, but nothing further was done therein for reasons which soon will appear.
+5
+6
+Many other claims arising out of insurance written in Louisiana by the Lumbermen's Reciprocal Association were asserted under the qualifying bond. In the aggregate, these claims were far in excess of the amount of the bond.
+6
+ desiring to avail itself of the provisions of the Interpleader Act of May 8, 1926, the American Surety Company, with the court's leave, paid into the registry of the federal District Court at New Orleans, La., the sum of $ being the full amount of the qualifying bond, and thereupon filed in that court a duly verified bill of interpleader in which it set forth the several matters here recited, including the proceedings, judgment, and appeal in Dugas' suit on the qualifying bond; stated the names and places of residence of the several claimants under that bond, so far as they were known to it; and further alleged—
+7
+8
+'This Court has jurisdiction because this is a bill of interpleader in equity brought by a surety company against bona fide adverse claimants against its bond of February 12, 1930, two or more of whom are citizens of different states, and one or more of said adverse claimants resides or reside within the territorial jurisdiction of this Court.'
+8
+9
+'Plaintiff disclaims any interest in the amount of its said bond except to pay same to the persons lawfully entitled thereto.' 'By reason of the conflicting claims against the said bond, and the fact that claims already known to plaintiff greatly exceed the amount of the said bond, plaintiff is in grave danger of being greatly harassed and damaged, and cannot safely make payments to any claimant without the aid of this Court.'
+9
+10
+'Plaintiff, with the permission of this Court first obtained, has paid into the Registry of this Court the said sum of $ the amount of said bond, to abide the judgment of this Court.'
+10
+11
+The bill prayed that Dugas and the other claimants be cited to interplead and settle among themselves their claims to the amount of the bond deposited in the court's registry; that each of them be temporarily and permanently enjoined from instituting or prosecuting in any state court or in any other federal court any suit on account of any right or claim growing out of the qualifying bond; that the plaintiff be released from all further liability on the qualifying bond; and that any other or further relief deemed proper in the premises be granted.
+11
+12
+All claimants under the qualifying bond, including Dugas, were called into the suit as defendants.
+12
+ the court after a hearing granted an interlocutory injunction conforming to the prayer in the bill.
+13
+14
+Dugas risisted the bill by an exception of no cause of action, a plea of estoppel, and an answer. In the plea and answer he specifically relied on the judgment of April 14, 1931, in the state court and the appeal therefrom together with the appeal bond, as showing that he should not be brought into the interpleader suit.
+14
+15
+September after a full hearing, the court rendered a decree as follows:
+15
+ Declaring the American Surety Company had complied with all of its obligations under the qualifying bond by depositing the full amount of the bond in the court's registry at the time of bringing the suit; and further declaring that company, by reason of such compliance, to be released and discharged from any and all further liability on account of such bond;
+16
+ Enjoining each of the defendants from instituting or prosecuting in any state court, or in any other federal court, any suit against the American Surety Company on account of any right or claim growing out of such bond; and
+17
+ Appointing a special master and charging him with the duty of hearing the claimants and reporting upon the manner in which the fund deposited in the registry, less specified fees and costs, should be distributed among the claimants.
+18
+19
+No appeal was taken then or thereafter from that decree; and it remained in full force and effect.
+19
+20
+In due course hearings were had and evidence was produced before the special master, after which he submitted a report containing his findings of fact, conclusions of law, and recommendations for a distribution of the fund, less fees and costs, among the several claimants upon a pro rata basis. The report also contained a statement showing what he found to be the true and full amount of each claim, the total being in excess of $ and a further statement showing the amount which, on a pro rata distribution would be payable on each claim. As to Dugas' claim, the master reported the true and full amount as $and the pro rata share of the fund payable on the claim as $.
+20
+21
+Shortly after the special master's report was submitted, the several claimants, including Dugas, entered into and filed in the suit a written stipulation declaring that they acquiesced in the report, waived the time allowed for filing exceptions, and requested the court to confirm the report and make it the court's decree.
+21
+ the court, with the special master's report and the stipulation before it, rendered a decree confirming the report and directing that the balance of the fund in the registry be distributed among the several claimants in accordance with the master's recommendations. No appeal was taken from this decree.
+22
+23
+The fund was distributed and paid out accordingly and was thereby exhausted. Dugas accepted the pro rata share accorded to him in the master's report and the confirming decree.
+23
+ Dugas brought a suit in the Louisiana court before mentioned against the New York Casualty Company, the surety on the appeal bond given in his earlier suit on the qualifying bond. In this new suit he asserted that the American Surety Company, defendant in the earlier suit and principal in the appeal bond, had not diligently prosecuted its appeal, but, on the contrary, had brought the interpleader suit in the federal court and had obtained therein an injunction which in effect prohibited him from securing a determination of the appeal; and that it had thereby abandoned the appeal and violated the condition of the appeal bond. While the new suit was based on an asserted breach of the appeal bond by the principal, it was brought against the surety alone. The relief prayed was a judgment in Dugas' favor for $ being the difference between the amount of his workmen's compensation claim as ascertained in the interpleader suit and the sum allowed and paid to him in that suit as his pro rata share of the fund arising from the deposit in court of the full amount of the qualifying bond. By an amended petition, the amount for which judgment was prayed was reduced to $to forestall a removal to the federal court.
+24
+25
+To the new suit the New York Casualty Company interposed the exception of prematurity, among others. The court sustained that exception, without ruling on the others, and dismissed the suit. Dugas appealed to the Supreme Court of the state, which, on January 7, 1935, reversed the judgment of dismissal and remanded the suit for further proceedings.5
+25
+26
+January the American Surety Company, with the leave of the federal court, filed in the interpleader suit a supplemental bill in which it set forth the matters and proceedings occurring after the decree of September 19, 1932, in that suit; alleged that the judgment of April 14, 1931, against the American Surety Company and in favor of Dugas in his earlier suit in the state court was based entirely on the qualifying bond of February 12, 1930, given by the Lumbermen's Reciprocal Association as principal and the American Surety Company as surety; that by the decree of September 19, 1932, in the interpleader suit, to which Dugas was a party, the American Surety Company was declared to have complied with all of its obligations under the qualifying bond and was released and discharged from any and all further liability on account thereof; that by that decree Dugas was enjoined from instituting or prosecuting in any other court any suit against the American Surety Company on account of any right or claim growing out of such bond; that Dugas' suit in the state court against the New York Casualty Company was brought on the appeal bond given by the American Surety Company as principal and the New York Casualty Company as surety on the appeal taken by the American Surety Company from the judgment of April 14, 1931, on the qualifying bond; that if Dugas should collect any sum from the New York Casualty Company in his suit against it as surety on the appeal bond, the American Surety Company, as principal on that bond, would be bound to reimburse such surety; and that in these circumstances Dugas' suit against the New York Casualty Company was essentially an effort to enforce the judgment of April 14, 1931, which was based solely on the qualifying bond, and therefore was an attempt indirectly to subject the American Surety Company to further liability on account of that bond contrary to the decree of September 19, 1932. Accordingly, and in aid of the decrees in the interpleader suit, the supplemental bill contained prayers for an injunction restraining Dugas from further prosecuting his suit against the New York Casualty Company and for general relief.
+26
+27
+To the supplemental bill Dugas filed pleas challenging the jurisdiction of the court, its power to enjoin proceedings in the state court, and the sufficiency of the case stated. The pleas were overruled and Dugas answered. Upon the final hearing the court found the facts to be as alleged in the supplemental bill and held that Dugas' suit against the New York Casualty Company as surety on the appeal bond was essentially an effort to enforce against the American Surety Company the judgment which he had obtained against it as surety on the qualifying bond, and therefore was in contravention of the spirit, if not the letter, of the decrees in the interpleader suit; and on that basis the court gave a supplemental decree specifically enjoining Dugas from further prosecuting his suit in the state court against the New York Casualty Company. Dugas appealed and the Circuit Court of Appeals affirmed the decree, one judge dissenting. The case is here on certiorari.
+27
+28
+Messrs. Ignatius Uzzo and M. C. Scharff, both of New Orleans, La., for petitioner.
+28
+29
+Mr. Harry McCall, of New Orleans, La., for respondent.
+29
+30
+Mr. Justice VAN DEVANTER, after making the foregoing statement, delivered the opinion of the Court.
+30
+ The amount or penalty of the qualifying bond was $ The surety's obligation was not to Dugas alone, but to the other claimants as well; and this obligation was not to pay all claims regardless of their aggregate, but to pay $or so much thereof as should be needed, and no more. Because the claims exceeded $ the surety paid that sum into the registry of the federal court, there to abide the court's decree, and at the same time brought in that court its interpleader suit against all claimants, including Dugas, to the end that its liability on the bond might be terminated, and that the rights of the several claimants in the amount of the bond so paid into court might be judicially determined and the fund distributed accordingly.
+31
+ The Interpleader Act of under which that suit was brought, makes provision for the filing in a federal District Court of a bill of interpleader by a surety company which has executed a bond in the sum of $or more, under which two or more claimants, citizens of different states, assert adverse rights to the penalty; authorizes the payment of the amount of the bond into the registry of the court, there to await such disposal as the court may direct; and further provides in the latter part of section 2 and in section 3:
+32
+33
+'Sec. 2. * * * Notwithstanding any provision of the Judicial Code to the contrary, said court shall have power to issue its process for all such claimants and to issue an order of injunction against each of them, enjoining them from instituting or prosecuting any suit or proceeding in any State court or in any other Federal court * * * on such bond * * * until the further order of the court; which process and order of injunction shall be returnable at such time as the said court or a judge thereof shall determine and shall be addressed to and served by the United States marshals for the respective districts wherein said claimants reside or may be found.
+33
+34
+'Sec. 3. Said court shall hear and determine the cause and shall discharge the complainant from further liability; and shall make the injunction permanent and enter all such other orders and decrees as may be suitable and proper, and issue all such customary writs as may be necessary or convenient to carry out and enforce the same.' ()
+34
+35
+By plea and answer Dugas objected to being brought into the interpleader suit and grounded the objection upon the judgment, appeal, and appeal bond in his earlier suit in the state court; but the objection was overruled, and the cause proceeded to the rendition of two related decrees.
+35
+36
+In one decree, given September 19, 1932, the complainant surety, by reason of its payment of the amount of the qualifying bond into the court's registry, was discharged from any and all further liability on account of that bond, and the several claimants, including Dugas, were enjoined from instituting or prosecuting against the complainant surety, so discharged, any suit on account of any claim or right growing out of such bond. In the other decree, given April 20, 1933, the court determined the rights of the several claimants, including Dugas, in the fund paid into the registry, and directed its distribution among them on a pro rata basis—this decree being in exact accord with a stipulated request by all claimants, including Dugas.
+36
+37
+Taken together, the two decrees not only completely terminated the liability of the complainant surety on the qualifying bond, but also fixed the full measure of Dugas' right or claim under the bond, and in necessary effect determined that the judgment, appeal, and appeal bond in his earlier suit in the state court did not put his claim beyond the reach of the interpleader suit, or require that it be dealt with differently from other claims.
+37
+38
+Plainly the court had jurisdiction of both the subject-matter and the parties. No appeal was taken from either decree. Therefore Dugas was bound by both decrees. Had he exercised his right to appeal, he could have obtained a review of the rulings on his objection to being brought into the suit, on the bearing and effect of the prior judgment and proceedings in the state court, and on the right of the complainant surety to be discharged from further liability in respect of his claim. But these rulings were all made in the exercise of the court's jurisdiction, were subject to challenge and reexamination only on appeal, and became conclusive on him in the absence of an appeal.
+38
+ In the interpleader suit there was an actual, complete, and judicially sanctioned payment of the qualifying bond by the surety, and it was on this basis that the surety was discharged from all further liability. While the payment was into the court's registry, and not directly to the claimants, it nevertheless was a lawful and effective payment under the Interpleader Act. In effect, the first decree converted the claims under the bond into claims against the fund paid into the registry; and the second decree, made after a hearing in which all claimants were heard, directed and brought about a distribution of the fund among them according to their ascertained rights.
+39
+40
+As Dugas' judgment in the state court was based solely on the qualifying bond, the payment of the bond and discharge of the surety, as effected in the interpleader suit, operated, under recognized principles of law and equity, to extinguish his right under the judgment. He relied on the judgment in his several pleadings and the decrees fixed the measure of his claim conformably to the judgment. Even the costs awarded to him by the judgment were included in the computation. Thus it is plain that the interpleader suit and the decrees therein dealt with his claim as it was embodied in and evidenced by the judgment.
+40
+ Whether, in subsequently bringing suit in the state court on the appeal bond, Dugas contravened the fair intendment of the decrees in the interpleader suit is the principal question arising on the supplemental bill. Both courts below answered the question in the affirmative.
+41
+42
+The appeal bond was in the nature of a security for the satisfaction of the judgment in Dugas' suit on the qualifying bond; and in attempting to enforce this security he obviously was seeking to realize on the judgment. If his right under the judgment was extinguished, he was not entitled to resort to the security; for the relation of one to the other was such that the extinguishment of his right under the judgment terminated his right in the security.6
+42
+43
+It already has been shown in this opinion that his right under the judgment was extinguished by the proceedings and decrees in the interpleader suit.
+43
+44
+With this understanding of the operation and effect of the decrees in that suit, it becomes plain that Dugas' action in bringing suit on the appeal bond and thereby attempting to realize on the prior judgment, notwithstanding the extinguishment of his rights under it, was in contravention of those decrees.
+44
+45
+His counsel contends otherwise, and seeks to support the contention by pointing out that the injunction did not directly forbid Dugas from suing on the appeal bond, but only from instituting or prosecuting any suit against the complainant surety on account of a right or claim growing out of the qualifying bond. But the injunction, being only one part of the decrees, is not the exclusive criterion of what was determined and effected by them. Its purpose was to forestall anticipated departures, not to limit other provisions or restrict their operation and effect.
+45
+46
+By the other provisions it was adjudged that the complainant surety had complied with all of its obligations under the bond by paying the amount of the bond into the court's registry; that, by reason of this compliance, it was discharged from any and all further liability on account of the bond; and that the several claimants under the bond, all of whom had been brought in and heard, were entitled to designated portions of the fund so paid into the registry. Under this last provision, each claimant was paid his portion, the fund being thereby exhausted. It also was adjudged that the fact that Dugas' claim was embodied in and evidenced by a judgment did not make it other than a claim under the bond or take it without the reach of the interpleader suit. He acquiesced in that and other rulings; and the amount of his claim and his proportionate share of the fund were fixed conformably to the judgment. He acquiesced also in this, and accepted the share so allotted to him. In this way the other provisions in the decrees accomplished, as they were intended to do, the extinguishment of his right under the judgment; and they did this independently of the injunction.
+46
+47
+Of the decisions under state interpleader statutes which are cited as if making for a different conclusion, it is enough to say, first, that in none was the statute substantially identical with the federal act of and, secondly, that in such as involved questions approximately like those presented to the District Court in the original suit there were locally appropriate applications for the exercise of appellate authority before the rulings became conclusive, which was not the case here.
+47
+48
+Some reliance is placed on the fact that the suit on the appeal bond was against the surety thereon alone. But this does not make for a different result. As Dugas' right under the judgment was extinguished, he was no more entitled to realize on the judgment by suing the surety on the appeal bond than by suing the principal. Besides, the surety, if cast in the suit and compelled to pay, would be entitled to reimbursement by the principal. The latter, therefore, may be heard to complain in the circumstances shown here.
+48
+ The jurisdiction to entertain the supplemental bill is free from doubt. Such a bill may be brught in a federal court in aid of and to effectuate its prior decree to the end either that the decree may be carried fully into execution or that it may be given fuller effect, but subject to the qualification that the relief be not of a different kind or a different principle.7 Such a bill is ancillary and dependent, and therefore the jurisdiction follows that of the original suit, regardless of the citizenship of the parties to the bill or the amount in controversy.8
+49
+ The power of the court to enjoin Dugas from further prosecuting his suit in the state court on the appeal bond has full support in sections 2 and 3 of the Interpleader Act of before quoted, as also in settled adjudications respecting the power of a federal court to protect its jurisdiction and decrees.9
+50
+51
+Decree affirmed.
+51
+52
+The CHIEF JUSTICE and Mr. Justice CARDOZO are of opinion that the decree should be reversed for the reasons stated by SIBLEY, J., in the court below.
+52
+53
+Mr. Justice STONE did not participate in the consideration or decision of this case.
+53
+
+*
+
+1
+
+2
+
+3
+
+4
+
+5
+
+6
+
+7
+
+8
+
+9
+
+*
+Rehearing denied —-.
+
+*
+
+1
+Chapter Repealed and new act substituted January , but with saving clause respecting any act done or any right, accruing or accrued, in any suit or proceeding had or commenced under the earlier act prior to its repeal.
+
+1
+
+2
+Act La. No. 
+
+2
+
+3
+Code Prac.La. arts. 
+
+3
+
+4
+The master found Dugas' disability was materially relieved at the time the hearing began (October and recommended that his claim be allowed at $20 per week for the weeks preceding the hearing, at $8 per week for weeks, discounted at 8 per cent., and at $for medical bills and $for costs and expert testimony, making a total of $.
+
+4
+
+5
+Dugas v. New York Casualty Co.. 
+
+5
+
+6
+Cage's Executors v. Cassidy, Carpenter v. Longan, 313; Dodge v. Freedman's Savings & Trust Co., United States v. Chouteau, And see Illinois Surety Co. v. to Use of Peeler. 
+
+6
+
+7
+Story's Equity Pleading ( Root v. Woolworth, Local Loan Co. v. Hunt. 
+
+7
+
+8
+Root v. Woolworth, supra, at page Local Loan Co. v. Hunt, supra.
+
+8
+
+9
+French v. Hay, 854; Root v. Woolworth, supra, at page Julian v. Central Trust Co., Madisonville Traction Co. v. Saint Bernard Mining Co., Looney v. Eastern Texas R.R. Co., Wells Fargo & Co. v. Taylor. 
+
+9
+
+
+{'254 U.S. 175', '193 U.S. 93', '102 U.S. 603', '301 U.S. 712', '28 U.S.C.A. § 41', '292 U.S. 234', '240 U.S. 214', ' U.S. to Use of Peeler, 240', '150 U.S. 401', '93 U.S. 379', '247 U.S. 214', '196 U.S. 239'}
+=======================================================
+
+300 U.S. 429
+MATOS
+v.
+HERMANOS et al.*
+Argued March 2, 1937.
+1
+Two sections of the Revised Civil Code of Puerto Rico follow:
+1
+ Animals and cattle suffering from contagious diseases shall not be the object of a contract of sale. Any contract made with regard to the same shall be void. A contract of sale of cattle and animals shall also be void, when the use or service for which they are acquired being stated, they are found to be useless therefor.'
+2
+ The redhibitory action, based on the vices or defects of animals, must be instituted within forty days, counted from their delivery to the vendee, unless, by reason of the customs in each locality, longer or shorter periods are established. This action in the sale of animals may only be enforced with regard to the vices and defects of the same, determined by law or by local customs.' Rev.St. & Codes .
+3
+4
+Several sections of the Island's Penal Code interdict sale or possession of animals suffering from a contagious disease.
+4
+5
+A complaint filed by respondents, Alonso Hermanos et al., in the District Court of San Juan, December 12, 1929, alleged that they purchased March 1, 1929, from petitioner, Jose Matos, a herd of cattle—head—for the lump sum of $ although apparently in good condition the cattle were suffering from tuberculosis, a contagious disease; prior to December had died, 29 were condemned and destroyed by the Health Department. They further declared readiness to return all surviving cattle and prayed that the sale be declared null and void, in accordance with section of the Civil Code, also for judgment for the purchase price.
+5
+6
+A demurrer invoking the limitation of forty days upon redhibitory actions, prescribed by Code section was overruled. An answer followed. This admitted execution of the contract, receipt of the consideration, death, and condemnation of the cattle as alleged. But it affirmed that tuberculosis was contracted after the sale through improper care; also renewed the claim of prescription.
+6
+7
+The trial court found the facts shown by the evidence; concluded the questioned contract was illegal and void, that the action was not subject to the prescription of forty days; and ordered return of the entire purchase price.
+7
+8
+Upon appeal the Supreme Court of Puerto Rico ruled the sale contract was not void but voidable at the purchaser's election; its legal effect and the remedy for violation were within the Code provisions relating to redhibitory contracts; the limitation of forty days applied; 'that section does not exclude the transaction made in this case from the field of warranties.' Also, the contract for the purchase of the herd was 'individual' or 'distributive'—not unitary; as to the dead cows the right to recover the purchase price was prescribed; as to those which survived no right of recovery ever existed. It accordingly reversed the judgment of the District Court and directed dismissal of the complaint.
+8
+9
+The Circuit Court of Appeals held the contract of sale illegal—nonexistent—as to cows which had died or were condemned; as to them the action was not redhibitory; the prescription of forty days had no application; and it reversed the questioned judgment. With respect to the surviving cows, it adopted the interpretation of section approved by the Supreme Court. It said: 'To summarize: In the trial court the plaintiffs put their claim on the herd basis; they endeavored to rescind the entire transaction and get back the full consideration which had been paid; and they were held entitled to do so. On appeal the Supreme Court held that the sale could not be given this unitary character, but must be considered with respect to the individual animals; and that view stands. In its decision that, as to the tuberculous cattle, a contract was entered into and the plaintiffs' rights were of redhibitory character and subject to the limitation of section the Supreme Court fell into error.'
+9
+10
+Accordingly, the judgment of the Supreme Court was reversed and the cause remanded to the District Court with instructions to permit an amedment to the complaint. A dissenting opinion approved the Supreme Court's construction of the Code, also its judgment.
+10
+11
+The matter is here by certiorari. Manifestly, the solution of the controversy must turn upon the meaning and effect of the above-quoted sections of the Civil Code—local law of Puerto Rico.
+11
+12
+Considering the argument here, the divergent views below, the authorities cited, and 'recognizing the deference due to the understanding of local courts upon matters of purely local concern,' it becomes impossible for us to entertain 'a sense of clear error committed' by the Supreme Court. Following the view so often approved, we think the Circuit Court of Appeals should have accepted and affirmed the ruling there announced after much consideration. Nadal v. May, De Villanueva v. Villanueva, Diaz et al. v. Gonzalez et al.. 
+12
+13
+The judgment of the Circuit Court of Appeals must be reversed; the judgment of the Supreme Court is affirmed.
+13
+14
+Reversed.
+14
+
+*
+
+*
+Rehearing denied —-.
+
+*
+
+
+{'239 U.S. 293', '261 U.S. 102', '233 U.S. 447', '301 U.S. 712'}
+=======================================================
+
+300 U.S. 433
+GENERAL BAKING CO.
+v.
+HARR, Secretary of Banking of Pennsylvania, et al.
+Argued March 5, 1937.
+1
+Acting under Pennsylvania statutes (7 P.S.Pa. § 1 et seq.), October 5, 1931, William D. Gordon, Secretary of Banking (respondent Herr is his successor), closed the Franklin Trust Company, a banking institution in Philadelphia, and took control of its business and assets.
+1
+2
+Thereafter in the United States District Court, Eastern District of Pennsylvania, petitioner, a New York corporation, presented a bill against Gordon, setting up an agreement by which it undertook to keep on deposit with the Trust Company a sum specified, and the latter undertook either directly or through correspondent banks to accept deposits of cash, checks, etc., and to forward the proceeds therefrom to petitioner in New York. Also that when closed the Trust Company had in its assets $received under this agreement, and its correspondent banks had on hand deposits likewise acquired amounting to $.
+2
+3
+The bill prayed for a decree declaring petitioner owner of the $and that a trust existed in its favor in respect of the $deposit; also for general relief. The answer suggested some qualifications of the alleged agreement and denied that there was no adequate remedy at law. Otherwise, the allegations of the bill were generally admitted.
+3
+4
+The District Court took jurisdiction of the controversy; held petitioner was not owner of the $ also that no ground existed for impressing a trust upon assets because of the $deposit; and dismissed the bill. 
+4
+5
+The Circuit Court of Appeals concluded the District Court had no jurisdiction and should have dismissed the bill without adjudicating other questions. It accordingly approved the dismissal but directed that the cause be referred to the state court for proper procedure there.
+5
+6
+Although entered in September, 1936, the opinion below does not refer to Commonwealth Trust Company of Pittsburgh et al. v. Bradford, Receiver, decided here March 30, 1936. Nothing indicates that this opinion was brought to the Court's attention. The doctrine there approved, we think, is decisive of the issue concerning jurisdiction now presented.
+6
+7
+It was error for the Circuit Court of Appeals to hold that the District Court was without jurisdiction of the controversy. It should have passed on issues properly presented upon the appeal.
+7
+8
+The questioned decree must be reversed and the matter remanded to the Circuit Court of Appeals for further proceedings.
+8
+9
+Reversed.
+9
+
+
+{'297 U.S. 613'}
+=======================================================
+
+300 U.S. 435
+STROEHMANN et al.
+v.
+MUTUAL LIFE INS. CO. OF NEW YORK.
+Argued March 11, 1937.
+1
+By a policy dated June 30, 1930, respondent insurance company, a New York corporation, agreed to pay the named beneficiary $upon death of Carl F. Stroehmann, the insured. Or to pay $if his death results from accidental bodily injury, 'all upon the conditions set forth in Section 1.' 'And if the Insured is totally and presumably permanently disabled before age 60, will pay to the Insured $monthly during such disability, increasing after five and ten years continuous disability, besides waiving premium payments, all upon the conditions set forth in Section 3.'
+1
+2
+The policy is a long and complicated document. It incorporates the application and the medical examiner's report.
+2
+3
+Section 1 (two printed pages) relates to the 'Double Indemnity' obligation. It defines the injury to which the insurance applies, specifies the necessary proof, optional modes of settlement, etc.
+3
+4
+Section 3—'Benefits in Event of Total and Permanent Disability before Age 60,' is in the margin.1 It defines total and permanent disability; states when benefits will become effective; what they shall be; when premiums will be waived. Also specifies what will be considered permanent disability, when proofs may be demanded, etc. And provides: 'Disability Benefits shall not be granted if disability is the result of self-inflicted injury. The provision for Disability Benefits shall automatically terminate if the Insured shall at any time, voluntarily or involuntarily engage in military or naval service in time of war outside of the continental limits of the United States of America and the Dominion of Canada.' Other provisions relate to termination of such benefits, reduction of premiums thereafter, etc.
+4
+5
+Neither section 1 nor 3 contains anything relative to fraud in obtaining the policy or the effect of false statements in the application.
+5
+6
+Section 14—'Miscellaneous Provisions' (two pages) contains the following paragraph: 'Incontestability.—Except for non-payment of premiums and except for the restrictions and provisions applying to the Double Indemnity and Disability Benefits as provided in Sections 1 and 3 respectively, this Policy shall be incontestable after one year from its date of issue unless the Insured dies in such year, in which event it shall be incontestable after two years from its date of issue.'
+6
+7
+In October, 1932, respondent filed a bill (afterwards amended) against Stroehmann, the insured, and the beneficiary in the United States District Court, Middle District, Pennsylvania. It alleged that the policy had been obtained upon false and fraudulent misrepresentations and concealments material to the risk. It asked that the disability benefits provisions be canceled, also for an injunction against suit at law upon them.
+7
+8
+Relying upon the incontestability clause, the petitioner moved that the bill be dismissed. The trial court sustained the motion, holding that as more than a year had elapsed since the policy took effect, the limitation was applicable and controlling. The Circuit Court of Appeals thought otherwise and reversed the challenged decree. 
+8
+9
+The matter is here by certiorari limited to the question of the application and effect of the incontestability clause.
+9
+10
+No reason appears to doubt the power of the insurer to except from the ordinary incontestability clause all policy provisions relating to disability benefits. Chapter (Insurance Law (Consol.Laws, c. ; Steinberg v. N.Y. Life Ins. Co., But the petitioner maintains that the words used in the policy before us are inadequate definitely to disclose a purpose so to do. And we think the point is well taken.
+10
+11
+In Mutual Life Insurance Co. of New York v. Hurni Packing Co., this Court said: 'The rule is settled that in case of ambiguity that construction of the policy will be adopted which is most favorable to the insured. The language employed is that of the company and it is consistent with both reason and justice that any fair doubt as to the meaning of its own words should be resolved against it.' See Royal Insurance Co. v. Martin, Bergholm et al. v. Peoria Life Ins. Co.. 
+11
+12
+Examination of the words relied upon to show an exception to the incontestability clause of the policy discloses ample cause for doubt concerning their meaning. The arguments of counsel have emphasized the uncertainty. The District Court and the Circuit Court of Appeals reached different conclusions, and elsewhere there is diversity of opinion.
+12
+13
+The District Court accepted the view approved in Ness v. Mutual Life Ins. Co. of New York (C.C.A. Fourth Circuit) and Mutual Life Ins. Co. of New York v. Markowitz (C.C.A. Ninth Circuit) which presented for interpretation language identical with that now before us. The Circuit Court of Appeals followed its earlier opinion in N.Y. Life Ins. Co. v. Gatti, —- F. (where the company employed different language. Certain life companies undertake to make exceptions to the incontestability clause by words more precise than those now under consideration, and opinions in cases arising upon their policies must be appraised accordingly.
+13
+14
+Without difficulty respondent could have expressed in plain words the exception for which it now contends. It has failed, we think, so to do. And applying the settled rule, the insured is entitled to the benefit of the resulting doubt.
+14
+15
+The decree of the Circuit Court of Appeals must be reversed. The decree of the District Court is affirmed.
+15
+16
+Reversed.
+16
+
+1
+
+1
+
+1
+'Section 3.—Benefits in Event of Total and Permanent Disability before Age 60.
+'Total Disability.—Disability shall be considered total when there is any impairment of mind or body which continuously renders it impossible for the Insured to follow a gainful occupation.
+'Permanent Disability.—Total disability shall, during its continuance, be presumed to be permanent;
+'(a) If such disability is the result of conditions which render it reasonably certain that such disability will continue during the remaining lifetime of the Insured; or,
+'(b) If such disability has existed continuously for ninety days.
+'When Benefits become Effective.—If, before attaining the age of sixty years and while no premium on this Policy is in default, the Insured shall furnish to the Company due proof that he is totally and permanently disabled, as defined above, the Company will grant the following benefits during the remaining lifetime of the Insured so long as such disability continues.
+'Benefits. (a) Increasing Income.—The Company will pay a monthly income to the Insured of the amount stated on the first page hereof ($face amount of Policy), beginning
+upon receipt of due proof of such disability and increasing after sixty consecutive monthly payments have been made to one and one-half times such amount and after sixty further consecutive monthly payments have been made to twice such amount at which it shall remain while total and permanent disability continues.
+'(b) Waiver of Premium.—The Company will also, after receipt of such due proof, waive payment of each premium as it thereafter becomes due during such disability.
+'Specified Disabilities.—The entire and irrecoverable loss of the sight of both eyes, or of the use of both hands or both feet or one hand and one foot, will be considered total and permanent disability.
+'General Provisions.—The Company may, before making any income payment or waiving any premium, require due proof of the continuance of total and permanent disability, but such proof shall not be required oftener than once a year after such disability has continued for two years. If such proof is not furnished on demand or if it shall appear to the Company that the Insured is no longer totally and permanently disabled, no further income payments will be made or premiums waived.
+'Neither the dividends nor the amount payable in any settlement hereof shall be decreased because of Disability Benefits granted.
+'If the Insured shall at any time so recover that the payment of Disability Benefits terminates and later shall furnish due proof that he has again become totally and permanently disabled, Disability Benefits shall be the same in amount and subject to the same conditions as if no prior disability had existed.
+'If the disability of the Insured shall be the result of insanity, income payments shall be payable to the beneficiary, if any, instead of to the Insured.
+'Any disability income payment which may become payable and which is unpaid at the death of the Insured shall be paid to the beneficiary.
+'Disability Benefits shall not be granted if disability is the result of self-inflicted injury.
+'The provision for Disability Benefits shall automatically terminate if the Insured shall at any time, voluntarily or involuntarily,
+engage in military or naval service in time of war outside of the continental limits of the United States of America and the Dominion of Canada.
+'If requested in writing by the Insured, the Company will terminate the provision for Disability Benefits by endorsement on this Policy.
+'If the Insured attains the age of sixty years or if the provision for Disability Benefits terminates, the premiums payable after such age or such termination shall be reduced by the premium for such benefits.'
+
+1
+
+1
+Rehearing granted.
+
+1
+
+
+{'284 U.S. 489', '192 U.S. 149', '263 U.S. 167'}
+=======================================================
+
+299 U.S. 468
+SHAPLEIGH et al.
+v.
+MIER.
+Argued Dec. 9, 1936.
+1
+The action is trespass for the trial of title.
+1
+2
+Plaintiffs, petitioners here, are citizens of Missouri; defendant, respondent here, is a citizen of Mexico. A tract of acres in Texas, known as 'El Guayuco Banco No. ' on the left bank of the Rio Grande river, is the subject-matter of the controversy. A jury having been waived, the trial was by a judge, who made his findings of fact and conclusions of law, and gave judgment for defendant. From this there was an appeal, its scope, however, narrowed by the manner of the trial and the form of the decision. Eastman Kodak Co. v. Gray, Harvey Co. v. Malley, Fleischmann Co. v. United States, A single question was open: Were the conclusions of law supported by the facts as found, when supplemented by any other facts within the range of judicial notice? The Court of Appeals for the Fifth Circuit affirmed the judgment of the District Court. We granted certiorari to pass upon the contention, strongly pressed by the petitioners, that their rights had been illegally divested through the action of a foreign government.
+2
+3
+The land in controversy was once part of the Mexican State of Chihuahua. In it was cut by avulsion from the south or right bank of the Rio Grande to the north or left bank, and became part of the United States. By the ordinary rule a change of location resulting from avulsion would have left Mexico still sovereign over the territory thus moved, the center of the old channel remaining as the boundary. Missouri v. Nebraska, Nebraska v. Iowa, Here a different rule applied by force of a convention, proclaimed June , whereby the boundaries were to shift in the event of future changes, with exceptions not now material as to population and area. A boundary commission, previously established but confirmed by the convention, marked the change upon the ground. Sovereignty was thus transferred, but private ownership remained the same. United States v. Chaves, United States v. Percheman, To find the title to the land today we must know where title stood while the land was yet in Mexico.
+3
+ before the river had wrought the change, proceedings were begun for the division of a 'latifundium,' which embraced the land in controversy, and for its acquisition by the state. A petition in due form was submitted to the Governor of Chihuahua, and resulted in a decree, dated March 5, 1925, whereby the State of Chihuahua was proclaimed to be the owner. The District Judge has found the the plaintiffs and those from whom they trace their claim were notified of the proceedings and were given the opportunity to prove their title, but failed to do so. The judge has also found that the proceedings were regular and valid, that there was no requirement in the Constitution or laws of Mexico whereby payment must be made or secured at or before the time of expropriation, and that by force of the decree the plaintiffs were divested of any title that had been theirs. Following this expropriation, the defendant, who is now in possession, filed with the proper officials an application that he be permitted to buy the lands in suit, acquiring by that request an inchoate or potential interest, which was afterwards perfected by the payment of the purchase price.
+4
+5
+Petitioners concede that the expropriation decree, if lawful and effective under the Constitution and laws of Mexico, must be recognized as lawful and effective under the laws of the United States, the sovereignty of Mexico at the time of that decree being exclusive of any other. Oetjen v. Central Leather Co., Ricaud v. American Metal Co., American Banana Co. v. United Fruit Co., Ann.Cas. Underhill v. Hernandez, Hewitt v. Speyer (C.C.A.) Earn Line S.S. Co. v. Sutherland S.S. Co. (D.C.) Oliver Am. Trading Co. v. Gov't of United States of Mexico (C.C.A.) Compania M.Y.R.R., S.A., v. Bartlesville Zinc Co., The question is not here whether the proceeding was so conducted as to be a wrong to our nationals under the doctrines of international law, though valid under the law of the situs of the land. For wrongs of that order the remedy to be followed is along the channels of diplomacy. 'A citizen of one nation wronged by the conduct of another nation, must seek redress through his own government.' United States v. Diekelman, Cf. Ware v. Hylton, 568; Young v. United States, Frelinghuysen v. Key, 71. Indeed, a tribunal is in existence, the International Claims Commission, established by convention between the United States and Mexico, to which the plaintiffs are at liberty to submit and have long ago submitted a claim for reparation. Convention of September 8, 1923, proclaimed March What concerns us here and now is the efficacy of the decree under the land law of Mexico at the date of its proclamation to extinguish hostile claims of ownership and pass the title to another.
+5
+6
+Petitioners are content thus to limit the inquiry, if we read their argument aright. They insist that the decree which purports to divest them of their title is a nullity even by the law of Mexico and that it is the duty of our courts, if the nullity has been made out, to adjudge ownership accordingly. Meeting the objection that the acts of an independent government done in its own territory are not subject to re-examination by the courts of another (Underhill v. Hernandez, supra; Oetjen v. Central Leather Co., supra; Hewitt v. Speyer, supra; Oliver Am. Trading Co. v. Gov't of United States of Mexico, supra), they say that the land in controversy is now a part of the United States; that it was brought into our domain by a treaty of cession, the avulsion being merely the occasion that made the treaty operative; and that in passing upon the validity of the Mexican decree we are adjudicating a claim of title to part of our own soil. To do this, they maintain, is an incident of the judicial function. Meeting the objection that by the findings of the trial court the decree and the proceedings leading up to it are valid, they make a twofold answer. They say that the laws formerly prevailing in territory acquired by treaty or convention are those of an antecedent government rather than a foreign one, and are the subject of judicial notice. Fremont v. United States, United States v. Perot, United States v. Chaves, supra, at page They say again that if such notice is not appropriate, a finding as to a foreign law is not solely one of fact, but one of fact and law compounded, which may be reviewed upon appeal, like a finding in certain circumstances as to the meaning of a document. Wigmore, Evidence, vol. Fitzpatrick v. International R. Co., N.E. Saloshin v. Houle, Compania Transcontinental v. Mexican Gulf Oil Co. (C.C.A.) Hanley v. Donoghue. 
+6
+7
+We leave for another case a delimitation of the principles thus invoked by the petitioners to clear a pathway to review. To delimit them with accuracy is unnecessary now, for, accepting them, provisionally, in their fullest length and breadth, we and the expropriating decree to be proof against assault. The defect imputed to it is expropriation in advance of payment or without adequate security, either payment or security being necessary in the view of the petitioners to effect a change of title. What the decree does provide is that there shall be 'indemnity' to the owners, whoever they may be, for every interest condemned, and that bonds of the state shall be delivered as a medium of payment. Experts testifying for the defendant tell us that such indemnity is adequate under the Constitution of the Federal Republic (Constitution of Mexico, and also under the Agrarian Law of the State of Chihuahua. Cf. Sweet v. Rechel, Crozier v. Fried Kruppaktiengesellschaft, Phillips v. Commissioner, Hurley v. Kincaid, The pertinent articles are quoted in the record, and give reasonable support to the opinion so expressed.* Other witnesses testifying for the plain tiffs advance a different view. Opinions of the Supreme Court of Mexico are laid before us in the briefs, and were summarized by the witnesses, though they were not exhibits at the trial. One gives color of support to the view advanced for the petitioners. Five of later date tend the other way. There is testimony that by the law of Mexico five decisions are necessary to give rise to a controlling precedent. For anything to the contrary appearing in the record, the claimants are still at liberty, though their estate has been divested, to receive delivery of bonds of the State of Chihuahua upon giving evidence of title.
+7
+8
+In what has been written, we have assumed in favor of the petitioners, but without intending to decide, that the land law of Mexico in the territory now part of Texas is a proper subject of judicial notice. The assumption helps them nothing. A different case would be here if they were able to refer us to documents or other evidence dehors the present record establishing a different rule from that stated in the findings. In such conditions, the doctrine of judicial notice might be a crutch on which to lean. But none of these extrinsic aids to judgment has been placed at our disposal. Neither through any reference to documents nor through other sources of information has anything been added to what has been developed by the witnesses in the pages of this record. The situation is thus the same, whatever the extension of the doctrine of judicial notice, as if the record stood alone.
+8
+9
+Heed must be given to the burden of proof, at least when other tests are lacking. In this action to establish ownership, petitioners must recover, if at all, on the strength of their own title. Judicial notice is unavailing to rid them of that burden. To say that a court will take judicial notice of a fact, whether it be an event or a custom or a law of some other government, is merely another way of saying that the usual forms of evidence will be dispensed with if knowledge of the fact can be otherwise acquired. Wigmore, Evidence, vol. Thayer, Preliminary Treatise on the Law of Evidence, pp. But the truth, of course, is that judicial notice and judicial knowledge are far from being one. The law is not so vain as to make pretense of their identity. To the contrary, a court that is left without knowledge of a fact after exploring to the full every channel of information must needs decide against the litigant who counts upon the fact as an essential of his claim. De non apparentibus et de non existentibus eadem est ratio.
+9
+10
+We are not persuaded upon this record, supplemented by everything now brought to our attention, that the law of Mexico is other than by the concurrent judgments of the courts below it has been here adjudged to be. That being so, petitioners have not maintained the burden of overcoming the decree. Their claim of title fails.
+10
+11
+The judgment is affirmed.
+11
+
+*
+
+*
+Constitution of Mexico, Article 27:
+'Private property shall not be expropriated except for reasons of public utility and by means of indemnification.
+'The Nation shall have at all times the right to impose on private property such limitations as the public interest may demand as well as the right to regulate the development of natural resources, which are susceptible of appropriation, in order to conserve them and equitably to distribute the public wealth. For this purpose necessary measures shall be taken to divide large landed estates; to develop small landed holdings. * * * Private property acquired for the said purposes shall be considered as taken for public utility. * * *
+'During the next constitutional term, the Congress and the State Legislatures shall enact laws, within their respective jurisdictions, for the purpose of carrying out the division of large landed estates, subject to the following conditions. * * *
+'(e) The owners shall be bound to receive bonds of a special issue to guarantee the payment of the property expropriated. With this end in view, the Congress shall issue a law authorizing the States to issue bonds to meet their agrarian obligations.'
+Agrarian Law of the State of Chihuahua:
+'Article third: Owners of larger extensions of lands than those prefixed in Article 1st, are under the obligations to divide into fractions their lands, and, to this effect a term of ninety days is granted them from the date on which this law goes into effect, so that they may select the extension of land they can keep; and another term of six months, from same date, is granted them for the formulation of the project for the division into fractions of the land in excess, which project is to be submitted to the Executive of the State for its approval attaching thereto corresponding plats of the land together with authentic title deeds.'
+'Article sixth: By the mere fact that the owners, do not present the plats to the Executive of the State in the form and terms as provided for in the article 3rd., it shall be understood that they refuse to divide the latifundium, into fractions, and the Executive of the State shall carry it out (the division into fractions of said latifundium) by means of expropriation in accordance to provision of subsection C, or the section VII of Article 27th, of the General Constitution.'
+
+*
+
+
+{'246 U.S. 297', '283 U.S. 589', '159 U.S. 380', '116 U.S. 1, 6', '196 U.S. 23', '159 U.S. 452', '270 U.S. 349', '143 U.S. 359', '92 U.S. 520', '292 U.S. 332', '110 U.S. 63', '168 U.S. 250', '224 U.S. 290', '246 U.S. 304', '97 U.S. 39', '288 U.S. 415', '285 U.S. 95', '213 U.S. 347', '98 U.S. 428'}
+=======================================================
+

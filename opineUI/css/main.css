@@ -1,0 +1,42 @@
+body{
+	font-family: sans-serif;
+}
+
+.fonts-loaded body {
+	font-family: Sarabun, sans-serif;
+	font-size: 2em;
+}
+
+#graphicTitle:hover {
+	## do something cool
+}
+
+canvas {
+	border: 1px solid black;
+}
+
+#graphicTitle {
+	margin: 0.5em;
+}
+#graphicVerse {
+	margin: 0.5em;
+}
+
+.titleAndVerse {
+	display: flex;
+	align-items: center;
+	justify-content: left;
+	padding-left: 2em;
+}
+
+.navDiv {
+	display: flex;
+	align-items: center;
+	justify-content: right;
+	padding-top: 0.5em;
+	padding-bottom: 0.5em;
+}
+
+nav a {
+	padding: 0.5em;
+}

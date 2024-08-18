@@ -1,0 +1,816 @@
+300 U.S. 154
+GREAT NORTHERN RY. CO.
+v.
+STATE OF WASHINGTON.*
+Argued Dec. 7, 8, 1936.
+1
+This is an appeal from a judgment of the Supreme Court of Washington1 in an action brought by the appellant to recover fees for the years paid under protest to the State Department of Public Works. The relevant statutory provisions are:2
+1
+2
+'Section 1. That hereafter every person, firm or corporation engaged in business as a public utility and subject to regulation as to rates and charges by the department of public works, except auto transportation companies and steamboat companies holding certificates under chapter of the Laws of shall, on or before the first day of April of each year, file with the department of public works a statement on oath showing its gross operating revenue for the preceding calendar year or portion thereof and pay to the department of public works a fee of of one per cent of such gross operating revenue: Provided, That the fee so paid shall in no case be less than ten dollars.'
+2
+3
+'Sec. 2. All sums collected by the director of public works under the provisions of this act shall within thirty days after their receipt be paid to the state treasurer, and by him deposited in a fund to be known as the public service revolving fund.'
+3
+4
+The Supreme Court of the State has defined the exaction as a regulatory or inspection fee, and has declared that the fund created by the sums collected must be used solely for administering the State public service commission law.3
+4
+5
+The complaint4 alleges that the Department of Public Works exercises jurisdiction and supervision over sundry public utilities, including common carriers by rail, electric, and street railways, gas, electrical and water companies, telegraph and telephone companies, wharfingers, warehousemen, and carriers by water, engages in many activities disconnected from, and unrelated to, the inspection and supervision of rail carriers, and has a variety of duties in the enforcement of the State's police power. The complaint affirms that the fee is not based upon or restricted to the cost of legitimate regulation or supervision but is used to defray the costs of other activities in connection with railroads and also of supervising and inspecting unrelated public utilities and of performing other duties the expense of which cannot legitimately be imposed upon carriers by rail; that the fee is grossly in excess of the reasonable cost of inspection and regulation of railroads; that, to January 1, 1933, there had accumulated from the fees collected more than $in excess of the amount expended by the department in the discharge of all its duties; that the statute is in truth a revenue measure; that the State taxes plaintiff's property and other like property on an ad valorem basis. The complaint charges that the fee is a burden on, and a regulation of, interstate commerce in violation of article 1, section 8 of the Constitution; is so arbitrary, excessive, discriminatory, and unequal as to deny the plaintiff equal protection of the laws and to deprive it of property without due process of law, in violation of the Fourteenth Amendment.
+5
+6
+The answer admits plaintiff's payment under protest; admits that the Department of Public Works exercises jurisdiction and supervision over many classes of public utilites, including common carriers, and that the plaintiff's property within the State is assessed on an ad valorem basis for taxes like other property; admits plaintiff's capacity to sue; but denies substantially all other allegations of the complaint.
+6
+7
+The case was tried without a jury. The evidence largely consisted of the annual reports of the department. By the uncontradicted evidence and by the relevant statutes the following facts were established. The department has jurisdiction of various classes of public utilities, including railroads, electric and street railways, gas, electric and water companies, telegraph and telephone companies, wharfingers, warehousemen, and carriers by water, in respect of which it exercises many regulatory and supervisory duties. As respects railroads, the department constantly exercises functions unrelated to inspection and supervision, including the statutory duties of taking part in litigation before the Interstate Commerce Commission affecting the citizens of the State, and of acting judicially in decreeing refunds of overcharges. These functions, unrelated to the inspection and regulation of railroads, entail large expense. Between the legislature made no appropriation from the State's general fund for the expenses of the department's activities, all being paid indiscriminately out of the department's fund derived from the fees collected from businesses subject to its jurisdiction. During this period the surplus accumulated from such receipts was $ which was expended in 1934 in carrying on investigations of, and litigation with, public utility corporations other than railroads. No separate accounts are kept, or required by law to be kept, with respect to the expense of these various activities, and it is impossible to determine from the records and accounts of the department the expense of inspecting and regulating railroads separate and apart from the expense of regulating other utilities or other functions of the department.
+7
+8
+The plaintiff called the department's auditor who testified that the charge of one-tenth of one per cent of gross income collected from utilities goes to build up a fund from which all the department's expenses are paid; that he had figures classifying the expenditures according to the various kinds of utilities with which the department is concerned. These calculations he had made for himself, there being no duty under the law to keep accounts on this basis. He testified that, in computing the expenditures in connection with railroads, he lumped them as railroad charges and made no separation of the costs of inspection and regulation, the costs of rate hearings, and the costs of reparation proceedings, although the evidence establishes that many of the railroad charges had to do with reparation cases and litigation before the Interstate Commerce Commission. At the close of plaintiff's case, the defendant recalled the auditor as its own witness. He testified that the disbursements chargeable to the railroads for the period inclusive, exceeded the receipts from railroads in the same period by $ He did not, however, qualify what he had previously stated, that, in making up these figures, he had lumped all railroad charges, whether for inspection and regulation or interstate commerce cases or reparation cases. Upon cross-examination it developed that the figures he submitted were not official, and, so far as they covered salary items, had been made up from slips which the various employes, at his request, had turned in monthly allocating the time each employe spent in the various branches of the work, and the witness had no personal knowledge of the accuracy of these slips. Plaintiff objected to the testimony and moved to strike it on the ground that it was hearsay but the court let it stand, subject to the objection. A judgment awarded the plaintiff by the trial court was reversed by the Supreme Court.
+8
+9
+The principles governing decision have repeatedly been announced and were not questioned below. In the exercise of its police power the state may provide for the supervision and regulation of public utilities, such as rail roads; may delegate the duty to an officer or commission; and may exact the reasonable cost of such supervision and regulation from the utilities concerned and allocate the exaction amongst the members of the affected class without violating the rule of equality imposed by the Fourteenth Amendment.5 The supervision and regulation of the local structures and activities of a corporation engaged in interstate commerce, and the imposition of the reasonable expense thereof upon such corporation, is not a burden upon, or regulation of, interstate commerce in violation of the commerce clause of the Constitution.6 A law exhibiting the intent to impose a compensatory fee for such a legitimate purpose is prima facie reasonable.7 If the exaction be so unreasonable and disproportionate to the service as to impugn the good faith of the law8 it cannot stand either under the commerce clause or the Fourteenth Amendment.9 The State is not bound to adjust the charge after the fact, but may, in anticipation, fix what the legislature deems to be a fair fee for the expected service, the presumption being that if, in practice, the sum charged appears inordinate the legislative body will reduce it in the light of experience.10 Such a statute may, in spite of the presumption of validity, show on its face that some part of the exaction is to be used for a purpose other than the legitimate one of supervision and regulation and may, for that reason, be void.11 And a statute fair upon its face may be shown to be void and unenforceable on account of its actual operation.12 If the exaction be clearly excessive it is bad in toto and the state cannot collect any part of it.13
+9
+10
+The contention is that the challenged statute is void on its face since it discloses that the fee charged the appellant is not imposed for, or limited by, the reasonable cost of supervision or regulation of its business; and, if this is not so, the case made in respect of the act's operation cast on the appellee the burden of proof, which it failed to carry.
+10
+11
+The Supreme Court of the state based its decision in favor of the validity of the statute on two grounds: First, that the act is not unconstitutional on its face; secondly, that, as the answer denied the material allegations of the complaint concerning the operative effect of the act, the plaintiff had the burden of proof, which it failed to sustain; and, if the burden was shifted by the case made by the plaintiff, the evidence preponderated in favor of the defendant.
+11
+12
+First. The statute does not exhibit a failure reasonably to adjust the fee to the expense of the supervision and regulation of railroads. The legislation is to be accorded the presumption of fairness and regularity. It cannot be deduced from the provisions of the act that the amounts collected from the railroads grossly exceed those legitimately expended for inspection and regulation. The appellant insists that such is the necessary inference from the circumstance that the same fee is exacted from public utilities generally, and the collections go into a single fund and are indiscriminately disbursed for the many branches of the department's work. But these facts, without more, do not prove that the amounts derived from the railroads are in excess of the legitimate expenses of inspection and regulation. It may be that, in spite of this lumping of receipts and expenditures, the fees paid by the railroads are no more than enough to defray such expenses. The court below was, therefore, justified in refusing to hold the statute void on its face.
+12
+13
+Second. The court thought the plaintiff had the burden of showing that the sums exacted from rail carriers substantially exceeded the amounts expended for regulation and supervision, and the proofs offered were insufficient to shift the burden to the defendant. This view was erroneous. Foote & Co., Inc., v. Stanley. 
+13
+14
+In that case it appeared that the plaintiffs were packers of oysters taken from the waters of Maryland, Virginia, and New Jersey, and shipped to Baltimore. A statute of Maryland required that the oysters be inspected at Baltimore (Code Pub.Gen.Laws Md. as amended by Laws . It imposed a charge of one cent a bushel 'to help defray the expenses of such inspection and the other expenses of the State Fishery Force, upon all oysters unloaded from vessels at the place where said oysters are to be no further shipped in bulk in vessels.' The plaintiffs refused to pay the exaction and, upon threat of enforcement, filed a bill in a state court for injunction alleging the fee was excessive, a burden on interstate commerce, and a violation of the constitutional provision that 'No State shall, without the Consent of the Congress, lay any Imposts or Duties on Imports or Exports, except what may be absolutely necessary for executing its inspection Laws.' (Const. art. 1, § 10) The Maryland Court of Appeals ( affirmed a decree dismissing the bill and this court reversed its decision. The plaintiff asserted that as the act laid the fee for the expense of inspection, 'and other expenses,' it was obvious that the state had provided for the collection of more than was necessary for inspection. To this the state answered that the section levying the fee was but a part of an elaborate system of inspection imposed upon the state fishery force. It appeared from the evidence, as it does here, that the fishery force had duties other than those of inspection which were to be paid for out of the fund produced by the fees. This court said ( at page : 'But while the two duties may sometimes overlap, there is a difference between policing and inspection, and if the state imposes upon one set of officers the performance of the two duties, and pays the whole or a part of the joint expenses out of inspection fees, it must be made to appear that such tax does not materially exceed the cost of inspection,—the burden in such cases being on those seeking to collect the combined charge.' And said further ( at page : 'But the commingling of these various duties, paid for out of a fund raised for inspection, does not necessarily show that the fee is excessive. For the presumption of invalidity arising from such intermingling might be met by carrying the burden of showing that, while the statute required payment out of which joint fund, the collections were not sufficient, but only helped, to pay the definitely ascertained expenses of inspection. The question of reasonableness, therefore, may be considered in the light of the practical operation of the law with a view of determining, with reasonable certainty, the permanent relation between the amount collected and the cost of inspecting.'
+14
+15
+The court examined the evidence as to the operation of a prior law which levied the same charge per bushel and which the challenged act superseded, consisting of the annual reports of the comptroller, and found therefrom that one-third of the amount collected was sufficient to pay the cost of inspection and the other two-thirds had been appropriated to 'other expenses of the Fishery Force.' In the light of the operation of the previous act, and the failure of the state to show that the amount collected under the new law would not be more than was necessary for the expenses of inspection proper, the challenged statute was held void.
+15
+16
+There are factual distinctions between the cited case and the instant one, but they do not affect the binding authority of the former. The law under consideration in the Foote Case was purely an inspection measure. That here under review is characterized by the state court as one for regulation and inspection. The specific mandate of the Federal Constitution limiting state inspection fees to an amount absolutely necessary for executing a state's inspection laws was treated in the Foote Case as raising the same issue as was presented in earlier decisions with respect to the bearing of the commerce clause upon the imposition of regulatory and inspection fees imposed upon local property of interstate enterprises. And the cases decided under the commerce clause dealing with the reasonableness of regulation and inspection fees have been treated by this court as apposite to the guarantees of the Fourteenth Amendment. In the Foote Case reference to the accounts and records kept by state authority disclosed the extent of the excess of receipts over expenditures, whereas here it is demonstrated that while expenses other than those of inspection and regulation of railroads are paid out of the fees, the amount of the excess over what is necessary for regulation and inspection cannot be ascertained from the department's accounts. The Foote Case is authority that in such circumstances the burden is on those seeking to collect the charge.
+16
+17
+The State Supreme Court, after holding that the plaintiff failed to carry its burden, and that no duty of showing the amount necessary for inspection and regulation of railroads lay upon the defendant, proceeded to discuss the evidence and reached the conclusion that the proof preponderated in favor of the defendant. This conclusion was based upon the testimony of the department auditor that he had found from memoranda furnished him, and data collected by him, what had been expended in connection with railroads exceeded what they had paid. As already noted the appellant insists that this evidence was inadmissible and lacked value because hearsay.
+17
+18
+The state court said: 'While the account kept by the auditor was not official, in the sense that of itself it was admissible in evidence, yet what the auditor did in that respect qualified him to testify as to the ultimate fact. Without further detailing the evidence, we will say that in our opinion, and in so far as there was any evidence on the subject, it preponderated against the findings made by the court as to the cost of supervising and regulating railroads.' ) .
+18
+19
+Passing the appellant's contention that a federal right may not be denied under the guise of the application of a state rule of evidence,14 we come to the question whether, when the asserted right has been denied, this court is concluded by a finding of fact or a mixed finding of law and fact made by the state court. We have repeatedly held that in such case we must examine the evidence to ascertain whether it supports the decision against the claim of federal right. A recent exposition of the doctrine is found in Norris v. Alabama, a case coming here from a state court, in which the appellant claimed that he had been denied due process by the systematic and intentional exclusion of negroes from the jury lists. The state court held that the evidence did not establish such exclusion. This court reviewed the evidence, reached a conclusion contrary to that of the state court, and reversed the judgment. At pages it was said: 'The question is of the application of this established principle to the facts disclosed by the record. That the question is one of fact does not relieve us of the duty to determine whether in truth a federal right has been denied. When a federal right has been specially set up and claimed in a state court, it is our province to inquire not merely whether it was denied in express terms but also whether it was denied in substance and effect. If this requires an examination of evidence, that examination must be made. Otherwise, review by this Court would fail of its purpose in safeguarding constitutional rights. Thus, whenever a conclusion of law of a state court as to a federal right and findings of fact are so intermingled that the latter control the former, it is incumbent upon us to analyze the facts in order that the appropriate enforcement of the federal right may be assured.'
+19
+20
+In Beidler v. South Carolina Tax Commission, the validity of a state inheritance tax act was challenged in a state court, the claim being that the act operated to take property without due process if held to apply to property having no situs in the state. The state court held that intangible property, the transfer of which was sought to be taxed, had acquired a business situs in South Carolina. This court re-examined the question, in the light of the evidence, and overruled the state court's decision, saying ( at page : But a conclusion that debts have thus acquired a business situs must have evidence to support it, and it is our province to inquire whether there is such evidence when the inquiry is essential to the enforcement of a right suitably asserted under the federal Constitution.'
+20
+21
+In Johnson Oil Company v. Oklahoma, there was drawn in question the validity of ad valorem taxes laid under a state statute upon the entire fleet of the appellant's tank cars. It was charged that the cars did not have a situs within the state and there was, therefore, no jurisdiction to tax them. The Supreme Court of the State held that all the cars had their taxable situs within the state. This court examined the evidence, reached a contrary conclusion, and reversed the judgment, saying ( at pages : 'As the asserted federal right turns upon the determination of the question of situs, it is our province to analyze the facts in order to apply the law, and thus to ascertain whether the conclusion of the state court has adequate support in the evidence.'
+21
+22
+Citation of authority for the same principle might be multiplied indefinitely.15
+22
+23
+While holding the testimony of the department auditor competent, the state court omits to refer to the fact that the figures he presented were not allocated so as to show the amounts spent for inspection and regulation and those expended for other so-called railroad charges which could not be imposed upon the railroads. As has been pointed out, the evidence is uncontradicted and conclusive that the sums he mentioned as having been expended for railroad account did include substantial, and apparently large, amounts for activities in the interest of interstate shippers and for the trial of reparation cases. It is impossible to sustain the state court's conclusion that such testimony had any probative value upon the sole issue in the cause, which was whether the statute subjects the railroads to an unreasonably excessive charge for inspection and regulation. As was said in the Foote Case, the state is at liberty to intermingle duties involving costs properly chargeable to the railroads, with others involving costs not so chargeable, but if it does so, and the exaction is challenged, it must assume the burden of showing that the sums exacted from the appellant do not exceed what is reasonably needed for the service rendered. The State failed to carry this burden.
+23
+24
+It results that the judgment must be reversed and the cause remanded for further proceedings not inconsistent with thus opinion.
+24
+25
+So ordered.
+25
+26
+Mr. Justice CARDOZO, dissenting.
+26
+27
+To show that the revolving fund was used as a common pot for the regulation of public utilities generally, irrespective of their special function, does not make out a case of wrong to railroads considered as a separate class or to appellant in particular. For the purposes of this case there is no need to inquire whether anything in the Fourteenth Amendment forbids the recognition of a single and all-inclusive class of public service corporations without further subdivision. If the prohibition be assumed, still the burden is on the railroads to satisfy the court that what was contributed by them was more than what was expended for their account, since otherwise the common pot may have been a help and not a hurt. That burden was not discharged. Far from being discharged, there was a disclaimer of any attempt or purpose to discharge it. And so the case must fail. Norfolk & Western Ry. Co. v. North Carolina. 
+27
+28
+The decision in Foote & Co., Inc. v. Stanley, much relied on by appellant, is inapplicable here. That was a case under article 1, § 10, of the Constitution, which provides that 'no State shall, without the Consent of the Congress, lay any Imposts or Duties on Imports or Exports, except what may be absolutely necessary for executing its inspection Laws.' Maryland passed an act for the payment of charges, characterized as inspection fees, upon imports of oysters from neighboring states. The 'inspectors' did more than inspect that oysters; they policed the waters of Chesapeake Bay, being thus policemen as well as inspectors. On its face the act provided that a fee of one cent per bushel should be 'levied to help pay the salary of the inspectors and the other expenses of the State Fishery Force.' at page In these circumstances the ruling was that in a suit for an injunction brought by the importers the state had the burden of showing that the fee was not an unreasonable one for the service of inspection as distinguished from the other services covered thereby. Imposts upon interstate commerce being generally prohibited, and being lawful only when 'absolutely necessary' for the purpose of inspection, a charge covering the service of inspection and also something else must collapse in its entirety unless the state is in a position to break it up into its elements. A power has been granted to be used in exceptional conditions. The state must bring itself within the exception if it seeks to act within the grant.
+28
+29
+A very different situation confronts us in the case at hand. Here the statute of the state does not trespass upon a field of legislation where entry is forbidden with out the license of the nation. What has been done is well within the field of general legislative power, with every presumption of validity back of it. In such circumstances the burden of making good a claim of invalidity and thus establishing an exception is on the assailants of the rule, and not on its proponents. The conclusion becomes clearer when the statute is analyzed more closely. All that it does is to exact of public utilities generally (with particular exceptions) a fee of h of one per cent of their gross revenues, confined, however, to operations in intrastate commerce, the fee when collected to be paid into a revolving fund. Laws of Washington, Laws of Laws of Another statute (Laws of Washington, lays a heavier tax (one per cent.), to be paid into the same fund, upon the receipts of autotransportation companies. Steamship companies of a stated class are subject to a special rule, the fee in their case being one-fifth of one per cent. Laws of Washington, Plainly there is no presumption that these varying contributions are out of proportion to the expenses incurred in supervising and regulating the several classes of contributors. Illegality, if there is any, is to be found in the administration of the statute, and not in anything inherent in its essential scheme and framework. That being so, the taxpayer may not rest upon a showing of possible overpayment. There must be a showing of an overpayment not merely possible but actual, and one substantial in amount. Norfolk & Western Ry. Co. v. North Carolina, supra; Foote & Co., Inc., v. Stanley, supra. To hold otherwise would be to go counter to the settled rule that 'one who would strike down a state statute as obnoxious to the Federal Constitution must show that the alleged unconstitutional feature injures him.' Premier-Pabst Sales Co. v. Grosscup, Analogies drawn from the law of trusts are inapposite and misleading. The state does not collect the taxes or place them in the fund as trustee for the contributor or for any one else. It receives the moneys and expends them as an owner, charged with no other duty to a particular group of taxpayers than to members of the public generally.
+29
+30
+The burden resting on the railroads to show that the use of the common pot has resulted to their damage, the record must be scrutinized to see whether the burden has been borne. In that scrutiny there is no denial of a duty to inquire whether the decision of the state court, irrespective of its surface protestations, amounts in substance and reality to the denial of a federal right. Norris v. Alabama, Beidler v. South Carolina Tax Commission, There is a recognition of the duty, and an endeavor to fulfill it.
+30
+ The trial court suggested to counsel for appellant that it would be interesting to know whether the amount that had been collected through the tax upon the railroads was in excess of the amount expended for their benefit. Counsel responded that he would not embark on that inquiry. His position was stated to be that the act was invalid on its face, in which event it would be vain to pursue the subject further. This court by its opinion has rejected that contention. The act is not invalid on its face, whether valid or invalid otherwise.
+31
+ Explaining or at least supplementing the refusal to compare disbursements and receipts, counsel stated on the trial that there were no records available. But the contrary was clearly proved. The auditor of the Department of Public Works caused the employees of the department to submit vouchers or slips descriptive of their services with an appropriate segregation and apportionment among the several classes of utilities. He testified on the basis of these reports, which were on file in his office, that disbursements for account of the rail roads were in excess by $of the railroads' contributions. Counsel for appellant expresses his belief that inspection and discovery of the contents of the vouchers would have yielded inadequate information. His business was to look and see.
+32
+ The objection will not hold that the documents might be ignored for the reason that, if produced, they would be incompetent as evidence. Apart from the possibility of examining the men who made them, it is the law of the state of Washington, declared in this very case, that the slips and vouchers so filed in the course of the business of the bureau were sufficient to support the testimony of the auditor as to the conclusions to be drawn from them. Referring to that subject, the court said: 'While the account kept by the auditor was not official, in the sense that of itself it was admissible in evidence, yet what the auditor did in that respect qualified him to testify as to the ultimate fact. Without further detailing the evidence, we will say that in our opinion, and in so far as there was any evidence on the subject, it preponderated against the findings made by the (trial) court as to the cost of supervising and regulating railroads.' ) .
+33
+34
+Whether the evidence thus accepted and relied upon would be rejected by other courts either as hearsay or on other grounds is quite beside the point. The Fourteenth Amendment does not confine the states to the common-law rules of evidence, however well established. West v. Louisiana, Brown v. New Jersey, Twining v. New Jersey, 97; Luria v. United States, 'The state is not tied down by any provision of the Federal Constitution to the practice and procedure which existed at the common law.' Brown v. New Jersey, supra. The acceptance of the testimony of the auditor does not touch the privilege of confrontation in a prose cution for a crime. Snyder v. Massachusetts, It does not substitute hearsay for direct testimony generally or as to every possible issue arising in a case. At most it is an enlargement of the common-law rule as to entries in books of account or in public or official documents. Cf. Wigmore, Evidence vol. et seq.
+34
+35
+Hearsay is competent evidence by the law of many enlightened countries. Stumberg, Guide to the Law and Legal Literature of France, pp. Encyclopedia of the Social Sciences, title Evidence; vol. v., pp. Even at common law it is competent at certain times and for certain purposes, though narrowly restricted. Wigmore, Evidence, vol. etseq.; Thayer, A Preliminary Treatise on Evidence at the Common Law, p. The range of its competence has been greatly enlarged by statutes in many of the states, as, e.g., in the administration of Workmen's Compensation Laws, and by the relaxation of ancient rules as to entries in accounts. Dodd, Administration of Workmen's Compensation, pp. Wigmore, Evidence, Supplement, Morgan v. others, The Law of Evidence, p. 51; New York Civil Practice Act, § ; cf. Massachusetts Bonding & Insurance Co. v. Norwich P. Co. (C.C.A.) Cub Fork Coal Co. v. Fairmont Glass Co. (C.C.A.) § United States v. Cotter (C.C.A.) The question may be laid aside whether a change in the law of evidence might be so radical and unjust as to work a destruction of fundamental rights and thus a denial of due process. Brown v. New Jersey, supra, at page Assuming such a possibility, there is nothing in this ruling to make it a reality. If the legislature of Washington had passed a statute to the effect that vouchers in a public office, filed by the employees at the bidding of a superior, should be prima facie evidence of the truth of their contents, it is not open to doubt that such a statute would be valid. It would not even involve an extreme departure from common law analogies rooted in the presumption of official regularity. What a state may do in changing the rules of evidence through the action of its legislature, it may do with equal competence through the action of its judges, for anything to the contrary in the Constitution of the United States.
+35
+ Appellant did not discharge its burden by proving in a vague way that some of the disbursements classified by the auditor as a charge against the railroads were incidental to proceedings conducted before the Interstate Commerce Commission or elsewhere for the benefit of private shippers and were not properly a part of the expense of local regulation.
+36
+37
+The Attorney General takes the ground that disbursements from the revolving fund, if made for that purpose, were without authority of law. If that be so, they cannot avail to invalidate the statute, though they may lay the basis for a remedy in behalf of the state or others against the officers or agents guilty of unintentional misfeasance. Aside, however, from that objection, there was no attempt by appellant to prove the amount of these or like withdrawals in even the roughest fashion. There was no suggestion, much less evidence, that they would wipe out the excess of $stated by the auditor. An inquiry directed to the point would have yielded in all likelihood an estimate at least approximately correct. If such inquiry was inadequate, the slips and vouchers were available for scrutiny and dissection. Examination of the auditor in connection with the documents would have shown forth the truth.
+37
+38
+The presumption of validity which sustains an act of legislation is unbroken by the evidence.
+38
+39
+The CHIEF JUSTICE, Mr. Justice BRANDEIS, and Mr. Justice STONE join in this opinion.
+39
+
+*
+
+1
+
+2
+
+3
+
+4
+
+5
+
+6
+
+7
+
+8
+
+9
+
+10
+
+11
+
+12
+
+13
+
+14
+
+15
+
+*
+Rehearing denied —-.
+
+*
+
+) .
+
+1
+
+2
+Chapter Washington Session Laws of (Remington's Revised Statutes §§ ) This act amended section of the Laws of as amended by § of the Laws of It left section Laws of in effect.
+
+2
+
+3
+Pacific T. & T. Co. v. Seattle, ) affirmed on other questions See, also, the opinion below, at pages .
+
+3
+
+4
+The complaint as filed sought recovery also of sums paid pursuant to other statutory provisions. The appellant, however, abandoned these items of claim.
+
+4
+
+5
+Charlotte, etc., Railroad Co. v. Gibbes, New York v. Squire. 
+
+5
+
+6
+Atlantic, etc., Tel. Co. v. Philadelphia, Mackay Tel. Co. v. Little Rock. 
+
+6
+
+7
+Western Union Tel. Co. v. New Hope, Pure Oil Co. v. Minnesota. 
+
+7
+
+8
+McLean & Co. v. Denver & R.G.R. Co., Compare Red 'C' Oil Co. v. Board of Agriculture of North Carolina, Western Union Tel. Co. v. New Hope, supra.
+
+8
+
+9
+Brimmer v. Rebman, Postal Telegraph-Cable Co. v. Taylor, Pure Oil Co. v. Minnesota, supra, at page .
+
+9
+
+10
+Atlantic, etc., Tel. Co. v. Philadelphia, supra, at page Postal Telegraph-Cable Co. v. Taylor, supra, at page Foote & Co., Inc., v. Stanley. 
+
+10
+
+11
+Foote & Co., Inc., v. Stanley, supra, at page Lugo v. Suazo (C.C.A.) .
+
+11
+
+12
+Western Union Tel. Co. v. New Hope, supra, at page Foote & Co., Inc., v. Stanley, supra, at page .
+
+12
+
+13
+Postal Telegraph-Cable Co. v. New Hope, Foote & Co., Inc. v. Stanley, supra, at page .
+
+13
+
+14
+Compare McKay v. Dillon, Dower v. Richards, Cleveland, etc., Ry. Co. v. Backus, Cedar Rapids Gas Co. v. Cedar Rapids, Bailey v. Alabama, Central Vermont R. Co. v. White, Ann.Cas. Hill v. Smith. 
+
+14
+
+15
+Kansas City Southern R. Co. v. C. H. Albers Comm. Co., Creswill v. Grand Lodge, Northern Pacific Railway v. North Dakota, Ann.Cas. Interstate Amusement Company v. Albert, Truax v. Corrigan, Ward & Gow v. Krinsky, AEtna Life Insurance Company v. Dunken, Fiske v. Kansas, Ancient Order v. Michaux, Consolidated Textile Corp. v. Gregory. 
+
+15
+
+
+{'250 U.S. 94', '282 U.S. 1, 51', '257 U.S. 312', '145 U.S. 175', '175 U.S. 172', '225 U.S. 246', '238 U.S. 507', '194 U.S. 258', '291 U.S. 300', '282 U.S. 1, 8', '300 U.S. 686', '266 U.S. 389', '138 U.S. 78', '154 U.S. 439', '260 U.S. 592', '231 U.S. 9, 25', '294 U.S. 587', '239 U.S. 560', '297 U.S. 682', '151 U.S. 658', '192 U.S. 55', '142 U.S. 386', '290 U.S. 158', '211 U.S. 78', '187 U.S. 419', '223 U.S. 655', '192 U.S. 64', '259 U.S. 503', '232 U.S. 494', '294 U.S., 55', '223 U.S. 573', '190 U.S. 160', '282 U.S. 1, at page 8', '219 U.S. 219', '289 U.S. 85', '236 U.S. 585', '248 U.S. 158', '291 U.S. 97', '203 U.S. 38', '222 U.S. 380', '298 U.S. 226', '279 U.S. 737', '274 U.S. 380'}
+=======================================================
+
+300 U.S. 471
+ATCHISON, T. & S.F. RY. CO.
+v.
+SCARLETT.*
+Argued March 3, 1937.
+1
+This is an action under the Federal Safety Appliance Act (Act of April Stat. 298 (45 C.A. §§ *), brought by Scarlett against the railway company to recover damages for a personal injury resulting from an alleged violation of the act. It also was generally alleged that the injury was due to the negligence of the railway company. Scarlett was employed as a brakeman. While descending from a box car by means of a ladder attached to the side of the car, his foot slipped on a round brace rod, also attached to the side of the car immediately behind the ladder, and he fell to the ground, thereby sustaining the injury for which damages were sought.
+1
+2
+The ladder itself was not defective. In its structure it complied with the regulations of the Interstate Commerce Commission made in pursuance of the act. 'United States Safety-appliance Standards'—order of March 13, 1911. It is unnecessary to set forth these regulations. The only one important here prescribes—'Minimum clearance of treads, (shall be) two (2), preferably twoand-one-half (2 1/2), inches.' The round brace rods with which the car was equipped extended outward from the wall of the car a distance of more than an inch. These brace rods operated to strengthen the walls of the car. That was their only purpose; and there is no doubt as to their necessity for that purpose. The brace rod in question ran down the side of the car at an angle of about 45 . The ladder overlay the brace rod, and cleared its outermost surface by more than the prescribed 2 1/2 inches.
+2
+3
+Scarlett's contention is that the brace rod is a part of the ladder, and by reason of its slant and rounded shape made the descent of the ladder insecure. At the trial, he abandoned his claim based upon negligence, and put his case wholly on the ground that the round diagonal brace rod and the ladder combined to constitute an unsafe appliance within the meaning of the act, and that, in consequence, the liability of the railway company was absolute. The case was submitted to the jury by the trial court upon that theory, and a verdict and judgment against the company resulted. That judgment the court below affirmed on appeal. (Cal.Sup.) .
+3
+4
+The record shows that brace rods, generally flat in shape, are in practically universal use on box cars. The company here formerly used a flat rod; but finding that such a rod frequently buckled, sometimes immediately under the ladder, it was abandoned and the stronger and less elastic round type was adopted in its place. This was in 1924; and the proof shows that for many years cars so equipped have been in general and constant operation on its lines. The general foreman of the company, having charge of all the car repairs at one of the principal shops, and who inspected a thousand cars each month, testified that he had never heard of an accident attributable or claimed to be attributable to the round brace rod, except in the present case. The record shows nothing to the contrary.
+4
+5
+In the light of the long-continued use of brace rods of the type here in question in the same relation to the ladder as is the case here, we may fairly presume that the Interstate Commerce Commission in the performance of its duties was aware of the situation, and knowingly permitted its rule in respect of the ladder clearance to remain without change. Compare Pennell v. Phila. & Reading Ry. Co., The regulation having been made by the commission in pursuance of constitutional statutory authority, it has the same force as though prescribed in terms by the statute. And the railway company having strictly complied with the regulation has discharged its full duty so far as the ladder requirement of the Safety Appliance Act is concerned. The judgment of the trial court and jury cannot be substituted for that of the commission. See Kansas City So. Ry. Co. v. United States, Napier v. Atlantic Coast Line R. Co., Mahutga v. Minneapolis, St. P. & S.S.M. Ry. Co., N.W. Auschwitz v. Wabash Ry. Co., Ford v. New York, N.H. & H.R. Co. (C.C.A.) .
+5
+6
+In Illinois Central R. Co. v. Williams, we held that section 2 of the act (45 C.A. § 11) requiring secure ladders, etc., was operative pending action by the Interstate Commerce Commission under section C.A. § 12). In the interim, we said, section 2 had the effect of prescribing an absolute and imperative duty, of making the ladders and other appliances 'secure'; but that section 3 contemplated that these appliances 'shall ultimately conform to a standard to be prescribed by the Interstate Commerce Commission; that is, that they shall be standardized.'
+6
+7
+We do not see how it reasonably can be said that the brace road constitutes a part of the ladder. In itself, it was a contrivance separate and distinct from the ladder, designed and used for a purpose entirely apart from the use of that appliance. The right of recovery, if any, must therefore rest upon the effect of the near proximity of the ladder to the rod, neither being in itself defective. The law to be applied to that situation is the common-law rule of negligence, and not the inflexible rule of the Safety Appliance Act; and the questions to be answered are whether the two appliances were maintained in such relation to one another as to constitute negligence on the part of the company and, if so, whether Scarlett assumed the risk. Ford v. New York, N.H. & H.R. Co., supra; Chicago, R.I. & P. Ry. Co. v. Benson, Slater v. Chicago, St. P., M. & O. Ry. Co., In that view, Scarlett in abandoning his claim under the common-law rule of negligence abandoned the only possible ground of recovery.
+7
+8
+Judgment reversed, and cause remanded for further proceedings not inconsistent with this opinion.
+8
+
+*
+
+*
+
+*
+Rehearing denied —-.
+
+*
+
+*
+Section 2, so far as pertinent, provides that '* * * all cars requiring secure ladders and secure running boards shall be equipped with such ladders and running boards, and all cars having ladders shall also be equipped with secure handholds or grab irons on their roofs at the tops of such ladders.'
+Section 3 requires the Interstate Commerce Commission, within a time fixed, to designate the number, dimensions, location and manner of application of the appliances provided for in the foregoing section. And these designations were to 'remain as the standards of equipment to be used on all cars subject to the provisions of this Act (chapter), unless changed by an order of said Interstate Commerce Commission.'
+
+*
+
+
+{'242 U.S. 462', '231 U.S. 675', '45 U.S.C.A. §§ 11', '301 U.S. 712', '45 U.S.C.A. § 11', '45 U.S.C.A. § 12', '231 U.S. 423', '272 U.S. 605'}
+=======================================================
+
+301 U.S. 402
+UNITED STATES et al.
+v.
+AMERICAN SHEET & TIN PLATE CO. et al.*
+Argued April 9—12, 1937.
+1
+This is an appeal from decrees of a specially constituted District Court1 of three judges enjoining and setting aside orders of the Interstate Commerce Commission which required certain carriers to cease and desist from spotting cars on industrial plant tracks as part of the service rendered under interstate line-haul rates and from granting allowances out o the line-haul rates to industries doing such spotting. The appellees are five industrial concerns affected by the orders. They contend that the spotting service in question is transportation within the meaning of the Interstate Commerce Act (49 C.A. § 1 et seq.); that the performance of the service, or the payment of an allowance to an industry which itself performs it, is sanctioned by custom and practice and by previous adjudications of the Commission; and that line-haul rates were fixed in contemplation of the rendition of such service. They further charge the orders are void because not supported by the Commission's findings or the evidence.
+1
+2
+Upon its own motion the Commission instituted an investigation known as Ex parte No. Practices of Carriers affecting Operating Revenues or Expenses. Part II of that proceeding had to do with terminal services.2 Voluminous evidence was adduced largely consisting of testimony by operating officials of carriers and traffic representatives of shippers touching the service of spotting cars at points upon the systems of plant trackage maintained by large industries. The Commission's report summarized its conclusions based on the evidence as to conditions at approximately two hundred industrial plants where spotting allowance were paid by the carriers and numerous plants where such services were performed by the carrier. The Commission found that line-haul rates had not been fixed to compensate the carriers for the performance of the service in question and that the railroads, after fixing their rates, had assumed a burden not previously borne by them. It found that section of the act (49 C.A. § permitting allowances by carriers to those performing a portion of the service of transportation had been made the instrument of abuse by the payment of unwarranted allowances and added: 'When a carrier is prevented at its ordinary operating convenience from reaching points of loading or unloading within a plant, without interruption or interference by the desires of an industry or the disabilities of its plant, such as the manner in which the industrial operations are conducted, the arrangement or condition of its tracks, weighing service, or similar circumstances, * * * the service beyond the point of interruption or interference is in excess of that performed in simple switching or team-track delivery.' In conclusion, the report states that payment for or exemption of the cost of service performed beyond such points of interruption or interference is in violation of section C.A. § 6), provides the means by which the industry enjoys a preferential service not accorded to shippers generally, dissipates the carrier's funds and revenues, is not in conformity with the efficient or economical management contemplated by the Interstate Commerce Act, and is not in the public interest. No orders were made upon the footing of the main report, but thereafter, Division 6 promulgated supplemental reports recapitulating the testimony touching particular plants and making findings with respct to each and the service rendered thereat. Upon the basis of these supplementary proceedings orders to cease and desist were entered.3 The carriers thereupon gave notice of a revision of the applicable tariffs canceling allowances or withdrawing the spotting service. Each appellee filed a bill praying that the order affecting it be set aside and enforcement be restrained. The causes were consolidated for hearing and were disposed of upon a single record in one opinion. Separate decrees were entered in the respective causes granting the requested relief. The appellants took a single appeal from all the decrees. We hold the Commission's orders were lawful and should not have been set aside.
+2
+3
+First. The appellees urge that the orders are fatally defective because the Commission failed to make the necessary quasi judicial findings. They point out that the Commission held that an allowance furnished a means whereby an industry enjoyed a preferential service not accorded to shippers generally, and constituted a refund or remission of a portion of the rates for transportation in violation of section 6(7) of the Interstate Commerce Act (49 C.A. § 6(7). They assert these conclusions are insufficient to support a cease and desist order because the Commission has not found, as it must to bottom an order on sections of the Act,4 that the pracitce was unreasonable, unjustly preferential, unduly discriminatory, or otherwise unlawful. Respecting section 6(7)5 they say that as, by that section and section allowances to shippers who perform a part of the service of transportation are permissible if tariffs setting forth the nature and amount of the allowance are duly filed, as they were in the present instance, it cannot be an unlawful refund or rebate for the carriers to make the allowances which the tariffs specify. If the findings were limited to the practices specified in the sections mentioned the position of the appellees would no doubt be sound, but the Commission has, in each case, found that the interchange tracks of the respective industries are reasonably convenient points for the receipt and delivery of interstate shipments and that the industry performs no service beyond those points of interchange for with the carrier is compensated under its interstate line-haul rates. These findings are an adjudication by the Commission that the spotting service within the appellees' plants is not transportation service which the carriers are bound to render in respect of receipt and delivery of freight. The statute contains this definition: 'The term 'transportation' * * * shall include * * * all services in connection with the receipt, delivery, elevation, and transfer in transit * * * of property transported.'7 The Interstate Commerce Commission is authorized and required to enforce the provisions of the act8 and, after hearing, if it be of opinion that any regulation or practice of a carrier be unjust or unreasonable, or unjustly discriminatory, 'or otherwise in violation of any of the provisions of this act (chapter),' to determine what practice is or will be just, fair and reasonable to be thereafter followed and to make an order that the carrier cease and desist from violation to the extent that the Commission finds violation does or will exist.9
+3
+4
+Second. The Commission, so it is said, has approved allowances in instances such as those under review and by a long course of decision has sanctioned the practice; and the claim is that the carriers have relied upon the Commission's action in doing plant spotting or making allowance for the performance of that service by industries. We cannot agree either that the Commission has so decided or that, if it had, it would be concluded from re-examining the question in the light of existing conditions. The Commission has repeatedly dealt with the matter.10 In numerous instances, upon application of an industry for the performance of spotting service on its plant track system, or for an allowance from the carrier for itself performing the service, the Commission, in the view that like service was performed or an allowance paid for it at other similar plants, has ordered the removal of discrimination as between shippers. On the other hand, in some cases the Commission has held that the service demanded was not a service of transportation and has refused to order the carrier to perform it.11 But, whatever may have been decided in the past, it is evident that the growth of the practice of making allowances for plant switching and the lack of uniformity in the practice of the carriers with respect to this service properly called for an investigation of the entire situation and the promulgation of appropriate orders to regulate the practice and prevent performance of a service not within the carrier's transportation obligation. The investigation and the consequent orders of the Commission were not foreclosed by its earlier decisions. The Commission is clearly empowered to determine what is embraced within the service of transportation and what lies outside that service.12 Since the Commission finds that the carriers' service of transportation is complete upon delivery to the industries' interchange tracks, and that spotting within the plants is not included in the service for which the line-haul rates were fixed, there is power to enjoin the performance of that additional service or the making of an allowance to the industry which performs it.
+4
+5
+Third. What has been said makes it unnecessary further to discuss the question of the adequacy of the Commission's findings. If supported, they are sufficient to sustain the orders made.
+5
+6
+Fourth. The cases were heard by the District Court on the record made before the Commission. The appellees challenge the orders as without support in the evidence. Examination of the record discloses that there is substantial evidence to sustain the Commission's findings.
+6
+7
+It is conceded that the line-haul rate covers delivery. Such rates are usually made to or from an area, sometimes designated a 'switching district' or 'switching limits.' Within that area the carrier holds itself out as agreeing to deliver freight in its freight depot or at team tracks or on sidings or spur-tracks owned by an industry. The practice has come to be uniform that in delivering a car on a team track the carrier will spot the car at a point where merchandise of the class contained in the car is usually and most conveniently unloaded; thus there are particular team tracks or points where fruit and vegetables, furniture, etc., etc., are constantly loaded and unloaded and cars are spotted accordingly. In the analogous situation where an industry's warehouses or other facilities are located at given points on a spur or side-track, the carrier holds itself out to spot the car at the point where it is needed for loading or unloading, as a warehouse door, a scrap pile, etc., etc.
+7
+8
+In the case of a large industry having many points of loading and unloading throughout its plant, the usual arrangement is to have lead tracks or interchange tracks on which the cars are, in the first instance, shifted; thence they are taken over plant tracks to various buildings and points and are spotted in accordance with the needs and convenience of the industry. It is asserted by the appellees that it has become customary to do this spotting on plant tracks as part of the delivery service which the carrier holds itself out as agreeing to perform without a charge additional to the line-haul rate. The record fails to establish any such custom. Carriers in official territory have, for perhaps thirty years, made allowances to certain industries for doing spotting within their plants. No uniform rule as to when such an allowance would be made has been adopted although there have been efforts to agree upon a rule. Apparently the plants most favored have been steel plants and some carriers have refused to extend the system of allowances to other than steel plants. It appears from the record that the making of allowances has not been governed by any principle and the case fall into three general classes: (1) Where the plant does its own spotting and receives an allowance; (2) where the railroad does plant spotting; (3) where the industry does its own spotting and receives no allowance.
+8
+9
+No allowances have been granted in New England territory, in the Southeast, or in the extreme Southwest. The practice of granting allowances has spread, to some extent, from official territory across the Mississippi and to the Northwest but here again there is no uniform rule about the matter. There is no custom or practice which has the force of a rule of law that the line-haul rate includes plant spotting service.
+9
+10
+The testimony of operating officials of the carriers and transportation officers of industries was not entirely consistent. Some took the position that it is the obligation of a carrier to spot a car on plant tracks if the spotting involves but a single uninterrupted movement which can be made at the carrier's convenience. Many took a broader view and indicated that in consideration of the large amount of traffic emanating from and terminating at a given plant the spotting of cars, in co-operation with the needs of the plant, would not involve a burden greater than the delivery of similar cars on team tracks. There was much opinion evidence to the effect that the cost of spotting a car on plant tracks is no greater than that of placing a car on team tracks. There was, however, opinion evidence to the contrary, and facts were developed with respect to the amount of engine time involved in some of the operations under examination from which it may fairly be deduced that the industry switching involved greater expense than team track switching.
+10
+11
+The Commission properly held that each case must be decided upon the circumstances disclosed. It accordingly examined the evidence respecting the operations at the plant of each of the appellees and made its findings with respect to each upon the evidence in the record. We find it unnecessary to detail that evidence since it is summarized in the Commission's reports. It is sufficient now to say that in every case the Commission found, upon sufficient evidence, that the cars were, in the first instance, placed upon lead tracks, interchange tracks or sidings and subsequently spotted from these tracks; in each instance the spotting service involved one or more operations in addition to the placing of the car on interchange tracks, such as moving it to plant scales for weighing, or some additional burden, such as conformance to the convenience of the plant, supply of special motive power required by the plant's layout or trackage or some other element which called for excessive service greater than that involved in team track spotting or spotting on an ordinary industrial siding or spur. We are unable to say that the findings in respect of the individual plants lacked support in the evidence. We are, therefore, bound to accept them and to hold the orders lawful.
+11
+12
+The decrees will be reversed and the causes remanded for further proceedings in conformity with this opinion.
+12
+13
+So ordered.
+13
+14
+Reversed.
+14
+15
+Mr. Justice BUTLER is of opinion that the commission's ruling that the carriers' service of transportation is complete upon delivery to the industries' interchange tracks is not supported by the circumstantial facts found or by the evidence; that the orders here involved are based upon a misconstruction of the Act, and that the decrees of the district court should be affirmed.
+15
+
+*
+
+1
+
+2
+
+3
+
+4
+
+5
+
+6
+
+7
+
+8
+
+9
+
+10
+
+11
+
+12
+
+*
+Rehearing denied —-.
+
+*
+
+.
+
+1
+
+.
+
+2
+
+3
+The reports and orders affecting the appellees are the following: American Sheet & Tin Plate Company Terminal Allowance, Allegheny Steel Company Terminal Allowance, Pittsburgh Plate Glass Company Terminal Allowance, Weirton Steel Company Terminal Allowance, West Leechburg Steel Company Terminal Allowance, Pittsburgh Plate Glass Company Terminal Allowance. 
+
+3
+
+C.A. §§ .
+
+4
+
+.
+
+5
+
+.
+
+6
+
+7
+Act of June as amended. 
+
+7
+
+C.A. § .
+
+8
+
+C.A. § .
+
+9
+
+10
+Associated Jobbers of Los Angeles v. Atchison, T. & S.F. Ry. Co., Car spotting Charges, National Malleable Castings Co. v. Pittsburgh & L.E.R. Co., and many others.
+
+10
+
+11
+General Electric Case (General Electric Co. v. New York C. & H.R.R. Co.), Crane Iron Works Case (Crane Iron Works v. Central R. Co.), Crane Iron Works v. United States (Com.Ct.) Compare New York C. & H.R.R. Co. v. General Electric Co., N.E. 
+
+11
+
+12
+Los Angeles Switching Case, Merchants' Warehouse Co. v. United States. 
+
+12
+
+
+{'49 U.S.C.A. § 1', '49 U.S.C.A. § 15', '49 U.S.C.A. §§ 2', '49 U.S.C. § 6', '49 U.S.C. §§ 2', '49 U.S.C. § 1', '49 U.S.C. § 15', '234 U.S. 294', '49 U.S.C. § 12', '283 U.S. 501', '49 U.S.C.A. § 12', '49 U.S.C.A. § 6'}
+=======================================================
+
+299 U.S. 433
+CITY BANK FARMERS TRUST CO.
+v.
+IRVING TRUST CO. et al.
+Argued Dec. 16, 1936.
+1
+Certiorari was granted in this and three following cases (Kuehner v. Irving Trust Co., Schwartz v. Irving Trust Co., Meadows v. Irving Trust Co., involving the construction and validity of provisions of section 77B of the Bankruptcy Act1 which enlarge the category of provable claims to include one by a landlord for injury due to rejection of a lease, or for damages or indemnity under a lessee's covenant.
+1
+2
+Florence H. Bugbee, the petitioner's assignor, leased to United Cigar Stores Company of America premises in Trenton, N.J., for a term commencing April 1, 1926, and ending March 31, 1946. August 29, 1932, the lessee was adjudicated a bankrupt upon its own petition. November 11, 1932, the respondent, as trustee in bankruptcy, rejected the lease and abandoned the premises, a portion of which had been sublet by the bankrupt. Without notice to the Cigar Stores Company the landlord relet portions of the building to subtenants in possession and let other portions to new tenants.
+2
+ two days after the passage and effective date of section 77B, the Cigar Stores Company, as permitted by subsection (p), p), filed in the pending bankruptcy proceeding its petition for reorganization. In the latter cause the petitioner presented a proof of claim for injury resulting from the rejection of the lease. The trustee objected to the claim and asked to have it expunged for the reason that the lease incorporated no covenant to indemnify the lessor for loss of rents or other provision enabling her to hold the tenant for damages or for rent accruing subsequent to termination of the leasehold estate, and asserted the leasehold had been terminated and all obligations of the debtor under the lease extinguished by the landlord's re-entry and reletting.
+3
+4
+The special master who heard the cause recommended disallowance of the claim in the view that section 77B did not, and could not, create any valid and legal claims against the debtor where none existed anterior to the enactment of the section, and held that none existed before its adoption because by the law of New Jersey, the landlord's re-entry and reletting worked a surrender of the leasehold. In his report the master referred to the fact that the record in the earlier bankruptcy proceeding disclosed a claim filed by the landlord, upon which dividends had been paid, for expenditures in restoring a party wall and closing up a common entrance in the leased building based upon the debtor's agreement to restore it at the expiration of the term, which was again asserted in the present proceeding. He thus commented upon this situation: 'Naturally, the entire basis of this claim for restoration is the expiration of the lease. The Trustee may well point to it, as showing that the Landlord, prior to the enactment of section 77B, by her re-entry and reletting of the premises as aforesaid, considered that the lease terminated and expired.'
+4
+5
+The District Court approved the master's report and rejected the claim; and the Circuit Court of Appeals affirmed,2 holding that the injury specified in section for which a claim by a landlord is allowable can only be such injury as would found an action under applicable state law. The court concluded that although according to the law of New Jersey the re-entry and reletting did not effect a surrender, the restoration of the building was such an assertion of dominion by the landlord as to deprive her of any further claim against the tenant.
+5
+6
+The parties differ with respect to the correctness of the Circuit Court of Appeals' interpretation of the law of New Jersey. They also disagree as to whether the record supports the finding that the landlord restored a portion of the leased building. The disputes need not be resolved if the petitioner is right in asserting that, within the purview of section 77B, the lessor was a person injured by the rejection of the lease who is accorded a provable claim against the debtor's estate for the injury, notwithstanding the re-entry, reletting, and restoration of the premises, after rejection of the lease, consummated a surrender of the leasehold, and ended the tenant's liability under the local law. As section 77B supplements and extends the bankruptcy system in force at the time of its enactment, we shall examine the question in the light of the old law, the supposed mischief arising under it and the alterations made by the later act.
+6
+7
+1. Section 63a of the Bankruptcy Act of stated what claims should be provable in bankruptcy. The section gave a landlord no provable claim for rent to accrue after the trustee's rejection of a lease. The tenant's liability for future rent was not discharged and remained enforceable as installments of rent fell due. This was necessarily so, since future rent is demandable only in the amounts and at the times named in the lease and the total cannot be recovered at law in a lump sum in advance of accrual of the installments. This state of the law involved elements of hardship to both lessor and lessee. In the case of a corporate, and often in that of an individual lessee, the landlord's right to collect rent from a bankrupt tenant was valueless. On the other hand, if the landlord, notwithstanding rejection by the trustee, was compelled by its terms, or elected pursuant to its provisions, to treat the lease as still in force, he might throughout the remainder of the term harass the discharged bankrupt by successive actions for accruing rent and so retard or prevent the debtor's financial rehabilitation which the statute was intended to aid.
+7
+8
+Many leases provide for the termination of the tenant's estate upon his adjudication as a bankrupt, by the lessor's re-entry. Under the old law such termination did not give rise to a provable claim for future rent, or for damages, or for indemnity. Not uncommonly lease agreements, in addition to stipulation for termination of the leasehold upon the tenant's bankruptcy, provide that the bankrupt shall indemnify the landlord for loss of future rent. These provisions vary in their terms, some requiring the rendition of indemnity as each installment of rent falls due, others at the end of the term when the full difference between the rent reserved and that received upon reletting can be ascertained. Under section 63a of the Act of such covernants did not support a provable claim, as the obligation to indemnify ripened after adjudication. The consequence was that liability under this sort of covenant was not discharged and remained to haunt the bankrupt.
+8
+9
+As early as proposals were brought forward in Congress for the broadening of the bankruptcy system to authorize proceedings for the reorganization of business corporations. Bills authorizing proceedings in courts of bankruptcy to that end failed of passage in the 72d and 73d Congress. H.R. Congress, Second Session, which ultimately became law as section 77B of the Bankruptcy Act was under consideration when the decision in Manhattan Properties, Inc., v. Irving Trust Company, threw into high relief the plight in which landlords found themselves as a result of the flood of corporate bankruptcies brought about by the economic depression. The situation of owners of business properties leased to chain store organizations which had resorted to voluntary bankruptcy largely as a lever to force revision of leases was the subject of comment in and out of Congress. By the same act section 6oa was amended (and note) to give a provable claim to a landlord whose lease had been rejected by a trustee in bankruptcy and a similar provision was incorporated in 77B, the new reorganization section. This history cannot be ignored in construing the supplemental legislation.
+9
+ The purpose of section 77B was to facilitate rehabilitation of embarrassed corporations by a scaling or rearrangement of their obligations and shareholders' interests, thus avoiding a winding up, a sale of assets, and a distribution of the proceeds. A salient element in such a reorganization is the discharge of all demands of whatsoever sort, executory and contingent, presently due or to mature in the future. Of such claims not the least important are those for rent to accrue under a lease, or for damages or indemnity payable because of the termination of a leasehold. Obviously if such obligations are to be discharged they must be made provable, for they cannot be destroyed. How, then, did the Congress deal with them?
+10
+11
+The pertinent provisions of section 77B are copied in the margin.4
+11
+12
+Clause 10 renders provable claims upon covenants of indemnity maturing upon re-entry after adjudication. The term 'creditors' is made to include 'holders of claims of whatever character against the debtor or its property, including claims under executory contracts, whether or not such claims would otherwise constitute provable claims under this Act (title).' Bankruptcy of the obligor is an anticipatory breach of an executory contract and a claim for damages for the breach was provable under section 63a of the Act of One having a demand against a debtor whose affairs are in the hands of an equity receiver, if the claim matured after the receiver's appointment but before the expiration of the period fixed for presentation of claims, is entitled to prove and to share in distribution;6 but the rule in bankruptcy has been that the claim under an executory contract must mature at or before the filing of the petition.7 The language which is italicized in the foregoing quotation from clause 10 can have no other meaning than that claims upon covenants for damages or indemnity arising out of the termination of a lease after initiation of proceedings under section 77B are provable. The provision, however, creates no new claim. It merely treats the adjudication as a breach of covenant and gives a provable claim in virtue of the breach.
+12
+13
+Since in the instant case the lease contains no such covenant, in the absence of some further provision respecting landlords' claims the petitioner would be without remedy under section 77B as it would have been in strict bank ruptcy proceedings under section 63a of the Act of a) until that section was amended in 1934. There is, however, a further provision: 'In case an executory contract or unexpired lease of real estate shall be rejected pursuant to direction of the judge (see subsection (c)() given in a proceeding instituted under this section, or shall have been rejected by a trustee or receiver in bankruptcy or receiver in equity, in a proceeding pending prior to the institution of a proceeding under this section any person injured by such rejection shall, for all purposes of this section and of the reorganization plan, its acceptance and confirmation, be deemed to be a creditor.' . Under the old law the rejection of a lease by a trustee in bankruptcy was not a breach of the lease, in the absence of a specific agreement that it should be so. The bankrupt tenant remained liable for the rent as it fell due but all the assets wherewith he might pay were taken from him. For a default in payment subsequent to adjudication the landlord might reenter and terminate the lease. By virtue of a covenant so providing the landlord might treat the bankruptcy as cause for reentry and termination of the leasehold estate. While, therefore, the rejection of a lease by a trustee in bankruptcy might, and usually did, spell possible or probable injury to the landlord, that fact gave him no standing as a creditor in the bankruptcy proceeding. Having in mind this state of affairs the purpose is clearly to give a landlord a provable claim for injury due to the rejection of his lease, whether the instrument contains a covenant of indemnity or not.
+13
+14
+Although, as we have noted, under the Act of rejection by the trustee was not a breach of the lease, it left the premises in the possession of an impecunious tenant with the virtual certainty they would be thrown back upon the landlord's hands untenanted. If the owner could not turn his property to account on terms as favorable as those embodied in the rejected lease obviously he suffered an injury.
+14
+15
+The opinion in the Manhattan Properties Case, supra, adverts to the fact that for many years the English bankruptcy acts have given a remedy for the loss of future rents due to supervening bankruptcy and sequent rejection of the lease.8 Congress was familiar with this fact when section 77B was under discussion.9 The analogous provisions of the English acts while differently phrased are of the same purport as those of section Congress intended to supply the omission of the Act of and to create a claim provable in a reorganization proceeding for injury due to a trustee's rejection. This conclusion finds further support in the succeeding sentence, which in limiting the amount allowable upon these claims, refers to them in three aspects, thus: 'The claim of a landlord for injury resulting from the rejection of an unexpired lease of real estate or for damages or indemnity under a covenant contained in such lease,' etc. 
+15
+ Like any other provable claim, that of a landlord for injury resulting from rejection of the lease, or for damages or indemnity for termination of the tenure, may, for an adequate consideration, be released. Schwartz v. Irving Trust Company, The lease, moreover, may contain stipulations, fulfillment of which is to be full compensation for any loss due to termination of the leasehold and thus bar any claim under 77B for the landlord's loss. Meadows v. Irving Trust Company. 
+16
+ The question for decision in this case is whether the claim recognized by section 77B, which would not have been an enforceable demand at common law, or under the laws of many of the states, is allowable only if the leasehold estate has not, after rejection of the lease, been drowned by surrender effective under state law or otherwise terminated pursuant to state law by the lessor's conduct.
+17
+18
+We think it clear that provability of such a claim is unaffected by any termination of the leasehold subsequent to rejection of the lease. The provision is that the landlord's claim for injury resulting from rejection, or for damages, or for indemnity under a covenant, shall be limited to an amount not exceeding the rent reserved 'for the three years next succeeding the date of surrender of the premises to the landlord or the date of re-entry of the landlord, whichever first occurs, whether before or after the filing of the petition.' . Plainly the word 'reentry' is used to describe a case where the landlord, treating the bankruptcy as a breach of the lease, re-enters for condition broken. Whether the other phrase, 'surrender of the premises to the landlord,' denotes the technical surrender which drowns the particular estate in the reversion, or the mere tradition to, and acceptance by, the landlord of possession, is immaterial. The amount of the landlord's claim for the loss of his lease necessarily is the difference between the rental value of the remainder of the term and the rent reserved, both discounted to present worth. This, we have said, is a method of liquidation familiar and fair. It was the method adopted under section 77B in Kuehner v. Irving Trust Company et al. (C.C.A.) the judgment in which is this day affirmed. Kuehner v. Irving Trust Co., If the landlord must give credit for the present rental value of the premises he is entitled to avail himself of them for realization of that value, and this he cannot do without re-entry and reletting. If he must give such credit he surely has the option to attempt recoupment of his loss by occupying the premises for the remainder of the term. But such occupation, under the law of most of the states, amounts to a complete termination of the leasehold and deprives the landlord of any further rights as lessor. It is evident that if a lease be rejected the subsequent repossession of the demised premises, and acts of control and dominion do not destroy the provability of a claim under section 77B.
+18
+19
+It is suggested that if a landlord desires to avail himself to the privilege accorded by the section, he must keep the leasehold estate intact until his claim shall have been proved and allowed. In view, however, of the obvious intent of the statute to extend relief not only to landlords whose leases may in future be rejected, but also to those whose leases have been rejected in prior bankruptcy or equity proceedings, such a construction would ill accord with the remedial purposes of the act, which demand a liberal construction in favor of the claimants for whom relief was intended.
+19
+20
+We conclude that the petitioner's claim should have been allowed. The judgment is reversed and the cause is remanded to the District Court for further proceedings in conformity with this opinion.
+20
+21
+Reversed.
+21
+22
+Mr. Justice BRANDEIS and Mr. Justice STONE took no part in the consideration or decision of this case.
+22
+
+1
+
+2
+
+3
+
+4
+
+5
+
+6
+
+7
+
+8
+
+9
+
+10
+
+1
+Added to the Bankruptcy Act of by Act of June as amended by Act of Aug. and Act of Aug. C.A. § .
+
+1
+
+2
+In re United Cigar Stores Co. of America. 
+
+2
+
+a).
+
+3
+
+4
+'(a) Any corporation which could become a bankrupt under section 4 of this Act (section 22 of this title), * * * may file an original petition, * * * in any proceeding pending in bankruptcy, whether filed before or after this section becomes effective.'
+'(b) * * * (10) * * * The term 'creditors' shall include for all purposes of this section and of the reorganization plan, its acceptance and confirmation, all holders of claims of whatever character against the debtor or its property, including claims under executory contracts, whether or not such claims would otherwise constitute provable claims under this Act (title). The term 'claims' includes debts, securities, other than stock, liens, or other interests of whatever character. * * *
+'In case an executory contract or unexpired lease of real estate shall be rejected pursuant to direction of the judge given in a proceeding instituted under this section, or shall have been rejected by a trustee or receiver in bankruptcy or receiver in equity, in a proceeding pending prior to the institution of a proceeding under this section any person injured by such rejection shall, for all purposes of this section and of the reorganization plan, its acceptance and confirmation, be deemed to be a creditor. The claim of a landlord for injury resulting from the rejection of an unexpired lease of real estate or for damages or indemnity under a covenant contained in such lease shall be treated as a claim ranking on a parity with debts which would be provable under section 63(a) of this Act (section a) of this title), but shall be limited to an amount not to exceed the rent, without acceleration, reserved by said lease for the three years next succeeding the date of surrender of the premises to the landlord or the date of reentry of the landlord, whichever first occurs, whether before or after the filing of the petition, plus unpaid rent accrued up to such date of surrender or reentry. * * *
+'(p) This section shall take effect and be in force from and after the date of the approval of this amendatory Act (June , and shall apply as fully to debtors, their stockholders and creditors, whose interests or debts have been acquired or incurred prior to such date, as to debtors, their stockholders and creditors, whose interests or debts are acquired or incurred after such date. Proceedings under this section may be taken in proceedings in bankruptcy which are pending on the effective date of this amendatory Act (June .' a, b, p).
+
+4
+
+5
+Chicago Auditorium Association v. Central Trust Company. 
+
+5
+
+6
+Wm. Filene's Sons Co. v. Weed. 
+
+6
+
+7
+Manhattan Properties, Inc., v. Irving Trust Company, supra.
+
+7
+
+ at page .
+
+8
+
+9
+Cong.Rec., Vol. 
+
+9
+
+Vict., c. George V, c. The subject is first mentioned in the Act of The English acts authorize 'disclaimers' of onerous property or contracts and specifically refer to leases. The provision for a provable claim based on a disclaimer is the same in the Acts of 'Any person injured by the operation of a disclaimer under this section shall be deemed to be a creditor of the bankrupt to the extent of the injury, and may accordingly prove the same as a debt under the bankruptcy.'
+
+10
+
+
+{'291 U.S. 320', '11 U.S.C.A. § 103', '11 U.S.C. § 207', '299 U.S. 464', '240 U.S. 581', '245 U.S. 597', '299 U.S. 456', '299 U.S. 445', '11 U.S.C.A. § 207'}
+=======================================================
+
+299 U.S. 445
+KUEHNER et al.
+v.
+IRVING TRUST CO. et al.
+Argued Dec. 15, 1936.
+1
+In this case we are concerned with that portion of subsection (b)(10) of section 77B of the Bankruptcy Act (, which limits the claim of a landlord for indemnity under a covenant in a lease to an amount not to exceed three years' rent.
+1
+2
+The questions are: (1) Is the claim so limited in all events and for all purposes or is the surplus over the specified amount, though subordinated to the claims of other creditors, to have priority over the interests of stockholders or to be reserved as a liability of the reorganized corporation? (2) If the claim is limited in all events to the named amount, is the provision obnoxious to the Fifth Amendment of the Constitution?
+2
+3
+The petitioners leased real estate to United Cigar Stores Company in 1926 for a term expiring in 1946. August 29, 1932, the company was adjudicated a voluntary bankrupt. November 14, 1932, the trustee rejected the lease and abandoned the premises. The following day the petitioners reentered and terminated the leasehold in accordance with the provisions of the lease which contained a covenant by the lessee to indemnify them against all loss of rent from such termination. Immediately upon adoption of section 77B the bankrupt filed its petition for reorganization thereunder, which was approved by the court.
+3
+4
+The petitioners presented a proof of claim, measuring the injury resulting from the termination of the leasehold by the difference between the rental value and the value of the rent reserved for the remainder of the term. They prayed that the amount claimed be ranked on a parity with other provable debts to the extent of three years' rent and, as to the balance, be subordinated to other provable debts but awarded priority over the claims or interests of the debtor's stockholders. The trustee asked that the allowance be in an amount limited as provided by the statute. Committees representing preferred stockholders and debenture holders objected to allowance of the claim in any amount, asserting the petitioners could not sue on the covenant of indemnity under the state law until the expiration of the term and, having no presently enforceable claim under state law, had none in the reorganization proceeding. The petitioners amended their pleading by adding a prayer that to the extent any portion of the claim might be held not allowable a charge be reserved against the debtor's assets for such portion in priority to any interest accorded stockholders.
+4
+5
+The uncontroverted testimony is that the fair rental value for the balance of the term is $ The future installments of rent to the end of the term agregate $ A special master recommended that the petitioners' claim be allowed and liquidated at the amount of the difference between present rental value and present value of the rent reserved. He found that the sum so ascertained would be not less than the equivalent of three years' rent and recommended allowance of the claim on a parity with provable debts to the extent of three years' rent—$and the reservation of all questions as to the balance until the time for classification of creditors and consideration of a reorganization plan. The District Court confirmed the master's report save that it decided the claim as allowed should represent the extent of claimants' right to participate in the proceedings. Cross-appeals were taken to the Circuit Court of Appeals which held that petitioners had a provable claim, that the method adopted for the liquidation of the claim was proper, that section 77B required limitation of allowance to a sum not in excess of the three years' rent mentioned in the statute and that such limitation does not take petitioners' property without due process of law in violation of the Fifth Amendment.1 We granted certiorari because of the importance of the questions involved.
+5
+6
+The respondent stockholders' committee does not now deny that the petitioners have a provable claim but joins the trustee in support of the decision below that the allowance must be limited for all purposes of the proceeding to three years' rent.
+6
+7
+We have held in City Bank Farmers Trust Company v. Irving Trust Company2 that the broad definition of creditors in section 77B gives the petitioners a provable claim for breach of the debtor's covenant of indemnity. The section, however, limits the amount for which such a claim may be allowed. The relevant provision, so far as applicable to petitioners' claim is: 'The claim of a landlord * * * for * * * indemnity under a covenant contained in such lease shall be treated as a claim ranking on a parity with debts which would be provable under section 63(a) of this Act (section a) of this title), but shall be limited to an amount not to exceed the rent, without acceleration, reserved by said lease for the three years next succeeding * * * the date of reentry of the landlord.' .
+7
+8
+The legislative history of this provision, and the successive alterations of its wording in both Houses of Congress and in conference, to which we are referred, cannot affect its interpretation, since the language of the act as adopted is clear. The only phrase to which petitioners point in support of their contention that the claim is to be divided into two parts, one for an amount not exceeding three years' rent, to stand on a parity with other provable claims, and the other, representing the balance, to be subordinated to creditors' claims, but preferred to the interest of stockholders, is: 'shall be treated as a claim ranking on a parity with debts which would be provable under section 63(a) (section a)).' We need not consider the suggestion that the words 'on a parity' were left in the clause per incuriam when formulation of an earlier draft was altered, since, in our opinion, their presence however they came to be inserted, cannot overcome the direct mandate that 'the claim * * * shall be limited.' We agree, threrfore, with the Circuit Court of Appeals that if, upon liquidation by deduction of present rental value from the present value of rent reserved, the difference exceeds the amount of the total rent for the three years succeeding the landlord's reentry, the claim may be allowed only for that amount.
+8
+9
+A more serious question is raised by the petitioners' insistence that thus applied the act exceeds legislative powers granted and infringes personal guaranties given by the Constitution. They say that the prescribed method will in some instances limit the amount allowed to a figure less than the landlord's actual ultimate loss, and thus partially destroy his remedy for enforcement of his contract. The resulting violations of the Constitution, they assert, are the transgression of the boundaries of the bankruptcy power vested in Congress, and the taking of their property without due process.
+9
+10
+Is the enactment in excess of the power to legislate on the subject of bankruptcies, conferred upon Congress by Article 1, section 8, of the Constitution? Congress evidently considered the limitation imposed on claims of this class necessary or advantageous to a successful reorganization and its judgment is conclusive upon us, if the enactment is within its power.
+10
+11
+The petitioners concede Congress has power to exclude contingent claims from proof and allowance so long as the obligations they represent are not extinguished by the statute.3 They refer, however, to the statement in Louis ville Joint Stock Land Bank v. Radford, that Congress has never attempted to supply a bankrupt with capital to engage in business at the expense of his creditors, as persuasive that a statute cannot discharge a bankrupt's assets from liability for his debts but can only discharge the bankrupt from encumbrances on his future exertions.4 This principle, they assert, the statute violates. The short answer is that the object of bankruptcy laws is the equitable distribution of the debtor's assets amongst his creditors;5 and the validity of the challenged provision must be tested by its appropriateness to that end. Congress, in determining what such an equitable distribution demands, is free to establish standards of provability and measures of allowance regardless of the claimant's ability to maintain an action in a court or the measure of his recovery in such an action if maintainable. The contested provision is within the power of Congress. The exercise of the power is, nevertheless, subject to the commands of the Fifth Amendment.6
+11
+12
+Does the act offend the due process guaranty by destruction of rights conferred by the petitioners' contract? They affirm that it does, not merely by impairing those rights but by a direct taking pro tanto of all remedies for their enforcement and, to that extent, of the contract itself. Conceding they have no lien upon, or property right in, the debtor's assets, such as was the subject of decision in Louisville Joint Stock Land Bank v. Radford, supra, they maintain that the Fifth Amendment assures them some effective procedure for the enforcement of the obligation of their contract; that the debtor's assets are a trust fund for creditors which cannot be invaded for the benefit of stockholders. As pointed out in the case last cited there is, as respects the exertion of the bankruptcy power, a significant difference between a property interest and a contract since the Constitution does not forbid impairment of the obligation of the latter. The equitable distribution of the bankrupt's assets, or the equitable adjustment of creditors' claims in respect of those assets, by way of reorganization, may therefore be regulated by a bankruptcy law which impairs the obligation of the debtor's contracts. Indeed every Bankruptcy Act avowedly works such impairment. While, therefore, the Fifth Amendment forbids the destruction of a contract it does not prohibit bankruptcy legislation affecting the creditor's remedy for its enforcement against the debtor's assets, or the measure of the creditor's participation therein, if the statutory provisions are consonant with a fair, reasonable, and equitable distribution of those assets. The law under consideration recognizes the petitioners' claim and permits it to share in the consideration to be distributed in reorganization. The question is whether the remedy is circumscribed in so unreasonable and arbitrary a way as to deny due process.
+12
+13
+Bankruptcy originated as a seizure of the debtor's assets for equitable distribution amongst creditors. It was akin to a taking in execution. The concept was subsequently broadened to embrace the discharge of the embarrassed debtor from antecedent debts and to make the process available at his instance as well as at that of his creditors. Claims not provable, since they did not participate in the avails of the bankrupt's assets, were not discharged but remained recoverable by action against the discharged bankrupt. The object of section 77B was to extend the system to permit and facilitate the reorganization of certain types of insolvent or embarrassed business corporations. The theory of the legislation is that the extension will serve the interests of the public, the creditors, and the shareholders.
+13
+14
+If the Bankruptcy Act was to be broadened to embrace reorganization of corporate debtors the wisdom of relieving them of continuing liability for rent or under contracts of indemnity was apparent. And if the landlords' claims were to be discharged in the reorganization they must be admitted to participation on an equitable basis with other claims in shaping the reorganization and in distribution of that which is to go to creditors pursuant to any plan adopted. The section therefore made such claims provable. Its legislative history attests the diverse views entertained in Congress as to the amount for which a claim should be allowed. Only after mature deliberation was the limit set at the amount fixed in the act. The reasonableness of the limitation is to be determined in the light of all circumstances Congress might properly consider.
+14
+15
+In City Bank Farmers Trust Company v. Irving Trust Company, decided this day, the peculiar and unfortunate status of landlords' claims under the Bank ruptcy Act of is described. The tenant's bankruptcy removed all his assets from the reach of the landlord and left, as the latter's only remedy, suits against an empty corporate shell or a destitute individual. In framing the reorganization statute Congress obviously attempted to award landlords an equitable share in the debtor's assets as, in justice, it was bound to do since the purpose was to discharge the debtor from liability to future suits based upon the lease. It is incorrect to say that Congress took away all remedy under the lease. On the contrary, it gave a new and more certain remedy for a limited amount, in lieu of an old remedy inefficient and uncertain in its result. This is certainly not the taking of the landlord's property without due process.
+15
+16
+But we are told that if Congress determined to admit landlords' claims to a share in debtors' assets it was bound by the Fifth Amendment not to be arbitrary in the allotment of such share or to discriminate between landlords and other creditors and between individual landlords. We cannot pronounce the limit set upon petitioners' claim arbitrary or unreasonable. It is well known that leases of business properties, particularly retail business properties, commonly run for long terms. The longer the term the greater the uncertainty as to the loss entailed by abrogation of the lease. Testimony as to present rental value partakes largely of the character of prophesy and, although that value is the cardinal factor in the measure of damages for which petitioners contend, it is obvious that, since the landlord is not bound to relet the premises for the unexpired term of the lease, that factor may have little real bearing upon the realities of the case. And, in any event, the possibility of the landlord's using the premises for his own purposes, their sale, their condemnation for public use, or their loss by foreclosure, renders an estimate of present rental value highly uncertain. Add to this the fact that bankruptcies multiply in hard times, and that estimates of rental value are made upon the basis of what a new tenant will pay in an era of economic depression, and the estimate becomes even more unreliable. Whatever courts, in the absence of a statutory formula, might feel compelled to adopt as the measure of damage in such a case, we cannot hold that Congress could not reasonably find that an award of the full difference between rental value and rent reserved for the remainder of the term smacks too much of speculation and that a uniform limit upon landlords' claims will, in the long run, be fair to them, to other creditors, and to the debtor.
+16
+17
+The petitioners insist that the amount to which the claim must be limited has no reasonable relation to the facts; that a sum equal to three times the annual rent can have no relation to the probable loss by the ending of the leasehold. But the rent reserved, broadly speaking, has some relationship to the value of the property and the value of a lease thereon. What the statute does, is to assure at least three full years' rent to a landlord whose possible loss may exceed that amount, evidently upon the theory that with such an allowance the landlord stands a reasonable chance of restoring himself to as good a position as if the lease had not been terminated.
+17
+18
+The petitioners say that by limiting their claim they are put upon a different basis from other creditors. A sufficient ground for the distinction is that petitioners get back their property. In other words, they have lost merely a bargain for the use of real estate whereas merchandise creditors, lenders, and others, recover in specie none of the property or money which passed from them to the debtor.
+18
+19
+Finally, it is said that the statute is whimsical and arbitrary in that the limit fixed upon landlords' claims necessarily represents a varying proportion of the actual loss of individual landlords and that this is discrimination of the most obvious sort. If, however, the statute does not deal unfairly with the petitioners it does not lie in their mouths to object because someone else perchance will receive a larger proportion of his ultimate loss as the same is ascertained years hence than will the petitioners. Congress, not unreasonably, felt that it was necessary, in the interest of expedition of proof and allowance of landlords' claims, which had never theretofore been permitted to share in a bankrupt debtor's assets, to fix a reasonable limit upon such claims. Naturally the smount fixed cannot bear the same relation to the ultimate loss or damage in every case. But it does not follow that, for this reason, all effort at uniformity of treatment of a peculiar class of claims, difficult of liquidation, is doomed to condemnation. All the arguments which petitioners submit would equally apply to any general and uniform formula for the limitation of such claims which the Congress might adopt. We are unable to say that that which Congress did select so discriminates between individual claimants to the detriment of the petitioners as to render it unconstitutional as to them.
+19
+20
+The judgment is affirmed.
+20
+21
+Affirmed.
+21
+22
+Mr. Justice BRANDEIS and Mr. Justice STONE took no part in the consideration or decision of this case.
+22
+
+1
+
+2
+
+3
+
+4
+
+5
+
+6
+
+1
+Kuhner v. Irving Trust Co.. 
+
+1
+
+ decided this day.
+
+2
+
+3
+Compare Manhattan Properties, Inc., v. Irving Trust Company. 
+
+3
+
+4
+See Hanover National Bank v. Moyses. 
+
+4
+
+5
+Kothe v. R. C. Taylor Trust. 
+
+5
+
+6
+Louisville Joint Stock Land Bank v. Radford, supra, at page .
+
+6
+
+
+{'295 U.S. 555', '291 U.S. 320', '186 U.S. 181', '280 U.S. 224', '299 U.S. 433', '11 U.S.C.A. § 207'}
+=======================================================
+
+299 U.S. 456
+SCHWARTZ et al.
+v.
+IRVING TRUST CO. et al.*
+Argued Dec. 16, 1936.
+1
+The provability of certain landlords' claims in proceedings under section 77B of the bankruptcy Act ( is here drawn in question. The petitioners were lessors of the debtor. Their leases were rejected in a bankruptcy proceeding pending when the reorganization section was adopted. All of the leases contained indemnity covenants similar to that considered in Kuehner v. Irving Trust Co., The variant in the present case is the contention that prior to initiation of the 77B proceeding, the petitioners bargained away any valid claims they had against the debtor and its assets.
+1
+2
+In August, 1932, when United Cigar Stores Company was adjudicated a voluntary bankrupt, there were in force about one thousand leases under which it held real estate. In some cases the trustee desired to retain the demised premises under a new lease for a shorter term, or at a lower rental, or both. In others where the company occupied and used but a part of the premises and sublet the balance, the trustee desired the abrogation of the lease as to that portion which United had sublet, and a new lease covering only the portion used by United. In certain instances where the company was lessee and sole occupant, or occupied a part and sublet a part, or had sublet the entire premises, the trustee wished to be rid of the leasehold.
+2
+3
+In order to deal with these varying situations the trustee presented appropriate forms of agreement to landlords, many of whom executed them. Ninety-four landlords who had re-entered the demised premises, pursuant to such agreements, during the pendency of the original bankruptcy, filed claims in the reorganization proceeding. From the District Court's disallowance of the claims all the claimants joined in a single appeal to the Circuit Court of Appeals. That court found that each of eighty-two claimants, in connection with the transfer of possession of the premises, or the modification of the existing leases, gave a general, unqualified release to the trustee, individually and as trustee, to the bankrupt and to the bankrupt estate, of all claims under the leases or in respect of rent. Three, so the court found, gave releases containing reservations which were not broad enough to preserve claims provable under section 77B.
+3
+4
+The court held that the releases executed by these eighty-five landlords were not procured by duress or misrepresentation, were for a valid consideration, and extinguished all claims the releasors might have had. As respects the remaining nine claims, the court divided, a majority holding the agreements the landlords executed, and what was done pursuant to the agreements, amounted to a surrender under state law and therefore deprived the claimants of the right to prove, and one judge holding that whether or not surrenders had occurred under state law the form of the agreements reserved claims against the debtor's assets in the reorganization proceeding.1
+4
+5
+All ninety-four claimants petitioned this court for review by certiorari. We granted the writ to the nine last mentioned.
+5
+6
+In each of the cases under consideration surrender and repossession of the premises was pursuant to an agreement between the claimant, as lessor, the respondent, as trustee, and the United Company. After describing the lease, reciting the state of the title thereunder, the bankruptcy proceeding, and the authority granted the trustee by the court to reject the lease, the contract contains these provisions: The trustee assigns to the lessor its right, title, and interest in and to the lease and any subleases; the bankrupt does the same, and also assigns its right to any rent accrued and to accrue under subleases; the trustee agrees to pay to the landlord any rents received from subtenants by it as receiver or trustee, less certain costs; the landlord assumes all existing and future obligations, terms, and conditions of and under the lease and any sublease which would be performable by the bankrupt or the trustee. By article fifth the landlord releases the trustee (individually and as receiver and trustee), the bankrupt estate, and the bankrupt from any and all liability of any nature with respect to the lease and the subleases and with respect to the premises, including all claims of the landlord in respect of rent or use or occupation. To each agreement a rider prepared by the trustee was attached at the insistence of the landlord. In most of the cases the rider was substantially in the following form: 'Nothing in this Article 5 shall be deemed a waiver by the Landlord of the right to prove against the Bankrupt Estate any provable claims to which the Bankruptcy Court may adjudge the Landlord is entitled, but this shall not be deemed to render any claim a provable claim which is not otherwise such or to relieve the Landlord from the necessity of proving and obtaining the allowance of any such claim or preclude the Trustee from contesting such proof or allowance.'
+6
+7
+In one the form was: 'It is, however, expressly understood and agreed that the said Landlord does not waive any right to prove against the Bankrupt Estate any provable claims to which the Bankruptcy Court may adjudge the Landlord is entitled, but this shall not be deemed to render any claim a provable claim which is not otherwise such or relieve the Landlord from the necessity of proving and obtaining the allowance of any such claim or preclude the Trustee from contesting such proof or allowance. All such provable claims shall not be affected by this agreement.'
+7
+8
+The special master to whom the matter was referred conceded that the riders were intended to preserve claims for future rent, but thought them effective to save only claims the provability of which resulted from a favorable court ruling and that claims rendered provable by subsequent legislation were not within the reservation. The District Court approved the master's report. A majority of the Circuit Court of Appeals held the agreements constituted surrenders, which, according to state law, terminated all rights of the landlords against the tenant, and no claim is provable under section 77B, unless it is a continuing and subsisting claim against the debtor, recognized by the substantive law of landlord and tenant, that is, by the applicable state law. The riders were construed to be qualifications of the Fifth article only, which was the general release. As there was, in this view of the agreements, no right or claim to be released, a reservation or restriction applicable only to the release amounted to nothing. The dissenting judge agreed that the contracts operated as surrenders but held that the riders were not limited in their operation to the release clause alone but were applicable to the entire contract and were intended and effective to reserve claims which might be found to be provable, despite surrender, either as the result of future judicial decision or future legislative action.
+8
+9
+1. We refused to grant certiorari in the case of the eighty-five claimants each of whom, for a consideration, bargained away all claims, present or prospective, against the bankrupt, the trustee and the estate. We agree with the court below that, under well settled principles, their releases preclude proof of claims for future rent or for indemnity.
+9
+ We have held in City Bank Farmers Trust Company v. Irving Trust Company, decided this day that surrender by the trustee, acceptance by the landlord, reentry, and the exercise of dominion over the demised premises by the latter after rejection of the lease, do not deprive him of a provable claim in proceedings under section 77B for injury due to rejection of his lease or upon the covenant of indemnity found in the lease. It follows that, except for the release, which was a part of each of the agreements, the petitioners would have provable claims.
+10
+ We do not agree, therefore, that if the earlier paragraphs of the agreements worked a surrender (which we do not decide) nothing was left upon which the final release clause could operate. An absolute release would have been a bar to claims for future rent or for indemnity.
+11
+ As we have seen, each of the releases was qualified by a rider which reserved 'the right to prove against the Bankrupt estate any provable claims to which the Bankruptcy Court may adjudge the landlord is entitled.' A majority of the court below thought that these riders applied only to the release clause. The dissenting judge thought that they purported to reserve all claims provable as a result of judicial decision or amendment of the statute which might otherwise be lost by the execution and performance of the agreements and that they were effective for that purpose notwithstanding the earlier paragraphs of the agreement amounted to a surrender under state law. We think this is the correct view of the meaning and effect of the reservations. The language in which they are couched is broad enough to include claims under section 77B. They reserve the right to prove against the bankrupt estate any provable claims to which the bankruptcy court may adjudge the landlord is entitled. The bankrupt estate, to which the reservations refer, consists of the property which formerly belonged to the bankrupt and, upon adjudication, came into the custody of the bankruptcy court. It still remains there. Claims for future rent are specifically made provable by section . The court having charge of the reorganization proceeding is a bankruptcy court. Section C.A. § provides: 'In addition to the jurisdiction exercised in voluntary and involuntary proceedings to adjudge persons bankrupt, courts of bankruptcy shall exercise original jurisdiction in proceedings for the relief of debtors, as provided in Section 77B of this Act (section of this chapter).' Proceedings in reorganization under section C.A. § are 'proceedings in bankruptcy.'2 They may be initiated in a pending bankruptcy proceeding by the express terms of subsection (p). The petitioners are creditors and their claims are provable by the express terms of the section; the estate against which the petitioners reserved all provable claims is the same estate which was within the jurisdiction of the bankruptcy court at the time the agreements were executed.
+12
+13
+The special master found, and it seems to be conceded, that the reservations were intended to preserve claims for future rent or for indemnity for loss of future rent. But the master held, and the majority of the Circuit Court of Appeals agreed, that their scope was restricted to claims provable as a result of judicial decision and did not extend to claims made provable by legislation. The language used does not so limit them. The most that can be said is that there was serious question whether such claims could be proved under the law as it stood when the agreements were executed. For whatever they were worth the petitioners desired the reservations so that they might possibly make good claims for injury done and loss incurred by the abrogation of their leases. If amendatory legislation was adopted the bankruptcy court might, pursuant thereto, adjudge them entitled to allowance of a claim. We think the operation of the saving clause cannot be limited by the fact that the claims are described as those to which the bankruptcy court may adjudge the petitioners entitled. That court's adjudication would necessarily follow and apply any amendment of the Act. We hold, therefore, that the reservation was broad enough to preserve the right to prove whatever claims were provable and allowable either by judicial decision or supplementary legislation. It follows that the petitioners' claims are provable.
+13
+14
+The decree below must be reversed and the cause remanded to the District Court for further proceedings in conformity to this opinion.
+14
+15
+Reversed.
+15
+16
+Mr. Justice BRANDEIS and Mr. Justice STONE took no part in the consideration or decision of this case.
+16
+
+*
+
+1
+
+2
+
+*
+Rehearing denied —-.
+
+*
+
+1
+In re United Cigar Stores of America (Joseph E. Otis Estate Land Trust, et al., Appellants) (C.C.A.) on rehearing .
+
+1
+
+2
+Meyer v. Kenmore Hotel Co.. 
+
+2
+
+
+{'300 U.S. 685', '11 U.S.C.A. § 206', '299 U.S. 433', '297 U.S. 160', '299 U.S. 445', '11 U.S.C.A. § 207'}
+=======================================================
+
+299 U.S. 464
+MEADOWS
+v.
+IRVING TRUST CO. et al.*
+Argued Dec. 15, 16, 1936.
+1
+The petitioner's claim, under section 77B of the Bankruptcy Act (, for injury due to the rejection of a lease by the respondent trustee, was denied by the District Court, and its action was affirmed by the Circuit Court of Appeals1 upon a ground similar to that upon which it based its decision in Schwartz v. Irving Trust Co.. 
+1
+the petitioner leased premises in Lincoln, Nebraska, to the United Company for ninety-nine years. The lessee agreed to pay an annual rent, taxes and insurance, and by July 1, 1942, to demolish the existing building and erect a new four-story structure. When in August, 1932, the United Company was adjudicated a voluntary bankrupt it was occupying a store on the demised premises and subletting the remaining space. The trustee obtained leave of court either to reject the lease or to assign it to the petitioner or her nominee. The petitioner elected to have it assigned to a nominee and this was done by agreement dated in December, 1932, in which the United Company joined. The petitioner made a new lease to her nominee for a shorter term and at a reduced rental and with no obligation for replacement of the existing building. The agreement between the landlord on the one hand, and the trustee and the bankrupt on the other, provided for the turning over to the landlord's assignee the subleases, the rents which had accrued or would accrue thereunder from the date of the adjudication, and the insurance. The petitioner agreed to assume all existing and future obligations of the United Company under the lease and released the trustee, the bankrupt, and the bankrupt estate, from all claims with respect to the lease except that petitioner did not waive 'the right to prove against the bankrupt estate any provable claims to which the bankruptcy court may adjudge the landlord is entitled.' In the bankruptcy proceeding the petitioner filed claims for taxes and cost of repairs, liability for which had accrued prior to the bankruptcy, for inliquidated damages resulting from loss of future rent and from anticipatory breach of the covenant to build in 1942. After the institution of a 77B proceeding by the United Company the petitioner refiled the same claims therein. The items for accrued taxes and cost of repairs are not in dispute. The trustee objected to the claim for loss of future rent and for anticipatory breach of the covenant to build in 1942. A special master recommended the allowance of the amount of the taxes and repairs and the disallowance of the balance of the claim. Upon appeal, a majority of the Circuit Court of Appeals held that although the trustee had decided to reject the lease and had filed a petition for leave so to do, or to assign, as the claimant had elected to have the lease assigned and had accepted surrender of the premises by requesting assignment to her nominee without reserving any rights under the lease against the debtor, there was no basis under section 77B for allowance of the claim. One judge concurred, holding that the qualification of the release left the way open for proof of any claim permitted by the lease itself and the provisions of 77B, but that no claim for future rent could be sustained because of a provision in the lease to the effect that, if default should occur, transfer of the lessee's interest in the demised premises together with all improvements thereon, all rents, issues, and profits accrued or to accrue, and all insurance policies upon the buildings and improvements, without compensation therefor to the lessee should constitute full satisfaction of the lessor's rights under the lease and the transfer thereof should not be considered as a penalty but as liquidating the damages suffered by the termination of the lease. We think that the decree of the Circuit Court of Appeals was right for the reasons stated in the concurring opinion.
+2
+3
+But for the clause stipulating that a transfer by the tenant to the landlord of the demised premises and other things mentioned should terminate the tenant's liability under the lease, the petitioner would have had a provable claim.2 The surrender of the premises by the trustee, the acceptance thereof, and the assignment of the lease to a new tenant nominated by the petitioner, whatever may have been their effect under state law, would not bar any claim which she had by force of section 77B for injury due to the trustee's rejection of the lease.3 The landlord's release would likewise have been ineffective to prevent the proving of a claim for injury due to the rejection since the reservation in it was broad enough to save any claim provable under the section.4 The petitioner would, therefore, have had a provable claim except for the terms of her own lease contract by which she had stipulated that, upon termination of the lease, the transfer of the demised premises and certain other things to her, all of which admittedly were transferred to her nominee upon the trustee's rejection of the lease, should be full satisfaction of any damage due to the lessee's default. We have held in Schwartz et al. v. Irving Trust Company, decided this day, that a landlord is bound by his release of the tenant and the trustee for a consideration moving to him, and it is immaterial whether such a release be executed after default or constitute a part of the lease contract. The decree is
+3
+4
+Affirmed.
+4
+5
+Mr. Justice BRANDEIS and Mr. Justice STONE took no part in the consideration or decision of this case.
+5
+
+*
+
+1
+
+2
+
+3
+
+4
+
+*
+Rehearing denied —-.
+
+*
+
+1
+In re United Cigar Stores Co. of America. 
+
+1
+
+2
+City Bank Farmers Trust Company v. Irving Trust Company, decided this day; Schwartz et al. v. Irving Trust Company, decided this day.
+
+2
+
+3
+City Bank Farmers Trust Company v. Irving Trust Company, supra.
+
+3
+
+4
+Schwartz et al. v. Irving Trust Company, supra.
+
+4
+
+
+{'299 U.S. 624', '299 U.S. 456', '299 U.S. 433', '11 U.S.C.A. § 207'}
+=======================================================
+
