@@ -24,7 +24,8 @@ body{
 
 .verseDiv {
 	display: grid;
-	grid-template-columns: 40% 60%;
+	grid-template-columns: 85% 15%;
+	margin-left: 4em;
 }
 
 .headerDiv {
@@ -36,7 +37,7 @@ body{
 .navDiv {
 	display: flex;
 	align-items: center;
-	justify-content: center;
+	justify-content: right;
 
 	background-color: #aec5df;
 	border-bottom-left-radius: 1ch;
@@ -55,15 +56,17 @@ nav a {
 	flex-direction: column;
 	align-items: left;
 	background-color: #aec5df;
-	width: 70%;
+	width: 85%;
 	border-radius: 2ch;
 }
 
 .sectionHeader {
 	margin-left: 2ch;
 	border-bottom: 1px solid black;
+	display: flex;
+	flex-direction: row;
 }
-.sectionHeader p {
+.sectionHeader p:nth-child(odd){
 	font-size: 1.5em;
 	margin: 0;
 	font-weight: bold;
@@ -71,8 +74,6 @@ nav a {
 }
 
 .cardsHolder {
-	border-radius: 2ch;
-	width: 85%;
 	margin-left: 2ch;
 }
 .caseLinkCard {
@@ -82,9 +83,8 @@ nav a {
 }
 .caseLinkContainer {
 	background-color: #d6e0ec;
-	border-radius: 1ch;
 	display: grid;
-	grid-template-columns: 35% 15% 25% 25%;
+	grid-template-columns: 35% 15% 15% 35%;
 	align-items: center;
 }
 .caseLinkContainer p {
@@ -94,4 +94,134 @@ nav a {
 .caseLinkContainer a {
 	margin-left: 1ch;
 	font-size: 1em;
+}
+.displayNone {
+	display: none;
+}
+.caseLinkButton{
+	background-color: #e7e7e7; 
+	color: black;
+	border: none;
+	padding: 15px 8px;
+	text-align: center;
+	text-decoration: none;
+	display: inline-block;
+	font-size: 24px;
+	border-radius: 15px;
+}
+.caseTextPreview{
+	font-size: 20px !important;
+}
+.caseText {
+	white-space: pre-wrap;
+}
+.optionsDiv {
+	display: flex;
+	flex-direction: column;
+	width: 50%;
+	margin: 2ch;
+	padding: 1.5ch;
+	border: 1px solid black;
+	gap: 1ch;
+
+}
+.labelInputDiv {
+	display: flex;
+	flex-direction: row;
+	justify-content: flex-start;
+	align-items: first baseline;
+	gap: 2ch;
+}
+.optionItem {
+	font-size: 1.25ch;
+	font-weight: bold;
+}
+#toggleDiv{
+	display: none;
+}
+
+input[type=text] {
+	width: 50%;
+	border: none;
+	border-bottom: 2px solid #868585;
+	outline: none;
+	background-color: transparent;
+	transition: 0.5s;
+	font-size: 1.15ch;
+	font-weight: 500;
+}
+input[type=text]:focus {
+	border-bottom: 2px solid black;
+}
+
+input[type=range] {
+	appearance: none;
+	width: 40%;
+	height: 1ch;
+	background: #868585; /* Grey background */
+	outline: none; /* Remove outline */
+	opacity: 0.7; /* Set transparency (for mouse-over effects on hover) */
+	transition: opacity .2s;
+}
+
+button {
+	appearance: none;
+	background-color: #d4cdcd;
+	border: 1px solid black;
+	border-radius: 5px;
+	width: 120px;
+	height: 30px;
+	font-weight: bold;
+	transition: background-color 0.6s;
+	transition: color 0.8s;
+}
+button:hover {
+	background-color: #2c2929;
+	color: white;
+	transition: background-color 0.6s;
+	transition: color 0.8s;
+}
+button:active {
+	color: rgb(51, 51, 201);
+	background-color: #d5e2f1;
+}
+
+.aroundCaseQuote {
+	color: transparent;
+    text-shadow: 0 0 5px rgba(0,0,0,0.5);
+}
+.caseQuote {
+	font-weight: bold;
+	text-align: justify;
+}
+.caseQuoteText {
+	font-style: italic;
+}
+.fadeInDiv {
+	opacity: 1;
+	animation-name: fadeInOpacity;
+	animation-iteration-count: 1;
+	animation-timing-function: ease-in;
+	animation-duration: 3s;
+}
+@keyframes fadeInOpacity {
+	0% {
+		opacity: 0;
+	}
+	100% {
+		opacity: 1;
+	}
+}
+.caseNameContainer{
+	font-style: italic;
+}
+.caseDateDecidedContainer{
+	font-weight: bold;
+}
+#caseNameAndDate{
+	display: flex;
+	flex-direction: row;
+	align-content: space-around;
+	gap: 100px;
+	justify-content: center;
 }

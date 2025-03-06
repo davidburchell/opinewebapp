@@ -4,7 +4,7 @@ mydb = mysql.connector.connect(
     host = "localhost",
     user = "root",
     password = "status6)Which",
-    database = "cases"
+    database = "supreme_court_cases"
 )
 
 mycursor = mydb.cursor()
@@ -12,8 +12,8 @@ mycursor = mydb.cursor()
 total_case_text_length = 0
 cases_submitted_to_db = 0
 
-for caseFileNumber in range(14, 20):
-    caseFileOn = str(caseFileNumber) + '-cleanedCourtCase.txt'
+for caseFileNumber in range(1, 20):
+    caseFileOn = '../courtcases/' + str(caseFileNumber) + '-cleanedCourtCase.txt'
     f = open(caseFileOn, "r")
 
     sectionOn = 0
@@ -37,12 +37,12 @@ for caseFileNumber in range(14, 20):
                     casePortion = caseText[:65000]
                     caseText = caseText[65000:]
 
-                    sql = "INSERT INTO supreme_court_cases (report_number, name, date_decided, case_text) VALUES (%s, %s, %s, %s)"
+                    sql = "INSERT INTO cases (report_number, name, date_decided, case_text) VALUES (%s, %s, %s, %s)"
                     val = (report_number, name, date_decided, casePortion)
                     mycursor.execute(sql, val)
                     mydb.commit()
             else:
-                sql = "INSERT INTO supreme_court_cases (report_number, name, date_decided, case_text) VALUES (%s, %s, %s, %s)"
+                sql = "INSERT INTO cases (report_number, name, date_decided, case_text) VALUES (%s, %s, %s, %s)"
                 val = (report_number, name, date_decided, caseText)
                 mycursor.execute(sql, val)
                 mydb.commit()

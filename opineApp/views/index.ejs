@@ -14,6 +14,7 @@
 	<script src="/javascripts/draw-canvas.js"></script>
 	<script src="https://ajax.googleapis.com/ajax/libs/jquery/3.7.1/jquery.min.js"></script>
 	<script src="/javascripts/jquery-functions.js"></script>
+	<script src="/javascripts/main.js"></script>
 	
   </head>
   <body>
@@ -23,11 +24,9 @@
 		<div></div>
 		<div class="navDiv">
 			<nav>
-				<a href="#">Cases</a>
-				<a href="#">Justices</a>
-				<a href="#">American Documents</a>
-				<a href="#">Out Of Context</a>
-				<a href="#">About</a>
+				<a href="http://localhost:3000">Cases</a>
+				<a href="#">Documents</a>
+				<a href="/outofcontext">Out Of Context</a>
 			</nav>
 		</div>
 	</div>
@@ -41,21 +40,21 @@
 			<p>cases to know</p>
 		</div>
 		<div class="cardsHolder">
-
-
+			<% let counter = 0; %>
 			<% inputCases.forEach(function(c) { %>
 
 				<div class="caseLinkCard">
-					<div class="caseLinkContainer">
+					<div class="caseLinkContainer" id="container<%=++counter%>">
 
-						<a href="<%=c.link%>"><%=c.name%></a>
-						<p><%=c.date_decided%></p>
-						<p><%=c.subject_matter%></p>
-						<p class="caseTextPreview"><%=(c.case_text).substring(0, 30)%></p>
+						<button class="caseLinkButton" id="button<%=counter%>"><%=c.name%></button>
+						<p class="caseDateDecided"><%=c.date_decided%></p>
+						<p class="caseSubjectMatter"><%=c.subject_matter%></p>
+						<p class="caseTextPreview"><%=(c.case_text).substring(0, 60)%>...</p>
+						<p class="displayNone"><%=(c.report_number)%></p>
+						<p class="displayNone"><%=(c.case_text)%></p>
 
 					</div>
 				</div>
-
 			<% }) %>
 		</div>
 	</div>

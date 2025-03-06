@@ -1,4 +1,4 @@
-CREATE TABLE supreme_court_cases
+CREATE TABLE cases
 (
   id INT unsigned NOT NULL AUTO_INCREMENT,
   report_number VARCHAR(150) NOT NULL,
